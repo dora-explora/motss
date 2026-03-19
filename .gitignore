@@ -1,2 +1,7 @@
-/target
 .wakatime-project
+
+# go-specific
+*.test
+go.work
+go.work.sum
+.env
