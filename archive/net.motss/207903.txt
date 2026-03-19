@@ -1,0 +1,92 @@
+A mod.est proposal: "mod.motss"
+sdyer@bbncca.ARPA (Steve Dyer)
+10/02/84
+Another possibility for the future of 'net.motss' is to form a "moderated"
+newsgroup, something which was suggested at the time of its formation, but
+never acted upon, perhaps because of its somewhat isolationist
+connotations.  For those new to the net, moderated newsgroups cannot be
+posted to directly; rather, articles must be sent in a mail message to a
+designated moderator, who then redistributes (or not) the article onto the
+net.  Such groups are named "mod.X", so our hypothetical newsgroup would be
+"mod.motss", a nicely alliterative name.
+
+Unlike the pretense of the net at large for such egalitarian goals as
+"free speech", the purpose of a moderated newsgroup is to filter out
+the irrelevant drek which is invariably attracted to certain newsgroups:
+witness the gradual (but effective) replacement of the unmoderated
+'net.general' by the moderated 'net.announce'.  In the case of net.motss,
+a group formed to foster intelligent discussion about gay issues, it has
+recently in the past three months been overrun by bible thumpers and
+purveyors of disinformation who are seemingly intent upon repeating
+themselves again and again without any pretense to reason.  
+
+The reaction of most readers of net.motss has been increasing impatience,
+where by now, articles of this kind now outnumber the serious.  I have
+received many letters describing overworked 'n' keys, and some people
+interested in gay issues have simply ceased reading (not to mention
+submitting) simply because of the bother of wading through such trash.
+This, of course, is the worst situation imaginable; we cannot allow
+the newsgroup to die or become ineffective due to the efforts of
+an unreasoned few.
+
+It is in this light that I recommend creating 'mod.motss', a newsgroup
+essentially identical to 'net.motss', but one in which the articles 
+are screened by a moderator, a benevolent dictator whose only role is
+to ensure that the posted article conforms with the purpose stated in
+the first submission to 'net.motss' (copies available on request.)
+Sure, this is a lot of "power" given to one person, but it is bestowed
+by consensus.  It is, in my personal view, much preferable to the
+anarchic situation we see here right now.
+
+Nor is this in any sense an abridgement of "free speech" (the ideal-- no
+one ever claimed that USENET had to be either "fair" or "free".) Those who
+would like to quote scripture or make incessant derogatory remarks about
+gay people may continue to do so IN ANOTHER NEWSGROUP.  They may take their
+pick: net.flame is perhaps the most suitable, though even the most hardened
+readers of that newsgroup may soon cry "enough!" and make a plea for
+"mod.flame" :-)
+
+I invite comments on this proposal.  Some people might view this action,
+if we agree to it, as a "defeat" of sorts, an outright admission that
+a newsgroup devoted to gay issues could not operate effectively within
+the heterogenious collection of discussion groups which comprise USENET.
+I would not agree.  First, only a few individuals are the problem here
+(some would claim that there is only one "problem" here, and his initials
+are Ken Arndt.)  Second, if anything, it would increase the level of
+discourse by ensuring that postings DO conform to the reasons for the
+group's existence.  I also do not think that the moderation should be
+unnecessarily restrictive: honest inquiries and discussions, such as
+Mark Terribile's of a few months ago, or the recent exegesis of
+Scripture as viewed by Boswell, are all well within the limits as I
+see them (the moderator may feel differently.)  I see this as primarily
+an expedient means to rid ourselves of "cranks", while improving
+upon the very successful past year of net.motss.
+
+One technical question remains: what is the distribution of mod.all
+within USENET these days, as compared to net.all?  I would hate to
+see the distribution of the list drop off dramatically.
+-- 
+/Steve Dyer
+{decvax,linus,ima,ihnp4}!bbncca!sdyer
+sdyer@bbncca.ARPA
+
+-----------------------------------------------------------------
+
+wmartin@brl-tgr.UUCP
+10/05/84
+This seems an excellent idea, but I propose one slight modification:
+"net.motss" continue to exist as is, but that any worthwhile item
+deemed by the moderator to be of value be extracted and included
+in "mod.motss". Thus, net.motss could include anything, unlimited
+and uncensored, while mod.motss would contain any direct submissions
+mailed to and cleared by the moderator, plus any items from net.motss
+that are worth including. Mod.motss thus has the best of both worlds.
+
+(Now, all you need is a moderator, and provide him tools to cleanly
+and simply do such transference across group boundaries -- he needs
+a "transfer" command to use as he reads net.motss, which will simply
+take the just-read existing posting, replace the "Newsgroups:" contents
+with "mod.motss", and copy it to his host's "mod.motss" directory.)
+
+-----------------------------------------------------------------
+

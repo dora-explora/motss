@@ -1,0 +1,575 @@
+Forwarded Message
+root@allegra.UUCP
+11/11/83
+Testing anonymous access server.  (OK "Lance".  You're back on the air!)
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP
+11/11/83
+	To: people with accounts on allegra
+
+Information on how to use the motss anonymous access server is stored
+in /usr/local/lib/anon/README
+
+	To: everyone else
+
+Providing anonymous access to net.motss is quite easy.  cron can run a
+small shell script every hour that looks in a [publically unreadable]
+spool directory.  Any files there are passed to inews and then
+deleted.
+
+In a public directory, we planted a setuid program that copies input to
+a unique file in /usr/spool/motss.  There are a number of links to this
+program with names like "a.out", "cat", "ls", "more" so that shell
+accounting cannot be used to trace access.
+
+The shell script referenced in crontab is something like:
+
+set -e
+cd /usr/spool/motss
+for i in *
+do
+	/usr/bin/inews -t forwarded message -n net.motss < $i
+	rm $i
+done
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP
+11/17/83
+Gays in the media; a pretty rare beast.  Of course, lots of actors and
+"teen idols" are gay.  (A friend of mine worked as a bartender in a gay
+disco in California, and could he tell you some stories!  However, I
+don't believe in naming names.)
+
+"That Certain Summer" is a pretty good book, but very different from
+the story on TV.  The father leaves his gay lover to get married, not
+the other way around.  Then his 17-year old son falls in love with his
+father's former lover.  I am not surprised they rewrote it for TV!
+
+"Brideshead Revisited" openly portrays the traditional homosexual love
+that was a common part of the upper class British schools.  The Anthony
+Blake character is a master of camp humor, something dying out today in
+the gay community.  Anthony Andrews plays the beautiful, but troubled
+Sebastian.
+
+Mary Renault has written a number of books which deal with male
+homosexual love.  "The Charioteer" takes place in WWI (II?) England.
+Most of her novels take place in ancient Greece.  "The Persian Boy" is
+the most famous, a true story about one of Alexander's lovers.
+
+The main Lesbian author of our time is Rita Mae Brown.  She wrote "Ruby
+Fruit Jungle" which is a must read for anyone interested in the female
+gay world.  I haven't noticed any messages on motss from Lesbians, and
+I don't expect to.  Those that I know would be as interested in what we
+have to say about Lesbianism as a pig is about Sunday.
+
+Movies?  When "Personal Best" was shown in Greenwich Village to a
+Lesbian audience, they applauded after the first love scene.  That kind
+of praise is VERY hard to come by.  I've given up on ever seeing a good
+movie about the male gay experience.
+
+				I just watch for Richard Gere,
+				"Lance"
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP
+11/17/83
+When should you come out?
+
+A friend of mine recently got a security clearance.  It was hell!  He
+told them he was gay, so someone from the government came and asked him
+a whole series of degrading questions ("do you have sex in public?",
+"are you dominant or passive?", etc.).  On the bright side though, his
+friends in the company and his boss were very supportive and shared his
+indignation on being asked these questions.
+
+I have never had problems, and all of my friends know who "Lance" is.
+Then again, all my friends are liberal scientists with Ph.D.'s.  You
+have to judge whether the people you are around are "cool".  I don't
+make a point of telling people I am gay, but if I am open, my close
+friends tend to find out (sometimes by accident, the technical term for
+which is "dropping your beads".)
+
+Then comes the problem of how to meet people when you are not "out".
+You can try wearing an earring, but I swear no one knows which ear it
+goes in.  ("Gee, I think it depends on what coast you are on.") If
+you're in Greenwich Village, try asking directions to "Uncle Charlie's"
+(I prefer "The Ninth Circle" personally.).  There are the standard
+lines too:
+
+You ask:	"Do you have the time?"
+Straight:	"Sure, it's five o'clock."
+Gay:		"Sure."
+
+So, are you all getting in touch or just reading netnews?  What are you
+waiting for, your 80th birthday!
+
+				An All American Boy,
+				"Lance"
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP
+11/21/83
+You can send mail to allegra!lance.  It goes into a public file on our
+system.  (Please don't send mail to allegra!root.  It is rarely looked
+at, and mainly used to exchange uucp info.  Thanks.)
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP
+12/14/83
+S/M is "politically incorrect" because it is considered to be the
+psychological basis of male domination of women in our society.  That
+is one of the more radical viewpoints, anyway.  In other words,
+Lesbians doing S/M are symbolically acting out what all [straight] men
+do to all women.
+
+In response to "Real Men Aren't Named Lance".  Well, what can I say?
+Lance is the name of a movie "actor" I like.  You can see him in the
+great cinema classic, "Good Times Coming".
+
+				A confirmed quiche eater,
+				"Lance"
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP (root)
+01/07/84
+Here is a letter I just sent to a close friend of mine.  Perhaps it will
+contain something of interest to some people on net.motss:
+
+
+  Dear Tom,
+
+  I am really concerned about you and Mark.  I think you are making a big
+  mistake if you leave Mark.  Here are my main points:
+
+  1. You are too much of a perfectionist.  You reject people for trivial
+  reasons when they have many good points.  Mark is loving, cute,
+  intelligent, and a neat housemate.  When we were talking, you were
+  never able to tell me anything convincingly bad about him.  If
+  anything, you got lucky!  Do you think you can find lots of people who
+  meet all your requirements?  I don't think so.
+
+  2. In some ways I think you are still a virgin.  Like many people who
+  don't start sex early in life, you are addicted to masterbation.  You
+  have never experienced sex "here and now" with someone.  Instead, you
+  climb into an inner fantasy world.  You are still masterbating instead
+  of making love!
+
+  3. Another indication of sexual immaturity is that you are so put off
+  by the smells and tastes and feelings of the human body.  This is a
+  sort of contempt for Humanity.  I know lots of straight people like
+  this.  They think oral sex is gross.  They think a guy's cock is ugly.
+  They suffer from a modern social disorder; thinking people should be
+  pristine like they were made of plastic and chrome!
+
+  4. Talk this over with Mark and see if you can't try to work out some
+  more therapeutic love making.  Stop worrying about your own orgasm so
+  much and just enjoy the feelings in your body.  Also, try concentrating
+  on each other's orgasms.  Get Mark's rocks off and just watch him and
+  enjoy his reactions while you're doing it.  Let him try to do the same
+  to you.  Don't worry about "getting results".  Just playing together is
+  better love making than some people accomplish.
+
+  5. You and Mark can have an open relationship, I am sure.  First
+  though, you must develop security and trust.  How can Mark trust you
+  when you openly talk about leaving him!  If you are too selfish, you
+  will wind up being the loser in the long run.  Friends and long-term
+  relationships are something few gays achieve, and they are often very
+  lonely because of that.
+----------------------------------------------------------------------
+
+					Your armchair sex therapist,
+					"Lance"
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP (root)
+01/11/84
+For what it's worth, I know two identical twins one of whom is gay and
+the other straight.  That must conflict with some silly theory.
+
+With regard to Will Doherty's article, I have a few words.  Motss has a
+very large readership, and for the most part I am sure it is made up of
+curious straights (Hi There!).  Most of these people know very little
+about the gay community except for the more outrageous (and outdated)
+stereotypes.  Therefore, I am glad to see the articles from Steve Dyer,
+Mike Simpson and "Felix".  They are doing a good job of expressing the
+feelings of the young gay mainstream.
+
+Will Doherty, and other members of NAMBLA do not represent the
+mainstream.  They are a fringe group that offends almost all other gay
+people.  I may sound very promiscuous in my articles, but I think
+anyone who seduces a child should go to prison.  NAMBLA has done and
+continues to do a great deal of harm to the gay liberation movement!
+
+				Sincerely,
+				"Lance"
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP (root)
+01/12/84
+Here is a letter I recently recieve from a gay friend back at school.
+I thought I would also share it with motss:
+
+----------------------
+
+  Life is kind of hysterical. Last night I was working late in the lab,
+  when out of the blue, this gay post-doc I ran around with one summer
+  walked in.  You could have knocked me over with a feather. We never had
+  sex, but he was very promiscuous. I always admired his zest for life,
+  and envied his youthful appearance. He had always kept a slight
+  distance from me, I always thought it was to keep me from getting
+  involved. We had been kind of stand-offish because he stood me up for
+  our last date and didn't even say goodby. He did the same thing to the
+  secretary, XXXXX.
+  
+  Well last night he explained why all that had happened. For years he
+  had hid from me the fact that he is dying from leukemia! All the
+  incidents which had hurt me, he now brought up of his own volition. He
+  told me tales of passing out in his office, of vomiting blood and
+  spending weekends in the hospital. Ironically, he was hurting far more
+  than me. His greatest fear was that his friends would find out. The
+  ravages of disease have not touched his face. The last time he was
+  here, he brought with him the most beautiful boy.  I came up to them
+  and flamboyantly said hello, to which the boy replied, "Oh, you MUST be
+  YYYYY." I never got to talk to this kid because they left mysteriously
+  very soon after that. I now have learned that he had had a sudden
+  remission. The boy is as much his nurse as his lover. He was too weak
+  to travel alone.
+  
+  So it is not often that our friends can redeem themselves in our
+  opinions, and emerge from the torment of pettiness we heap on them with
+  a really rare dignity. As the song goes, "I come away with a diffr'nt
+  point o' view." Now I know why he lives the way he does, because every
+  day was a little more precious to him.
+  
+  	Love,
+  	YYYYY
+
+-----------------------
+
+					"Lance"
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP (root)
+01/12/84
+Talking about the problems of going home, one of my closest friends
+from school likes to keep his hair dyed ash blond.  Before spending
+Christmas with his mother, he has to carefully dye it back to its
+natural color.
+
+					"Lance"
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP (root)
+01/17/84
+An objective response to NAMBLA:
+
+  A child can be severely crippled emotionally by a traumatic sexual
+  experience with a trusted adult.  The person may be traumatized at the
+  time, or later when they grow up and realize the implications of what
+  has happened.
+
+  Children need the love of an adult very much.  If that adult
+  introduces sex into the relationship, the child may go along.  The
+  child may even enjoy it, but it is not because the child wants the sex
+  in the same way as an adult.  Studies of incest victims follow that
+  pattern.  When the child grows up, they are terribly hurt by the
+  experience!
+
+  This is a abuse of the bond between a developing child and an adult.
+
+A very subjective response to NAMBLA:
+
+  It's people like this who give queers a bad name!
+
+						"Lance"
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP (root)
+01/28/84
+If you are gay and living in the Holmdel or Murray Hill or Short Hills
+areas, you are not alone!  A number of employees of AT&T Bell Labs have
+organized informal meetings for discussion, group activities, and just
+generally getting in touch.
+
+At Holmdel, about 15 people of all ages meet regularly for discussion
+and get together to see plays in NYC and such things.  A number of
+straight friends often participate in their activities as well.
+
+At Murray Hill, we are in the process of organizing.  There are four
+men and two women working on this and we have already gotten in touch
+with several more people.
+
+Don't let yourself feel isolated!  If you would like to join our group
+or if you would like to talk with someone you can trust, get in touch
+with us.  For information, contact Greg Howard at (201) 530-8330.
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP (root)
+02/03/84
+	Lesbians and Gays in Telecommunications (LeGIT) is hosting
+an AIDS lecture on Friday, February 24th.  The speaker will be from
+the NJ Department of Health, the Centers for Disease Control, or
+one of the NJ Hospitals active in treating people with AIDS.  There
+may also be representatives from Gay Mens Health Crisis and the New
+Jersey Lesbian and Gay Coalition to give small presentations.
+
+	Topics will include: A description of AIDS, what it is and
+isn't; Who it affects; Symptoms to watch for; Safer sex guidelines;
+The latest statistics; an update of any recent findings on transmission;
+and a Q & A session.
+
+	The lecture will be held in the Lincroft area. Anyone needing
+further information should contact:
+
+					Greg Howard
+					(201) 949-3837  work
+					(201) 530-8330  home
+					hopd3!gbh       UNIX mail
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP (root)
+02/12/84
+		A day in the life ...
+
+I got a very excited phone call from my friend Tom in California.  He
+and his lover, Mark, were strolling down the beach at Malibu and
+noticed a group of nice looking young men.  As they walked by, they
+noticed one guy sitting on another guy's lap.  One in white trunks
+called out to Tom (an obscene but friendly remark).
+
+"Hey, they're gay!" said Tom.
+
+"Yeah, and the guy in the white trunks is Lance!" said Mark.
+
+[Note:  Lance is a young blond porno star.]
+
+Tom didn't believe it, so they walked on.  Later, the group of guys
+walked by them, and Tom saw the famous panther-head tattoo on Lance's
+arm.  He called out "Hey, you're Lance!", and they all wound up talking
+for a while.  (The white trunks were actually Calvin Klein underwear!)
+One guy gave Tom his business card (he sold Roll Royces in San
+Francisco), and Lance wrote Tom's phone number on the back of his
+hand.
+
+				"Lance", but not Lance
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP (root)
+02/12/84
+People have been talking a lot about coming out.  Coming out to
+everyone is a big step, but what is disapointing is that many gays
+cannot come out to other gays.  Specifically, I am thinking of the gay
+talk group at the place where I work.  It is doing well, but the number
+of people in it is clearly a very tiny fraction of the gay population
+at our lab (thousands of people work here!).
+
+I know one case of a guy who met another member of his department at a
+gay bar.  The other fellow was very upset and started avoiding the
+first guy completely.  I guess I was like that as an undergraduate.  I
+had the chance to attend gay-student meetings but chose instead to just
+feel miserable (even thought my roommate and I were lovers).
+
+Here is my advice to isolated gay people:
+
+1. Check out counceling services at work.  I know at AT&T Bell Labs,
+they are very good at helping gay people and will also get you in touch
+with gay therapists or with the gay talk group if you want to.  Of
+course, they are highly discrete.
+
+2. Get in touch with the talk groups, if there are any.  They are also
+quite discrete.  It really helps a lot to know other people; to
+recognize a few faces in the hallways.
+
+Of course, the first step is to face the fact that you are gay.  If you
+choose to see a counceller, they will let you take that step very
+slowly.
+
+					"Lance"
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP (Allegra Staff)
+08/04/84
+OK, enough politics.  Let's talk about beauty and the Olympics.  In
+addition to the fellows Ron Rizzo mentions, keep your eye on Greg
+Louganis (US diver) and Steve Lundquist (swimmer).  Greg has gotten a
+lot of attention in the gay press.  Lundquist has been doing a lot of
+modeling, photographed by none other than Bruce Weber (the reason GQ
+magazine used to be so great).
+
+Also, on the Brazilian team, check out Tom Hintnaus.  He was the model
+for the amazing Calvin Klein undershorts add, the one with Tom in his
+shorts leaning against some sort of white pillar.  This was also
+photographed by Bruce Weber.
+
+There is a book out of Bruce Weber's photos.  Very nice.  It has an
+entire section on the famous model, Jeff Aquilon, some of which are
+distinctly erotic.
+
+Straying even further from the topic, I assume you have noticed Scott
+Madsen, the fellow in the Soloflex adds.  Soloflex publishes a
+beautiful booklet about their machine featuring Scott in all sorts of
+positions.  You can also buy full-sized posters of him from PERSONAL
+EXPRESS, in Fair Oaks CA.
+
+Well, maybe next time I'll say something deep and intellectual.
+
+				Aufwiederschreiben,
+				"Lance"
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP (Allegra Staff)
+08/05/84
+I agree with Tannenbaum: Ken Arndt is a very naughty boy, but finking
+on him is not cool.  Let's face it, there are a lot of naughty boys on
+net.motss!
+
+So what is all this BS about "invert" versus "pervert".  I don't care
+if being gay is learned or inborn.  I don't care if 75 percent of the
+population never does it.  I don't care if the Bible says it is bad.  I
+don't even care if Ken Arndt says it is bad.
+
+If two motss want to have sex, who are they hurting?  And if they do
+hurt each other, isn't straight sex just as "dangerous"?  And what
+business is it of anyone else's?  If you want to peek through keyholes,
+why don't you get angry at the child molesters and wife beaters.
+
+				Hell hath no fury like...
+				"Lance"
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP (Allegra Staff)
+08/06/84
+Well, I guess this means we won't hear the rest of Arndt's Navy
+stories.  Too bad.  Too bad that so many people unraveled at the seams
+when he posted trivial arguments against homosexuality.  Why the
+insecurity?
+
+First of all, considering how widely read net.motss is, there are very
+few creeps.  So, don't waste energy stewing over hate mail like
+Plunkett's latest.  If someone farts in public, do you think about the
+bad smell for days and days?
+
+What do people mean when they say that homosexuality is unnatural?  Do
+they mean it is a recent fad like Punk Rock?  No, it is as old as
+mankind.  Do they mean it has always been detested?  No, some societies
+were quite casual about it.  I think what they really mean is "I don't
+want anyone to be that different from me."
+
+Are people homosexual just because they want to be?  I have rarely met
+anyone who claimed such.  The first time I fell in love, it was with
+another boy.  I didn't decide to do that for kicks.  It tore me apart
+inside, just like it does when a boy falls in love with a girl.
+
+So, why shouldn't I love another guy?  Why isn't it my right?  Because
+it offends people who will never see us make love?  It is really
+frightening to see how meaningless the word Freedom is to some people.
+If there is one single answer to all the objections I have seen on
+net.motss it is, MIND YOUR OWN DAMN BUSINESS!
+
+			Keep him away from water,
+			Keep him out of the light,
+			And never, never feed him after midnight,
+
+			"Lance"
+
+-----------------------------------------------------------------
+
+sdyer@bbncca.ARPA (Steve Dyer)
+08/17/84
+	I would be interested in discussing and sharing, over personal mail,
+the issues involved in being gay and jew--the related problems, conflicts,
+experiences, solutions; the inner struggles as well as those with the exterior
+world.  More generally, those arising from belonging to several (incompatible?)
+worlds:  gay; religious (jewish or other); in my case--also European; of
+integrating them internally, rather than rejecting or repressing any one of
+them; of coming to terms with an alien (and hence often alienating) environment.
+
+	I am primarily looking for people for whom these are *personal* issues
+in any way, rather than for `outsiders' willing to provide theoretical, however
+well-meant, advice or criticism.  I am not interested either, at this point, in
+political and militant polemics.
+
+	If you are willing to communicate, please send mail to Steve Dyer, who
+has very kindly agreed to forward it to me.  I shall reply to you directly.
+-- 
+/Steve Dyer
+{decvax,linus,ima}!bbncca!sdyer
+sdyer@bbncca.ARPA
+
+-----------------------------------------------------------------
+
+root@allegra.UUCP (Allegra Staff)
+08/18/84
+I have the vague impression that an earring in the right ear means gay,
+and in the left ear means straight.  Then again, I have gay friends who
+wear earrings in their left ear.  "Gee, I think it depends on which
+coast you are on", say some.  Matt Dillon's left ear is pierced, Rick
+Springfield's (sigh) right ear is pierced.  Does that mean one of them
+has to be gay, or is "Teen Beat" just slide-flopping some of their
+photos?
+
+This is a symptom of a general problem.  Every time we think of a code
+signal, rock stars start doing it, and then the teenage boys start
+doing it and before you know it, guys are getting propositioned on
+their High-School field trips to Greenwich Village!  How can we stop
+these straight guys from copying our superior fashion sense?
+
+Come on you computer scientists!  What is the algorithm for telling
+someone you are gay in a way that only another gay can recognize?
+Dropping hairpins is only a heuristic.
+
+			The "gay philosophers" problem is NP complete,
+			"Lance"
+
+-----------------------------------------------------------------
+
+rjd@linus.UUCP (Robert DeBenedictis)
+04/08/85
+The following message is being fowarded anonymously.
+If feasible, address reponses to the net.  I will, though,
+foward mail to the original author if it is sent to me.
+
+
+---------------------------------------------------------------------------
+
+A friend of mine has left home to go to university. he is living in a house
+with two women who, over the course of the school year have discovered that
+they are a) lesbians and b) in love with each other. My friend is not really
+comfortable with the thought of living with 2 heterosexual lovers, but, to
+his dismay, he has found that in addition to this discomfort he is not
+comfortable with the fact that they are Gay.
+
+He has never had to deal with this before. He is ashamed that he is
+uncomfortable, but he is uncomfortable all the same. He phoned me up long
+distance to see if I could shed any light on the problem. Unfortunately,
+I can't - it is like a fear of cats -- I understand the the fear and
+discomfort are real for him, but since I have never felt it, I don't
+know how one would get rid of it.
+
+Any suggestions? *Cheap* suggestions -- undergrads don't make much money.
+
+---------------------------------------------------------------------------
+
+Posted By:
+Robert DeBenedictis
+
+-----------------------------------------------------------------
+

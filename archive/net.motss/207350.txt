@@ -1,0 +1,15 @@
+Happy 2nd birthday
+sdyer@bbncc5.UUCP (Steve Dyer)
+11/02/85
+Just for the record, net.motss recently passed its second birthday,
+having been created in late October 1983.  It's worth noting that
+the predicted end-of-civilization-as-the-net-knows-it never did arrive,
+or for those of you who would disagree, it never arrived as a result
+of the formation of net.motss!
+-- 
+/Steve Dyer
+{harvard,seismo}!bbnccv!bbncc5!sdyer
+sdyer@bbncc5.ARPA
+
+-----------------------------------------------------------------
+

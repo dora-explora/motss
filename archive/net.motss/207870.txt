@@ -1,0 +1,53 @@
+"Selections" vs. "Moderated" newsgroups -- a proposal
+booth@ucla-cs.UUCP
+10/20/84
+	Definition: A "Selections" Newsgroup
+	------------------------------------
+
+1.  A "Selections" newsgroup contains messages selected from another
+newsgroup.
+
+2.  Every message in a "selections" newsgroup also appears in another
+corresponding newsgroup, for example the newsgroup "sel.singles"
+could be selections from the newsgroup "net.singles".
+
+3.  Selections are made and posted only by a "privileged" individual or
+committee, at their discretion (in a manner similar to moderated
+newsgroups).
+
+	Posting to a "Selections Newsgroup"
+	-----------------------------------
+
+4.  Messages intended for a "selections newsgroup" are sent to
+the corresponging uncontrolled newsgroup, e.g. messages intended for
+"sel.singles" should be sent to "net.singles".  The designated
+"privileged" individual or committee will copy messages deemed of
+general interest to the corresponding "selections" newsgroup.
+
+5.  Messages which are sent directly to the "selections" newsgroup
+instead of the corresponding uncontrolled newsgroup are
+automatically routed to the corresponding uncontrolled newsgroup, for
+possible selection by the designated "privileged" individual or
+committee.
+
+	Multiple "Selections Newsgroups"
+	--------------------------------
+
+6.  People unhappy with the designated "privileged" individual or
+committee's selections may start a new "selections" newsgroup
+corresponding to the same uncontrolled newsgroup.  That is, more than one
+"selections" newsgroup can correspond to a single uncontrolled
+newsgroup.
+
+		====================
+
+I propose adopting "selections" newsgroups instead of "moderated"
+newsgroups, and that current "moderated" newsgroups also institute these
+policies.  This avoids censorship while dealing with irrelevant/offensive
+messages.
+
+Follow-up only in net.news.group, please.  -- David Booth
+{sdcrdcf,ihnp4,trwspp,ucbvax}!ucla-cs!booth    booth@ucla-locus.ARPA
+
+-----------------------------------------------------------------
+

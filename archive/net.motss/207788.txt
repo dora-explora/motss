@@ -1,0 +1,132 @@
+abetting discrimination
+jdh@hou5g.UUCP (Julia Harper)
+11/19/84
+to Ross: 
+
+I suspect there are a lot of people (like you) for whom sexual 
+preference, as well as race, color, creed, etc. are not an issue.  
+They are willing to hire, or recommend such people for a job.  But 
+people like you have no recourse but to get rid of a homosexual if you 
+told to by a client or superior.  Currently, your client -- or your boss
+-- or whoever -- can legally tell you to fire or not hire someone because 
+they are gay.  If they didn't want a black there, they'd probably have
+to think up another reason, and who knows, they might end up deciding it's
+easier just to sit out the 3 months. 
+
+One of the points of legislation against blantant discrimination is
+that, hopefully, people will be LESS LIKELY to throw their discriminatory
+views in your face, and force you to discriminate in turn.  They will 
+have to be more subtle.   Fewer people will act on their prejudices  
+if they feel it has been dubbed illegal.  (This is the hope...)
+
+We all know that blacks, women, etc... are discriminated against despite
+the legislation that has been passed (well, we don't ALL know, but most
+of us do).  But legislation helps deter discrimination.  It helps
+dampen the spread of blatant outright discrimination.  I hope you are
+for civil rights legislation for gays.  It may even help you with the 
+placement of your programmer!  
+
+-----------------------------------------------------------------
+
+greenber@acf4.UUCP
+11/23/84
+<>
+
+Couldn't have said better myself (I know...I tried :=)).
+
+
+
+Ross M. Greenberg  @ NYU   ---->  allegra!cmcl2!acf4!greenber  <----
+
+-----------------------------------------------------------------
+
+rrizzo@bbncca.ARPA (Ron Rizzo)
+11/26/84
+(message was not found)
+
+-----------------------------------------------------------------
+
+greenber@acf4.UUCP
+11/27/84
+(message was not found)
+
+-----------------------------------------------------------------
+
+rrizzo@bbncca.ARPA (Ron Rizzo)
+11/30/84
+<followup to Ross Greenberg>
+
+1. My question about contract clauses was in response to Julia Harper's
+   GENERAL claim (ie, that contracts typically allow) clients to refuse
+   to use/hire contractor employees on any grounds.  Quoting only one
+   contract with no evidence presented that it's typical in the relevant
+   respect is hardly an answer to my question.  Ross' sarcasm is point-
+   less & unnecessary.
+
+2. Ross' quoting of his (?) contract is embarassing for the case he's
+   trying to make, & it undercuts his tone of certainty.  The clause
+   he quotes concerns "work times, work rules, & work standards"; these
+   are the only grounds on which the client can refuse to use/hire people,
+   although the client acting on such grounds can do so unilaterally
+   ("in the sole opinion of client").  Two points can be made against
+   "the client can do anything he wants" presumption:
+
+	a. The times, rules & standards are those that apply to "work".
+	   This qualification allows the distinction to be made between
+	   appropriate & inappropriate (unrelated to work) criteria. 
+	   Even if you narrowly construe work times/rules/standards as
+	   literally those in the client's personnel handbook, whatever
+	   they are, this brings up the second point:
+
+	b. Under at least Massachusetts corporation law, the provisions
+	   of a firm's personnel handbook have the force of corporate
+	   rules & regulations, or corporate law.  It's clear that such
+	   rules & regulations cannot conflict with existing laws and
+	   remain valid (eg, laws against age & race discirmination).
+	   Not to mention the obvious point that an incorporated firm
+	   would seek to keep out of its personnel handbook when drawing
+	   it up or revising it any provision that actually (or nearly
+	   or possibly?) conflicted with existing (or likely future?)
+           state & federal laws.
+
+	   Let's consider gay people: do they lack legal recourse or
+	   protection at all from job discrimination short of enacting
+	   gay rights legislation?  There are laws & gov't agencies in
+	   Massachusetts (Dept. of Employment Security & others) that
+	   prevent, discourage or move against frivolous, invidious,
+	   or irrelevant criteria being used in matters of hiring,
+	   firing, benefits, job review, etc.  (I'd have to read the
+	   statutes to give any more detailed information on this.)
+	   My employer BBN includes antidiscrimination clauses in its
+	   personnel handbook that explicitly mention only those groups
+	   protected under existing lawsd (ie, not gays).  Yet BBN
+	   officially construes their clauses to include gays and to
+	   prohibit INVIDIOUS discrimination of any kind: they sent
+	   out a company-wide memo to that effect months ago.  Further
+	   indication that existing does prohibit anti-gay discrimina-
+	   tion at least in some circumstances is a recent court rul-
+	   ing in Maasachusetts (Steve Dyer, can you provide details?).
+
+I don't know what local conditions & laws are where Ross works, but
+he does not have the watertight case he thinks.
+
+This debate is really getting tedious while not being particularly
+productive.
+
+					Yawn........!
+					Ron Rizzo
+
+-----------------------------------------------------------------
+
+sdyer@bbncca.ARPA (Steve Dyer)
+12/01/84
+(message was not found)
+
+-----------------------------------------------------------------
+
+greenber@acf4.UUCP
+12/02/84
+(message was not found)
+
+-----------------------------------------------------------------
+

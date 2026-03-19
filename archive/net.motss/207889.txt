@@ -1,0 +1,80 @@
+1st posting to mod.motss
+sdyer@bbncca.ARPA (Steve Dyer)
+10/10/84
+What is mod.motss?
+
+Mod.motss is a forum for the discussion of gay-related issues of interest
+to all members of USENET.  It is designed to foster discussion on a wide
+variety of topics, such as health problems, parenting, relationships,
+clearances, job security and many others.  Mod.motss is here for both
+gay and straight people, men and women.
+
+Mod.motss is emphatically NOT a newsgroup for the discussion of whether
+homosexuality is good or bad, natural or unnatural.  Not is it a place
+where conduct unsuitable for the net will be allowed or condoned.
+These groundrules will be enforced by the moderator.
+--------
+What is the format of mod.motss?
+
+The same as net.motss.  Articles sent to the moderator will be
+posted individually onto the newsgroup.  I am not planning to use
+a "digest" format, though this could change if the situation
+warranted it, and the readers of the group desired it.
+
+I am not planning to regularly forward items found in net.motss
+onto mod.motss.  See my comments below about the eventual fate of
+both groups.
+--------
+How does it differ from net.motss?
+
+Net.motss was formed with the same goals as stated above.  Mod.motss
+serves only one purpose--to remove a number of disruptive topics from
+the discussion which have been appearing all too frequently lately.
+These are: "homosexuality: good/bad" and variants on this such as
+the "hellfire/abomination" school of moral theology.  We skirt these
+for really only one reason: there is little room for discussion between
+the factions, and interchanges rapidly degenerate into mutual flaming.
+
+Gratuitous flaming will not be tolerated in this news group.  The
+"rules for posting to USENET" will be taken seriously.  Other than
+occasionally removing duplicate answers to an earlier question, I do not
+expect any further role for the moderator--he is not a censor.
+
+Right now, both net.motss and mod.motss co-exist.  This does not
+mean that the kind of anti-social behavior seen in net.motss suddenly
+becomes legitimate.  Rather, this is an opportunity for those people
+bothered by the recent spate of annoying postings in net.motss to
+continue following the newsgroup as it was originally intended.
+The actual fate of net.motss (and indeed mod.motss) will be decided
+over the next few months, as we observe the activity in both groups.
+-----
+How do I post a message to mod.motss?
+
+Because mod.motss is a moderated newsgroup, you have to send a mail
+message containing your news article to the moderator, who will then
+post it onto the net, or if it is deemed inappropriate, return it to you.
+
+For now, the moderator is Steve Dyer, bbncca!sdyer.
+
+Articles intended for mod.motss should be posted, preferably, to
+'bbncca!motss' though articles sent to 'bbncca!sdyer' will be posted also.
+If posted to 'bbncca!sdyer' you should label your message as a submission
+to mod.motss.  ALL messages sent to 'bbncca!motss' are presumed to be news
+articles.  Though I do not favor the practice, if you wish an article
+to be posted anonymously, that is, stripped of a signature and path
+information, say so at the beginning of the message.  It should be
+emphasized that the moderator takes no responsibility for failing to
+post an article anonymously.  I try to be careful, but accidents CAN
+happen.  If it matters that much, better not to post.
+
+Host bbncca talks directly to the following hosts as of 10/9/84:
+wjh12, wivax, decvax, ima, ihnp4, masscomp and sunybcs.  This is
+fairly good connectivity, so you should be able to reach the
+moderator easily.
+-- 
+/Steve Dyer
+{decvax,linus,ima,ihnp4}!bbncca!sdyer
+sdyer@bbncca.ARPA
+
+-----------------------------------------------------------------
+

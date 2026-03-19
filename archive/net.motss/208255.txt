@@ -1,0 +1,204 @@
+how many out there?
+notes@ucbcad.UUCP
+10/12/83
+#N:ucbesvax:32500001:000:414
+ucbesvax!turner    Oct 11 18:40:00 1983
+
+	I'd like to open a line of discussion.  Just what proportion of
+of people out there (in netland) are gay or lesbian?  As a somewhat
+male-dominated (still!) profession, programming might be expected to
+have at least the percentages found for the male population at large
+(Kinsey says ~10%, I think.)  I have some reason to expect that is
+is higher, however.  Any clues?
+---
+Michael Turner (ucbvax!ucbesvax.turner)
+
+-----------------------------------------------------------------
+
+msimpson@bbncca.ARPA (Mike Simpson)
+10/13/83
+        Perhaps I am biased by my environment (living and working
+in the Greater Boston area), but it seems like more than 10% of
+the male population here is gay.  I can only speculate on the
+lesbian proportion.  (This is partly based on an estimation of
+Harvard's gay population as ~15%.) Those proportions seem to
+apply to programmers as well. 
+
+	Comments are welcomed.
+
+		        -- cheers,
+			   Mike Simpson
+			   Bolt Beranek and Newman Inc.
+			   Ten Moulton Street,
+				   Cambridge, MA 02238 (USnail)
+			   msimpson@bbn-unix (ARPA)
+			   decvax!bbncca!msimpson (UUCP)
+			   msimpson.bbn-unix@udel-relay (CSNET)
+			   617-497-2819 (Ma Bell)
+
+-----------------------------------------------------------------
+
+sdyer@bbncca.ARPA (Steve Dyer)
+10/14/83
+Far more interesting to me, is the "some reason" why you expect
+the programming profession to have a higher percentage of gays than
+in the general population.  Fascinating.
+
+Here's a tidbit.  I know many gay people who are programmers, but I've
+worked with very few whom I've known to be gay.  Perhaps that just reflects
+the general conservatism of the engineering professions, which squeezes
+people into plastic-pocket-protector molds without any remarkable
+characteristics.  Or perhaps the "engineering personality", if there be
+such a thing, isn't too comfortable with being conspicuous.  Or maybe
+I'm completely off base.
+
+/Steve Dyer
+decvax!genrad!wjh12!bbncca!sdyer
+
+-----------------------------------------------------------------
+
+wdoherty@bbncca.ARPA (Will Doherty)
+01/06/84
+This is my first submission (har) to motts.  I've been trying
+to find it for quite some time.  I want to state that I am gay
+so that someone at least will show that they are proud (at least
+unashamed of their sexuality) and not afraid of reprisal.  I
+consider this fear to be paranoid, although probably appropriate
+for some people.  I find that I could not possibly work with people
+who are homophobic, nor consider them to be close friends.  Frankly,
+such people are ignorant, just as are racist and sexist folks.  In 
+this particular use, I mean people who are intentionally racist, sexist,
+or homophobic, not those who are unintentionally so.  But even for
+those people, I do not believe that the oppressed have an obligation
+to educate the oppressor.  A vested interest to do so perhaps.
+
+I wish to comment on the use of the term "sexual preference."  I much prefer
+(har) "sexual orientation" because it does not explicitly require one's
+sexuality to be a choice.  As I will flame about later, I am not sure how
+much of a person's sexuality is chosen and how much is predetermined (excuse
+the passive (har) voice).
+
+I am disturbed by the concurrent comments that lesbians are not participating
+in motss with the sexist references displayed by so many of the commentators.
+If you want lesbians to participate, create an atmosphere, along with them,
+in which they (and you) will feel comfortable.
+
+Sometime I will flame about the kin selection theory of homosexuality.
+I'm writing a paper on it now for my Scientific Essay class at MIT.
+
+Also, by the way, I'm a member of NAMBLA and I'm really angry at the
+person who described me as a bane to the homosexual movement.  I think
+you're both arrogant and wrong.  But then, let's not get emotional about
+this.  I will gladly debate the position on completely rational turf.
+
+I also believe that lesbians have a right to "separate space" in a 
+patriarchal world, i.e. a world dominated by men.  Thus, I would support
+lesbians who chose to have a separate net.lesbians if they felt that
+some of the comments on motss reject basic principles of justice and
+display arrogant sexism.  Likewise, I support the concept of a women
+only discussion group.
+
+I just helped to write a resolution on Youth Liberation which the most
+recent conference of the North American Man/Boy (should include all
+genders in my opinion) Love Association passed unanimously at their
+last conference here in Boston.  I am writing a "Speaking Out" about
+it for Gay Community News (GCN).
+
+I am working at MIT to keep the ROTC programs, armed force and intelligence
+agency recruiters from discriminating on the basis of sexual orientation,
+with the justification that MIT policy prohibits such discrimination--
+it took us more than a decade to acheive that policy statement.
+
+I am the General Coordinator of Gays at MIT and I am one of the originators
+of what I shall call the Nationwide Lesbian and Gay Academic Network (NLGAN).
+
+I am a public draft resister and war tax resister.
+
+But enough about myself--I hope this will stimulate some discussion.
+
+I'm getting tired, though I'd like to flame on about Lesbian S/M, the
+great gay plays that have been coming out (har), a variety of equally
+fascinating topics (yawn).  Flame away!
+
+Will Doherty
+USE: wdoherty!decvax!bbncca
+ARPA: wdoherty@bbng
+TINKLEBELL: 617-262-3485
+
+-----------------------------------------------------------------
+
+crane@fortune.UUCP
+01/10/84
+#R:bbncca:-44500:fortune:33700002:000:3415
+fortune!crane    Jan  9 13:08:00 1984
+
+***** fortune:net.motss / bbncca!wdoherty /  1:40 am  Jan  6, 1984
+This is my first submission (har) to motts.  I've been trying
+to find it for quite some time.  I want to state that I am gay
+so that someone at least will show that they are proud (at least
+unashamed of their sexuality) and not afraid of reprisal.  I
+consider this fear to be paranoid, although probably appropriate
+for some people.  I find that I could not possibly work with people
+who are homophobic, nor consider them to be close friends.  Frankly,
+such people are ignorant, just as are racist and sexist folks.  In 
+this particular use, I mean people who are intentionally racist, sexist,
+or homophobic, not those who are unintentionally so.  But even for
+those people, I do not believe that the oppressed have an obligation
+to educate the oppressor.  A vested interest to do so perhaps.
+
+I wish to comment on the use of the term "sexual preference."  I much prefer
+(har) "sexual orientation" because it does not explicitly require one's
+sexuality to be a choice.  As I will flame about later, I am not sure how
+much of a person's sexuality is chosen and how much is predetermined (excuse
+the passive (har) voice).
+
+I am disturbed by the concurrent comments that lesbians are not participating
+in motss with the sexist references displayed by so many of the commentators.
+If you want lesbians to participate, create an atmosphere, along with them,
+in which they (and you) will feel comfortable.
+
+Sometime I will flame about the kin selection theory of homosexuality.
+I'm writing a paper on it now for my Scientific Essay class at MIT.
+
+Also, by the way, I'm a member of NAMBLA and I'm really angry at the
+person who described me as a bane to the homosexual movement.  I think
+you're both arrogant and wrong.  But then, let's not get emotional about
+this.  I will gladly debate the position on completely rational turf.
+
+I also believe that lesbians have a right to "separate space" in a 
+patriarchal world, i.e. a world dominated by men.  Thus, I would support
+lesbians who chose to have a separate net.lesbians if they felt that
+some of the comments on motss reject basic principles of justice and
+display arrogant sexism.  Likewise, I support the concept of a women
+only discussion group.
+
+I just helped to write a resolution on Youth Liberation which the most
+recent conference of the North American Man/Boy (should include all
+genders in my opinion) Love Association passed unanimously at their
+last conference here in Boston.  I am writing a "Speaking Out" about
+it for Gay Community News (GCN).
+
+I am working at MIT to keep the ROTC programs, armed force and intelligence
+agency recruiters from discriminating on the basis of sexual orientation,
+with the justification that MIT policy prohibits such discrimination--
+it took us more than a decade to acheive that policy statement.
+
+I am the General Coordinator of Gays at MIT and I am one of the originators
+of what I shall call the Nationwide Lesbian and Gay Academic Network (NLGAN).
+
+I am a public draft resister and war tax resister.
+
+But enough about myself--I hope this will stimulate some discussion.
+
+I'm getting tired, though I'd like to flame on about Lesbian S/M, the
+great gay plays that have been coming out (har), a variety of equally
+fascinating topics (yawn).  Flame away!
+
+Will Doherty
+USE: wdoherty!decvax!bbncca
+ARPA: wdoherty@bbng
+TINKLEBELL: 617-262-3485
+----------
+
+-----------------------------------------------------------------
+

@@ -1,0 +1,65 @@
+CFV:  talk.politics.aids
+wolfe%wolves@cs.duke.edu (G. Wolfe Woodbury)
+03/07/91
+	Call For Votes  --  talk.politics.aids
+
+Status: unmoderated
+
+Rationale:	The moderators of sci.med.aids have decided that that
+	medical forum is not an appropriate location for political
+	arguments about the various effects that the Accquired Immune
+	Deficiency Syndrome (AIDS) has in the non-medical realms.
+
+	Other groups have also been the inappropriate targets of various
+	political discussions about the disease, or have found that the
+	various follow-ups to that discussion are not otherwise appropriate
+	to the groups concerned.  (For example, talk.religion.misc and
+	soc.motss are NOT the place for folks to be argumentative about
+	the legal/social/moral situations surrounding the employment of a
+	person with AIDS.)
+
+Discussion Summary:	The discussion began several weeks ago when 
+	wolfe@wolves posted a preliminary feeler article in a few groups
+	to see if there was any support for the development of a newsgroup
+	to host the discussions that were getting in the way of the usual
+	discussion in several groups.  Within a week, 12 responses
+	arrived that favored the group, and one of those suggested that
+	the group should actually be a more general talk.politics.illness
+	or something similar.
+
+	A call for discussion was sent to Eliot Lear and posted Feb 11
+	to news.announce.newgroups.  Since then, there has been one
+	comment that the benefits of creating a group specifically aimed
+	at flame.fodder is more appropriate to alt or that perhaps the
+	group should be talk.aids rather than talk.politics.aids.  There
+	have also been several comments commending the creation of the
+	group and noting that it would provide a usefull focus for all
+	the various AIDS related topics that appear on the net.
+
+	Given the lack of negative commentary, and the strength of the
+	expressed support, I feel that the best course is to go ahead
+	and propose the group's creation and see what sort of vote
+	support it gets.
+
+Vote Mechanics:	In accordance with the usenet guidelines, voting
+	commences with the appearance of this notice in news.announce.newgroups
+	and will continue through the last day of March (31 March 1991).
+
+	Votes should be sent by mail to the address:
+
+		tpa-vote@wolves
+		tpa-vote@wolves.uucp
+		tpa-vote%wolves@cs.duke.edu
+		tpa-vote%wolves@mcnc.mcnc.org
+		....!{duke|mcnc}!wolves!tpa-vote
+	
+	the Reply-To: header of this article should be correct.
+
+	Please include the word "yes" or "no" in the subject line of
+	your vote to ease sorting by automatic means.
+
+	There is an autoreply demon setup for this mailbox, so, if you
+	do not get an ack, try again or watch for the weekly mass acks.
+
+-----------------------------------------------------------------
+

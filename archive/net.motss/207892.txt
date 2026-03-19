@@ -1,0 +1,67 @@
+suggestion
+nelsonb@stolaf.UUCP (Beth M. Nelson)
+10/06/84
+[]
+You know, it really does seem like there are two separate groups
+out there.  One which wants to discuss gays and one which wants
+to be gay, or at least discuss things that gays would be interested
+in without any judgements.  This is why I recommend the start of
+another newsgroup to take care of those who just want to discuss
+gays (similar to what ken arndt does) and are not really using
+net.motss the way it was originally intended.  I leave it up to
+everyone else to decide what the two new groups will be called
+(perhaps net.motss could still describe the group that it was
+intended to be.)  I think all discussion of this should be in
+the group, though, so that everyone can give their input.
+
+
+-- 
+This is only a test.
+beth nelson
+...!ihnp4!stolaf!agnes!nelsonb
+
+-----------------------------------------------------------------
+
+sdyer@bbncca.ARPA (Steve Dyer)
+10/09/84
+Yes, good idea--a group for Arndt and his ken.  How about
+net.flame.faggots, a worthy name with great historical precedent.
+I'm sure many of you out there can think of others.   This may
+lead to other useful groups, too, for those who haven't had the chance
+to air their prejudices in public: net.flame.jews, net.flame.blacks,
+or even more piquant names.  Hey, we wouldn't want to censor the net
+(heaven forfend!)
+
+All sarcasm aside (and it wasn't directed at Beth), there's no reason
+I can imagine why net.motss cannot serve two constituencies: gay people
+and interested straight people, save for the few disruptive people
+who insist on posing every posting in the form of an attack.  A good
+example of this came a few months ago, where a woman asked a question
+about the appropriateness of allowing gay teachers in school.  Now
+this did not come from someone who was ideologically aligned with the
+pro-gay faction, but neither was it gratuitously offensive.  Or the
+question from someone who could not conceive of how a gay person would
+react to a pass from a MOTOS.  These questions generated a good number
+of responses from both gay and straight people, and the discussion
+rarely dipped into acrimony.  So, it IS possible.
+
+You shouldn't have to be pro-gay to read or contribute to net.motss, but
+you should be able to present your opinions responsibly, which means that
+flames are inappropriate, and you should present them with an open mind,
+meaning that you are looking to learn from the other responses, and not
+merely to hit-and-run.  Naturally, these rules of behavior hold true
+for ANY newsgroup, not just net.motss.
+
+On the other hand, having a group around whose sole purpose is to
+handle the kinds of discussions which we've been seeing lately is
+pretty distasteful to me.  Rather like 'net.abortion' in my book,
+but there both sides love the combat.  Institutionalizing attacks
+on any particular group by forming a newsgroup for that purpose
+is immoral and a waste of resources, human and otherwise.
+-- 
+/Steve Dyer
+{decvax,linus,ima,ihnp4}!bbncca!sdyer
+sdyer@bbncca.ARPA
+
+-----------------------------------------------------------------
+

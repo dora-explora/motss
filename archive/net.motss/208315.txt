@@ -1,0 +1,42 @@
+A Serious Person
+schoff@bbncca.ARPA (Martin Schoffstall)
+11/09/83
+Let's be fair Steve, the flames are 50/50, right now.  Maybe
+the net should think about about having to groups:
+
+net.for-motss's-only
+net.motss.discuss
+
+I don't think the limitations of what you want to be discussed
+in this group is going to work.  One thing that has to be faced
+is the fact that the net decides what is discussed not a few
+individuals even if it is a "good" idea.
+
+-----------------------------------------------------------------
+
+features@ihuxf.UUCP
+11/10/83
+Actually re: net.for-motss's-only and net.motss.discuss
+
+It was tried with net.women and net.women.only, and <THEY>
+(flamethrowers) still barge in!
+
+-----------------------------------------------------------------
+
+jsq@ut-sally.UUCP (John Quarterman)
+11/10/83
+There already is a place for religious discussions:  net.religion.
+I agree with hao!woods that I'm tired of hearing a bunch of straights
+flaming.  In my case, I am tired of hearing a bunch of straights flaming
+about their religious objections to homosexuality and a bunch of people
+flaming back at them.  Net.motss *is* just another newsgroup.  It deserves
+neither the condescending USENET mavens trying to prove their broadmindedness
+nor the condescending net.religion evangelizing where it's not wanted.
+
+At least that's not what I fought for.
+-- 
+John Quarterman, CS Dept., University of Texas, Austin, Texas
+{ihnp4,seismo,kpno,ctvax}!ut-sally!jsq, jsq@ut-sally.{ARPA,UUCP}
+
+-----------------------------------------------------------------
+

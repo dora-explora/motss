@@ -1,0 +1,83 @@
+Greetings from Olympus!
+tony@mit-athena.ARPA (Tony Della Fera)
+05/18/84
+	Ok lets try this again, the first time I  posted  it  our
+system hiccuped and lost the message.
+
+-----------------------------------------------------------------
+
+	Well,  MIT  Project  Athena  is  finally   getting   (and
+hopefully sending (i.e., is this getting out there??)) net news.
+
+	In response to Robert's article (if  you  missed  it  you
+probably  suffer  from  LONG lapses of conciousness):  I agree, I
+too like to read things sent to net.motss simply BECAUSE they are
+sent  to net.motss.  Messages posted here help to lend a sense of
+"community" among computer scientists  (software  engineers  what
+ever  you  prefer)  who have somthing more incommon besides UNIX.
+
+	MIT  is also just completing the term..  Exams begin this
+Monday (oh boy, the first term (and last term!) without exams,  I
+agree,  it  is  great to finally graduate!!).  I just finished my
+thesis (i.e., ten minutes ago) and will submit it tomorrow. 
+
+	Since this is the first message I have posted to the  net
+I guess I should insert a note as to "from whence it came".  I am
+an undergraduate (soon to be graduate) of MIT and the chairman of
+GAMIT's  (Gay's at MIT) counseling committee.  My work with GAMIT
+is principally to help Gay and Straight students  alike  to  deal
+with  being  Gay  at  MIT.   We  (the  counseling  committee) are
+currently  involved  in  a  project  called  GAP  (Gay  Awareness
+Project)  which  is designed to help students in MIT fraternities
+deal specifically with the difficulties of gay students living in
+fraternities.   GAP  has  been a tarrific success (if I may be so
+bold as to boast).  We have run several "test" projects,  meeting
+individually  with  two  MIT  fraternities  (Theta  Xi  and Delta
+Upsilon).  The "rap sessions" we arranged  recieved  nothing  but
+compliments  and  creative criticism from the brothers.  I really
+should add that the results are somewhat skewed by the fact  that
+we   deliberatly   did  not  chose  any  "ultra-conservative"  or
+"ultra-liberal" houses. All in all GAMIT is  quite  pleased  with
+the results.  More on that in future messages.
+
+	I  work  here  at  MIT  on Project Athena, a 5 year joint
+project between MIT, DEC and IBM (we also have  contributions  of
+people and equipment from BBN and CODEX but I am not sure if they
+are as yet considered "major contributers").  Project Athena  is,
+and I quote so as not to get blasted for impropter PR:
+
+	"... a major [MIT] wide  experiment  to  integrate
+	modern  computer  and  communications capabilities
+	into  all  phases  of   the   education   process.
+	Athena's  principal  goal  is to help our students
+	learn more creatively and fully in a wide range of
+	disciplines...."
+
+-----------------------------------------------------------------
+
+	That is all I managed to save  of  the  original  posting
+*sigh*.  Any way you get the idea.  To reiterate Robert's message
+"Keep those postings comming"!  
+
+						Tony...
+
+-----------------------------------------------------------------
+
+woods@hao.UUCP
+05/21/84
+  I would like to point out one thing, briefly: not everyone who reads and 
+enjoys this group is homo- or bi-sexual. There are many other reasons to be
+interested in gay issues besides being gay yourself. Since gays (I believe)
+represent a significant minority, they can have a significant effect on
+society as a whole. There are even personal reasons why a non-gay could
+be interested in gay issues, such as having a friend or relative who is gay.
+
+		    GREG
+-- 
+{ucbvax!hplabs | allegra!nbires | decvax!stcvax | harpo!seismo | ihnp4!stcvax}
+       		        !hao!woods
+   
+   "Will we leave this place an empty stone?"
+
+-----------------------------------------------------------------
+

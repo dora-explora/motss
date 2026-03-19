@@ -1,0 +1,7 @@
+first message in soc.motss
+mark@cbosgd.UUCP (Mark Horton)
+09/16/86
+First message in this newsgroup, to force rn to get it into the .newsrc.
+
+-----------------------------------------------------------------
+

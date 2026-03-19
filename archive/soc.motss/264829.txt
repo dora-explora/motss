@@ -1,0 +1,25 @@
+is this group working
+dyer@spdcc.UUCP (Steve Dyer)
+10/05/86
+I received it.  It looks like there are distribution problems somewhere,
+because the volume HAS decreased a fair amount (not that that's ALL bad :-))
+I will check in with the backbone.
+-- 
+Steve Dyer
+dyer@harvard.HARVARD.EDU
+{linus,wanginst,bbnccv,harvard,ima,ihnp4}!spdcc!dyer
+
+-----------------------------------------------------------------
+
+ecl@mtuxo.UUCP (e.leeper)
+10/10/86
+this is mostly a test to see if this group is still functioning.
+unfortunately, distribution doesn't work--sorry, folks.
+Could Jason and/or Dyer respond so I'll know this is getting out
+of Jersey?  Thanks.
+
+Evelyn C. Leeper
+(only temporarily mtuxo!ecl but mail will be forwarded to the real me)
+
+-----------------------------------------------------------------
+

@@ -1,0 +1,114 @@
+Around the world; Bolt, et.al. question.
+cher@ihuxi.UUCP (Mike Musing)
+09/27/84
+..................
+
+
+1. I was wondering about acceptance of homosexuals in parts of
+the world other then USA. Someone here, probably can come up
+with brief summary and analysis of geographic and political
+variations that could be interesting. 
+
+Should someone wish to discuss it, please limit the number
+of thick books on the subject that I should have read before
+asking to 10. :-)
+
+2. Totally unrelated to 1., but while following some of the
+discussoins here I noticed that a number of net.motss regulars
+are communicating out of Bolt, Beranek, & Newman location.
+In fact, it seems that there is no person communicating out
+of that locaton who is not a net.motss regular. It is
+mildly intriguing, but by no means am I trying to cajole any
+proprietory Bolt,... info.
+
+Thanks 
+               Self-proclaimed Garfield
+                               Mike Musing
+
+-----------------------------------------------------------------
+
+ag5@pucc-i (Henry C. Mensch)
+09/27/84
+(message was not found)
+
+-----------------------------------------------------------------
+
+sdyer@bbncca.ARPA (Steve Dyer)
+09/29/84
+Mr. Musing's musing about the preponderance of submitters to net.motss
+from BBN has a very simple answer.
+
+First, please reread my message about BBN's employment policies.
+Gay people at BBN have nothing special to fear by expressing their opinions
+in this forum.
+
+Second, bbncca is simply one machine out of many at BBN.  It is (at
+present) the only machine at BBN which receives netnews.  It serves a
+limited software development community of approximately 30-50.  Most other
+BBNers (approximately 1000) neither read nor submit to netnews.  One would
+like to change this, but it involves administrative and not technical
+problems, as well as generalized apathy.  Also, the technical components of
+USENET are served well, albeit more inefficiently, by the ARPA mailing lists
+such as INFO-MICRO and UNIX-WIZARDS.  Thus, there's less incentive to be
+connected to the "real world" through USENET.  BBN already has the ARPAnet.
+(Just to remind everyone, incoming mail sent to BBNers through bbncca is
+delivered successfully regardless of where the users' mailboxes reside.
+Thus, to the UUCPnet, everyone at BBN resides on bbncca.)
+
+Like every place, the majority do not read the news, a smaller group
+reads the news, but does not post, and there is a smaller contingent
+which posts articles regularly.  Of this contingent, three or four of us
+are gay, and post articles to net.motss.
+
+The only thing that is "remarkable" about this is the testament
+of tolerance which every workplace should display.  It's a shame
+that it is "remarkable" at all.
+-- 
+/Steve Dyer
+{decvax,linus,ima}!bbncca!sdyer
+sdyer@bbncca.ARPA
+
+-----------------------------------------------------------------
+
+jbp@edison.UUCP
+10/07/84
+In reference to homosexuality around the world:
+
+   When i got out of college (undergraduate type at least) i joined the
+peace corps, partly from lack of interest in joining the real world, partly
+from fear of being gay (despite having had a lover and participating fairly
+actively in the local student gay group).  I spent the following four years
+in Zaire being a high school math teacher.  (By the way, the peace corps, when
+i was a member, had a fairly-very high proportion of gay volunteers).
+
+I was told that if the Peace Corps ever found out a volunteer was gay, the
+volunteer would be promptly kicked out (about the same fate reserved for
+people who had worked for the CIA).  Further, when students brought the
+subject up (they had heard about gay people in America on the radio and
+wanted to know about it) they stated fairly unequivocally that being gay
+was something that never happened in Africa.  Not that it was disapproved of,
+it DID NOT HAPPEN!
+
+Well, I know of two instances of American Peace Corps volunteers having gay
+lovers (and both were in the same province as me, so who knows what was
+happening in the other provinces where i didnt know as many gay people), and
+both relationships lasted for a while (at least a year, and perhaps two).
+I knew (fairly well) a pair of Zairois lovers, their relationship was quite
+well known and accepted in the European expatriate community, but i couldnt
+quite figure out how it was dealt with by the Zairois.  Further, it was a
+fairly open secret that the priest who was the director of my first school
+was living with a boy who was one of my students.
+
+I was more than a little paranoid, and despite what i have been saying, i
+think justly so.  So when i arrived in Zaire, i had decided to restrict my
+sexual activities to Europeans and Americans (not lack of desire, paranoia),
+however i found that it was quite impossible over the long run.  Interestingly
+i heard my sexual preference discussed (in swahili) fairly openly, but never
+either heard officialy, or casually anything about it.
+
+jefu
+(edison!jbp or edison!<kbsvax-soon-to-be-steinmetz-if-it-will-work>!putnam)
+[ honi soit qui mal y pense! ]
+
+-----------------------------------------------------------------
+

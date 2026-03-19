@@ -1,0 +1,70 @@
+Hormone markers for homosexuality?
+keesan@bbncca.ARPA (Morris Keesan)
+10/03/84
+-----------------------------
+
+    Here's a summary of an interesting article in this week's (9/29/84)
+SCIENCE NEWS, with the somewhat sensational headline "Hormone markers for
+homosexuality?"
+
+    It seems that a group of researchers at SUNY Stony Brook "have found
+what they believe may prove to be a physical correlate to homosexual
+behavior."  The study "suggests that biological markers for sexual orientation
+may exist."  The work "does not address the question of what causes
+homosexuality."  The study was reported in the September 28 SCIENCE.
+    "There's a good possibility there's a biological element involved with
+sexual orientation, but it's a long way from saying that it's determined
+biologically," says one of the authors of the report.
+
+    The researchers studied 17 straight men, 14 gay men, and 12 straight
+women, and monitored the responses to injections of estrogen.  In women,
+this causes a slight drop and then a sharp rise in the amount of
+luteinizing hormone (LH) in the body.  This occurs naturally as part of a
+woman's monthly hormonal cycle.
+
+    The results:  four days after the injection, the women's levels of LH were
+200 percent of their baseline values, the heterosexual men averaged 88%, and
+the homosexual men averaged 138% of baseline.  "Although not all the homosexual
+men studied showed an enhanced response of LH to estrogen compared to the
+heterosexul men, significantly more did."  [Note that this means that the
+average levels in those WITH the enhanced response were HIGHER than 138%.]
+
+    The SCIENCE NEWS article then goes on to mention some responses to this
+report, and theorizing by, other members of the research community.
+
+    A total population of 43 subjects seems a little low for any statistical
+significance, and one is puzzled by the omission of homosexual women from the
+study, but it's interesting food for thought, anyway.
+-- 
+			    Morris M. Keesan
+			    {decvax,linus,ihnp4,wivax,wjh12,ima}!bbncca!keesan
+			    keesan @ BBN-UNIX.ARPA
+
+-----------------------------------------------------------------
+
+manis@ubc-vision.CDN (Vincent Manis)
+10/11/84
+This is another example of silly science: a correlative study using
+Organization: UBC Vision, Vancouver, B.C., Canada
+Lines: 19
+
+ill-defined metrics. First, I'm not clear why anybody would care about
+differential hormone response for people of different sexual orientations;
+second, the sample group was small and there was apparently some sort
+of systemic sampling bias. Result? A ``significant'' result which
+although unconfirmed suggests the need for further research and certainly
+further funding.
+
+Reminds me all too much of Cyril Burt's IQ measurements, which (in the
+studies which weren't faked) purported to prove that identical twins
+had the same IQ, regardless of environmental differences. Turns out that
+Burt's IQ metric was so vague that one has no way of validating it.
+
+As I believe that sexual preference has both environmental and congenital
+components (as do most behaviours), I have little or no patience with
+studies that attempt to find causes. Why not attempt to correlate 
+hormone response with socioeconomic status, political views, or favourite
+programming language?  I have my own theories about Cobol programming.
+
+-----------------------------------------------------------------
+

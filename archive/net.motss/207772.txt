@@ -1,0 +1,376 @@
+Biological basis for homosexuality?
+jim@randvax.UUCP (Jim Gillogly)
+12/01/84
+--------------------------------
+From Science 84, December 1984.
+
+	"Biological basis for homosexuality?"
+
+Stony Brook, NY. - Some homosexual men have been shown for the first time
+to differ from heterosexual men in the way they respond to hormones.
+Researchers at the State University of New York say that their study could
+be a significant step in answering the long-debated question of what
+determines sexual orientation.
+
+Twenty-nine heterosexual men and women and 14 homosexual men were injected
+with the female hormone estrogen.  As expected, the heterosexual men's
+hormonal systems responded to the estrogen much differently than the women's.
+The homosexual men, however, responded in a pattern between that of the
+heterosexual men and women.  Psychobiologist Brian Gladue, one of the
+researchers, cautions that this hormonal difference is hardly a reliable
+test of someone's sexual orientation.  "It only starts us looking more closely
+at human sexual development," he says.
+
+Previous studies have shown that hormones seem to affect many types of
+behavior, even in young children not yet infludenced by social conditioning.
+Research with animals suggests that some differences between the sexes --
+females' tendency to be less violent, for instance -- are shaped by
+hormones that begin affecting the brain even before birth.  Gladue believes
+that biological factors may also predispose someone to be homosexual.
+
+"A lot of people think that homosexuality is a societal phenomenon caused
+by factors like an absent father or a domineering mother," Gladue says.  "It
+would be a major leap to say that the orientation is established at birth,
+but if people are willing to accept that heterosexuality is already
+determined, why not homosexuality?"
+
+--------------
+Just reporting it - no opinion from here.
+
+	Jim Gillogly
+	{vortex, decvax}!randvax!jim
+
+-----------------------------------------------------------------
+
+sdyer@bbncca.ARPA (Steve Dyer)
+12/03/84
+Many people, certainly many in the gay community, have criticized the
+study on the following grounds:
+
+sample size - 14 gay men is not a very large population, and the
+	      number of gay men who actually demonstrated an 
+	      exceptional reaction to the administration of
+	      estrogen was smaller--9 is the figure I remember.
+
+screening   - There was no screening for factors like drug use
+	      which could have a large effect on hormonal
+	      responses.  Given the population from which they
+	      selected their subjects (gay bars in urban
+	      settings) this is worrysome.
+
+selection   - There were no gay women in the study, a glaring
+	      omission explained away, rather lamely, by the
+	      researchers asserting that they couldn't find any
+	      gay women (sounds like they weren't asking the
+	      right people.)  Certainly, a demonstrable difference
+	      from the baseline by gay people of both sexes
+	      would have strengthened any conclusions they
+	      might make.
+
+As someone trained as a scientist, I am fascinated by basic research, but
+it is also useful to remember the political and social contexts in which
+scientific research, however "pure", operates.  Where might we go from
+here?  Suppose that one's primary sexual orientation is linked to the
+morphology of certain brain structures, that these structures differ from
+the norm in people with an affinity for the same sex, and that it is shown
+that hormonal changes in the mother during fetal development influence the
+ultimate morphology of the child's brain, and thus exerts a strong
+influence on the child's sexual preference?  This is not too far-fetched
+a theory, and the experiment mentioned above is a first step in data
+collection.
+
+What is thought to be benign, or even benevolent, individual variance in one
+culture, or at some point in time, may be considered "bad", "evil", or a
+problem, in other cultures, or at other points in time.  Unfortunately, if
+society finds a "cause" for a event which is considered a problem, it
+immediately suggests the existence of a "cure."  For comparison, look at the
+attitudes of Victorian society towards masturbation and many of the often
+hilarious, and sometimes chilling "cures" for this "affliction."  Though the
+strides of the gay rights movement in the past 15 years are well-recognized,
+I think it is safe to claim that there is a very very long way to go, and
+that same-sex sexual orientation is still classified by many as a "problem."
+Even if one feels that a purely biological view of sexual behavior is
+hopelessly reductive and unprofitable when taken out of the laboratory, many
+will grasp at anything blessed with the imprimatur of "science" and use it in
+the formulation of policy.
+
+Let's examine the possible "cures" which might result if this research
+in the biological bases of sexual preference bore fruit:
+
+- during pregnancy, a woman is noted to have the hormonal changes which
+  predispose her child to homosexual behavior (surely a simple home
+  screening test of blood, urine or salive might be prepared.)  She
+  decides to have an abortion on the basis of this finding.
+
+- a woman with a previous history of this hormonal variance is treated by
+  her gynecologist to ensure that this does not occur during her next
+  pregnancy.
+
+- a child is born, the mother was notified of this hormonal variation
+  during her pregnancy, and it is noted on the child's medical record.
+  What effect will this have on the parents in their care and raising of
+  the child, given the societal mores which indicate this is a significant
+  enough problem that it should be measured at all?  What effect will this
+  biological "marker", or Scarlet Letter, have on the child's own self-
+  esteem, integration into society and ultimate sexual behavior?
+
+The issue here is not scientific knowledge or technology, but their use as
+tools to implement what society feels is "good", often to the detriment of
+individual variation and freedom.  It is incumbent upon people to speak
+against such goals when they are voiced, to question their underlying
+assumptions, and to continue the goal of education, to help persuade people
+otherwise when they describe same-sex sexual orientation as a "problem"
+which needs to be cured.
+-- 
+/Steve Dyer
+{decvax,linus,ima,ihnp4}!bbncca!sdyer
+sdyer@bbncca.ARPA
+
+-----------------------------------------------------------------
+
+gam@amdahl.UUCP (Gordon A. Moffett)
+12/03/84
+(message was not found)
+
+-----------------------------------------------------------------
+
+schoet@ucbvax.ARPA (Steve Schoettler)
+12/04/84
+(message was not found)
+
+-----------------------------------------------------------------
+
+sdyer@bbncca.ARPA (Steve Dyer)
+12/04/84
+(message was not found)
+
+-----------------------------------------------------------------
+
+jtc78@ihuxm.UUCP (Mike Cherepov)
+12/05/84
+(message was not found)
+
+-----------------------------------------------------------------
+
+gam@amdahl.UUCP (Gordon A. Moffett)
+12/06/84
+(message was not found)
+
+-----------------------------------------------------------------
+
+sdyer@bbncca.ARPA (Steve Dyer)
+12/06/84
+(message was not found)
+
+-----------------------------------------------------------------
+
+rob@ptsfa.UUCP (Rob Bernardo)
+12/07/84
+I have trouble with the notion of a biological basis of sexual orientation.
+It stems from my belief that our concepts of gender and of homosexuality
+are culture bound.
+
+There is a difference between biological maleness/femaleness and cultural
+maleness/femaleness. To be a biological male is to have a certain biological
+characteristics: certain sexual organs, certain genetic material, etc.
+To be "culturally" male is to have those characteristics a particular culture
+considers appropriate to males, i.e.  MASCULINE characteristics.
+
+When I think of my own sexual orientation, it's not biological gender
+but rather cultural gender that is a major factor in my sexual taste.
+I am not attracted to all males (despite the rumors :-) ).
+And then there are physical characteristics unrelated to biological and
+cultural gender that are part of my sexual taste, e.g. hair color, height,
+ability to carry on a conversation, intelligence, etc.
+Furthermore, just because someone is attracted mainly/exclusively to say,
+males, doesn't mean s/he is attracted to what s/he considers masculine.
+Someone may be attracted to hairless males with slight builds but consider
+burliness to be masculine (and not sexually attractive).
+
+Sexual orientation involves a lot more than biological or even cultural gender.
+But I think we categorize our sexual taste on the basis of gender
+because our culture encourages us to categorize people on the basis of
+gender.  Gender is one of the first things we notice about a person,
+and in fact, we have a hard time ignoring gender.
+
+Our culture (it seems to me) considers males and females more different than
+they are biologically.
+Our culture overemphasizes and exaggerates the differences between males
+and females. In another culture where maleness and femaleness were not
+exaggerated beyond the biological, I would suspect that
+gender would play less of a role in one's sexual orientation.
+And sexual tastes would not be so simply categorized on the basis
+of the gender of the sex object.
+
+So my first suspicion of claims of a biological basis of sexual orientation
+is that sexual orientation seems to me to be mostly culturally based.
+
+Secondly, different cultures seem to have different notions of homosexuality.
+In many Mediterranean cultures,  I am told, one is considered to be homosexual
+if one is a male who is sexually "passive" with other males. A male who
+inserts his penis in another male is NOT considered to be homosexual.
+The category of homosexuality seems to be a cultural category.
+
+So before we start entertaining the possibility of a biological basis
+of sexual orientation, we'd better make sure that we are not looking for
+a biological basis for a category created by/in our culture. Permit me to
+exaggerate: looking for a biological basis for homosexuality is like
+looking for a biological basis for preferring a rural lifestyle to
+an urban one.
+-- 
+
+
+Rob Bernardo, Pacific Bell, San Francisco, California
+{ihnp4,ucbvax,cbosgd,decwrl,amd70,fortune,zehntel}!dual!ptsfa!pbauae!rob
+
+-----------------------------------------------------------------
+
+saquigley@watmath.UUCP (Sophie Quigley)
+12/07/84
+(message was not found)
+
+-----------------------------------------------------------------
+
+hxe@rayssd.UUCP
+12/10/84
+I am replying to Steve Dyer's original posting, not to Gordon Moffett's
+followups.  Steve asked a question that was disturbing to me because, no
+matter how hard I tried, I could not answer it for myself.  His question
+(paraphrased) was, "What would you do if you found out, while your child
+was in the womb, that he/she was homosexual?"  (Actually, he asked it in
+a general way and I took it personally because I believe that that's the
+best way to approach any theoretical problem.)
+
+Suppose I'm pregnant and have a routine amnioscentesis (sp?) done for
+whatever reason.  Without my asking, the doctor volunteers the informa-
+tion that my child is a boy with genetic "homosexual tendencies." (This
+is in Steve's scenario; I'm not just finding a farfetched story here!)
+Like it or not, and with all my best *intellectual* intentions over-ridden
+by gut instinct, you can bet that I'm going to treat him differently.  I'm
+not going to *want* to, mind you, but I'm human.  I will have been told
+that he's 'different' and that will affect me, as I assert that it would
+affect anyone in that situation.  I'm already scared to death of raising
+a child because I want him/her to be non-sexist, peace-loving, non-racist,
+non-homophobic, non-anything-bad, etc.  (In other words, perfect.)  *Now*
+I'm faced with trying to provide my son a non-heterosexual-stereotypical
+upbringing and I have no experience.  How many words/actions/thoughts/values
+that we pass on to our children assume that they are heterosexual?  All.
+I would probably turn to all my gay friends and ask them, "What would you
+like to have heard and how would you like to have been treated when you
+were growing up?  Anything different?"
+
+And therein lies the other problem.  I don't want to treat my son
+'differently'.  I want him to be like any other kid, for his sake.  I also
+don't want to make any false assumptions on his behalf about his sexual
+preference based on some hormonal test performed before he was born.  I
+know a man (my old roommate) who was gay from the age of 14 to the age
+of 22 and then decided he was straight again.  I don't know why he decided
+to be straight again, but I do know that he decided to be gay because he
+was told by his gay sister and her gay husband (none of my business why
+they married) *from the time he was about 5 years old* that he was gay.
+I'm not making any judgements here and I'm not assuming that he was either
+"really gay" or "really straight" or somewhere in between.  All I know is
+that he made (what he thought to be) a conscious decision to be gay because
+he was told he was.  He decided later that it wasn't right for him.  How
+did you all decide you were gay?  Was it your own decision?  All I'm
+saying here is that I don't think it's the job of a parent to tell a child
+what his sexual preference is.  Then again, don't they really do that
+already by assuming everyone is heterosexual?
+
+See why I'm confused?  Of course the problem doesn't exist for me, or for
+anyone for that matter.  Not yet.  But Steve is right to bring it up for
+discussion *now*, not when it's too late.  Remember that I'm someone who
+wouldn't mind (I say now) a gay child; I just don't want to screw up his
+upbringing.  What about the people who would really persecute a child
+they thought was gay from birth on?
+
+No answers, just questions.
+-- 
+--Heather Emanuel {allegra, decvax!brunix, linus, ccice5} rayssd!hxe
+--------------------------------------------------------------------
+   I don't think my company *has* an opinion, so the ones in this
+                  article are obviously my own.
+--------------------------------------------------------------------
+"Such a foolish notion, that war is called devotion,
+ when the greatest warriors are the ones who stand for peace."
+
+-----------------------------------------------------------------
+
+rrizzo@bbncca.ARPA (Ron Rizzo)
+12/10/84
+Well said, Rob!  I think sexual orientation is a complex matter,
+which goes far beyond matters of biological gender or cultural
+gender role.  This is not to deny that sexual orientation is a
+profound facet of personality, perhaps as permanent as any other
+facet (any personal trait can be changed; after all, torture
+works), & as valid.  This is also not to ignore a lot of data
+which suggest that most people are predominantly gay or straight
+in North America, with a smaller middle group of bisexuals, or
+to rule out in advance biological factors which may at least 
+partly underlie this fact.  However, much of the discussion of
+candidate biological factors that I've seen is mired in gender
+stereotypes often peculiar to North America.
+
+Sexual orientation is problematic, in all its variety.  Eg, why
+are there heterosexuals at all?  The darwinian sketches of an
+explanation I've heard seem meager, ad hoc, & not very confid-
+ently advanced.
+
+I think it's time (is net.motss the place?) to open a possible
+pandora's box by making the case for homosexuality (& hetero-
+sexuality, too?  I see "procreation" lingering like a ghost
+around most people's attitudes toward it) as a matter of totally
+voluntary choice.  I should seek out not only sexual but emotional
+relationships with people of the same sex (or the opposite sex)
+simply because I WANT TO, FEEL LIKE DOING SO, & to HELL with any
+other justification!  & society, law, etc. should SUPPORT these
+choices as they have those of hetero-not-too-sexual monogamy cum
+marriage.
+
+(I assume most readers of net.motss understand "orientation vs.
+preference" and don't entertain the silly notions of homosexuality
+implicit in American homophobia -- that it's temporary, a result
+of peculiar formative influences, pseudo-feminity/masculinity etc.
+I also assume readers don't regard heterosexuality as god-given,
+natural, more valuable, etc.)
+
+					Ron Rizzo
+
+-----------------------------------------------------------------
+
+sdyer@bbncca.ARPA (Steve Dyer)
+12/12/84
+First, I think Ron's and Rob's rejoinders to this discussion are extremely
+valuable, and help ground the discussion of sexual preference a bit more in
+reality than our discussion had been going.  In seizing on the reports of
+scientific inquiry into the biological basis of sexual preference, I hoped
+to point out three very probable results:
+
+	1.) the scientific method is VERY powerful, and I do feel
+	    that some positive influence (i.e. for biology) will be
+	    discovered.
+
+	2.) what these results mean at the level of an individual or
+	    for society is EXTREMELY arguable, but that will not stop
+	    those who grasp for easy answers under the blessing of
+	    science.
+
+	3.) the results of this reductionist view of human sexuality
+	    can have many unfortunate consequences.
+
+Heather's musing on her reactions to this thought experiment are very
+affecting, and illustrate the kinds of quandaries which may be elicited
+if this kind of research is misused.
+-- 
+/Steve Dyer
+{decvax,linus,ima,ihnp4}!bbncca!sdyer
+sdyer@bbncca.ARPA
+
+-----------------------------------------------------------------
+
+jtc78@ihuxm.UUCP (Mike Cherepov)
+12/13/84
+(message was not found)
+
+-----------------------------------------------------------------
+

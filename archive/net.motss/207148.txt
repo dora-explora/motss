@@ -1,0 +1,380 @@
+reorganization of soapbox newsgroups
+mark@cbosgd.UUCP (Mark Horton)
+05/17/86
+The Usenet backbone has been discussing the problem with traffic volume
+for the past few months.  Some sites have been forced, by their own phone
+bills, or by management directive, to cut way back on the news they carry.
+Rather than just have random cuts of various groups by various hosts,
+probably resulting in the complete death of many newsgroups (the same way
+that net.bizarre was killed) we've decided to try to do this in a fashion
+that will be consistent, and allow those who want to continue to discuss
+these topics to do so, at their own expense.
+
+Our proposal is to create a new distribution, talk.all.  This distribution
+would initially be carried by everybody that carries net.all.  Certain
+so-called "soapbox groups" would be moved from net to talk.  Then those
+sites who are unable or unwilling to carry the talk groups would stop
+carrying them.  The list of soapbox groups to be moved to talk is:
+
+	net.abortion
+	(net.bizarre)
+	(net.flame)
+	net.misc
+	net.motss
+	net.origins
+	net.philosophy
+	net.politics
+	net.religion
+	net.religion.christian
+	net.rumor
+	net.suicide
+	net.women
+
+net.bizarre and net.flame don't currently exist (although net.flame does
+exist in some parts of the net) but could, if the users of talk.all wish,
+be created there.  The criteria for including a group in this list is that
+the group be high volume, low readership, and "more heat than light."
+This list is subject to change, for example, net.religion.jewish has been
+suggested for inclusion.  It has also been suggested that net.women become
+a moderated newsgroup, with the hecklers taken off.
+
+Indications from the backbone members are that roughly half of the backbone
+would discontinue talk.all, and half would carry them.  In fact, of the half
+that would not carry them, several have already cut off a similar set of
+groups on their own, and the rest were getting ready to.  By notifying the
+net of our intentions ahead of time, we leave those members who want to
+continue to carry these newsgroups plenty of time to make arrangements for
+their own backbone.  This talk backbone can, of course, include that half
+of the regular backbone which will continue carrying talk.  (This won't
+happen overnight - we expect discussion to continue until the end of May,
+at which time we'll make a decision.  The implementation will take place
+during June, and after July 1, cutoffs may begin.)
+
+We are presenting this to the net in order to give the net a chance to
+comment, and to make constructive suggestions for improvements.  Please
+understand that the backbone is not going to back down on this because
+of flames from hardcore participants in these groups, about how we are
+obligated as backbone sites to pay your phone bills so you can flame
+each other about controversial topics at our expense.  We are going to
+do something, and unless somebody has a much better idea, the above
+proposal (modified by any good ideas from the net) will be implemented.
+
+I must also point out that suggestions such as "get faster modems" are
+not going to change things.  While many of us already have 2400 baud
+modems, and we're always looking into ways to cut costs by improving
+the equipment, there are other major costs besides phone bills.  These
+costs include CPU time to run UUCP and rnews, disk space, the SA's time
+to clean up the various messes that happen from time to time, and the
+time spent by employees of the various backbone companies reading these
+groups, following up, replying, and so on.  The major costs are phone
+bills, CPU usage, and disk space.
+
+This discussion is taking place only in North America (distribution "na".)
+Europe and Australia have indicated they don't want to pay for the traffic
+of this discussion, since the groups in question don't go overseas anyway.
+This in turn implies that the talk.all distribution would also stay
+within the na distribution, not worldwide.
+
+Possible changes to the above include (but are not limited to):
+
+(1) Additional groups to be added to the list.
+
+(2) Groups that should be subtracted from the above list (unlikely to change
+    the list without strong justification and agreement by the backbone.)
+
+(3) It has been suggested that while we're at it, we create "world.all",
+    and we gradually move net.all to world.all.
+
+(4) It has been suggested that some groups should become "local" groups
+    which are kept to one part of the country;
+
+(5) Another alternative is to create moderated versions of these groups.
+    It would be the job of the moderator to keep out duplicates, repetitions,
+    excessive inclusions from other postings, and general flaming/heckling.
+    Moderated groups might go to even more places than the current net.all
+    groups go, for example, Europe could participate in a mod.politics,
+    even though it doesn't get net.politics.  (We have a mod.politics now,
+    but it's not doing anything.)  mod.women has also been suggested.
+
+	Mark Horton
+	speaking for the Usenet backbone
+
+-----------------------------------------------------------------
+
+bob@mwhhlaw.UUCP (Bob Hartley)
+05/20/86
+The idea of moving the soapbox newsgroups into "talk" is a good one.  
+I was going to list others for inclusion.  Then I realized my list
+would only represent my value judgment on what is important.  I 
+surmise that at present, there are two selection criteria for "talk".  
+1) high volume of traffic and 2) lots of flaming and noise in group.  
+
+I understand that the problem is cost.  But the proposal is to 
+separate out discussions on women, politics and philosophy, and leave 
+in discussions of hockey, gardening and folk music.  Yes, the former are
+abused and probably out of control.  But abuse, like beauty, is in the
+eye of the beholder.  Presumably the latter get to stay because they 
+generate less traffic and are seen as better behaved than the former 
+and not because the latter are deemed more socially redeeming or 
+important.  
+
+If volume of traffic were the sole criteria, jokes and sources would
+go too.
+
+It seems to me that the backbone sites have to define why they support 
+the net.  If it so that people in the "computer community" can share 
+ideas about hard science, computers and computer related subjects, 
+then I suggest that all other groups should go into talk.  It may be 
+that net will have to retain some groups, such as rumor, jokes and 
+jobs, etc, which people are going to talk about if they are alive and 
+have access to the net.  Otherwise these will clutter the computer and 
+computer related groups.  
+
+I guess what I am saying is that because of the cost factor, I agree
+some things have to be dumped.  Any decision on what goes is going to 
+be arbitrary.  If there is going to be an arbitrary line, make it a 
+bright, straight line that everybody can see which is in someway 
+related to a stated purpose or reason that the backbone sites support 
+the net.
+
+It should not be an obscure, wavy line that cuts a group with
+a lot of traffic (i.e. interest) just because those in control don't
+see the value of the group.  I personally believe that he who pays the
+piper gets to call the tune, and that is fair.  So, there is really
+nothing unfair about an obscure, wavy line.  The problem is that most
+people do not think like I do, and so the obscure, wavy line is
+perceived as unfair or unjust, and that generates ill will.  People
+will grumble, but live with an unpopular decision that is perceived as
+fair.  People will try to find (and usually will find) a way to 
+circumvent an unpopular decision that is seen as unfair.  When that
+happens the problem just reappears and is harder to deal with.
+
+OK.  I've run the Graham-Rudman-Hollings proposal up the flag pole.
+Let's see some workable, fair proposals for a more surgical approach 
+to budget (oops I mean net) cutting.  Remember, we are not discussing 
+whether to cut.  If I understood the original article, that decision 
+has been made and will not be changed.  Also, please, let's not lapse 
+into special interest in-fighting (my special interest group is 
+important, let's cut yours).
+-- 
+Bob Hartley
+ihnp4!inuxc!mwhhlaw!bob
+Indianapolis
+
+-----------------------------------------------------------------
+
+turner@imagen.UUCP
+05/21/86
+*** REPLACE THIS LINE WITH YOUR MESSAGE ***
+
+would it be possible to get a list of those BB sites that will
+continue to carry all newsgroups so that we can look at rearranging
+our news feeds ?-- 
+----
+	"If only you could see what I've seen with your eyes"
+		-Blade Runner
+
+Name:	James M. Turner (not the James M. Turner at Lisp Machine Inc.)
+Mail:	Imagen Corp. 2650 San Tomas Expressway, P.O. Box 58101
+        Santa Clara, CA 95052-8101
+AT&T:	(408) 986-9400
+UUCP:	...{decvax,ucbvax}!decwrl!imagen!turner
+CompuServe: 76327,1575
+GEnie     : D-ARCANGEL
+
+-----------------------------------------------------------------
+
+turner@imagen.UUCP
+05/21/86
+*** REPLACE THIS LINE WITH YOUR MESSAGE ***
+
+boy am i confused, what i think i understand is: if a group is
+non-unix oriented and has a large readership (i.e. high traffic
+volume) it is a candidate for removal, if it has a small readership
+and by implication is not of interest to a great number of netters
+it will be kept. hmmmmm.... a better but more painful suggestion
+would be a charge back scheme for BB sites, most companies 
+i fear would be unwilling to pay for net usage; eliminating non
+technical "soap box" groups of large interest would turn the net
+into a techno-nerd net, they are already talking in atari16 about
+limiting the posting of sources to unix pgms only. I value the ability
+to participate in a discussion of ideas (tehnical and non-technical)
+with the net community and would pay out my own pocket to continue
+to do so, so i guess my first suggestion stands. freedom is
+expensive! 
+Also net.jokes must be a candidate for the list or atleast mod.jokes
+-- 
+----
+	"If only you could see what I've seen with your eyes"
+		-Blade Runner
+
+Name:	James M. Turner (not the James M. Turner at Lisp Machine Inc.)
+Mail:	Imagen Corp. 2650 San Tomas Expressway, P.O. Box 58101
+        Santa Clara, CA 95052-8101
+AT&T:	(408) 986-9400
+UUCP:	...{decvax,ucbvax}!decwrl!imagen!turner
+CompuServe: 76327,1575
+GEnie     : D-ARCANGEL
+
+-----------------------------------------------------------------
+
+steve@valid.UUCP
+05/23/86
+I would like to suggest an alternative:  put the
+conversion to talk.xyz groups on hold temporarily.  In the
+meantime, encourage more self-restraint by with respect to the length
+and frequency of postings.  
+
+This is NOT a proposal for the backbone to just let things continue as they 
+are.  By "encourage," I mean VIGOROUSLY encourage,
+with the threat of converting to talk.xyz groups as a large stick held
+over our heads.  
+
+There is no discussion of the backbone sites' concerns in the 
+non-technical groups that I read most regularly (net.politics and net.women).  
+Some of us know that there's a traffic problem, but we don't *KNOW* there's a
+problem, if you get my drift.  Let's see if emphasizing the seriousness 
+of the problem will cut the traffic volume.
+
+Some individuals will persist in posting huge volumes of stuff. 
+That's always going to be a problem, no matter what groups are cut,
+and it can be handled in the same way it would be handled if someone 
+got too chatty in net.news.group.
+
+The posting guidelines we need to follow are obvious; we need to build
+a concensus among people using the non-technical groups to adhere to
+reasonable guidelines ... OR ELSE!
+
+A.  Don't repost huge chunks of articles.  Make people go look up the 
+original posting.
+
+B.  Don't post as often or at length. Short, infrequent postings will
+have more impact anyway.
+
+C.  Be terse.
+
+The advantages to this approach are:
+
+1.  If it works, nothing "official" has to change. We all get to 
+keep posting, AND the backbone sites' overhead goes down.
+
+2.  It's in the spirit of free and open communication combined with
+individual responsibility, a spirit that is rare and wonderful and
+well worth preserving. 
+
+3.  If it works, it would probably also cut traffic (hence costs) on the
+groups that aren't being proposed for talk.xyz.  
+
+4.  If it doesn't work, the backbone will get much less flack
+over making the talk.xyz change, because users will realize
+that the backbone has given the net every opportunity to clean up its act.
+So it's really a no-lose situation for the backbone. 
+
+5.  If we don't try it, the groups that get converted to talk.xyz will
+probably die.  It's very much in the best interest of people using the
+non-technical groups to regulate ourselves.
+
+Any comments, anyone?
+
+-- 
+_____________________________________________________________
+The views expressed here are my own.  Really.  
+Steve Homer   {hplabs,amd,pyramid,ihnp4}!pesnta!valid!steve        
+
+-----------------------------------------------------------------
+
+king@kestrel.UUCP
+05/25/86
+Has anybody determined how much volume would be reduced if there were a
+protocol that would allow messages to incorporate pieces of other
+messages by references?  Something like 
+<here goes lines 123-178 of <2139@cbosgd.UUCP>, reindented by ">> ">
+(placed in an outgoing message which would have a header line
+Incorporations: <2139@cbosgd.UUCP>
+which would be inserted by the operation that includes the text of the
+original.)  My feeling is that the reduction would be considerable in
+exactly those groups that have a problem.  After all, the people who
+send these messages are a small group with finite typing speed.
+
+Such inclusions could be found fairly quickly by hashing each line of the
+outgoing message and of potential inclusions on the last 40 characters of
+the line.  A simple scheme to find these things could be used, since
+there is no motivation to dodge the mechanism.
+
+comments?
+
+-----------------------------------------------------------------
+
+laura@hoptoad.UUCP
+05/25/86
+Why reorganise anything?  Currently, if you don't like paying for net.abortion,
+net.misc, net.motss and so on you can edit your /usr/lib/news/sys file.
+
+Mine looks like this now:
+
+	ME:all:
+	ptsfa:net,mod,na,usa,ba,ca,fa,to.ptsfa:F:/usr/spool/batch/ptsfa
+	well:net,mod,na,usa,ba,ca,fa,to.well:LF:/usr/spool/batch/well
+	sun:net,mod,na,usa,ba,ca,fa,to.sun:L:
+	lll-crg:ba,ca,to.lll-crg:F:/usr/spool/batch/lll-crg
+	lll-crg:net,mod,na,usa,ba,ca,fa,to.lll-crg:LF:/usr/spool/batch/lll-crg
+	proper:net,mod,na,usa,ba,ca,fa,to.proper:L2F:/usr/spool/batch/proper
+	rtech:ba,ca,to.rtech:F:/usr/spool/batch/rtech
+	rtech:net,mod,na,usa,ba,ca,fa,to.rtech:LF:/usr/spool/batch/rtech
+	
+And Henry Spencer's and Greg Woods' probably look like:
+
+	ME:all,!net.abortion,!net.misc,!net.philosophy
+
+and so on.  I went on vacation and was worried that the disk would overfill, and
+so had this set up for a while.  
+
+So the idea that we need to reorganise the net to keep sites from having to pay
+for groups which they do not want to receive is bogus.  Anybody who does not
+want to receive groups can already set things up to not receive them.  What it
+does do is to make it easier for people to not recieve groups which *other 
+people* have decided that *they should not want to get*.  And this is a step
+in the wrong direction.   For some reason, some people have an idea that it
+would be better if my site kept receiving net.sports.all and net.music.all
+(which, the last time I looked, nobody on this site has been reading for months)and stopped getting net.religion which people here *are* reading.  Consistency
+is the buzz-word here.  But the question remains -- of what value is 
+consistency?  Of course, questions of value are primarily philosophical and
+religious questions, so, naturally, a lot of the people whom I think should
+be asking themselves these questions are uninterested in them.
+-- 
+Laura Creighton		
+ihnp4!hoptoad!laura  utzoo!hoptoad!laura  sun!hoptoad!laura
+toad@lll-crg.arpa
+
+-----------------------------------------------------------------
+
+friesen@psivax.UUCP (Stanley Friesen)
+05/28/86
+(message was not found)
+
+-----------------------------------------------------------------
+
+king@kestrel.UUCP
+05/29/86
+(message was not found)
+
+-----------------------------------------------------------------
+
+robertv@tekla.UUCP (Robert Vetter)
+05/31/86
+(message was not found)
+
+-----------------------------------------------------------------
+
+franka@mmintl.UUCP (Frank Adams)
+06/02/86
+(message was not found)
+
+-----------------------------------------------------------------
+
+ph@wucec2.UUCP
+06/09/86
+(message was not found)
+
+-----------------------------------------------------------------
+

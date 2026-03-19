@@ -1,0 +1,25 @@
+leaving BBN...
+sdyer@bbncc5.UUCP (Steve Dyer)
+12/28/85
+Effective January 3, 1986, I will no longer be employed by BBN, and will be
+working in the Boston area as a private consultant in the areas of
+networking, communications, and UNIX and PC development.  Through the
+largesse of Harvard, my alma mater and first contract, I can be reached at
+"dyer@harvard.harvard.edu", aka "dyer@harvard.UUCP", at least for the next
+few months (until my own XENIX box is up and running.)  "sdyer@harvard"
+should work as well.
+
+Mail sent to BBN will be forwarded to me, as will mail sent to the moderated
+group "mod.motss", "motss@bbncca".  A permanent mail site for this group
+is yet to be arranged.
+
+I can be reached by phone at (617)-491-1648.
+
+
+-- 
+/Steve Dyer
+dyer@harvard.harvard.edu
+harvard!dyer
+
+-----------------------------------------------------------------
+

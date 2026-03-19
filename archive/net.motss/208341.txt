@@ -1,0 +1,37 @@
+New private BBOARD system
+jsol@mit-eddie.UUCP (Jon Solomon)
+10/28/83
+As of this week, I have started running a new BBOARD service for
+general use by Boston-area people with access to a modem/terminal.
+I welcome members of the MOTSS news group to form a discussion
+board on the system; here's how to access it:
+
+ - Dial (617) 338-4033.  You can use any baud rate from 110 thru
+    1200; both 1200 protocols are supported.
+ - After getting carrier (it will answer within 3 rings unless it's
+    down for maintenance), type RETURN to auto-baud.
+ - Select a pseudonym ("handle") you would like as a user name.
+    If it hasn't already been used, it will offer to give you a
+    new account.
+ - It will let you enter a password, and also optionally some
+    personal information like full name, address, etc.  You can
+    provide any or all of this info as you wish.  Anonymity is
+    guaranteed, but remember this info is available to any other
+    user of the system.
+ - After logging in, feel your way around using the HELP command.
+    There are several bboards currently existing, new ones will
+    be created once I get a bigger base of users.
+ - Suggestions are welcome by posting a message in the "suggestions"
+    file.
+ - The gay discussion bboard is private.  In order to access it,
+    simply post a message in the "suggestions" file requesting
+    access to it.  (I don't want randoms to just dial in and type
+    random trash into it...)
+
+					happy bboarding,
+
+
+					rich braun (RKB@MIT-MC)
+
+-----------------------------------------------------------------
+

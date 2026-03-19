@@ -1,0 +1,56 @@
+Terminology
+bothner@Shasta.ARPA
+04/25/85
+I find the usage of the terms "homosexual", "bisexual" and "gay"
+somewhat confusing; perhaps we could get some discussion on this.
+
+Let us start with the Kinsey scale, which I think is 1 for "only
+attracted to members of the opposite sex", and 6 for "only attracted
+to members of the same sex". We might then say that people in the
+range 1.0 .. 1.0+epsilon (for some epsilon) are straight, people
+in the range 6.0-epsilon .. 6.0 are gay, and people between are bi.
+ 
+(Of course I realize it is pointless to assign individuals precisely
+on such a scale.)
+
+The problem is that depending on speaker and context, people (implicitly)
+use values of epsilon ranging from very small (close to 0) to very
+large (upto 2.5).
+
+This can be somewhat confusing. To complicate the matter: it seems
+there are all kinds of  political and moral assumptions tied up with
+one's liguistic usage (as is often the case). I can understand why
+one would want to discourage discussion about causes, choices and
+changing of sexual preferences (it's pointless, and tends to encourage
+the religious fanatics to start spouting their talk about "willful
+sinning"). But doing so tends to gloss over that perhaps people's
+sexual orientations aren't necessarily 100% fixed or absolute.
+
+After all, there \are/ people who identify themselves as gays, but
+have previously dated, slept with, or married motos. While there
+might usually be some element of fear of condemnation (from self
+or others), there could also be an element of uncertainty, lack of
+self-knowledge or just inexperience. It might seem reasonable
+to describe (some?) such people as bisexual, even though at a later
+period of their lives, they stick to motss.
+
+Other issues:
+
+I get the impression that it is appropriate to apply "homosexual"
+when talking about preferences or activities, and "gay" when
+talking about lifestyles and identification. Is this common usage?
+Or is it just that "gay" is the Polically Correct word in either
+context. Does it make sense it say that someone might be both gay
+and bi?
+
+Sometimes "gay" and "homosexual" includes women, at
+other times people feel constrained to add "... and lesbian". This
+might have something to do with the whole tangled issue of "sexist
+language", but I would think that neither "gay" and "homosexual"
+are inherently gender specific. Here again, usage seems to vary.
+
+	--Per Bothner
+ARPA: Bothner@su-score	UUCP: ..{decwrl,ucbvax}!shasta!bothner
+
+-----------------------------------------------------------------
+

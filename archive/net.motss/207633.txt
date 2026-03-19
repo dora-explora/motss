@@ -1,0 +1,77 @@
+AIDS virus and monkeys
+kgdykes@watbun.UUCP
+04/16/85
+(Partially reprinted without permission...)
+
+ BOSTON (AP) - A virus almost identical to the germ generally thought
+  to cause AIDS had been found in monkeys, and some scientists believe
+  it will provide an important new tool for developing a vaccine to
+  control the epidemic of the fatal disease.
+    The latest discover also supports a theory that AIDS - Acquired
+  Immune Deficiency Syndrome - began as a disease of monkeys and only
+  recently spread to people.
+    Scientists at the New England Regional Primate Centre identified
+  the virus in macaque monkeys.  The animals were afflicted with
+  monkey AIDS, a disease that mirrors AIDS in people.
+    American experts believe that human AIDS is caused by a virus called
+  HTLV-III, for Human T-cell Lymphotropic Virus type three, and they've
+  named the new monkey virus STLV-III, for simians.
+    "Clearly we have, for the first time, a virus that looks and acts
+  like HTLV-III, than clearly can infect and be isolated from animals
+  other than humans," said Dr. Norman Letvin of the primate centre.
+    Scientists from the Harvard School of Public Health have discovered
+  that the monkey AIDS virus appears to be common among a species called
+  the African green monkey that lives in central Africa.
+    "We hypothesize that the African greens gave the virus to people
+  in the region where the disease originated," probably within the last
+  10 to 50 years, said Dr. Max Essex, an AIDS researcher at Harvard.
+    Although STLV-III is fatal to macaque monkeys, it apparently is not
+  dangerous to the African green monkeys, which are a separate species.
+  About 70 per cent of the green monkeys tested showed evidence in their
+  blood of exposure to the virus, yet they were healthy.
+    "They have clearly evolved to control the virus so it doesn't kill
+  them," said Essex.  "The mechanism that they've evolved will probably
+  be an important clue to understanding vaccine development."...
+ 
+ 
+[Clearly the<>
+
+-----------------------------------------------------------------
+
+kgdykes@watbun.UUCP
+04/16/85
+ BOSTON (AP) - A virus almost identical to the germ generally thought
+  to cause AIDS has been found in monkeys, and some scientists believe
+  it will provide an important new tool for developing a vaccine...
+    The latest discovery also supports a theory that AIDS...
+  ... began as a disease of monkeys and only recently spread to people.
+    Scientists at the New England Regional Primate Centre identified
+  the virus in macaque monkeys.  The animals were afflicted with
+  monkey AIDS, a disease that mirrors AIDS in people.
+    American experts believe that human AIDS is caused by a virus called
+  HTLV-III, for Human T-cell Lymphotropic Virus type three, and they've
+  named the new monkey virus STLV-III, for simians.
+    "Clearly we have, for the first time, a virus that looks and acts
+  like HTLV-III, that clearly can infect and be isolated from animals
+  other than humans," said Dr. Norman Letvin of the primate centre.
+    Scientists from the Harvard School of Public Health have discovered
+  that the monkey AIDS virus appears to be common among a species called
+  the African green monkey that lives in central Africa.
+    "We hypothesize that the African greens gave the virus to people
+  in the region where the disease originated,"...
+  ... said Dr. Max Essex, an AIDS researcher at Harvard.
+    Although STLV-III is fatal to macaque monkeys, it apparently is not
+  dangerous to the African green monkeys, which are a separate species.
+  About 70% of the green monkeys tested showed evidence in their
+  blood of exposure to the virus, yet they were healthy.
+    "They have clearly evolved to control the virus so it doesn't kill
+  them," said Essex.  "The mechanism that they've evolved will probably
+  be an important clue to understanding vaccine development."...
+ 
+         - Ken Dykes
+           Software Development Group, U. of Waterloo
+           Waterloo, Ontario, Canada.  N2L 3G1
+           {clyde,utzoo}!watmath!water!watbun!kgdykes
+
+-----------------------------------------------------------------
+

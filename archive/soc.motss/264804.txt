@@ -1,0 +1,59 @@
+What to do about Offensive Person in Random Newsgroup
+fair@ucbarpa.Berkeley.EDU (Erik E. Fair)
+01/03/88
+Once upon a time, there was a computer network created by a set of
+like-minded UNIX Wizards, to exchange technical information about
+UNIX, and thus make their lives easier. Once the network grew to be
+about 100 sites, its existence was assured, since it was big enough
+that no one site failure could kill it.
+
+Of course, the network continued to grow. Finally, one day, someone
+expressed an opinion, and lo! there was disagreement, for the
+network had grown so large as to encompass a representative sample
+of the population of the U.S. (and a few other places) and thus
+there were many people with many differing beliefs and opinions on
+the network, all just itching to convert the others to their
+particular point of view.
+
+Rather than attempting to censor those they disagreed with (which
+is impossible given the technology on which the network is built),
+the Net Gods (as those who do not understand call those who work
+hard in the shadows to keep the network running smoothly) decided
+to apply the experience one gains when one walks Sproul Plaza at
+the University of California at Berkeley during the noon hour.
+There are many people there who wish to convert you to their point
+of view: evangelists, moonies, atheists, ROTC's, communists, gays,
+straights, blacks, whites, yellows, etc.
+
+The most enduring thing that one learns from walking though Sproul
+Plaza is that the worst thing you can do to a preacher (of whatever
+point of view) is to ignore him. To ignore someone is to deny their
+existence, and in denying their existence, you do them more grievous
+harm than rising to their bait (with whatever caustic words you
+can think of) would ever do.
+
+What I suggest (since I can't take any positive action myself) is
+that you convince the readers of [Random Newsgroup] to agree not
+to rise to the bait offered by people whom you find offensive. If
+you all ignore [Offensive Person] utterly, I predict that s/he will
+rant on for a little longer, and then leave you in peace.
+
+Unfortunately, there are many people in the world who have not
+walked Sproul Plaza during the noon hour, and have not therefore
+learned this important lesson. Thus the preachers of the world will
+always have fodder for their pulpits, no matter how rediculous they
+sound.
+
+Of course, we of the net have one advantage over others:
+
+	when it all gets you down, remember:
+		it's only ones and zeros.
+
+	Erik E. Fair	ucbvax!fair	fair@ucbarpa.berkeley.edu
+
+P.S.	Also, never forget that "rn" gives you the power to ignore
+	[Offensive Person] without thinking beyond the agreement to do so.
+	Imagine: automated network ostracism!
+
+-----------------------------------------------------------------
+

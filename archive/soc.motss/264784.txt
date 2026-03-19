@@ -1,0 +1,15 @@
+UUCP traffic, news and mail lost on spdcc.COM
+dyer@spdcc.COM (Steve Dyer)
+09/25/89
+/usr/spool had a catastrophic disk crash last night, and was a total loss.
+Any mail sent to or thru spdcc.com on Saturday was very likely lost.
+For myself, any mail sent after Saturday night until late Sunday afternoon
+was unread and lost in the crash.
+
+-- 
+Steve Dyer
+dyer@ursa-major.spdcc.com aka {ima,harvard,rayssd,linus,m2c}!spdcc!dyer
+dyer@arktouros.mit.edu, dyer@hstbme.mit.edu
+
+-----------------------------------------------------------------
+

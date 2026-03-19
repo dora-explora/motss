@@ -1,0 +1,55 @@
+We're everywhere
+mason@pneuma.DEC
+02/08/85
+In view of the fact that this net file has gotten a little heavy lately,
+I thought this might cheer us all up....I know I had a good laugh from
+it. :-}
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+RSX-11M-PLUS update E was put on hold in the SDC earlier this week. The
+reason? A problem a customer found with the update documentation. Seems that
+his copy, in lieu of a back cover, had a sheet of question cards from
+"Gay Trivia".
+
+Here are the questions we can remember from the card:
+
+	Whose mother said "My son couldn't be gay, it's against
+	his religion"?
+
+	What time do the bars close in New York?
+
+	Who is the official mascot of Gay Trivia?
+
+I, uh, had to look up all the answers on the back of the card. Well, I may
+have known when the bars close.
+
+
+	Is there any explanation on how that might have happened?
+
+	I'll <WAG> on the mascot question: Liberace
+
+
+Liberace is not correct.
+
+Apparently the vendor of the covers also prints Gay Trivia, and a few pieces
+of cardboard got slipped. Just think of the bunch who opened up their gay
+trivia game only to find RSX-11M-PLUS update notes.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Has anyone out there played this game?  Any fun?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+****andrea***
+
+UUCP:  decwrl!dec-rhea!dec-pneuma!mason
+ARPA:  mason%pneuma.DEC@decwrl.ARPA
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Happy Valentine's Day....                                              ~			  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-----------------------------------------------------------------
+

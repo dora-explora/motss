@@ -1,0 +1,64 @@
+AIDS Breakthrough
+jgpo@iwu1c.UUCP (John, KA9MNK)
+04/24/84
+Researchers at the National Cancer Institute announced today that they have
+identified what they believe to be the virus that causes AIDS.  A spokesman
+for the Institute said their results parallel those of a laboratory in France,
+and the two labs may get together to see if they have identified the same
+virus.
+
+Given this discovery, it is anticipated that there will be a blood test for
+AIDS available within six months (to be given initially to blood donors) and
+possibly an AIDS vaccine within two years.
+
+Good work, folks!
+
+
+
+	John Opalko
+	AT&T Bell Laboratories - Naperville, IL
+
+
+P.S.
+
+I may have the details wrong, because I just pulled the story off the 10:00
+news, but the one important fact is correct: AIDS may just have been conquered.
+
+-----------------------------------------------------------------
+
+dyer@wivax.UUCP (Stephen Dyer)
+04/24/84
+The discovery of the HTLV-3 virus (human T-cell leukemia virus, strain 3) 
+associated with AIDS patients *IS* a breakthrough, but one which presently
+has more promise for public health than for those striken with the disease.
+
+A couple of facts:
+
+1.) It has not yet been shown in vivo that HTLV-3 causes AIDS in experimental
+    animals.
+
+2.) It does seem to promise a screening procedure for blood and blood
+    products with a year or so.
+
+3.) Once HTLV-3 can be shown to cause AIDS in animals, it should then be
+    "easy" to start developing a vaccine (meaning 2-3 years away.)
+
+4.) Nothing mentioned in the reports addresses how to treat patients with
+    AIDS.  As always, an ounce of prevention is worth a pound of cure.
+-- 
+/Steve Dyer
+decvax!bbncca!sdyer
+sdyer@bbncca
+
+-----------------------------------------------------------------
+
+gary@rochester.UUCP (Gary Cottrell)
+04/24/84
+Obviously, AIDS has NOT "just been conquered". It may have been *identified*.
+This is not the same thing. Finding a safe vaccine is the next step. A *cure*,
+as with most viruses, is not in sight.
+
+gary cottrell
+
+-----------------------------------------------------------------
+

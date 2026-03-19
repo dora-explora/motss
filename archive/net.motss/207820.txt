@@ -1,0 +1,675 @@
+Massachusetts laws and court cases related to lesbians and gays
+wdoherty@mit-athena.ARPA (Will Doherty)
+11/13/84
+I don't know the exact reference on this information.  If you want it,
+call Larry Goldsmith, a reporter at Gay Community News in Boston at
+617-426-4469.
+
+
+A Survey of the Criminal Laws of the United States
+Affecting Homosexuals
+
+by Daniel Meyer, Esq.
+
+(This is the third installment of Dan Meyer's survey of the criminal
+laws relating to homosexuality in the various states.  We continue our
+review of the New England states with Massachusetts, which requires
+enough discussion to carry over into the discussion next month.--Editor)
+
+
+Massachusetts
+
+Massachusetts has not by statute decriminalized consensual sexual acts
+in private.  It *seems*, however, to have done so by judicial decisions
+that hold that, as a matter of statutory construction, the provisions of
+the criminal law against "deviant" sexual acts do not apply to such acts
+when committed in private between consenting adults.  The word "seems"
+is used because the decisions are not absolutely clear.
+
+1. The Question Whether Consensual Sexual Acts in Private Have Been
+Decriminalized.
+
+   A. The Statutes Prohibiting Deviant Sexual Acts.
+
+The pertinent statutes are of ancient origin, as their rather archaic
+language suggests, and are quoted here in full to show their extreme
+vagueness and generality (except for the sodomy statute) which required
+the courts, in order to save them from unconstitutionality for
+vagueness, to delineate the specific acts within their purview, and
+which afforded the courts the opportunity to exclude from their reach
+consensual acts between adults in private.
+
+The statutes in question are contained in Chapter 272 of the General
+Laws of Massachusetts (G.L.c.272).  They read as follows (with emphasis
+supplied to indicate the particular language held to prohibit deviant
+sexual acts):
+
+S 16. Lascivious Cohabitation and Lewdness.
+
+A man and woman who, not being married to each other, lewdly and
+lasciviously associate and cohabitate together, or *a man or woman,
+married or unmarried, who is guilty of open and gross lewdness and
+lascivious behavior*, shall be punished by imprisonment in the state
+prison for not more than three years or in jail for not more than two
+years or by a fine of not more than three hundred dollars.
+
+S 34. Sodomy and Buggery.
+
+Whoever commits the abominable and detestable crime against nature
+either with mankind or with a beast, shall be punished by imprisonment
+in the state prison for not more than twenty years.
+
+S 35. Unnatural and Lascivious Acts.
+
+Whoever commits *any unnatural and lascivious act with another person*
+shall be punished by a fine of not less than one hundred nor more than
+one thousand dollars or by imprisonment in the state prison for not more
+than five years or in jail or the house of correction for not more than
+two and one half years.
+
+S 53. Common Night Walkers, Common Railers and Brawlers, etc.
+
+Common night walkers, both male and female, common railers and brawlers,
+persons who with offensive and disorderly act or language accost or
+annoy persons of the opposite sex, *lewd, wanton and lascivious persons
+in speech or behavior*, idle and disorderly persons, prostitutes,
+disturbers of the peace, keepers of noisy and disorderly houses and
+persons guilty of indecent exposure may be punished by imprisonment in a
+jail or house of correction for not more than six months, or by a fine
+of not more than two hundred dollars, or by both such fine and
+imprisonment.
+
+   B. The Cases Decriminalizing Consensual Acts in Private.
+
+(1) Cases Under G.L.c.272, S 35.
+
+The leading case is *Commonwealth v. Balthazar*, 318 N.E.2d 478 (Mass.
+1974).  There, the complainant, a woman who had accepted a ride in the
+defendant's car, charged that he had compelled her by threats to commit
+fellatio on him and to put her "tongue on his backside."  The defendant
+was convicted of committing an "unnatural and lascivious act with
+another person" under G.L.c.272, S 35.  He argued on appeal that the
+statute was unconstitutionally vague in not specifying the particular
+acts to which it applied and also that the trial judge should have
+instructed the jury that consent by the victim would bar a conviction
+under S 35.
+
+The Supreme Judicial Court (SJC) affirmed the conviction holding that S
+35 was not unconstitutionally vague as applied to the case because,
+according to the Court, both earlier court decisions and contemporary
+community standards sufficiently apprised the defendant that the
+particular acts of which he was accused were considered "unnatural and
+lascivious" within the meaning of S 35.  "By compelling the victim to
+put her mouth on his genitals and on his buttocks or anus, the defendant
+sought sexual gratification in a manner which," according to the court,
+"deviated from accepted conduct in the community." 318 N.E.2d at 482.
+
+The SJC went out of its way, however, in what was strictly speaking a
+*dictum*, but a *dictum* that seems to have evolved into settled law, to
+declare that, in the light of contemporary community values, "...we
+conclude that S 35 must be construed to be inapplicable to private
+consensual conduct of adults.  We do so on the ground that the concept
+of general community disapproval of specific sexual conduct, which is
+inherent in S 35, requires such an interpretation.  We do not decide
+whether a statute which explicitly prohibits specific sexual conduct,
+even if consensual and private, would be constitutionally infirm." 318
+N.E.2d at 481.  The court did not express any opinion on the question
+whether S 34, the sodomy statute, which explicitly prohibits specific
+sexual conduct but does not, to be sure, expressly prohibit such conduct
+when consensual and private, could be limited by statutory construction
+to exclude consensual acts between adults in private.
+
+The SJC's declaration that S 35 is inapplicable to consensual acts in
+private would seem to have supported the defendant's claim that the
+trial judge erred in failing to instruct the jury that the victim's
+consent would bar a conviction under that section.  The SJC held,
+however, that even assuming the acts in question occurred in private,
+the defendant was precluded from asserting the defense of consent in the
+SJC because he had failed at the trial to request such an instruction or
+to take exception to the trial judge's failure so to charge.
+
+Thereafter, the defendant sought habeus corpus in the federal courts on
+the ground that S 35 was unconstitutionally vague.  *Balthazar v.
+Superior Court*, 428 F.Supp.425 (D.Mass. 1977), *aff'd*, 573 F.2d 698
+(1st Cir. 1978).  The district court granted the writ and reversed the
+conviction, and was affirmed on appeal.  Those decisions were based on a
+finding that although the SJC had narrowed the scope of S 35 by
+excluding from its reach private consensual conduct, the section was
+nevertheless unconstitutionally vague at the time of the defendant's
+alleged acts because its broad and general language had not been defined
+specifically to apply to the conduct complained of.  However, the
+district court declared (428 F.Supp. at 434):
+
+	The court is not willing, however, to hold that Mass.
+	Gen.Laws ch. 272, S 35 is invalid today merely because
+	it was unconstitutional as applied to petitioner in
+	July of 1972.  Much has transpired in the courts of 
+	the Commonwealth since the date of the petitioner's
+	alleged conduct, which  has lent specificity and meaning
+	to a once ambiguous statute.  The most significant
+	occurrence came in *Commonwealth v. Deschamps*,
+	294 N.E.2d 426 (Mass.App.Ct. 1972), where fellatio was
+	held to constitute an unnatural act.  Other recent
+	cases have definitively applied S 35 to specific
+	conduct.  *Commonwealth v. LaBella*, 364 Mass. 550,
+	306 N.E.2d 813 (1974) (applying S 35 to cunnilingus).
+	Furthermore, as was previously discussed, S 35 was
+	significantly altered by the Supreme Judicial Court's
+	opinion in *Balthazar*, limiting the statute's
+	reach to non-consensual conduct.  The clear impact
+	of these decisions was to put the public on notice
+	that S 35 forbids specific types of non-consensual
+	sexual conduct, including fellatio.
+
+In *Commonwealth v. Reilly, 363 N.E.2d 1126 (Mass.App. 1977), the court,
+citing *Balthazar*, squarely held that "consensual conduct in private
+between adults is not prohibited by... S 35..." and that the refusal of
+the trial judge so to charge constituted reversible error.  *See also,
+Commonwealth v. Scagliotti*, 371 N.E.2d 726 (Mass. 1977).
+
+
+(2) Cases Under G.L.c.272, SS 16 and 53.
+
+In *Commonwealth v. Templeman*, 381 N.E.2d 1300 (mass. 1978), the agreed
+facts, based largely on the testimony of the victim, were that the
+defendant had intercourse at home with his 16 year old stepdaughter.
+According to her testimony, she has has intercourse with the defendant
+on a number of prior occasions but had never participated willingly or
+consented.  The defendant was prosecuted for rape,  for "open and gross
+lewdness and lascivious behavior" under S 16 and for being a "lewd,
+wanton and lascivious person in speech or behavior" under S 53.  He was
+acquitted of rape, but convicted under SS 16 and 53.  On appeal, the
+defendant argued that he was convicted on duplicitous indictments and
+that the charge under S 16 should therefore be dismissed.  He also urged
+that the S 53 charge should be dismissed as unconstitutionally vague.
+
+The SJC held that, although S 53 can apply to sexual conduct, "...if
+sexual acts for hire are not involved, there must be conduct that is
+'public'..." 381 N.E.2d at 1303.  Consequently, it reversed the
+conviction under S 53.  However, it affirmed the conviction under S 16
+saying: "No argument is made that there was any error in the conviction
+of 'open and gross lewdness and lascivious behavior' under G.L.c.272, S
+16, except for the claim that the two indictments were duplicitous.  The
+history of S 16 is quite separate from that of S 53, and our cases give
+adequate warning that S 16 could be applied to conduct like that of the
+defendant." 381 N.E.2d at 1304.  The court then cited *Commonwealth v.
+Lucas*, 126 N.E.2d 804 (Mass. 1955), in which a defendant was convicted
+of open and gross lewdness and lascivious behavior for committing a
+sexual act in private with his daughter, less than 14 years of age, and
+*Commonwealth v. Wardell*, 128 Mass. 52 (1880), in which a defendant was
+convicted of open and gross lewdness and lascivious behavior for
+exhibiting his "private parts" in a private house, not his own, in the
+presence of an 11 year old girl and a child of 4.  After citing *Lucas*
+and *Wardell*, the court in *Templeman* went on to say: "Contrast
+*Commonwealth v. Catlin*, 1 Mass. 8, 9-10 (consensual conduct of adults
+in private)." 381 N.E.2d at 1304.  In *Catlin*, the appellate court
+reversed the conviction of a married man for open and gross lewdness and
+lascivious behavior for lying in bed in private with a woman who was not
+his wife on the ground that "...*secret and private lewdness* and
+lascivious behavior...cannot in any degree support the charge in the
+indictment." (Emphasis in original; 1 Mass. at 10.)
+
+The question that concerns us is whether the affirmance of the
+defendant's conviction under S 16 in *Templeman* is a holding or even an
+indication that the prohibition in that section against "open and gross
+lewdness and lascivious behavior" covers consensual acts between adults
+in private.  The following factors in the case suggest that S 16 might
+be construed to cover such acts: First, the court's decision dismissing
+the conviction under S 53 was a square holding that the incident
+occurred in private.  Second, the acquittal on the rape charge shows
+that the jury found that the victim consented in fact.  Third, the
+victim was 16 years old and, accordingly, capable of effectively
+consenting to "normal" sexual intercourse, which is all that seems to
+have occurred in this case.  (See G.L.c.265, S 23, and discussion below
+regarding the question of consent.)  Other factors, however, indicate
+that the affirmance of the conviction under S 16 does not mean that
+consensual acts between adults in private are within the reach of that
+section: First, the primary ground for the affirmance of the S 16
+conviction was that"...no argument is made that there was any error in
+the conviction...except for the claim that the two indictments were
+duplicitous..." 381 N.E.2d at 1304.  Second, after citing *Lucas* and
+*Wardell*, in which the victims were under the age of 14 and, in once
+[sic] case, the defendant's daughter, the court "contrasted" the
+*Catlin* case, stating that it involved "consensual conduct of adults in
+private."
+
+The opinion in *Templeman* is rather muddled.  A reasonable explanation
+of it seems to be that the court, without expressly saying so, was moved
+by the relationship between the actor (father) and the victim (16 year
+old stepdaughter) (See Model Penal Code, S 213.3(1)(b)), and that the
+decision, insofar as it may hold that S 16 can apply to sexual acts in
+private where there has been consent in fact, does not go beyond the
+particular facts of the case, namely, a situation where the victim is
+young and where, in the words of the Model Penal Code, the actor "...is
+his guardian or otherwise responsible for general supervision of his
+welfare..."  So viewed, the holding in *Templeman* in affirming the S 16
+conviction is simply that, in view of the ages and relationship of the
+parties, consent in fact did not constitute effective consent as a
+matter of law.  The court's failure to base its decision expressly on
+this ground is easily understood; for, had it done so, the defendant
+could have raised the constitutional question that the broad language of
+S 16 had not been defined specifically to apply to the conduct
+complained of.  In accord in limiting the reach of S 53 to conduct
+committed in a public place is *Commonwealth v. Sefranka*, 414 N.E.2d
+602 (Mass. 1980).
+
+(3) The case under G.L.c.272, S 34.
+
+Section 34 has been construed to forbid anal intercourse and bestiality.
+*Commonwealth v. Gallant*, 369 N.E.2d 707, 714 (mass. 1977).  It seems
+on its face to apply broadly to all acts of anal intercourse, both
+public and private.  However, the SJC seems to have declared
+unequivocally that adult consent is a defense to a prosecution for
+sodomy in private.  *Commonwealth v.Manning*, 328 N.E.2d 496 (Mass.
+1975).  In *Manning*, the defendant was convicted of rape, sodomy,
+unnatural and lascivious acts, and assault and battery.  Although the
+opinion of the SJC does not cite the particular sections of the law
+under which the defendant was convicted, it states that he was sentenced
+to a term of 5 to 7 years on the conviction for sodomy.  This means that
+the sodomy conviction must have been under G.L.c.272, S 34, because SS
+16, 35, and 53, the only other sections that might cover sodomy, provide
+for shorter maximum terms of imprisonment.
+
+In the appeals court in *Manning*, the defendant urged that the trial
+court had erroneously excluded evidence of the complainant's poor
+reputation for chastity.  The appeals court reversed the conviction for
+rape on the ground that the defendant's reputation for chastity was
+relevant to the question of her consent, but it upheld the convictions
+for sodomy and unnatural acts on the ground that the excluded testimony
+bore only on the question of consent, not veracity.  The SJC reversed
+the convictions for sodomy and unnatural acts on the ground that if the
+evidence of complainant's poor reputation for chastity had persuaded the
+jury that rape did not take place and that the complainant had testified
+falsely as to that, the jury might well have disbelieved the complainant
+in her further uncorroborated testimony that sodomy and unnatural acts
+had occurred.  The Court concluded as follows (328 N.E.2d at 501):
+
+	Disposing of the case as we do, we need not go into any
+	phase of the defendant's second contention, that, since
+	our recent decision in Commonwealth v. Balthazar,
+	318 N.E.2d 478 (1974), interpreted the unnatural acts
+	statute to admit adult consent as a defense, reversal
+	of his conviction is now required because the excluded
+	evidence of the complainant's poor reputation for
+	chastity was directly relevant in refuting the charges
+	of sodomy and unnatural acts.  *While the consent 
+	defense will be open to the defendant on a retrial*, we
+	do not now undertake to decide whether a poor reputation
+	for chastity, as distinguished from a reputation
+	for engaging in the particular acts charged, is
+	admissible to show consent as a defense to a charge
+	of sodomy or unnatural acts. [Emphasis supplied]
+
+
+C. Conclusion
+
+It has been squarely held that the prohibition in G.L.c.272, S 35,
+against "unnatural and lascivious acts" and the penalties imposed by S
+35 upon "lewd, wanton and lascivious persons in speech or behavior" do
+not apply where the acts in question are consensual and in private.  The
+exclusion of private consensual acts from the reach of S 16 ("open and
+gross lewdness and lascivious behavior") and of S 34 (sodomy) is not
+quite so certain but seems highly probable.  On balance, it seems safe
+to say that sexual acts between consenting adults in private have been
+decriminalized in Massachusetts.
+
+[Here is the second part of what I received from Larry--WD]
+
+(This is the fourth installment of our survey of criminal laws of the
+United States affecting gay men and lesbians.  We continue our
+discussion of the laws of Massachusetts.  Next month, we will deal with
+the laws of New Hampshire.--Ed.)
+
+
+Massachusetts
+(Part II)
+
+II. Consent
+
+    A. The Age Below Which Actual Consent Does Not Constitute Effective
+Consent.  The statutes are inconsistent.  GLc.265. S 23 provides:
+
+Rape of Child.  Whoever unlawfully has sexual intercourse or unnatural
+sexual intercourse, and abuses a child under sixteen years of age shall,
+for the first offense, be punished by imprisonment in the state prison
+for life or for any term of years, or, except as otherwise provided, for
+any term in a jail or house of correction, and for the second or
+subsequent offense by imprisonment in the state prison for life or for
+any term of years, but not less than five years.
+
+GLc.272, S 35A provides:
+
+Unnatural, etc., Acts with Child Under Sixteen.  Whoever commits any
+unnatural and lascivious act with a child under the age of sixteen shall
+be punished by a fine of not less than one hundred dollars nor more than
+one thousand dollars or by imprisonment in the state prison for not more
+than five years or in jail or the house of correction for not more than
+two and one half years, and whoever over the age of eighteen commits a
+second or subsequent offence [sic] shall be sentenced to imprisonment in
+the state prison for a term of not less than five years.
+
+GLc.272, S 4 provides:
+
+Enticing to Unlawful Intercourse.  Whoever induces any person under
+eighteen of chaste life to have unlawful sexual intercourse shall be
+punished as provided in the preceding section.  [I.e., imprisonment for
+not more than three years or fine not to exceed one thousand dollars, or
+both.]
+
+
+The general provisions of law defining "minority" and "majority" provide
+that a person under 18 is a minor and becomes an adult at 18 (GLc.4, S
+7, defs. 48-51).  Relying on these general provisions and apparently on
+the Supreme Judicial Court's (SJC) use of the word "adults" in *C. v.
+Balthazar*, the court in *C. v. Fleurant*, 372 N.E.2d 542 (Mass.App.
+1978), held that "minors," i.e., persons under 18, are presumed to be
+incapable of giving consent to unnatural and lascivious acts and that,
+therefor, where all the victims of the various offenses for which the
+defendant was convicted were under 18, it was not necessary to reach the
+question whether the acts were committed in private.  As the prosecution
+was under GLc.272, S 35A (the only penal statute cited in the opinion),
+it is strange that the court held 18 to be the "age of consent" because
+S 35A only prohibits the proscribed conduct with person under 16.  The
+court did not mention S 4, which prohibits inducing persons under 18 to
+have unlawful sexual intercourse.  But in a prosecution under that
+section it would have to be proved that the victims were "of chaste
+life," an unlikely situation these days.
+
+In *C. v. Zeitler*, 389 N.E.2d 423 (Mass.App. 1979), a prosecution under
+GLc.272. S 35, the court was faced with the question whether a person 16
+or 17 years old can consent to an "unnatural act."  The court declared
+(at 427-28):
+
+	It is clear that a person under the age of sixteen
+	cannot give such consent (GLc. 272. S 35A) and that a
+	person who has attained the age of eighteen can.
+	GLc.4, S 7, forty-ninth... Despite our holding in
+	*C. v. Fleurant*... a majority of the panel are of the
+	belief that there is a serious question as to
+	whether it is the law that a person between sixteen
+	and eighteen who can consent to any of the panoply of
+	acts which constitute sexual intercourse...can also 
+	consent to those acts which have been or may be
+	classified as 'unnatural and lascivious' under
+	GLc.272. SS 35 and 35A..."
+
+The court certified this question to the SJC prior to a retrial of the
+case.  The defendant's prosecution under S 35 was thereafter dropped,
+the case motted, and the question left unanswered.
+
+
+    B. Other Circumstances Under Which Actual Consent Does Not
+Constitute Effective Consent.
+
+       1. Persons Under the Influence of Drugs.  It seems reasonably
+certain that the actual consent of a person under the influence of drugs
+or intoxicants administered by the actor would not constitute effective
+consent, pursuant to GLc. 272, S 3 (which includes a penalty of
+imprisonment for no more than three years in the state prison or two and
+one half years in the house of correction, or fine of not more than one
+thousand dollars, or by both).
+
+       2. Persons Under the Control of [sic--or] Domination of Others.
+No statute or cases have been found dealing explicitly with whether the
+actual consent to a sexual act of a victim who is under the control or
+domination of the actor (e.g., prisoner and guard) constitutes effective
+consent.  However, the decision in *C. v. Templeman, supra*, seems best
+explained as a holding, not expressly articulated, that the actual
+consent of the defendant's 16 year old step-daughter to sexual
+intercourse with him was not effective consent because of his dominant
+position with respect to her. (see Part I. Section B. para. 2. above)
+In what other areas the courts may hold that actual consents are
+ineffective where the consenting victim is under the domination of the
+actor is a matter of speculation.
+
+
+    C. Consent Under the Assault Statutes.
+
+It is clear that the  terms "unnatural sexual intercourse," "unnatural
+and lascivious acts" and "unlawful sexual intercourse" as used in
+GLc.265. S 23 and in c.272, SS 35A and 4, include sodomy, fellatio,
+cunnilingus, mouth to anal contact and "other intrusions [other than
+"normal" vaginal intercourse] of a part of a person's body or other
+object into the genital or anal opening of another person's body." (See:
+*C. v. Gallant*. 369 N.E.2d 707. 712. 714 (Mass. 1977); *C. v. Manning*,
+328 N.E.2d 496, 497, 499 (Mass. 1975); *C. v. Deschamps*, 294 N.E.2d 426
+(Mass. 1972); *C. v. LaBella*, 306 N.E.2d 813 (mass. 1974); *C. v.
+Balthazar*, 318 N.E.2d 478, 482 (Mass. 1974); *C. v. LaMay*, 369 N.E.2d
+1036 (Mass.App. 1977).)  Whether those terms as used in those statutes
+include other acts deliberately committed for sexual gratification, such
+as the touching of genital areas (hereinafter called "sexual contacts"),
+is not clear.  The court in *C. v. Zeitler* stated (389 N.E.2d at 427)
+that only the acts listed above fall within the terms "unnatural and
+lascivious" acts.  It is uncertain whether the same result would be
+reached in a case of sexual contacts between persons of the same sex.
+
+Whether such sexual contacts fall within the scope of GLc. 265, S 23 or
+c.272. SS 35, 35A, or 4, it appears that one who commits a sexual
+contact upon another in the absence of effective consent is guilty of
+assault and battery under c.265. SS 13A (Assault and Assault and
+Battery), 13B (Indecent Assault and Battery on Child Under Fourteen),
+13F (Indecent Assault and Battery on Mentally Retarded Person) or 13H
+(Indecent Assault and Battery on Person Aged Fourteen or Older).  These
+crimes are variously punishable by imprisonment for periods of two and a
+half to five years, or, in the case of S 13A, by a fine of not more than
+$500.
+
+In *C. v. Burke*, (Mass., 11/22/83, not yet reported), the defendant was
+prosecuted under S 13B and found guilty of assault and battery upon a
+female child under age 14.  The District Court, faced with what it
+considered the novel issue of whether evidence of the child's consent
+should be admitted as material upon retrial, reported this question to
+the SJC, among others: "Is lack of consent an element of the offense of
+indecent assault and battery on a child under the age of fourteen years
+proscribed by...S 13B..?"  In responding, the SJC summarized the law as
+follows:  (1) A physically harmful or potentially harmful touching is
+always a battery, and consent is immaterial;  (2) A non-harmful touching
+is a battery only if there was no consent;  (3) In a prosecution for
+assault and battery for a non-harmful touching, the Commonwealth bears
+the burden of proving absence of consent;  (4) S 13B does not establish
+age 14 as the "age of consent" below which actual consent is immaterial
+because ineffective, but merely provides a penalty for the nonconsensual
+touching of a person under 14 more severe than that provided for the
+nonconsensual touching of a person 14 or over;  (5) The capacity of the
+alleged victim to consent is a question of fact to be determined by the
+trier of fact.  In making such a determination, the age of the child is
+crucial, but other factors, such as intelligence, maturity and
+experience may be considered.
+
+Assuming that these principles would apply in a prosecution under S 13F
+for indecent assault and battery on a mentally retarded person, a nice
+question remains:  Would proof of mental retardation in any degree be
+sufficient, *ipso facto*, to establish the alleged victim's incapacity
+to consent effectively, or would it remain for the trier of fact to
+weigh the degree of mental retardation along with other relevant factors
+in determining the question whether actual consent was effective?
+*Burke* suggests that the alleged victim's capacity to consent
+effectively should be determined by the trier of fact on the basis of
+all relevant factors.
+
+The rule stated in *Burke* is well illustrated in *C. v. Appleby*, 402
+N.E.2d 1051 (Mass. 1980), in which it was held that actual consent of a
+sexual partner to an act of violence in an S&M relationship does not
+protect the actor from liability for assault and battery.  In *Appleby*,
+the defendant, one of two male sexual partners, hit his partner with a
+riding crop and, upon complaint of the victim, was prosecuted for
+assault and battery.  The defense was that the act was a sexual act in
+private to which the victim had consented and was therefore lawful under
+*Balthazar*.  In affirming the conviction, the SJC held (402 N.E.2d at
+1060-61): "The fact that violence may be related to sexual activity (or
+may even be sexual activity to the person inflicting pain on another as
+[the defendant] testified) does not prevent the State from protecting
+its citizens against physical harm.  The invalidity of the victim's
+consent to a battery by means of a dangerous weapon would be the same,
+however, whether or not the battery wa related to sexual activity."
+
+
+III. Privacy
+
+No statute has been found defining what is public and private, but the
+cases are illuminating.  The SJC stated the rule in general terms as
+follows:
+
+	The rationale of GLc.272. S 35 is to prevent the
+	open flouting of community standards regarding sexual
+	matters...  The statutory object is to prevent the
+	possibility that the defendant's conduct might give
+	offense to persons present in a place frequented by
+	members of the public for reasons of business,
+	entertainment or the like...  However, the statute is
+	not designed to punish persons who desire privacy
+	and who take reasonable measures to secure it...  The
+	essential query is whether the defendant intended
+	public exposure or recklessly disregarded a
+	substantial risk of exposure to one or more persons...
+	Conduct is not established as public merely because
+	another person observes the conduct...  The
+	Commonwealth must prove that the likelihood of being
+	observed by casual passersby must have been
+	reasonably forseeable by the defendant, or stated
+	otherwise, that the defendant acted upon an
+	unreasonable expectation that his conduct would
+	remain secret.  [*C. v. Ferguson*, N.E.2d 1365, 1367
+	(Mass. 1981)]
+
+In *Ferguson*, the defendant on a very cold night picked up a woman in
+his car and drove to the rear of a dark, public parking lot where the
+woman performed consensual fellatio upon him.  Police who observed the
+pick-up followed the defendant into the parking lot, shone a flashlight
+into the car, and arrested both persons.  The defendant was convicted
+under S 35 or committing an unnatural and lascivious act.  After
+reviewing in detail the evidence bearing on the question whether the
+defendant should reasonably have forseen that the conduct might be
+observed by casual passersby, the SJC concluded that the prosecution had
+failed to prove its case and gave judgement for the defendant.  Three
+justices dissented.  They agreed that "it is incumbent upon the
+Commonwealth to prove that the act occurred in a public place," but
+suggested "that there can be no reasonable expectation of privacy in a
+case like this where an automobile maneuvers in an urban area," and
+added "that the defendants similarly situated in future cases, may not
+take much comfort from the instant case, since it seems clear...that the
+majority opinion is suggesting that  the Commonwealth could have made
+its case with a few easily provable, added facts." 422 N.E.2d at 1369.
+
+In *C. v. Scagliotti*, 371 N.E.2d 726 (Mass. 1977), the defendant was
+convicted of the common law crime of soliciting a person to commit a
+felony, namely, an unnatural and lascivious act with another person
+under S 35.  The events took place in a "mini-movie" theater that
+exhibits sexually explicit films in small cubicles.  The defendant
+entered a cubicle where a detective was standing and offered to perform
+an "unnaturla act."  The cubicle accommodated two persons, and when its
+door was closed a red light warned other persons not to enter.  In
+reversing the conviction and remanding the case for a new trial, the SJC
+held that the trial judge had erred in instructing the jury that the
+cubicle was a public place as a matter of law, and declared:
+
+	A consensual unnatural act must be committed in a
+	public place in order to be punishable under...S 35...
+	The public nature of the consensual act is an
+	essential element to be proved by the prosecution...
+	[The] testimony [on the issues of whether the cubicle
+	in fact afforded privacy] was susceptible to
+	conflicting interpretations, and where inferences
+	might be drawn from the testimony upon a certain
+	point, the question must be submitted to the jury...
+
+371 N.E.2d at 727.
+
+
+IV. Solicitation
+
+The defendant in *C. v. Scagliotti* was convicted of soliciting another
+to commit an unnatural and lascivious act under S 35.  The SJC stated
+the issue before it to be simply "whether the defendant had offered to
+commit the act in a public place," and it held that if a jury found that
+the defendant's offer was to commit the act in a private place, the
+defendant could not be convicted.
+
+In *C. v. Sefranka*, 414 N.E.2d 602 (Mass. 1980), the defendant was
+convicted of being a "lewd, wanton and lascivious person in speech or
+behavior" in violation of c.272. S 53.  The undisputed facts were that
+the defendant, who had parked his car in a rest area of a public road,
+approached a plainclothes detective in an unmarked car in the rest area,
+and invited the officer to return with him to his house for oral
+copulation.  The officer refused to leave the rest area indicating that
+he wanted the sexual activity to take place there.  The defendant said
+it was not safe at the rest area and drove away, and was arrested soon
+after.  The SJC reversed the conviction on the ground that the "lewd,
+wanton and lascivious persons" provision "was unconstitutionally vague
+as construed by our past decision in effect at the time of the
+defendant's conviction."  It construed the provision "to prohibit only
+the commission of conduct in a public place, or the public solicitation
+of conduct to be performed in a public place, when the conduct committed
+or solicited involves the touching of the genitals, buttocks or female
+breasts, for purposes of sexual arousal, gratification, or offense, by a
+person who knows or should know of the presence of a person or persons
+who may be offended by the conduct." 414 N.E.2d at 608.
+
+It should be noted, however, that the provision of S 53 prohibiting
+"common night walkers, both male and female" was held to cover the
+solicitation of one who is abroad at night of people to have "illicit
+sexual intercourse" without in any way excluding the solicitation of
+acts to be conducted in private in the earlier case of *Thomas v. C.*,
+243 N.E.2d 821 (Mass. 1969).  Such pertinent facts as whether Thomas was
+convicted on the basis of one, a few or many solicitations, and whether
+the acts solicited were to be performed in private, do not appear from
+the opinion.  Since the decision in *Balthazar*, it seems unlikely that
+one could be convicted as a common nightwalker for one public
+solicitation for the commission of a sexual act in private where no
+compensation is to be paid by one party to the other (see section on
+prostitution, below).
+
+Also notable is *Riegle v. Terrazzi*, 417 N.E.2d 1227 (Mass.App. 1981),
+in which a reporter for Gay Community News (Boston) sought a preliminary
+injunction against a police campaign to suppress sexual activity in the
+men's room of the Boston Public Library.  The reporter alleged that the
+police had engaged in provocative sexual activity to entrap people, and
+that when plaintiff stood outside the men's room to get information for
+a news story, the police had ordered him away on threat of arrest.  The
+Appeal Court affirmed the denial of injunctive relief, stating that the
+record furnished no basis for finding abuse of discretion by the police.
+The court stated, however, that upon a more complete record "there later
+may be presented questions concerning a proper balance between  (a)
+protecting the access of Gay Community News to information of obvious
+interest to its readers, and  (b) proper police operations to suppress
+what may be either criminal activity (GLc.272, S 16) or an ongoing
+nuisance."  The court indicated that an adequate presentation of
+evidence ought to include "(a) the extent of any nuisance created by
+users of, or by misconduct in, the men's room of the Library;  (b) any
+specific misconduct, such as entrapment or provocation, or other
+inappropriate behavior, by the police...;  (c) whether... reporters
+could proceed with their operations without obstruction or embarrassment
+of proper police operations;...  (d) any unreasonable harm to Riegle or
+his employer." 417 N.E.2d at 1229.
+
+
+V. Prostitution
+
+The only statute that deals with prostitution is the provision of
+GLc.272, S 53 penalizing "common night walkers," prostitutes, etc.  In
+*C. v. King*, 272 N.E.2d 196 (Mass. 1977), female prostitutes convicted
+under this section appealed alleging the statute unconstitutionally
+discriminated against women because female prostitutes were prosecuted
+while male prostitutes and male customers of prostitutes were not.  The
+SJC affirmed the conviction on the ground that S 53 applies to male
+prostitutes as well as female prostitutes and that there was no evidence
+in the record of discriminatory enforcement.  It concluded that the law
+did not punish persons who hire or seek to hire another to engage in
+sexual activity but held that this did not violate the defendants'
+constitutional right to equal protection because "S 53 was designed to
+attack merely one phase of the problem," and "the legislature may select
+one phase of one field and apply a remedy there, neglecting others." 372
+N.E.2d at 203-04.
+
+VI. Penalties.  Penalties under those statutes which remain enforceable
+are as discussed in connection with each statute.
+
+
+[NOTE: Gay Community News reporter Larry Goldsmith informs me that since
+this document was originally written, the SJC wrote an opinion upholding
+c.272, S 14 (adultery): *C. v. Judith Stowell*.  The SJC also apparently
+ruled in favor of Burke in *C. v. Burke* (indecent assault and battery
+on child under 14-- G.L.c.265, S 13B).]
+
+-----------------------------------------------------------------
+

@@ -1,0 +1,56 @@
+Turing biography
+sdyer@bbncca.ARPA (Steve Dyer)
+11/14/83
+	This Sunday's NYT Book Review has a review of a new biography of Alan
+Turing, "Alan Turing: The Enigma", by Andrew Hughes (Simon & Schuster, $22.50).
+Doug Hofstadter reviews the book.  It's apparently the only substantial
+biography of Turing that has appeared in the thirty years since his death.  Here
+is an excerpt from the review (copied without permission):
+
+	"In the early 1950's, Turing's interest turned somewhat away from
+computers and mathematics and toward biology, and he might have looked
+forward to a long life pursuing his intellectual dreams.  But, as he got
+older, he also became increasingly vocal about his sexual preferences, often
+ignoring the advice of friends to be more cautious.  Turing's house was
+burglarized in 1952, and it was quickly clear to him that one of his
+occasional lovers was involved.  In the course of making depositions to the
+police, Turing revealed his homosexuality.  Instantly, the course of his life
+was irrevocably changed.
+
+	"At that time in Britain there was a movement to look upon homosexuality
+as a disease caused by hormone imbalances and physicians had proposed various
+"cures." Turing was found guilty of homosexuality and was sentenced to
+"treatment" rather than jail.  Regular injections of female sex hormones were
+given to him to quell his sex drive.  Turing did not want to try to use any of
+his connections in government or the academic world to mitigate his sentence and
+he simply endured it, growing breasts and being rendered impotent by the time
+the treatment ended in a year.
+
+	"The torment he endured, Mr. Hodges says, left permanent scars.
+For the next couple of years Turing appeared for the most part quite happy to
+his friends.  But one day in 1954, he prepared a cyanide-coated apple,
+just as he had once seen the wicked witch do in Walt Disney's "Snow White and
+the Seven Dwarfs."  Unlike her, he bit into his own apple, and he was found
+dead the next day.  He planned it in such a way that his mother would interpret
+it as an "accident with chemicals," but others knew better.  Although today
+all evidence strongly suggests that the machine known as Alan Mathison Turing
+halted itself of its own free will, the ultimate reason remains an enigma
+to us, an undecidable question."
+
+-----------------------------------------------------------------
+
+notes@ucbcad.UUCP
+11/19/83
+#R:bbncca:-30800:ucbesvax:32500005:000:405
+ucbesvax!turner    Nov 19 02:09:00 1983
+
+C. Lehman-Haupt's review of "Alan Turing: The Enigma" has been posted to
+net.ai.  The reviewer points out that it was the biographer's interest in
+repression of homosexuality that lead him to write a life of Turing.  CL-H
+seems to think that this element is consequently a bit overplayed.  (The
+whole review is a little condescending, but generally favorable.)
+---
+Michael Turner (ucbvax!ucbesvax.turner)
+
+-----------------------------------------------------------------
+

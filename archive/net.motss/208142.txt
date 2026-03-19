@@ -1,0 +1,11 @@
+test posting
+daemon@watmath.UUCP
+05/26/84
+Subject: test posting : net.motss
+
+Sorry about this not being in usual *.test group, but I can successfully (sic?)
+post to our local test group, but an article I submitted to net.motss
+about a week ago seems to have de-materialized.
+
+-----------------------------------------------------------------
+

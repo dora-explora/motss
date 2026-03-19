@@ -1,0 +1,36 @@
+If only he were alive today...
+notes@ucbcad.UUCP
+10/19/83
+#N:ucbesvax:32500002:000:852
+ucbesvax!turner    Oct 14 00:38:00 1983
+
+	A recent issue of New Scientist has an article about Alan Turing
+that brought to light some details of his life that I had not known about
+before.  One thing that he was a visionary computer architect.  He himself
+tended to play this down, since he was interested in computers by way of
+theory, and never formally published his (rather influential) designs.
+
+	Another, very tragic "detail": he died in disgrace, ousted from
+the intelligence technocracy that his ideas helped to create.  It seems
+that he was gay.  He was, in fact, prosecuted for his "perversion", and
+chose what is described in the article as "chemical castration" over
+serving time in prison.  This might have had something to do with his
+death, as well: he committed suicide not many years later.
+
+	He'd be about 70 now, if he had lived.
+---
+Michael Turner (ucbvax!ucbesvax.turner)
+
+-----------------------------------------------------------------
+
+shebs@utah-cs.UUCP (Stanley Shebs)
+10/23/83
+How interesting - I once tried to find out some details about Turing's
+life and death, and that fact was carefully suppressed... what some
+people won't do to force others to conform...
+
+							stan the l.h.
+							utah-cs!shebs
+
+-----------------------------------------------------------------
+

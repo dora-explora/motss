@@ -1,0 +1,34 @@
+net.motss ==> soc.motss
+dyer@spdcc.UUCP (Steve Dyer)
+10/07/86
+net.motss is no more.  Change your .newsrc entry to soc.motss if you want to
+continue reaching this newsgroup.
+
+Some of you are undoubtedly wondering why I'm posting this to what looks like
+soc.motss.  Actually, I'm posting it to net.motss in an attempt to reach those
+sites which haven't yet been affected by the name change.  We all know that
+motss netnews has been, um, a bit constipated lately, and we're trying to find
+out why.  One contributing factor, but certainly not the only one, is the fact
+that the software on the backbone and some other sites are automatically
+performing a 'sex change' on incoming net.motss news articles so that messages
+posted to net.motss are propagated down the line as soc.motss.  Since this
+has come without warning to a great number of readers who haven't yet subscribed
+to soc.motss, net.motss seems to have disappeared (and this in turn reduces
+the level of exchange in the new group.)  So, verb. sap. sat.: if you haven't
+already, PLEASE subscribe to soc.motss now, and make all future postings to
+soc.motss.  If you are having trouble because your news administrator hasn't
+set up soc.* groups on your machine, talk to her, or if you feel uncomfortable
+about doing this, send me a note and I'll do my best to get in touch with your
+system adminsitrator by mail (no guarantees of results, tho.)
+
+There are probably some other problems of connectivity which I'm trying
+to discover.  My best advise is to sit tight over the next week, but don't
+stop posting!  The more volume we have, the easier it is to find problems
+with connectivity.  That doesn't mean sending 'this is a test message'.
+-- 
+Steve Dyer
+dyer@harvard.HARVARD.EDU
+{linus,wanginst,bbnccv,harvard,ima,ihnp4}!spdcc!dyer
+
+-----------------------------------------------------------------
+

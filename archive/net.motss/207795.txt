@@ -1,0 +1,38 @@
+net.rights proposal
+rrizzo@bbncca.ARPA (Ron Rizzo)
+11/28/84
+Given the overwhelming success of net.abortion & net.origins
+in siphoning off abortion & origins debates from other newsgroups,
+I propose the creation of net.rights for all discussions of civil 
+rights & liberties, including legal & metalegal issues, such as:
+
+	laws & legislation
+	what is a right?  how many rights are there? when if ever
+		can they be denied, & to whom?  is there a right
+		to a job, a right to discriminate, etc.?
+	applications of any of the above issues to any groups,
+		nations, historical periods, belief systems, etc.
+
+I considered naming the newsgroup "net.soapbox" or "net.libertarian"
+but in the end thought the less invidious "net.rights" preferable.
+
+Once such a newsgroup is established, the netiquette ban on facile
+posting to multiple newsgroups would of course apply (& hopefully
+be observed by participants).
+
+A desirable side-effect of segregating the endless "rights" debates
+in net.rights would be to clearly reveal the legal/metalegal content
+or lack of it in postings, and discourage posters from padding their
+articles with secondary issues (like rambling commentary on a host
+of topics about homosexuality marginal to the discussion in exchanges
+over "gay rights").
+
+Reactions, comments, & suggestions?
+
+					Ron Rizzo
+
+"I'm mad as hell, & I'm not going to take it anymore!!"
+					-- Howard Beal
+
+-----------------------------------------------------------------
+

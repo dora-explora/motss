@@ -1,0 +1,68 @@
+Re on the direction of net.motss
+kwlalonde@watmath.UUCP
+09/29/84
+Subject: Re on the direction of net.motss : net.motss
+
+ My problem with the Arndts, Brunsons, et.als is have this incredible
+ tendency to hit my "n" key if I see articles from them (not so bad) but
+ also on article who's title refers to one of their submissions.
+ I *suspect* that I miss valid information this way. Even though someone
+ puts a title in reference to the et.als they have buried in their article
+ some info/topic that can be quite new/different -- but I have used
+ the "n" key, *sigh*.
+
+ Example:
+     Subject: Re last article by favourite christian
+  
+        Paragraph 1:
+            I think that christian is just actiing christian again and
+            maybe attacks on the points/person.
+   
+        Next paragraph:
+            BY THE WAY.....
+ 
+ So I ask, if we keep this forum public (if no mailing lists -- although I
+    think I would personally prefer mail)
+  (is it possible to have a "supplement" mailing list as well as net.motss
+     or would that guarantee the death of net.motss????)
+
+  Could people make the following points of effort:
+ 
+   a) if article refers to arndt,brunson,dubois,et.al, please say so
+      in the subject line
+   b) if (a) type of article with said subject line, PLEASE DO NOT
+      include new topics or information but make a separate posting
+
+
+              - Ken Dykes
+                Software Development Group, University of Waterloo
+                Waterloo, Ontario, Canada.  N2L 3G1
+                watmath!watrose!watbun!kgdykes
+
+-----------------------------------------------------------------
+
+jsq@ut-sally.UUCP (John Quarterman)
+10/08/84
+I fail to see how anyone can be fascinated with Brunson, any more
+than Arndt.  He's just another redneck.  If Dyer, living in Boston,
+hasn't run across any Brunsons, it's not regional difference, it's
+just insularity or accident; I certainly ran across enough bigots,
+thugs, and total flakes in that town to last forever, and I suspect
+other places differ only in degree.
+
+Ignore them.
+
+They won't go away (really) but they might stop haunting this newsgroup.
+Replying to them (in any fashion) only encourages them.
+-- 
+John Quarterman, CS Dept., University of Texas, Austin, Texas 78712 USA
+jsq@ut-sally.ARPA, jsq@ut-sally.UUCP, {ihnp4,seismo,ctvax}!ut-sally!jsq
+
+-----------------------------------------------------------------
+
+rap@oliven.UUCP (Robert A. Pease)
+10/12/84
+(message was not found)
+
+-----------------------------------------------------------------
+

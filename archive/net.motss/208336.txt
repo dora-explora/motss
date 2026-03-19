@@ -1,0 +1,69 @@
+Generic Flames
+don@allegra.UUCP
+11/01/83
+We have been studying netnews traffic, here at Bell Labs Research, and
+believe that large amounts of telephone connect time presently devoted
+to flames  could be saved by simply naming a Flame Viewpoint followed
+by a Flame Subject.  The local news system would then supply the full
+text of the flame.
+
+possible examples of category scripts for various Flame Viewpoints:
+
+Fundamentalist:
+
+On the day of judgement, God will cast all *** into a lake of fire.
+The Word of God says (verse $$$, chapter %%%) that they who *** shall
+be @@@ (appropriate eternal agony).  It is my duty to love all ***; but
+it is for their own spiritual good that I think they should all be shot
+and their children branded and cast out.
+
+Liberal:
+
+Firstly, I am not ***, nor do I think I will ever become ***.  Frankly,
+I think being *** is distasteful and somewhat icky.  However, I will
+defend to the death every person's right to be *** in the privacy of
+their own home.  Probably, they should not teach my children, but some
+of my best friends are still ***.
+
+Conservative:
+
+A healthy, free society cannot withstand or condone the presence of
+***.  Furthermore, we must strive to eradicate *** wherever it occurs,
+here or abroad, and support the principles and vital interests of free
+market trickle-down democracy.  All too many well-meaning *** are
+innocent tools of Soviet aggression.
+
+Crackpot:
+
+The only good *** is a dead ***.  They are in league with the $$$ and
+the %%% to destroy the integrity of my race.  I read that they are
+behind an international banking conspiracy headed by Nelson Rockefeller
+(who isn't really dead!) and Prince Charles.  All *** should be
+electrocuted in boiling acid after watching their children being fed to
+dogs on national TV.  So there!
+
+Marxist:
+
+The *** are an unfortunate and necessary product of alienated
+proletariat class struggle.  *** will disappear in the new society.
+The repressed *** are a potentially revolutionary class whose power
+must be channeled toward the resolution of the social dialectic.
+
+Budding Hacker:
+
+I'm new to the net; maybe this is the wrong newsgroup to talk about
+this.  I was thinking about *** and had this idea.  What if identical
+twins were separated and raised, one as *** and one as not ***?
+Wouldn't this tell whether being *** is genetic?  Of course, this might
+not be ethical, but I think it's a neat idea.  Maybe it is just the way
+my brain works!
+
+Tests:
+
+This is a test.  Please ignore this message.  (Sorry)
+
+		Michael Merritt
+		Don Mitchell
+
+-----------------------------------------------------------------
+

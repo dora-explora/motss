@@ -1,0 +1,87 @@
+News and Motss
+ejbjr@ihlpg.UUCP
+03/05/87
+(message was not found)
+
+-----------------------------------------------------------------
+
+dave@viper.UUCP (David Messer)
+03/05/87
+(message was not found)
+
+-----------------------------------------------------------------
+
+wendyt@unisoft.UUCP
+03/05/87
+(message was not found)
+
+-----------------------------------------------------------------
+
+hankb@midas.TEK.COM (Hank Buurman)
+03/06/87
+(message was not found)
+
+-----------------------------------------------------------------
+
+beattie@netxcom.UUCP (Brian Beattie)
+03/06/87
+(message was not found)
+
+-----------------------------------------------------------------
+
+woods@hao.UCAR.EDU (Greg Woods)
+03/07/87
+(message was not found)
+
+-----------------------------------------------------------------
+
+dyer@spdcc.UUCP
+03/07/87
+I hope this won't turn into the perennial harangue about the non-privacy of
+Email.  At least, I hope it won't turn into that on soc.motss.  Regardless
+of the way people should act as a matter of honor or are required to act by
+statute, it's only reasonable that anyone who really cares for privacy in their
+electronic mail should use encryption.  There are just too many opportunities
+for malicious snooping or well-intentioned system administration at every
+point in the chain.  Do you think there's any protection from your mail being
+read while it sits in a UUCP spool directory waiting to take the next hop?
+How about when it sits in the sendmail queue?   As long as we're really being
+paranoid, why don't I just use my PC and ethernet card to listen to all the
+traffic on the net?
+
+The fact that many systems impose their own concept of access permission
+within the delivery mechanism means nothing when you start talking about
+private machines or folks with root permissions or machines which can listen
+to all packets on a network.  If your privacy is breached, you can feel
+indignant, but don't feel surprised.
+-- 
+Steve Dyer
+dyer@harvard.HARVARD.EDU
+dyer@spdcc.COM aka {linus,wanginst,bbnccv,harvard,ima,ihnp4}!spdcc!dyer
+
+-----------------------------------------------------------------
+
+jimb@dopey.UUCP
+03/07/87
+(message was not found)
+
+-----------------------------------------------------------------
+
+edg@micropro.UUCP (Ed Greenberg)
+03/10/87
+(message was not found)
+
+-----------------------------------------------------------------
+
+robert@jimi.UUCP
+03/11/87
+(message was not found)
+
+-----------------------------------------------------------------
+
+dlc@zog.cs.cmu.edu.UUCP
+03/13/87
+(message was not found)
+
+-----------------------------------------------------------------
+

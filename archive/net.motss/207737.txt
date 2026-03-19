@@ -1,0 +1,86 @@
+The cost of moderating satellite News
+kay@flame.UUCP (Kay Dekker)
+01/07/85
+(message was not found)
+
+-----------------------------------------------------------------
+
+rrizzo@bbncca.ARPA (Ron Rizzo)
+01/10/85
+Screened by a computer program to decide if a human moderator (=censor)
+is required?  Either the prudes are lightyears ahead of us in AI, else
+they'll simply force us to use euphemisms to frustrate searches for
+"keywords" (locutions like "the love that dare not speak its name" for
+homosexuality); or will they dump The Quean's Vernacular into their
+database, accelerating the creation of new slanguage.
+
+The only way to defeat such a counterreaction is to proscribe entire
+classes of nouns, verbs, etc. (OED goes into the database).  This is
+precisely what happens in Orwell's 1984.  
+
+				Nicefeels doublegood,
+				Ron Rizzo (This ISN'T my real name!)
+
+-----------------------------------------------------------------
+
+pgp@hou2h.UUCP (P.PALMER)
+01/11/85
+  I think this discussion should be moved IMMEDIATELY to something like
+  net.security.  The whole idea of "moderating", which is a gross euphemism
+  for censoring, is obnoxious (and unlikely to be accepted) anyway.
+
+-----------------------------------------------------------------
+
+smh@mit-eddie.UUCP (Steven M. Haflich)
+01/12/85
+Have I missed something?  The ongoing discussion on detecting `libelous'
+postings addresses only certain kinds of libel -- scurrilous or obscene
+descriptions of persons with defamatory intent -- but misses entirely
+kinds of libel rather more likely in this environment.
+
+Suppose I were to write:
+	In his recent posting, Toby Robinson (not Robison!) wrote:
+		I feel the future of AI programming lies in assembly
+		language, since only by using assembly language can
+		the careful programmer attain those important last
+		few percent of available machine performance, so
+		important to successful AI applications.  I would
+		not work for any company that insisted on my writing
+		code in inefficient languages like Lisp or Prolog.
+	I cannot agree with Toby on this point. ...
+
+Note that my `posting' is about a valid technical subject and is written
+in neutral terms of the technical field.  Unless the fictional Robinson
+had actually made such a statement, such a posting would (I believe) be
+libel.  With flagrant disregard for the truth, it clearly damages
+Robinson's reputation and presumably could also damage his employment
+opportunities.  It is *not* necessary for me to claim someone practices
+nonconsentual sex with laser printers in order to libel him.  He would
+have legal recourse against me and my employer.
+
+It might be possible, I suppose, for the automatic censor to verify
+quoted inclusions against the article database, but what about:
+	At the recent SIGAI meeting in Nepal Toby Robinson (not
+	Robison!) told me he felt the future of AI ... ... ...
+	I cannot agree with Toby on this point. ...
+
+There is no way for a machine to verify this one.  If the automatic
+censor must kick out any quoted or paraphrased citation for review by a
+human, almost *everything* will have to be reviewed!  So why bother?
+
+Steve Haflich, MIT
+
+-----------------------------------------------------------------
+
+sdyer@bbncca.ARPA (Steve Dyer)
+01/13/85
+Please remove the newsgroup reference to net.motss on any subsequent
+discussion of this topic.  It's hard to imagine a less appropriate
+newsgroup.
+-- 
+/Steve Dyer
+{decvax,linus,ima,ihnp4}!bbncca!sdyer
+sdyer@bbncca.ARPA
+
+-----------------------------------------------------------------
+

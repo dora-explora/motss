@@ -1,0 +1,186 @@
+Alan Turing biography
+daemon@watmath.UUCP
+05/26/84
+Subject: Alan Turing biography : net.motss
+
+A gay newspaper called "The Body Politic" (published in
+ Toronto, Canada - available throughout the USA at better
+ periodical vendors) (May 1984 Isssue #103)
+ contains a short review of a biography of Alan Turing (who was gay)
+written by gay activist and mathemetician Andrew Hodges.
+Following the short review is an interview with Andrew Hodges.
+
+Question: why wasn't I told Turing was gay in computer science class???
+   (hummmm, questionable grammar, I'm pretty sure Turing was gay outside
+     of computer science class too!)
+ (actually, I can guess the answer, I just find it unfortunate that society
+  fears potential idols/martyrs, come to think of it my music teachers
+  never pointed out that Tchaikowsky was gay)
+
+Do you folks care to contribute to the list of gay famous (or soon to be,
+ or should be famous) persons that an insecure "coming out" gay can
+ look at and find some sort of comfort or admiration.  Perhaps with
+ any names submitted there should be one or two lines of history/description
+ just in case the names arent overly recognizable.
+
+[The Book:   Alan Turing: The Enigma, by Andrew Hodges
+             Simon & Schuster, New York (General Publishing in Canada)
+
+ The Newspaper:  The Body Politic,
+                 Box 7289, Station F, Toronto, Ontario, Canada   M4Y 2N9
+                 (416) 364-6320
+                 Published by Pink Triangle Press, a nonprofit corporation
+                 $2.00/issue  $15.95/10issues via international post
+]
+
+                     - Ken Dykes  (yes, my real name)
+                       Software Development Group, University of Waterloo
+                       Waterloo, Ontario, Canada.  N2L 3G1
+                       (519) 885-1211 x2452
+                       watmath!watrose!watbun!kgdykes
+ (not affiliated with Body Politic or Pink Triangle Press)
+
+-----------------------------------------------------------------
+
+saquigley@watmath.UUCP (Sophie Quigley)
+05/27/84
+"why wasn't I told that Alan Turing was gay in class?"
+
+Probably because it wasn't really relevant to the situation.  I am sure there
+are many other famous gay people who you have learned about in class and
+where you were taught that they were gay because it is relevant, i.e their
+gayness influenced their work (Oscar Wilde comes to mind).  Why should you
+have been told that Alan Turing was gay if you were not told anything else
+about his life?  I think THAT would have been strange.
+
+I don't know if you were implying that "hiding" this information from you is
+a certain type of homophobia, but I think it is the contrary.  What would
+be homophobic would be to ignore his work completely because he was gay, like
+is often done for many excellent women mathematicians (those who are not
+excellent enough to make it impossible to ignore their work like Noether)
+
+Sophie Quigley
+...!{clyde,ihnp4,decvax}!watmath!saquigley
+
+-----------------------------------------------------------------
+
+saquigley@watmath.UUCP (Sophie Quigley)
+05/27/84
+Well, i do agree with you that our school system should put more emphasis
+on personalitites of "great" people, but it doesn't and we don't really learn
+about them except in liberal arts classes, or if we're lucky in other classes
+if the prof has a liberal arts outloook on the topic.
+I also agree that from what I heard Turing seemed to have been greatly discrimi-
+nated against in his life because of his homosexuality.  From what I have heard,
+this was partly due to his foolishness in not realising that even though he was
+a genius, society was still not ready to accept homosexuality openly (similarly
+for Oscar Wilde).
+
+I just didn't think that the fact that his homosexuality was not mentioned in
+class was not overt homophobia, but simply lack of interest from the prof into
+dwelling into the personalities of people behind theorems unless it was clear
+that certain facets of their personalities had something to do with their genius.
+Well, this all looks interesting;  I think i might read his biography.
+
+
+Sophie Quigley
+...!{clyde,ihnp4,decvax}!watmath!saquigley
+
+-----------------------------------------------------------------
+
+trb@masscomp.UUCP
+05/29/84
+"why wasn't I told that Alan Turing was gay in class?"
+
+Same reason I wasn't told that John von Neumann was straight in
+class.
+
+Actually, "information hiding" is one of the big catch phrases in the
+new software engineering.  Turing's sexual preference must be the
+information which your prof chose to hide.  All in the interest of
+modularity and clarity, mind you.
+
+I bought Hodges' Turing bio a few months ago.  Why haven't I read it
+yet?  Must be my subconscious hatred/fear of gays.  Probably fear and
+hatred of myself.  Then again, maybe I've just not gotten to it yet.
+
+	Andy Tannenbaum   Masscomp Inc  Westford MA   (617) 692-6200 x274
+
+-----------------------------------------------------------------
+
+rrizzo@bbncca.ARPA (Ron Rizzo)
+05/29/84
+I think it ultimately is homophobia not to have heard biographical details
+about Turing that would at least suggest if not plainly state that he was
+gay.
+
+For example, in literature classes where biography is considered relevant
+to the author's work, gayness is systematically "covered up" or even bla-
+tantly denied when it can be, except for well-known gay writers like Wilde
+(& believe it or not, there are currently afoot attempts to deny Wilde was
+ever sexually active homosexually, even though there's well-known documen-
+tation in eg. Andre Gide's journals about Wilde's sexual adventures in
+Morocco: see Richard Ellmann's absurd speculations in his article on Wilde
+at Oxford in a recent New York Review of Books);  this was true at least
+when I was in school in the late 60s/early 70s.  And current "revisionist"
+efforts among some major literary scholars to deny that Walt Whitman or
+Emily Dickinson were gay AT ALL make me believe the situation is much the
+same today (well, maybe a little better, but academic homophobia can hard-
+ly be discounted).
+
+If you major in computer science, surely Turing's name comes up more than
+once AND in different contexts in both classrooms & texts.  Think of how
+often Charles Babbage is mentioned: many people know scattered biographi-
+cal facts, including his wife's damn name, their pictures on massproduced
+T-shirts, etc.  Yet Babbage is relatively unimportant today: interest in
+him is primarily historical.  Yet Turing, like Babbage, and Goedel, or 
+Einstein for that matter, is a prime candidate for iconography both within
+science & popularly because of the startling correspondence between perso-
+nal eccentricity and scientific originality in his life (think how much
+many people know about the Einsteins, and how few know that Isaac Newton
+was most likely homosexual -- information buried in a biography of Newton
+by Frank Manuel).
+
+I understand Sophie Quigley's point (and in this instance, in regard to 
+the computer science curriculum of the particular school in question she
+may in fact be right), but it can obscure the fact that homophobia is still
+endemic in (even higher) education, perhaps less directly but maybe more
+damagingly because of the indirection: that few mathematics, natural or
+computer science or engineering majors in any school knew as a result
+of their education that Turing (or Newton) was gay, yet they often receive
+substantial biographical information from courses, teachers, or teaching
+assistants about other scientific greats, even though few educators consider
+biography very relevant to science.
+
+					Cheers,
+					Ron Rizzo
+
+-----------------------------------------------------------------
+
+tj@sun.uucp (Cal Thixton)
+06/04/84
+(message was not found)
+
+-----------------------------------------------------------------
+
+johnc@dartvax.UUCP
+06/12/84
+  I had not heard of Turing much before he was brought up in
+this group (I'm only a HS senior, not much CS yet), but I did
+see a mention of him today in someplace other than the net --
+Isaac Asimov's Science Fiction Magazine.  He was mentioned a
+couple of times in 'Resurrection' by Damien Broderick.  The
+story did mention his sexual orientation (right word?), but
+only in passing.
+
+     "Poor Alan had taken his own life in 1954, hounded
+      by bigots who would not tolerate  his sexual pre-
+      ferences ..."
+
+  Not only that, but the story wasn't bad either :->
+
+--johnc
+     [ astrovax, linus, decvax, cornell ] ! dartvax ! johnc
+
+-----------------------------------------------------------------
+

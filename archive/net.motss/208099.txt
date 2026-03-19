@@ -1,0 +1,21 @@
+amusing etymological coincidence
+keesan@bbncca.ARPA (Morris Keesan)
+06/23/84
+-------------------------------------------
+    In the recent debate on homosexuality and tolerance which has been taking
+place mostly in net.singles and leaking occasionally into net.motss, Steve Dyer
+made a reference to "fascism", was criticized for using the word incorrectly,
+and replied by clarifying the specific idiomatic sense he intended.  Wondering
+about the "official" definition, I checked Webster's Ninth New Collegiate
+Dictionary, and found that the derivation of "fascism" is from the Italian
+"fascismo", from "fascio" meaning bundle, from the Latin "fascis", also meaning
+bundle.  Considering the topic of debate, I find this highly amusing, because
+I'm sure that "fascis" is related (probably through a common Indo-European
+root) to the English word "faggot" meaning bundle, or bundle of sticks. 
+-- 
+					Morris M. Keesan
+					{decvax,linus,wjh12,ima}!bbncca!keesan
+					keesan @ BBN-UNIX.ARPA
+
+-----------------------------------------------------------------
+

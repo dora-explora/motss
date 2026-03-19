@@ -1,0 +1,93 @@
+AIDS Research - Antiviral Drugs
+shiue@h-sc1.UUCP (steve shiue)
+12/13/85
+	In a discussion with my roommate last spring, it occurred to me that
+one useful line of therapy against AIDS and other retroviruses would be to
+develop drugs that SELECTIVELY inhibit reverse trascriptase, the enzyme that
+such viruses use to convert their RNA genomes into DNA that can be
+incorporated into eukaryotic chromosomes.  As far as I can tell, there is no
+eukaryotic counterpart to this virus.  Of course, it immediately occurred to
+me that actual scientists must have been researching this already, and I've
+heard that at least some of the experimental French drugs being developed and
+tested employ this strategy (I know that this wouldn't remove the infection
+but only check its spread).  If anyone can tell me what the names of these
+drugs are, if they exist, and how effective and selective they are, I would
+really appreciate it - I'm too busy reading other research for school to track
+this down.
+	In addition, my roommate mentioned that mosquitoes might possibly
+provide suitable vectors for the spread of the disease - I've heard that this
+has been looked into in some towns in Florida with AIDS victims not in the
+"high risk" groups.  Does anyone know anything about this?
+
+			-Steve Shiue
+
+"I don't make monkeys.  I only train them!"
+	-P.W. Herman
+
+-----------------------------------------------------------------
+
+sdyer@bbncc5.UUCP (Steve Dyer)
+12/14/85
+This was asked a few months ago on net.bio.  There are a few reverse
+transcriptase inhibitors being tested: one of them, suramin, is an old drug
+used for trypanosomiasis.  Many of them (including suramin) have rather
+toxic side-effects, probably because their ability to inhibit enzymes isn't
+limited to viral reverse transcriptase.  Also, most people with AIDS are
+already suffering the effects of successful viral attack; I guess you'd
+really like to treat with such drugs during the initial infection, which so
+far seems asymptomatic.  
+-- 
+/Steve Dyer
+{harvard,seismo}!bbnccv!bbncc5!sdyer
+sdyer@bbncc5.ARPA
+
+-----------------------------------------------------------------
+
+pamp@bcsaic.UUCP (pam pincha)
+12/17/85
+(message was not found)
+
+-----------------------------------------------------------------
+
+werner@aecom.UUCP
+12/18/85
+(message was not found)
+
+-----------------------------------------------------------------
+
+jrc@ritcv.UUCP (James R. Carbin)
+12/21/85
+(message was not found)
+
+-----------------------------------------------------------------
+
+mwg@petrus.UUCP (Mark Garrett)
+12/23/85
+(message was not found)
+
+-----------------------------------------------------------------
+
+kbb@faron.UUCP (Kenneth B. Bass)
+12/23/85
+I have heard, from an M.D., that a new drug has been discovered [in the US]
+that inhibits the reproduction of the HTLV III virus >> with very
+minor sideaffects << (ie., non-toxic unlike the French drug).  It was
+announced at a conference of 3000 physicians (but apparently not to the
+public - this was not long after the French doctors announced their cure).
+
+This drug does not actually kill the virus, only keeps the virus's
+DNA from reproducing. Therefore, it must be taken continuously.  Also,
+it cannot fix any damages already caused by the virus.  The drug will
+go into testing as soon as enough of it can be produced - probably around
+the middle of Jan. '86.
+
+This is about all I have heard of it. Anyone have any more information
+about this?
+
+
+				"Tell me why"
+				ken bass
+				linus!faron!kbb
+
+-----------------------------------------------------------------
+

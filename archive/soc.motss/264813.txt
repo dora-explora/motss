@@ -1,0 +1,14 @@
+spdcc.COM kaput for a while
+dyer@endor.harvard.edu (Steve Dyer)
+03/19/87
+Spdcc has had a disk crash; various tracks are garbage due to a flaky
+disk controller.  Nothing like a "panic: iinit" to clear the sinuses.
+It should probably take a few days of sweating and consulting with SCO
+to get back into operation.  In the meantime, I can be reached at
+dyer@harvard.harvard.edu or dyer@athena.mit.edu.
+Steve Dyer
+dyer@harvard.harvard.edu
+dyer@spdcc.com (out of commission for a while due to disk crash)
+
+-----------------------------------------------------------------
+

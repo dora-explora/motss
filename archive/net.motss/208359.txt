@@ -1,0 +1,39 @@
+Forwarding service
+riddle@ut-sally.UUCP
+10/13/83
+Since Robert Wahl's employers won't let him forward anonymous news from
+closeted gays, I hereby volunteer to help take up the slack:  items sent
+to me over the net will be forwarded to desired newsgroups with serial
+numbers filed off.  Unfortunately I don't have the time to interface
+snail mail to the net as Robert Wahl offered to do, so regular UUCP mail
+only, please.  Remember to include a pseudonym for replies and it would
+be very nice if you would place something PROMINENTLY at the head of the
+item indicating that it is not personal mail for me and what newsgroup(s)
+you want it posted to.
+
+Since I don't know what volume of mail may ultimately result from this,
+I won't make any guarantees as to how long I can do it.  I would also
+hope that a few others on the net will make a similar offer.  And although
+I won't censor anything, if anyone asks me to forward abusive flames or
+other unwarranted material, I reserve the right to bitch back (privately,
+of course) at the sender.
+
+                                 -- Prentiss Riddle
+                                    {ihnp4,kpno,ctvax}!ut-sally!riddle
+                                    riddle@ut-sally.UUCP
+
+-----------------------------------------------------------------
+
+dyer@wivax.UUCP (Stephen Dyer)
+10/14/83
+Though I am in favor of direct postings to 'net.motss', I am quite willing
+to forward messages to the group on the same terms as ut-sally!riddle.
+You may send material to 'decvax!wivax!dyer'.
+
+Still, one should realize that privacy in UUCP mail is, at best, illusory.
+
+/Steve Dyer
+decvax!wivax!dyer
+
+-----------------------------------------------------------------
+

@@ -1,0 +1,161 @@
+Forwarded anonymous posting
+sdyer@bbncca.ARPA (Steve Dyer)
+11/07/84
+Hello Steve,
+
+	Could you please post this anonymously to net.motss?
+(What happens to mod.motss?)
+
+------------------------------------------------------------------------------
+
+	I am all against discrimination, of any kind.  I believe though
+that the legislation in the US does not go very far against it, to
+say the least, as exemplified in the recent posting of the Cambridge
+ordinances.  Their structure is approximately as follows:
+
+	It shall be an unlawful practice for [A] to [B] because
+	of [C] except in [D].
+
+where some of the instances are:
+
+	[A] Cambridge School Dept., employers, employment agency,...
+
+	[B] discriminate in the provision of services, employment, education...
+ 	    refuse to hire or employ, discharge from employment...
+	    directly or indirectly to fail or refuse to classify properly or
+	    refer for employment...
+
+	[C] the race, color, sex, age, religious creed, disability/physical
+	    handicap, national origin or ancestry, sexual orientation, marital
+	    status, family status, military status, or source of income of such
+	    person
+
+	[D] Employment by a religious institution of individuals
+	    performing a service related to a *bona fide* religious purpose...
+	    Employment programs designed to effect affirmative action
+	    by giving special preference to women, racial minorities or veterans
+	    provided that such employment programs shall not discriminate among
+	    women, racial minorities, or veterans on the basis of other
+	    discriminatory criteria as set forth in Section 9E (4) hereof.
+	
+etc...
+
+My point is that such laws or regulations, by mentioning *specific* instances
+of potential discriminators ([A]), potential forms of discriminations ([B])
+and potential targets ([C]), do not rule out discrimination as such except in
+*these specific cases*, which, by the virtue (hm...) of their being specific
+cannot possibly cover all existing cases of discrimination, and, as a matter
+of fact, do encourage less obvious forms of discrimination.
+
+	For example:
+
+  -  Is denial of employment on the basis of IQ tests and
+their likes discriminatory or not?  (It does not seem to fall in any
+category mentioned in [C], unless a lower score is a physical disability...).
+On the basis of language abilities (it is mentioned just in one case, and
+does not seem related to any category in [C]--even not to race, for
+a caucasian child, e.g., could be adopted by a hispanic one and not know
+english...  
+
+  -  Is denial of any kind of employment on the basis of age, sex or sexual
+preference by a religious institution discriminatory or not?  Suppose a
+woman applied to a seminary for priests; suppose an old man did; suppose
+a gay man did.  What if any of them applied for a menial job in a church?
+
+  -  Why isn't affirmative action mentioned for all other types
+of targets of discrimination?  E.g., by reductio ad absurdum, require
+affirmative action for gays (see Steve Dyer's remark...), elderly,
+cripple and jews (to counter you-know-whom).
+
+	If this trend continues, the list of specific clauses is bound to
+increase without limit (or until it lists by name every human alive and
+is updated accordingly...).  Then there always will be grounds for
+discrimination of some kind.
+
+	The solution?  More principles, less examples, with all the
+implications (more on that some other time).
+
+-- 
+/Steve Dyer
+{decvax,linus,ima,ihnp4}!bbncca!sdyer
+sdyer@bbncca.ARPA
+
+-----------------------------------------------------------------
+
+sdyer@bbncca.ARPA (Steve Dyer)
+11/07/84
+Unfortunately, "principles" can not always be turned into action, let alone
+enforced as law.  While I can see our anonymous poster's point about the
+almost ludicrous specificity of the Cambridge human rights ordinance, s/he
+must realize that all bills are the result of compromise, and that specific
+language is necessary if the ordinance is not to be thrown out.  One would much
+rather assume the Golden Rule in all affairs, but alas, we cannot.  Hence
+this ordinance.  So much for principles.
+
+I am unconvinced of the claim that an ordinance which details may/may nots
+to the extent that Cambridge does actively contributes to discrimination.
+This is an objection based on aesthetics and not pragmatics.  The ordinance
+provides a few gaping holes by which individuals may choose to continue to
+discriminate, but I sincerely doubt that it will be the cause of any new
+discriminatory behavior.  What it does provide for the first time in
+Cambridge is a formal method of legal redress when people are discriminated
+against on the basis of their sexual preference.
+-- 
+/Steve Dyer
+{decvax,linus,ima,ihnp4}!bbncca!sdyer
+sdyer@bbncca.ARPA
+
+-----------------------------------------------------------------
+
+dyer@spdcc.UUCP (Steve Dyer)
+09/20/86
+(message was not found)
+
+-----------------------------------------------------------------
+
+dyer@spdcc.UUCP (Steve Dyer)
+10/16/86
+Again, thanks to Steve for posting this. Some of you will recall
+a couple postings and several replies about my friendship that
+seemed to be going nowhere, my angry straight friend who was very
+much out of touch with me. The consensus of responders was that
+I should prepare myself for the worst, he had probably rejected me
+and that would be that. Well, about a week ago, I sent a postcard
+that said I assumed there was a (to him) good enough reason, but
+after all those very nice things that had happened over the course
+of coming on four years, it was somehow *too* eccentric for me to
+fathom why this sudden 3-month hiatus should occur. I sent the card.
+That *same* day as I sat at my table reading net news, the phone
+rings, Hello this is Stu. I replied Well, I have to say I'm glad to
+hear your voice, but you can't possibly have received the card I
+sent you this afternoon, so I'm *very* surprised; did you want to
+get together and have a good jabber? Yes, he did, and we did, and
+it was (he thought) with cause that he'd kept apart for a time, and
+he had taken a long time to realize that even though he didn't
+understand *all* his own motivations, still he wanted to see me
+and spend some time together. Well, I said, I think it works a lot
+better for me if the oscillations of near/far that are necessary
+to balance *any* relationship don't get *too* wide, because I
+think a friendship that is anything more than casual results in
+some mutually agreed upon responsibilities, the kind of support
+that only a real, three-dimensional presence can supply. When and
+how often, and what it is, all that's negotiable, as it were, but
+*some* presence one can depend on is a minimum. This was agreed
+to as acceptable. We worked through the specific problem without
+too much grief, and things seem OK again. If I live to be 100,
+I'll never understand men--they are sometimes too weird!
+   I guess the lesson is (I'm conditioned to think there is
+*always* a lesson): take the long view especially if it counts
+(or at least you think it does); you never really know about
+some things, no matter how hard you try. Thanks again for the
+support, encouragement, and understanding I got from netland
+during this very odd interlude. --Paul (an altered ego, I
+assure you).
+
+-- 
+Steve Dyer
+dyer@harvard.HARVARD.EDU
+{linus,wanginst,bbnccv,harvard,ima,ihnp4}!spdcc!dyer
+
+-----------------------------------------------------------------
+

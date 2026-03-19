@@ -1,0 +1,27 @@
+looking for grants/donations
+root@ozdaltx.UUCP (root)
+09/27/89
+Since we started the AIDS INFO EXCHANGE two years ago the
+demand for time on the system has increased drasticaly.  I
+find we need equipment and/or a grant in order to make
+necessary system improvements.  We are not 501c yet, but are
+working on it.  However, donations can be channeled through
+another agency that is for tax purposes.
+
+We need:  more storage either an additional HD or better
+yet, a WORM drive,  2-2400 baud modems internal or external),
+some sort of tape backup system,  cash as Ma Bell dosn't
+give ANYTHING away. ;-)
+
+Any help, leads or whatever will be most appreciated.  
+We are running SCO XENIX 2.2.3 on an AT w/3.5 meg RAM.
+
+Thanks in advance-
+Scotty
+
+AIDS INFORMATION EXCHANGE BBS      (214) 247-2367/247-5609
+               "Education is the best weapon"
+     {ames,rutgers,texsun,smu}!attctc!ozdaltx!sysop 
+
+-----------------------------------------------------------------
+

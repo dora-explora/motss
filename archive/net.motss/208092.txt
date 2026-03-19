@@ -1,0 +1,8 @@
+lisp
+psuvm%r7g@psuvax1.UUCP
+06/27/84
+      I hereby propose that the official computer language of net.motss should
+be LISP.   In our AI group we all have a gay ol' time LISPing.
+
+-----------------------------------------------------------------
+

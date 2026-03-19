@@ -1,0 +1,35 @@
+Sci.med.aids Connectivity and Availability.
+dgreen@CS.UCLA.EDU (Dan R. Greening)
+06/12/87
+Based on statistics for mod.announce from Brian Reid at DEC, we can expect 
+the availability of "sci.med.aids" to be somewhat limited for the first
+couple of months of operation.
+
+The backbone carries sci.med.aids.  If you are not receiving
+postings to sci.med.aids or your host does not have sci.med.aids
+defined, it is likely that one of two things are interfering:
+
+ 1. An intermediate host between a backbone host and your host has
+    not yet modified their tables to include sci.med.aids.
+
+ 2. Your system administrator has not yet modified your host's table
+    to include sci.med.aids.
+
+My suggestion:  Check with your local system administrator.  If 
+sci.med.aids IS defined at your site, perhaps she/he will look into
+possible problems with an intermediate host.  Otherwise, maybe she/he
+just hasn't gotten around to installing it, and will when you ask.
+
+If you don't have access to "sci.med.aids", post AIDS related articles
+to "sci.med" or "soc.motss".  I will repost those to sci.med.aids, so
+people who have access to sci.med.aids won't have to hunt through
+other newsgroups to find this material.
+
+I won't continue that time and bandwidth consuming process after a 
+month or two, so talk to your sysadmin if you have problems.  Thanks.
+
+ _D_a_n_ _G_r_e_e_n_i_n_g   _I_n_t_e_r_n_e_t  dgreen@CS.UCLA.EDU
+                _U_U_C_P     ..!{sdcrdcf,ihnp4,trwspp,ucbvax}!ucla-cs!dgreen
+
+-----------------------------------------------------------------
+

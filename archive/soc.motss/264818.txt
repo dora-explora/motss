@@ -1,0 +1,32 @@
+AIDS and Drug Usage
+beth@sphinx.UChicago.UUCP (JB)
+10/17/86
+(message was not found)
+
+-----------------------------------------------------------------
+
+edhall@randvax.UUCP (Ed Hall)
+10/23/86
+Repeat after me:
+
+    Correlation does NOT imply causation.
+    Correlation does NOT imply causation.
+    Correlation does NOT imply causation.
+
+As Barry Shein so aptly pointed out, the correlation between drug
+use and AIDS can be explained by a third factor: life-style.
+
+Many--I dare say a majority--of epidemiological studies are flawed by a
+failure to rule out all significant confounding factors.  Unfortunately,
+it is in the very situation where cooler heads should prevail that
+statistical safeguards tend to be forgotten.  And, sad to say, some
+otherwise brilliant researchers tend to be ignorant when it comes to the
+proper use of statistics, leaving it to others to puzzle out just how
+meaningful--or meaningless--the results really are.
+
+		-Ed Hall
+		decvax!randvax!edhall
+		edhall@rand-unix.ARPA
+
+-----------------------------------------------------------------
+

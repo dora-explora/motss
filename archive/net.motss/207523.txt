@@ -1,0 +1,106 @@
+How AIDS virus foils immune system: new finding
+rrizzo@bbncca.ARPA (Ron Rizzo)
+07/16/85
+[ From the Boston Globe, 7/11 or 12/85.  Reprinted without permission.]
+
+
+Study: AIDS Robs Cells Of "Recognition" Ability by Richard Saltus
+===============================================
+
+[Following close on the heels of another major discovery* :]
+
+	The first step in the destruction of the immune system by the
+AIDS virus is a preemptive attack on the ability of key immune cells
+to recognize foreign organisms, a study shows.
+	The virus acts with such precision that the immune system is 
+utterly unable to mount a response, even though the capacity to
+counterattack still exists, government researchers said.
+	Thereafter, normal immune competence collapses and the victim
+is left prey to a wide range of infections and tumors that cause the
+syndrome's high mortality.
+	The report in today's New England Journal of Medicine adds to
+the growing evidence on how the AIDS virus - known as HTLV-III or LAV
+[or ARV] - destroys the very defenses designed to disable it.
+	The virus' name, Human T-Lymphotropic Virus, signifies that it
+attacks T cells, the white blood cells that orchestrate the complex
+response of the immune system.  The T cells recruit other cells into
+the fight, cause the release of certain antiinfection substances and
+stimulate B cells to produce antibodies.
+	AIDS victims have a drastically reduced force of "helper" T
+cells, called T4, compared to the number of "suppressor" or T8 cells.
+What has not been clear is whether the low number of T4 cells or some
+inherent defect in the T4 cells is responsible for the progressive
+failure of the immune system.
+
+Resistance Tested
+
+	Researchers at the National Institute of Allergy and Infectious
+Diseases studied blood from 12 AIDS patients, challenging the immune
+cells with substances that should cause the T4 cells to proliferate
+rapidly.  In this test the T4 cells were not required to recognize a
+foreign substance.  The cells responded normally, showing that they
+retained the capacity to mount resistance to infection.
+	Then the scientists mixed the blood with a foreign antigen,
+a protein of the sort that the immune system would encounter should
+the body be infected by an invading organism.
+	This time there was no response.  To the researchers this
+suggested that the T4 cells, which are equipped to distinguish what
+is foreign from what is "self," had lost that ability.
+	Dr. H. Clifford Lane, who directed the research, said that the
+infecting AIDS virus has been shown to attach itself to the T4 receptor,
+a molecule on the surface of the T4 cell.  In effect, the virus blinds
+the cell to foreign antigens.
+	Lane said it was impossible to be certain whether the virus
+uniformly knocks out the surface molecule on otherwise intact T4 cells,
+or perhaps kills off a subpopulation of T4 cells that has the recognition
+site.
+	In any case, "It's a very smart virus that came up with that way
+of attacking the immune system," sad Lane.  He noted that these events 
+occur early in the disease, leading to a cascade of later abnormalities as 
+the immune system is devastated.
+
+No New Therapies Implied
+
+	Lane, in a telephone interview, said that the discovery does not
+yet suggest any new therapies for the syndrome, but that it "gives us a
+better appreciation of how the AIDS virus is attacking and destroying the
+immune system."
+	In an accompanying editorial, two Harvard scientists said that
+increasing knowledge about the affinity of HTLV-III/LAV for the T4 cells
+is helping to explain many of the puzzling aspects of the lethal syndrome
+- and is raising some concerns.
+	For one thing, said Drs. Richard S. Kalish and Stuart F. Schlossman,
+when T4 cells multiply to fend off some other infection, they probably
+become more vulnerable targets to infection by the AIDS virus.
+	This may explain, they said, why exposure to the AIDS virus is less
+likely to produce the syndrome in the absence of another infection, as in
+people receiving tainted transfusions and health workers exposed to HTLV-III.
+	However, the Harvard researchers also raised the possibility that,
+in certain cases, the virus can infect not only T cells but also B cells.
+"Such virally infected cells may function as a reservoir of virus,
+potentially thwarting attempts at reconstitution of the immune system,"
+they wrote.
+	While there is still no effective treatment for AIDS, Schlossman
+said in an interview, "We've learned a great deal about the disease, and
+the future is not so bleak as one might think."
+
+	*****************************************************
+
+
+* In late June the discovery of a gene on HTLV-III which regulates
+ the rate of growth of the virus was announced.  HTLV-III displays
+ explosive growth at a rate up to 1,000 times as great as, eg, HTLV-I
+ which is known to cause various cancers.  Manipulation of this gene
+ suggests not only possibilities for eventual vaccine production but 
+ even for the treatment of people already infected with the virus.
+
+
+So, folks, it probably pays to keep up your general health, to avoid
+other infections so as to deny the AIDS virus possible footholds in 
+your bodies.
+
+					Regards,
+					Ron Rizzo
+
+-----------------------------------------------------------------
+

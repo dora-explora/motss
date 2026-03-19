@@ -1,0 +1,53 @@
+2nd AIDS test approved
+werner@aecom.UUCP (Craig Werner)
+03/17/85
+	Dateline: last week (but I was busy):
+	AP) The Government has approved a sec-
+	ond screening test for blood contam-
+	inated by acquired immune deficiency
+	syndrome, or AIDS, after laboratory
+	results indicating it was the most sens-
+	itive indicator of possible exposure to
+	the disorder.
+ 	  Electro-Nucleonics Inc. of Fairfield,
+	N.J., was awarded the second license by
+	the FDA ....
+
+About 2 months ago, I ran a series of four articles on HTLV-3, the virus
+that most likely causes AIDS. I spoke of the screening test as highly
+accurate, and then received mail and flames otherwise.
+	Well, here is the source of the misunderstanding. There are several
+tests - the most sensitive being the Western blot, which I was referring to.
+(This was reasonable, since most Test-Positive results were to be redone
+with Western blots before accepting the results.) It has an accuracy of
+99.8% or so.
+
+	The first licensed test had an accuracy of approx. 93%. Tests under
+development range from 82-95.6%.  These all use a system called ELISA (for
+Enzyme-linked Immuno- S? Assay) which is much easier to do than a Western
+Blot (Incidentally, Western Blot is so-called, because the first person
+to do "blotting" was E.M. Southern, so the blot was nick-named the
+"Southern Blot", and each new technique was given a different direction and
+the name stuck.) ELISA involves add sample, add reagant, check color change.
+
+	Anyway, this new test has an accuracy of 99.6% (4 false positives
+in 1000 people)  which is not much worse than Westerns.
+	
+	AND, of course the usual disclaimer:  Although everyone with AIDS
+has been shown to have antibody to HTLV-3, the reverse is not true.
+The presence of antibody to HTLV-3 does not signify that a person has or
+will get AIDS, but has merely been exposed to it or a cross-reacting virus.
+
+-- 
+				Craig Werner
+				!philabs!aecom!werner
+		What do you expect?  Watermelons are out of season!
+
+-----------------------------------------------------------------
+
+sdyer@bbnccv.UUCP (Steve Dyer)
+03/17/85
+(message was not found)
+
+-----------------------------------------------------------------
+

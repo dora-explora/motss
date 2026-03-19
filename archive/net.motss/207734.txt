@@ -1,0 +1,115 @@
+AIDS 4: Epidemiology of AIDS
+werner@aecom.UUCP (Craig Werner)
+01/16/85
+The Epidemiology of AIDS
+
+	The following is from the Jan 11, 1985 issue of JAMA (253/2),
+"The Incidence Rate of Acquired Immune Deficiency Syndrome in Selected
+Populations"
+
+	Incidence is defined as the number of new cases reported per
+a given time, usually (and in this case) in years for a given population,
+the higher the incidence, the higher the risk of getting a disease. For 
+chronic diseases, it is usually steady. For epidemics, it tends to rise
+dramatically (as in AIDS) and then fall (something that AIDS has yet to
+do)
+	Some of the data:
+
+Annual Incidence: 	Year	cases		Rate/100,000
+			1978	4		0.002
+(in US, total pop.	1979    9		0.004	
+age 5 and above)        1980	44		0.02
+			1981	239		0.11
+			1982	961		0.44
+			1983	2501		1.20
+			->5/84  3096		1.43
+Note the nearly 1000 fold increase in incidence. This is clearly a disease in
+the exponential stage.
+	1.5/100,000 means 1 in 66,000 Americans has AIDS, or if they were
+spread uniformly, that would be one for every sellout football game. (That
+last example is of course, facetious, but illustrative)
+	However, they are not spread uniformly, as seen below:
+	Interpretation follows the data:
+
+	Group			# cases		Incidence
+	
+	Single Men (US)		3,752           8.9
+	SM in Manhattan		1,358	     	175.5
+	SM in other NY boroughs   413		 37.6
+	SM in SF		  473		204.5
+	SM in LA		  308		 44.2
+
+	IV Drug Users (US)	1,381		113.3
+	IVDU in NY		  675           203.2
+	IVDU in New Jersey	  188		269.0
+
+	Haitians (US before 1978)  27		  1.8
+	    (US after 1/1/78)	  192		 82.0
+
+	Hemophiliacs (severe)	   33		298.5
+		(mild)		    2		 43.2
+
+	In female contacts of
+	male IV drug users	   26             3.1
+
+	Persons receiving blood
+	Adult (> 10 units)	   25		  4.8
+	Children(> 10 units)	    5		 22.5
+	Children (10 or less)       5		  0.8
+
+Comments:
+	Most incidence data have trouble with the reporting of cases. In this
+case, however, the number of cases is probably more accurate than the 
+population estimate.
+	This reason however, is the reason the incidence is for Single
+Men, and not for Sexually Active Gay Men (which has been the usual
+phrasing of the risk group) because it is very easy to tell if a man is
+single, but much harder (and more controversial) to find out if he is gay,
+or if he is sexually active (and how would you define that) In fact, 87% of
+AIDS victims who are single men are gay or bisexual. (Same Source)
+	
+	For IV drug users, NJ may be higher because the estimate for NJ
+only included heroin users, and for NY and USA included heroine and cocaine.
+Also, IV drug users are usually less mobile than gays, so pockets may 
+develope
+
+	Note the numbers for Haitians. The very low number before '78
+probably shows that the disease came to Haiti at approximately the same
+time it came to the US.  It might have even spread there from the US.
+Either way, it means that the island itself is not to blame.
+
+	For hemophiliacs and blood donors, the data clearly suggests that
+the disease is in fact spread by blood (though possibly not exclusively)
+since the risk is related to the amount of blood that the patient receives.
+
+	There is one other thing not visible from the above selected numbers.
+Transmission from males to females is much more common than from females to
+males. It may have something to do with females (tending to have less
+partners, perhaps?) or it may actually say something about the mode of
+transmission of the disease.	
+	Robert Gallo of the NCI suggested that not just the virus but also
+infected tissue was necessary for the most efficient transfer of the disease,
+and sperm contains cellular matter, so it might follow.
+	Of course, the disease can be spread without cells. Factor VIII
+(for hemophiliacs) is cell-free and has 40 total cases.
+
+	OK, this article is a little too long.
+	Next time, more on the soon-to-be released blood test.
+
+Oh, somebody wanted sources for my first article:
+	Here they are, from Nature, Dec 20-27 1984 
+	
+	The CD4 (T4) antigen is an essential component of the receptor for
+the AIDS retrovirus.     p. 763.
+	T-lymphocyte T4 molecule behaves as the receptor for human 
+retrovirus LAV.     p.767. 	
+	I didn't cite them the first time because they hadn't been published
+yet.
+
+-- 
+				Craig Werner
+				!philabs!aecom!werner
+		What do you expect?  Watermelons are out of season!
+
+-----------------------------------------------------------------
+

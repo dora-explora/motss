@@ -1,0 +1,143 @@
+AIDS - monthly posting, 2nd edition.
+werner@aecom.UUCP (Craig Werner)
+10/09/86
+[Posted date: Oct. 9, last posted Sept. 10, 1986]
+
+
+	The Acquired Immune Deficiency Syndrome (AIDS) has been diagnosed in 
+16,458 persons (16,227 adults and 231 children), with 8,361 (51% of the adults
+and 59% of the children) deaths as of Jan 13, 1986. 71% of the patients 
+diagnosed prior to July 1984 have since died.
+	In the first 37 weeks (Jan 1 - Sept. 17, 1986) of this year, 8,781 new
+cases were reported (compared to 5,432 in the similar period last year).
+	In perspective, there were 612,692 (622,293) reported cases of
+Gonnorhea, 18,283 (18,832) cases of Syphillis, and 15,394 (15,036) cases
+of Tuberculosis.
+	
+	Please do not followup this article. Post all queries on AIDS as
+original postings to net.med only. However, note, that by and large, the
+net is neither a fruitful nor a reliable source of AIDS information.
+
+The following are reliable sources of information:
+	Centers for Disease Control (CDC) 1-800-342-AIDS (404-329-1290 in GA)
+	U.S. Public Health Service  1-800-447-AIDS  (202-646-8182 in DC)
+	American Association of Physicians for Human Rights
+		P.O Bx 14366, San Francisco CA 94114
+		415-558-9353 (415-673-3189 in Bay Area)
+	National Gay Task Force   1-800-221-7044 (212-741-5800 in NY)
+		80 5th Ave, Suite 1601, NY NY 10011
+
+------------
+AIDS Summary
+------------
+
+*** What is it? ***
+	AIDS is a consequence of infection with a retrovirus that specifically
+infects cells carrying the CD4 (OKT4) protein.  These include white blood cells
+of the Helper T-cell lineage.  Infection with this virus, variously called
+HTLV-3 (Human T-Cell Lymphotophic Virus, type III), LAV (Lymphadenopathy-
+associated virus), ARV (AIDS-Related Virus), and HIV (Human Immunodeficiency
+Virus),  is not by itself fatal. However, the virus impairs the immune system
+of the host to allow opportunistic infections. Opportunistic infections are
+infections with organisms generally incapable of causing disease in healthy
+individuals, but can be fatal in immunocompromised persons.
+	The Virus is an RNA virus that upon infecting a cell reverse 
+transcribes itself into a DNA and stably inserts into the cell's DNA,
+using the cell's machinery to produce RNA copies of its genome as well as
+viral proteins.  The mechanism by which the virus actually kills the cell
+has not been elucidated. It appears, however, to be a much more complex
+process than the popular "cellular burnout" scenario.
+
+*** How is it spread? ***
+	AIDS is spread by direct transfer of infected bodily fluids.  Infection
+via blood and semen have been proven.  The virus has also been isolated 
+from saliva and tears, but no cases to date have been definitely linked to
+these routes of transmission.  Similarly, no evidence suggests that AIDS is
+transmitted by casual contact, or even household contact, or by insect
+vectors. In fact, a growing body of negative evidence suggests otherwise.
+Similarly the virus cannot exist free for an extended period of time
+(> 20 minutes or so), and is killed by routine sterile procedures (including 
+autoclaving and dilute chlorine bleach).
+	In short, it appears to have the same pattern as transmission as
+Hepatitis B virus, but is much less virulent.  
+[See accompanying article: 'Focus: AIDS and Africa', Oct. 86 only]
+
+*** Can it be cured? ***
+	At this time, great strides have been made in the understanding of
+the causative virus, as well as the treatment of the superimposed
+opportunistic infections.  The average survival time from diagnosis has
+been gradually and steadily increasing, but at this current time, there is
+no way of successfully reversing the underlying immune deficiency.
+	Recent clinical trials with 5-Azidothymidine (AZT) appear to slow 
+the progression of the disease and improve quality of life in a defined 
+subset of patients, although the drug is not without side-effects.  A 
+special AZT hotline has been set up  by the National Institutes of Health
+at (800)-843-9388.
+
+*** Who is at risk? ***
+	Due to the nature of its transmission, AIDS has so far been limited 
+to certain defined risk groups. These are: Sexually active homosexual males,
+Intravenous Drug Abusers, Hemophiliacs and others who received contaminated
+blood products, the sexual partners of the above, and children born to
+infected women. Recent immigrants from areas where AIDS is endemic (including
+Haiti and Central Africa) also are at increased risk.  Note, however, that
+inclusion within a risk group is not in and of itself an increased risk,
+but is merely an epidemiological tool to predict exposure to the virus, i.e.
+a gay male who has been celibate since 1977 is at no increased risk of 
+developing AIDS.
+The epidemiological data is as follows:
+	60% of adult AIDS victims are white, 25% Black, 14% Hispanic.
+	90% are between the ages of 20-49, 93% are men.
+	Gay men with no history of drug abuse account for 65% of all 
+cases, Gay drug abusers, 8% (total gay = 73%), Heterosexual drug 
+abusers, 17%, Hemophiliacs, 1%, Female Sexual Partners of infected men, 1%,
+and Transfusion associated, 2%.
+	Among children, 19% are white, 60% black, 20% Hispanic. 55% are male.
+	75% of children were born to infected mothers, 14% are transfusion
+associated, 5% are hemophiliacs.
+	AIDS has been reported in all 50 states, but over 3/4 of all cases
+have occurred in just 4: New York, Florida, New Jersey, and California.
+
+*** How to avoid AIDS? ***
+	Since over 99% of AIDS cases are linked to sexual or direct 
+parenteral (*) transmission, celibacy and avoidance of IV drug use will
+efectively reduce one's chance of contracting AIDS to near Zero,
+especially since blood products are now screened for contamination.
+Given the general unpopularity of complete celibacy, the use of
+condoms and other measures to avoid exchange of bodily fluids (especially
+semen) and stable monogamous relationships will provide relative
+protection. Avoiding shared razors and toothbrushes has also been
+suggested, as these may be contaminated with blood.
+	Donated blood is now screened for contamination, and the risk
+from of contracting AIDS by this route is nearly as low as it was in 1977.
+	There is absolutely NO RISK of contracting AIDS by DONATING blood.
+This belief has caused a critical shortage of blood in this country. 
+Therefore, if you are healthy, have not used IV drugs or engaged in
+sex with a male homosexual/bisexual since 1977, contact your local 
+Red Cross to become a blood donor.
+
+(*) parenteral: defined as 'not by mouth', i.e., related to blood and
+other body fluids. Example: Intravenous drugs.
+It has nothing to do with parentage (that's 'parental')
+
+
+[I am grateful for comments from Barry Hayes, Steve Dyer, Mike Lipsie,
+hokey@plus5, Alan J. Rosenthal, James Van Artsdalen, Joseph Yao, 
+Peter Rubin, bam@bigbang, tim@uw-nsr, and Henry Mensch.]
+[Also Andrew Klossner, Gary Cottrell, Matt Crawford, Stephen Hutchison,
+and Jerry Natowitz for suggestions and corrections.] 
+
+-- 
+			      Craig Werner (MD/PhD '91)
+				!philabs!aecom!werner
+              (1935-14E Eastchester Rd., Bronx NY 10461, 212-931-2517)
+                           "Trust me. I'm almost a doctor."
+
+-----------------------------------------------------------------
+
+johnmill@mmintl.UUCP (John Miller)
+10/10/86
+(message was not found)
+
+-----------------------------------------------------------------
+

@@ -1,0 +1,16 @@
+bbncc5's mail screwed up
+sdyer@bbncc5.UUCP (Steve Dyer)
+08/18/85
+I have just noticed that bbncc5's "rmail" has been dropping messages
+to me over the past few days.  Since I expect that they may be in reply
+to recent postings on these groups, I ask those of you who still have copies
+to resend them to either bbncca!sdyer or bbnccv!sdyer.  If you haven't received
+a response from me, it may be due to this.  I am trying to clear up this
+problem ASAP.
+-- 
+/Steve Dyer
+{harvard,seismo}!bbncc5!sdyer
+sdyer@bbncc5.ARPA
+
+-----------------------------------------------------------------
+

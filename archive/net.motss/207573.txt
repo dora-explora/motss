@@ -1,0 +1,60 @@
+HLA-DR antibodies cause positive HTLV-3 test results.
+werner@aecom.UUCP (Craig Werner)
+06/07/85
+	First, let me explain what HLA is.
+	HLA stands for Human Leukocyte Antigen,  although they are a group
+of proteins that occur on every cell in the body.  There are 4 groups -
+HLA-A,B,C are found on every cell.  HLA-D is particularly prominent on
+White Blood Cells.  There are hundreds of types of each letter - so many
+in fact, that probably no two people on Earth (except identical twins)
+have the same arrangement.  HLAs are also known as Transplantation antigens
+-- they are the cause of Rejection following Heart/Kidney/etc. transplant.
+
+	One of them -  HLA-D4 has been shown to react with the antibody to
+the virus that presumably causes AIDS.  This is the first case of a true
+False Positive with known cause.
+	Therefore, people who carry the HLA-D4 gene will register a positive
+result to the AIDS blood test, whether or not they have been exposed to the
+AIDS virus.  However, it can be checked via other means.
+
+	One explanation for the phenomenon is that the only cell line in
+which HTLV-3 will grow carries the HLA-D4, and hence the antibody is raised
+to a HLA-D4/HTLV-3 hybrid (also known as a virally-altered self) and then
+will react with each component separately.
+
+-- 
+				Craig Werner
+				!philabs!aecom!werner
+		"The world is just a straight man for you sometimes"
+
+-----------------------------------------------------------------
+
+werner@aecom.UUCP
+06/11/85
+	I realized that in my desire to simplify, I may have mislead, so here
+is a quick clarification.
+	The Test checks for antibodies against HTLV3, also known as
+AIDS Related Virus, or anti-HTLV3 antibodies.
+	The article described the testing of anti-HLA antibodies (which are
+normally used in tissue typing for transplants) and the discovery that one,
+anti-HLA-DR4, reacted with anti-AIDS antibodies.
+	I left out the 'anti's last time and here's where I made the boo-boo.
+People who have the HLA-DR4 gene will not test false positive for HTLV3.
+For them to have anti-DR4 antibodies would mean that they would be attacking
+their own tissues.
+	The only way someone would have those antibodies was if they had 
+recieved a transfusion or a transplant or a skin graft from someone who
+had HLA-DR4, or if there's still yet another cross-reacting antigen that
+hasn't been described yet.
+	I feel much better now.  Sorry for the inconvenience and confusion.
+
+				Craig Werner
+				!philabs!aecom!werner
+		"The world is just a straight man for you sometimes"
+-- 
+				Craig Werner
+				!philabs!aecom!werner
+		"The world is just a straight man for you sometimes"
+
+-----------------------------------------------------------------
+

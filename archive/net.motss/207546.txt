@@ -1,0 +1,163 @@
+mod.motss
+mokhtar@ubc-vision.CDN (mokhtar)
+10/06/84
+(message was not found)
+
+-----------------------------------------------------------------
+
+manis@ubc-vision.CDN (Vincent Manis)
+10/06/84
+I guess I too would prefer an unmoderated discussion. I've
+Organization: UBC Vision, Vancouver, B.C., Canada
+Lines: 10
+
+pretty well changed my mind on this over the last couple of
+days--originally, I thought that a moderated discussion might
+screen out the repetitive individuals who are using this 
+newsgroup to flame rather than discuss. I suggest that we politely
+ask flamers to go elsewhere (including perhaps net.flame)
+and let us get back to some sort of serious discussion.
+ 
+There are certain individuals whose name automatically
+makes me respond 'n' to the prompt. If everyone else did
+that, they would most certainly get the hint. 
+
+-----------------------------------------------------------------
+
+ag5@pucc-i (Henry C. Mensch)
+10/07/84
+<<Oh, well!>>
+
+	It seems that the discussion about mod.motss is now a moot
+point, since Mark Horton <cbosgd!mark> sent a control message creating
+this group and naming Steve Dyer <bbncca!sdyer> as the moderator "for
+now."
+
+--------------------------------------------------------------------
+Henry C. Mensch                 | Purdue University Computing Center
+{decvax|ucbvax|sequent|icalqa|inuxc|uiucdcs|ihnp4}!pur-ee!pucc-i!ag5
+--------------------------------------------------------------------
+            " . . You'd better smile when they watch you,
+                  smile like you're in control. . ."
+                                 -- *Smile*, Was (Not Was)
+
+-----------------------------------------------------------------
+
+sdyer@bbncca.ARPA (Steve Dyer)
+10/08/84
+(message was not found)
+
+-----------------------------------------------------------------
+
+arndt@lymph.DEC
+10/09/84
+I also nominate Steve Dyer for mod. of the new mod.motss.
+
+That way he and the two other guys can get started right away.
+
+(I hope they can agree!!)
+
+Of course I realize they will continue to read my postings, (as I really do
+phase out), - Steve wouldn't miss one!  With all the talk of pressing the "N"
+key (unix twits) I'll bet few do (Now I'll get mail saying yes they do!!!)
+because despite the fact you may not agree with me, I'm not boring at least.
+
+Rizzo's appeal to Boswell's research is seemingly ok by Steve, at least he
+hasn't labeled it "parodies of sociological citation".  What about the times
+I have posted data that the homosexual community agrees with, or just straight
+factual stuff?  Never mind.
+
+If Steve and co. want to become a pearl in our oyster that's ok by me.  Head on
+out.
+
+Anyway, that's my vote.  (I do have one don't I???)
+
+Regards,
+
+Ken Arndt
+
+-----------------------------------------------------------------
+
+sdyer@bbncca.ARPA (Steve Dyer)
+10/10/84
+Yup, Mark Horton created 'mod.motss' this past week.  I am quite
+ambivalent about having to resort to mod.motss, and even more
+ambivalent about having both newsgroups coexist.  Still, I have
+received enough private mail on the topic, along with the public
+messages, to convince myself that it is worth a try.  At the very
+least it will remove the argument that I've heard from a number of
+people over the last few months which goes roughly like: "Well, I
+used to read net.motss, but with all this crap in there, well, I just
+don't bother anymore."  Or, "isn't it a shame the way net.motss has
+been overrun by the Bible baiters."  Well, listen people, mod.motss
+AIN'T going to be like that, so your excuse is gone.  Use it or lose it.
+
+What are the respective futures of net.motss and mod.motss?  Right now,
+of course, they coexist, and that will probably stay that way for
+the immediate future.  My own personal view is that mod.motss should
+replace net.motss as soon as it is clear that mod.motss is off-the-ground
+and well-established.  But this is something which should be discussed
+by the group at large.  If there are problems with using a moderated
+newsgroup format (inconvience of posting, limited distribution of mod.all)
+or if mod.motss does not become sufficiently popular (by more than
+"two of us"--we'll see, Ken!) then we will try to deal with the situation
+in net.motss.
+
+My next message will be an introduction to 'mod.motss' with all sorts
+of useful information about how to post articles to it.
+-- 
+/Steve Dyer
+{decvax,linus,ima,ihnp4}!bbncca!sdyer
+sdyer@bbncca.ARPA
+
+-----------------------------------------------------------------
+
+wombat@ccvaxa.UUCP
+10/13/84
+Will there be any provision for sending mod.motss via mail to sites not
+receiving mod.* groups? I enjoy reading this notesfile, but with the creation
+of mod.motss, I'm afraid the interesting discussions will all go to the
+new notesfile.
+						Wombat
+					ihnp4!uiucdcs!ccvaxa!wombat
+
+-----------------------------------------------------------------
+
+sdyer@bbncca.ARPA (Steve Dyer)
+10/19/84
+I don't plan (myself) to forward mod.motss to sites which might
+not happen to receive mod.all.
+
+It seems to me that even the most closeted gay person or embarassed
+straight person should be able to ask their system managers to arrange
+to receive mod.all from their newsfeed neighbors.  After all, there
+are many moderated newsgroups out there now, and there is little
+reason to not carry mod.all--it is slowly becoming as important as
+net.all.
+
+If they ask, just look 'em in the eye and say: "I'm REALLY INTERESTED
+in reading mod.singles." :-) :-)
+-- 
+/Steve Dyer
+{decvax,linus,ima,ihnp4}!bbncca!sdyer
+sdyer@bbncca.ARPA
+
+-----------------------------------------------------------------
+
+wild@sun.uucp (Will Doherty)
+06/28/85
+After reading Arndt's last message, I wonder why we aren't using
+mod.motss.  I must have been off the net when mod.motss came around.
+Can anyone give more information about this (post to everyone so
+we can decide where to continue discussion)?
+
+				Will Doherty
+
+-----------------------------------------------------------------
+
+sdyer@bbnccv.UUCP (Steve Dyer)
+06/30/85
+(message was not found)
+
+-----------------------------------------------------------------
+

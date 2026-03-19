@@ -1,0 +1,70 @@
+Scientists study Flaming
+lkk@mit-eddie.UUCP (Larry Kolodney)
+10/11/84
+From: Charles McGrew (The Moderator) <Human-Nets-Request@Rutgers>
+Reply-to: HUMAN-NETS@RUTGERS
+Subject: HUMAN-NETS Digest   V7 #57
+To: HUMAN-NETS@RUTGERS
+
+From: Jef Poskanzer <Poskanzer.PA@XEROX.ARPA>
+Subject: The New York Times on Flaming.
+
+By Erik Eckholm
+New York Times
+
+    Computer buffs call it "flaming."  Now scientists are documenting
+and trying to explaim the surprising prevalence of rudeness,
+profanity, exultation and other emotional outbursts by people when
+they carry on discussions via computer.
+
+    Observing both experimental groups and actual working
+environments, scientists at Carnegie-Mellon University are comparing
+decision-making through face-to-face discussions with those conducted
+electronically.  In the experiments, in addition to calling each other
+more names and generally showing more emotion than they might face to
+face, people "talking" by computer took longer to agree, and their
+final decisions tended to involve more risks than those reached by
+groups meeting in person.
+
+    As small computers proliferate, business discussions that were
+once pursued face-to-face, by telephone or on paper are now taking
+place by way of keyboards and video display terminals.
+
+    The unusual characteristics showing up in computer communications
+should not be seen as entirely negative, say the researchers.
+
+    "This is unusual group democracy," said Sara Kiesler, a
+psychologist at Carnegie-Mellon.  "There is less of a tendency for
+one person to dominate the conversation, or for others to defer to the
+one with the highest status."
+
+    Studies of electronic mail in several Fortune 500 corporations
+have confirmed the tendency for people to use more informal and
+expressive language on the computer than when communicating in person,
+by telephone or by memo.
+
+    The company studies also indicate that computers are permitting
+much wider participation in discussions than in the past, with
+employees far from headquarters now able to follow debates and make
+their views known.
+
+    Unusually expressive language has been one of the most striking
+characteristics of computer discussions studied in many different
+contexts.  "It's amazing," said Kiesler.  "We've seen messages sent
+out by managers - messages that will be seen by thousands of people -
+that use language normally heard in locker rooms."
+
+------------------------------
+
+
+
+
+-- 
+larry kolodney (The Devil's Advocate)
+
+UUCP: ...{ihnp4, decvax!genrad}!mit-eddie!lkk
+
+ARPA: lkk@mit-mc
+
+-----------------------------------------------------------------
+

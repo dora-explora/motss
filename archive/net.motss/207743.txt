@@ -1,0 +1,105 @@
+Test for exposure to AIDS
+werner@aecom.UUCP (Craig Werner)
+01/03/85
+<><><><><><><>><><><>
+	Second of a set of occasional articles on AIDS
+
+	AIDS is an acronym for Aquired Immune Deficiency Syndrome. Some notes
+on that name: Syndrome is a technical term meaning we don't know what causes
+it, or exactly what it does, but it appears often enough that we need a name.
+	AIDS has up to now been diagnosed not directly but by the appearance
+of certain opportunistic infections, such as Kaposi's Sarcoma.
+	[Incidentally, AIDS-associated Kaposi's Sarcoma generally only occurs
+in Gays, IV-drug users tend not to show Kaposi's but tend to show other
+opportunistic infections.]	
+	By this time, the immunosuppression characteristic of AIDS has already
+occurred and the disease is invariably fatal within a few years. (7000 have 
+already died.)
+
+	Now there is a way to detect exposure to the virus that reputedly
+causes AIDS, HTLV-3. It is a simple blood test, easy to do and very reliable.
+It involves antibodies to the virus.
+
+	Some sample data on the test:
+
+		Group				% HTLV-3 positive
+		AIDS patients				99.7%
+		pre-AIDS			       ~90%
+		Healthy Homosexuals (in SF)	       ~70-80%
+		IV Drug Users			[I don't have this one ~50%?]
+		Hemophiliacs required F-VIII		~30%
+		Random Healthy Heterosexuals		0.003%
+
+	The test is not in wide use, however, for several NON-MEDICAL but
+rather POLITICAL reasons.
+	The first is reporting. Since no one knows what a Positive sign
+means. (Several of the Healthy Homosexuals who were tested AIDS positive
+later came down with the disease, but it was a very miniscule percentage.)
+Do you tell someone? The psychic risk was judged to be too great by some.
+	The second reason is similar. The test was designed to protect the
+integrity of the blood banks. Therefore it was suggested to keep a registry
+of those with HTLV-3 Positive blood (Like ABO and Rh typing) and only use that
+blood for research purposes not for transfusion. [It is done now in NY by a
+consent form which is confidential.]
+	Well, Gay groups protested vigorously. Look at the data and see why.
+The test is very good for identifying those with AIDS. But it is almost as
+good for identifying homosexuals (at least in SF - other parts of the
+country may vary.) and they feared labeling. Articles could be written on
+this alone, but I must go on.
+	The third reason is that people feared that people who may have been
+exposed to AIDS might be more likely to give blood (using donation as a 
+diagnostic test) to see if they really have the disease, causing much more
+contamination of the blood supply than already exists, especially if the
+test is not available in large enough quantities or is not sensitive enough
+and misses some HTLV-3 contaminated blood.
+
+	The variations are enormous, but I prefer shorter articles.
+Next time: AIDS in Africa, Heterosexual Transmission.
+
+-- 
+				Craig Werner
+				!philabs!aecom!werner
+		What do you expect?  Watermelons are out of season!
+
+-----------------------------------------------------------------
+
+rrizzo@bbncca.ARPA (Ron Rizzo)
+01/04/85
+7000 people have died?  The number of people with CDC-defined AIDS
+isn't much more than 8000, if that, as of December 1984.  I believe
+approximately 50% of these have died (it may be 45%), so the number
+of AIDS deaths can't be more than 4000.
+
+-----------------------------------------------------------------
+
+rrizzo@bbncca.ARPA (Ron Rizzo)
+01/05/85
+(message was not found)
+
+-----------------------------------------------------------------
+
+mef@wucs.UUCP (Mark Frisse)
+01/08/85
+Your observation about the gay press may be accurate.
+Having cared for gay patients early in the AIDS story,
+I found the articles my patients brought me from the
+gay press to be "ahead" of the articles in the scientific
+literature - probably because of the lengthy critical
+review process applied to scientific publications.
+
+Two points:
+    1.  We don't know how many patients exposed to HTLV will
+        get the full-blown aids syndrome - it may take a few
+        years to find out.
+    2.  Blood banks are going to start screening blood for
+        HTLV very soon.  What will they do with the information?
+        What are there responsibilities to the donor and the
+        public?
+
+                                      Mark Frisse, M.D.
+                                      Editor,
+                                      Washington U. Manual
+                                      of Med. Therapeutics
+
+-----------------------------------------------------------------
+

@@ -1,0 +1,65 @@
+HIV Vaccine Causes Faulty Infection Diagnosis.
+DGREEN@IBM.COM (Dan R. Greening)
+02/21/91
+I received this note as a personal e-mail message.  Given some recent
+discussions in sci.med.aids and soc.motss regarding HIV antibody positive
+status for VAXSYN vaccine recipients, I suspected others might find this
+interesting (my friend finds it alarming).  I obtained permission to post
+it anonymously.  My friend and I are uninfected and in the VAXSYN vaccine
+study sponsored by NIH.  We both have strong gp160 and gp120 antibody
+response, and a strong Elisa positive response.
+
+Dan Greening / dgreen@cs.ucla.edu
+-------------
+
+Dear Dan,
+
+I just received my HIV blood test results yesterday, from an anonymous,
+free test site in California.  The State of California has certified me as
+HIV positive based upon reactive results on both ELISA and IFA
+[immunoflourescent assay], and showing gp160/gp120 bands on Western Blot.
+It took a while to obtain the results as --- County detected conflicting
+results on the first two tests and sent my specimen to the State for
+confirmation.  The State then claimed they never received my sample but
+then found it.  This process took about 6-weeks.
+
+I don't think my results should have been categorized positive just
+on those two bands.  This is scary, as I was always told that it takes
+several more bands for confirmation.  The ones used are only envelope
+antibodies.  [envelope proteins include gp160, gp120, and p41]  Sigh.
+
+Some times the news is good, sometimes it is not.
+-------------
+
+A little more background from Dan:  In fact, the State of California does
+look for HIV core proteins, which more conclusively indicate infection.
+As expected, my friend had no antibody response to any core proteins on the
+State of California test.
+
+I mentioned in an earlier posting that a bad Western Blot reader could
+misinterpret us as positive.  It seems that the State of California is a
+bad Western Blot reader:  the Western Blot was accurate, but the diagnosis
+was false.
+
+My friend, by the way, was also denied insurance based solely on his
+involvement in a vaccine study!
+
+--
+____
+  /Dan Greening	until Feb 25:  NY (914) 784-7861
+/ dgreen@cs.ucla.edu	CA Northern (408) 973-8081 / Southern (213) 825-2266
+
+-----------------------------------------------------------------
+
+dgreen@lanai.cs.ucla.edu (Dan R. Greening)
+02/22/91
+(message was not found)
+
+-----------------------------------------------------------------
+
+bob@ozdaltx.UUCP (Bob Culmer)
+02/24/91
+(message was not found)
+
+-----------------------------------------------------------------
+
