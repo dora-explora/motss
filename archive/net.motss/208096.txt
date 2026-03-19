@@ -1,7 +1,19 @@
 A reminder
 riddle@ut-sally.UUCP (Prentiss Riddle)
 06/23/84
-(message was not found)
+To quote from the original article announcing the creation of net.motss:
+
+>> Net.motss is emphatically NOT a newsgroup for the discussion of whether
+>> homosexuality is good or bad, natural or unnatural.  Nor is it a place
+>> where conduct unsuitable for the net will be allowed or condoned.
+
+From the beginning, net.motss was intended as a forum free from flames and
+pointless pro-con arguments.  I know that once a few contributors to a
+newsgroup start flaming and counter-flaming it is hard for the rest not to
+join in, but is it worth it?
+
+--- Prentiss Riddle ("Aprendiz de todo, maestro de nada.")
+--- {ihnp4,harvard,seismo,gatech,ctvax}!ut-sally!riddle
 
 -----------------------------------------------------------------
 

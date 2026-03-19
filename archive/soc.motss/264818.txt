@@ -1,7 +1,84 @@
 AIDS and Drug Usage
 beth@sphinx.UChicago.UUCP (JB)
 10/17/86
-(message was not found)
+[Defeat is worse than death because you have to live with defeat.]
+
+In the November, 1986 issue of _American_Health_ magazine, there's an
+article entitled "Drugs that Suppress Immunity".  The last part of the
+article discusses AIDS, and I thought it might be of interest:
+
+    AIDS is caused by a virus called human T-cell lymphotropic virus type
+    III (HTLV-III), which attacks a specific kind of T-lymphocyte,
+    virtually wiping out the body's infection-fighting T4 helper cells.
+    When the virus gains a foothold, interferon production slows down, the
+    B-lymphocytes and macrophages stop attacking invaders, and the NK
+    [natural killer] cells quit mopping up tumor cells and virus-infected
+    cells.  AIDS victims don't die from AIDS, they die from the illnesses
+    that result from it -- the opportunistic infections and rare cancers
+    ordinarily seen only in transplant patients whose immune systems have
+    been suppressed by powerful drugs.
+
+    "HTLV-III won't produce AIDS in a healthy person," asserts Washington,
+    DC, internist Cesar A. Caceres.  "HTLV-III produces AIDS only if the
+    immune system is already damaged."  Dr. Caceres and co-author Terry
+    Krieger, in a controversial article published by _The_Wall_Street_
+    _Journal_, state, "It appears that most AIDS patients are not healthy
+    people who got AIDS simply because they had sex with the wrong person.
+    Rather, they seem to be people who were already sick in the sense of
+    having a damaged immune system [from drugs]."
+
+    Caceres treats a number of AIDS patients in his Washington practice.
+    Among these patients he noticed "an astonishing record of recreational
+    drug use."  And, significantly, the drug use was not primarily intra-
+    venous, but oral, and included marijuana, amphetamines, barbiturates,
+    Quaaludes, LSD, PCP, cocaine, and amyl and butyl nitrites.  In going
+    over the CDC data on risk categories of AIDS victims, Caceres and
+    Krieger found that drug abuse, not homosexuality, was the most common
+    risk factor.  The authors define drug abuse as using a recreational
+    drug at least once a week.  "We find that at least 79% of AIDS patients
+    have been drug abusers," Caceres says.
+
+    One recreational drug has already been specifically tied to AIDS.  In a
+    1981-82 study of AIDS patients with Kaposi's sarcoma (KS), a cancer of
+    the blood vessels that is the one most often found among AIDS patients,
+    Dr. Harry Haverkos of the National Institute of Allergy and Infectious
+    Diseases found that the most distinguishing factor among the KS sufferers
+    was their use of large quantities of nitrite inhalants.  "Nitrites affect
+    the blood vessels," he says.  "The drug causes vasodilation, which many
+    homosexuals believe enhances and prolongs sexual stimulation."  In his
+    study, pulished recently in _Sexually_Transmitted_Diseases_, Haverkos
+    found that nitrites were used by "nearly all" homosexual men with
+    Kaposi's sarcoma.
+
+    "We have enough evidence to warn people not to use drugs," says Nahas
+    of Columbia.  Another researcher likens taking drugs to speeding on the
+    highway:  "Most of the time you can probably get away with it.  But if
+    you do it often enough, eventually there's going to be a cop around."
+
+Note that the key word "controversial" is used to describe Caceres/Krieger's
+theory that the immune system must already be damaged for HTLV-III to induce
+AIDS.  Note also that, at least on the surface, their weighting of drug
+abuse as a larger risk factor than homosexuality seems to contradict the
+data that Craig Werner supplies us from the CDC:
+
+In article <513@aecom.UUCP> werner@aecom.UUCP (Craig Werner) writes:
+>	Gay men with no history of drug abuse account for 65% of all 
+>cases, Gay drug abusers, 8% (total gay = 73%), Heterosexual drug 
+>abusers, 17%, Hemophiliacs, 1%, Female Sexual Partners of infected men, 1%,
+>and Transfusion associated, 2%.
+
+It may be that Caceres/Krieger use a less restrictive definition of drug
+abuse (they "define drug abuse as using a recreational drug at least once
+a week").
+
+In any case, I thought the article might be of interest, particularly the
+tie between poppers and Kaposi's sarcoma.  The rest of the article is not
+AIDS related, but is quite interesting anyway.  I'd recommend getting a
+copy of the magazine and reading through it (_American_Health_ is a pretty
+swell magazine anyway).
+
+Take care,
+ JB
 
 -----------------------------------------------------------------
 

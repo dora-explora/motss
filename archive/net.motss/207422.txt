@@ -1,7 +1,20 @@
 AT&T anti-discrimination policy
 adam@npois.UUCP (Adam V. Reed)
 09/06/85
-(message was not found)
+In a recent posting, Ron Rizzo writes:
+>through another Usenetter, & many large corporations like DEC and
+>AT&T (I believe) have anti-discrimination clauses; but there's still
+
+For the record, AT&T has had such a policy for many years. The most
+recent official "EQUAL OPPORTUNITY POLICY" statement, dated 2-18-85,
+puts it as follows:
+
+"AT&T .... believes that a person's sexual orientation is strictly
+personal, and shall not be (among factors) used as criteria in
+employment decisions." (my elipsis)
+
+					Adam Reed
+					npois!adam
 
 -----------------------------------------------------------------
 

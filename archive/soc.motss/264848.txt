@@ -1,19 +1,109 @@
 AIDS question
 nazgul@apollo.uucp (Kee Hinckley)
 09/22/86
-(message was not found)
+In article <1530@mtx5a.UUCP> mat@mtx5a.UUCP writes:
+> With the exception of insecticides used against species that have the
+> immediate potential for severe damage to people and the environment (the
+> Karpa beetle and methyl bromide), insecticides approved for use today are
+> self-destructing when exposed to the environment.
+
+Absolutely not true.  There are a number of insecticides that are currently
+used on crops that do NOT break down.  Some of these were originally thought
+to be safe, others are applied regardless of the fact.
+
+I came into this discussion in the middle, but I gather someone was 
+proposing using insecticides to wipe out a disease carrying insect.
+
+    o   No application will reach all of the insects.  (In Africa some
+        malaria carrying mosquitos breed in the puddles left by cow
+        hooves.  Are you going to hit every cow hoof puddle in Africa
+        with an insecticide?)
+    o   No insectide will kill all of the insects.  A certain
+        percentage will survive, and their descendants will be even
+        more likely to survive.
+
+                                              -kee
+
+
+
+--
+
+            ...{mit-eddie,yale,uw-beaver,decvax!wanginst}!apollo!nazgul
+               Apollo Computer, Chelmsford MA.  (617) 256-6600 x7587
+                   or 499B Boston Rd, Groton MA. (617) 448-2863
+
+I'm not sure which upsets me more; that people are so unwilling to accept
+responsibility for their own actions, or that they are so eager to regulate
+everyone else's.
 
 -----------------------------------------------------------------
 
 geoff@burl.UUCP (geoff)
 09/24/86
-(message was not found)
+In article <303f1d1e.46@apollo.uucp> nazgul@apollo.UUCP (Kee Hinckley) writes:
+>
+>Absolutely not true.  There are a number of insecticides that are currently
+>used on crops that do NOT break down.  Some of these were originally thought
+>to be safe, others are applied regardless of the fact.
+>
+>                                              -kee
+
+This is a good point, but there is one thing that bothers me about the whole
+idea of insect eradication.  Suppose we found the perfect insecticide which
+kills all of the insects in the area and is totally harmless to people.
+Wonderful.  The only problem is that there is an entire food chain with
+insects at the bottom.  The insecticides might not hurt the birds, but
+lack of insects to eat sure might.  And flowering plants which rely on insects
+for cross-pollenization.  And lots of consequences we don't even forsee.
+
+	Things would have to be awfully bad before this scenario would be
+preferable....
+
+-- 
+
+		geoff sherwood
+		...![ ihnp4 ulysses cbosgd mgnetp ]!burl!geoff
+		...![ ihnp4 cbosgd akgua masscomp ]!clyde!geoff
 
 -----------------------------------------------------------------
 
 mat@mtx5a.UUCP (m.terribile)
 09/25/86
-(message was not found)
+> In article <1530@mtx5a.UUCP> mat@mtx5a.UUCP writes:
+> > With the exception of insecticides used against species that have the
+> > immediate potential for severe damage to people and the environment (the
+> > Karpa beetle and methyl bromide), insecticides approved for use today are
+> > self-destructing when exposed to the environment.
+> 
+> Absolutely not true.  There are a number of insecticides that are currently
+> used on crops that do NOT break down.  Some of these were originally thought
+> to be safe, others are applied regardless of the fact.
+> 
+> I came into this discussion in the middle, but I gather someone was 
+> proposing using insecticides to wipe out a disease carrying insect.
+
+The original question was they hypothetical  `what if we found that AIDS
+has a significant insect transmission vector?'  My response was that if
+the incidence of the disease became great enough, we might have to consider
+complete indoor quarantine of the affected individuals, as well as loading
+their living areas with as much insecticide as it appeared that they could
+stand for as long as they were likely to live, and that we would have to
+consider ``environmentally disasterous'' use of pesticides as well, in order
+to keep ourselves from being killed off completely.  It was a hypothetical
+question, and I don't think that anyone here would like to be faced with the
+choices.
+
+My understanding is that, except in cases where *no substitute at all exists*,
+all pesticides must degrade rapidly in the environment, and that no new
+pesticide would be approved unless it met this critera.  Is this incorrect?
+-- 
+
+	from Mole End			Mark Terribile
+		(scrape .. dig )	mtx5b!mat
+					(Please mail to mtx5b!mat, NOT mtx5a!
+						mat, or to mtx5a!mtx5b!mat)
+					(mtx5b!mole-end!mat will also reach me)
+    ,..      .,,       ,,,   ..,***_*.
 
 -----------------------------------------------------------------
 

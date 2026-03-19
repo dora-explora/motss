@@ -1,7 +1,44 @@
 Getting Sick from Medicine - Vaccines
 rick@wet.UUCP (Rick Rutledge)
 04/07/90
-(message was not found)
+In article <33978@shemp.CS.UCLA.EDU> lima@amdahl.uts.amdahl.com (Bruce Lima) writes:
+>>
+>going on with a disease that might not show up for 7 years?  Jonas Salk
+>claims to have come up with (or be close to) a vacination.  That could be
+>interesting, as with any vaccine, a certain percentage of the population
+>contract the disease from the shot...; a small percentage, but how small
+>is small enough?  Would you take the shot for a .0004 chance of comming
+>down with the disease?  There's a certain amount of risk on the road to
+>immunity.
+
+This is NOT correct.  "with any vaccine" is a misstatement.  If a vaccine
+uses actual killed virus, yes, there exists a possibility that live virues
+will exist.  However, not all vaccines use killed virus.  Polio, for
+instance, probably the instance you are thinnking of, did use a killed
+virus.   If the virus is genetically changed, there may be a possibility of
+getting a similar disease, but not the same disease.  If a vaccine is
+designed with a protein envelope, or a mock protein to fool the immune
+system, there is NO possibility of contracting the disease from it.  (There
+does exist a possibility, however, it will be ineffective in some or all
+cases, which is why the vaccines currently being tested are being tested -
+not to insure their safety, but to guage their effectiveness.  I may be
+unaware of a killed-virus trial going on at this time, however.)
+
+>
+>-- 
+>*************************************************************************
+>* DISCLAIMER:No Way, Man!  It was somebody else!  I'm not responsible   *
+>* for nobody but me, and nobody's responsible for me....not even me!    *
+>*************************************************************************
+>* SIGNATURE: That's Lima as in Peru,  *  email is lima@uts.amdahl.com   *
+>* but "They call me Bruce!"           *  -My number is (408)746-6493    *
+>*************************************************************************
+
+-- 
+------------------------------------------------------------------------------
+Rick Rutledge        {hoptoad|ucsfcca|claris}!wet!rick            rick@wet.UUCP
+"Who needs `rational` when your toes curl up?"
+                               -Dr. Beverly Crusher, _Star Trek_
 
 -----------------------------------------------------------------
 

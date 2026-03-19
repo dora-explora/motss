@@ -1,7 +1,44 @@
 responsibility, sensitivity,
 tim@unisoft.UUCP (Tim Bessie)
 01/09/86
-(message was not found)
+In article <467@hounx.UUCP> kort@hounx.UUCP (B.KORT) writes:
+>Depression is a curious state, that frequently baffles and
+>vexes the friends of the depressed person.  One thesis is
+>that the depressed person has lost touch with reality.
+ ...
+>Imagine how Gallileo felt, or Spinoza,
+>or Alan Turing, when, at the time they were active, their
+>community failed to appreciate their work, rejected it,
+>rejected them.  I suspect they had bouts of depression.
+>Turing committed suicide.  Here we are thirty years later,
+>and a tiny fraction of society are able to appreciate
+>Turing's work.
+
+I'd always heard that Turing committed suicide because he was
+a homosexual, and couldn't bear living that way (living, as he
+did, at a time and place when it was considered a crime).
+
+---
+
+	Life is like an onion; you keep peeling off the layers,
+	and sometimes you weep.
+				- Carl Sandburg
+	---------------------------------------------------------------
+
+---> Tim Bessie ----- {ucbvax,dual}!unisoft!tim
+---> Unisoft Systems; 739 Allston Way; Berkeley, CA 94710
+---> (415) 644-1230   TWX II 910 366-2145
+-- 
+---
+
+	Life is like an onion; you keep peeling off the layers,
+	and sometimes you weep.
+				- Carl Sandburg
+	---------------------------------------------------------------
+
+---> Tim Bessie ----- {ucbvax,dual}!unisoft!tim
+---> Unisoft Systems; 739 Allston Way; Berkeley, CA 94710
+---> (415) 644-1230   TWX II 910 366-2145
 
 -----------------------------------------------------------------
 
@@ -50,19 +87,63 @@ they ever bring the authorities to trial?   --Barry Kort
 
 tim@unisoft.UUCP (Tim Bessie)
 01/15/86
-(message was not found)
+In article <1666@bbncca.ARPA> rrizzo@bbncca.ARPA (Ron Rizzo) writes:
+>Turing killed himself as a result of depression after being given the "3rd
+>degree" (criminal conviction and hormone treatments) for being openly gay.
+ ...
+>You probably weren't aware of the details, but to say Turing killed
+>himself because he couldn't deal with his homosexuality not only lets
+>the culprits (the British authorities) off the hook, but lets them have
+>the last word via a very ironic slander.
+
+I appreciate your admitting that I might not have had the facts.  I
+get the feeling, though, that you are upset with me for being ignorant
+here.  Is this true?
+
+                                                - Tim
 
 -----------------------------------------------------------------
 
 laura@hoptoad.uucp (Laura Creighton)
 01/16/86
-(message was not found)
+In article <5@unisoft.UUCP> tim@unisoft.UUCP (Tim Bessie) writes:
+>I appreciate your admitting that I might not have had the facts.  I
+>get the feeling, though, that you are upset with me for being ignorant
+>here.  Is this true?
+>
+>						- Tim
+Ah, far be it from me to assume what someone else meant, but it is quite
+possible to be very upset that there is ignorance without blaming the
+ignorant people for their ignorance.
+
+
+
+-- 
+Laura Creighton		
+sun!hoptoad!laura		(note new address!  l5 will still
+ihnp4!hoptoad!laura		 work for a while....)
+hoptoad!laura@lll-crg.arpa
 
 -----------------------------------------------------------------
 
 gmk@uicsl.UUCP
 01/17/86
-(message was not found)
+/* Written 12:47 pm  Jan  9, 1986 by tim@unisoft.UUCP in uicsl:net.motss */
+/* ---------- "Re: responsibility, sensitivity, (a" ---------- */
+
+> I'd always heard that Turing committed suicide because he was
+> a homosexual, and couldn't bear living that way (living, as he
+> did, at a time and place when it was considered a crime).
+
+Not quite. Turing was persecuted during the McCarthy era for
+his homosexuality (security risk, etc.). The government tried to
+``turn him around'' with hormone injections and it was the
+depression resulting from these treatments that led to his
+suicide.
+
+Recommended: "Alan Turing: the Enigma" by Andrew Hodges
+
+- Gary
 
 -----------------------------------------------------------------
 
@@ -101,7 +182,12 @@ Sam Midkiff
 
 cda@violet.berkeley.edu (Charlotte Allen)
 01/21/86
-(message was not found)
+>I'd always heard that Turing committed suicide because he was
+>a homosexual, and couldn't bear living that way (living, as he
+>did, at a time and place when it was considered a crime).
+>
+
+Funny, I thought he was murdered by the OSS.....
 
 -----------------------------------------------------------------
 

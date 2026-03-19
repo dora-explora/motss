@@ -1,37 +1,154 @@
 News and Motss
 ejbjr@ihlpg.UUCP
 03/05/87
-(message was not found)
+> >> In case anyone doesn't know this, the new version of news software has
+> >> something called FASCIST mode, which gives the news administrator a
+> >> convenient way to see every posting from his/her site.
+
+[As noted in other articles, administrators reading all articles has
+nothing to do with `fascist' mode.]
+
+Anyone at a large (or even small) technology-oriented company should
+expect all network transmissions - netnews and email - to be monitored.
+Any company NOT checking out all transmissions is leaving a very large
+hole for proprietary info to slip through (both through unintentional
+discussion of topics deemed sensitive and deliberate espionage).  People
+have been fired for deliberately trying to leak sensitive information
+via email.
+
+For articles posted to a public news network there is no basis to complain
+about this behavior - they are as much a part of the public as the poster.
+
+For private, directed email this seems to be a violation of privacy,
+but it is very legal (after all it is their machine your using) and very
+necessary in this dog-eat-dog corporate world - its far better than the
+alternative of NO email network and no netnews.
+
+If you don't want your system netnews administrator or company to read
+it, don't post it to netnews or send it with email - plenty of alternative
+media are available for your use which your company has no legal right
+to intercept.  Assume even private email messages might be read by anyone.
+-- 
+-----------------
+Ed Branagan
+ihnp4!ihlpg!ejbjr
+(312) 369-7408 (work)
 
 -----------------------------------------------------------------
 
 dave@viper.UUCP (David Messer)
 03/05/87
-(message was not found)
+In article <2990@ihlpg.ATT.COM> ejbjr@ihlpg.ATT.COM (Branagan) writes:
+ >
+ >Anyone at a large (or even small) technology-oriented company should
+ >expect all network transmissions - netnews and email - to be monitored.
+ >
+ >For articles posted to a public news network there is no basis to complain
+ >about this behavior - they are as much a part of the public as the poster.
+ >
+ >For private, directed email this seems to be a violation of privacy,
+ >but it is very legal (after all it is their machine your using) and very
+ >necessary in this dog-eat-dog corporate world - its far better than the
+ >alternative of NO email network and no netnews.
+
+There was a bill introduced last year to make reading of private
+mail illegal.  I don't know if it passed, but it should have.
+Companies have no more moral right to read private mail than they
+do to bug telephones.
+-- 
+                      | David Messer - Lynx Data Systems
+If you can't convince |   amdahl  \
+them, confuse them.   |   ihnp4   --!-- dayton --!viper!dave
+   -- Harry S. Truman |   rutgers /   \ meccts /
 
 -----------------------------------------------------------------
 
 wendyt@unisoft.UUCP
 03/05/87
-(message was not found)
+In article <294@unisoft.UUCP> wendyt@unisoft.UUCP (Wendy Thrash) writes:
+<that Andy B. "apparently" used to have copies of all news postings mailed
+to him at lll-lcc>
+
+Alas, what is "apparent" is not always true.  Although Andy may have suggested
+this to Carl, I have been informed that he DID NOT do it at lll-lcc.  My
+sincere apologies to Andy.
 
 -----------------------------------------------------------------
 
 hankb@midas.TEK.COM (Hank Buurman)
 03/06/87
-(message was not found)
+In article <2990@ihlpg.ATT.COM> ejbjr@ihlpg.ATT.COM (Branagan) writes:
+>
+>Assume even private email messages might be read by anyone.
+
+Administrators: Is this a common practice?
+
+Regardless of the argument put forward in your article, I consider e-mail
+to have the same privacy privilidges (sp?) as snail mail.
 
 -----------------------------------------------------------------
 
 beattie@netxcom.UUCP (Brian Beattie)
 03/06/87
-(message was not found)
+In article <1180@midas.TEK.COM> hankb@midas.UUCP (Hank Buurman) writes:
+>In article <2990@ihlpg.ATT.COM> ejbjr@ihlpg.ATT.COM (Branagan) writes:
+>>
+>>Assume even private email messages might be read by anyone.
+>
+>Regardless of the argument put forward in your article, I consider e-mail
+>to have the same privacy privilidges (sp?) as snail mail.
+
+
+Your employer may read *ANY* mail addressed to it's place of business.
+
+I am the system admistrator of this system and I will always try to
+respect the privacy of my users.  If however, I have need to look at
+any file, including mail, I will do so without hesitation.  I do not
+however go snooping with out a good reason.
+
+Moral:  If you don't want me to know about it don't put it on my system
+because I may see it.
+-- 
+-----------------------------------------------------------------------
+Brian Beattie			| Phone: (703)749-2365
+NetExpress Communications, Inc.	| uucp: seismo!sundc!netxcom!beattie
+1953 Gallows Road, Suite 300	|
+Vienna,VA 22180			|
 
 -----------------------------------------------------------------
 
 woods@hao.UCAR.EDU (Greg Woods)
 03/07/87
-(message was not found)
+In article <1180@midas.TEK.COM> hankb@midas.UUCP (Hank Buurman) writes:
+>In article <2990@ihlpg.ATT.COM> ejbjr@ihlpg.ATT.COM (Branagan) writes:
+>>
+>>Assume even private email messages might be read by anyone.
+>
+>Administrators: Is this a common practice?
+>
+>Regardless of the argument put forward in your article, I consider e-mail
+>to have the same privacy privilidges (sp?) as snail mail.
+ 
+   What's your definition of "common"? Here, mail messages are occasionally
+scanned for the header information when new mailers are being installed
+or current mailers are being changed. I'm not interested in the message
+content, but I cannot 100% guarantee that I won't see something in the 
+content of the message as I do this. I am a human being; certain patterns
+will catch my eye. No, I'm NOT going to peruse the rest of the message,
+but are YOU willing to take the risk that I or someone else in my position
+WON'T do so? All moral arguments aside, you are foolish if you make that
+assumption. Secondly, E-mail is NOT legally the same as USmail. You can
+consider what you like, but you're living in a fantasy world. At present,
+as administrator of this machine, I'm bloody well entitled to look at ANY
+file stored on OUR disk (whether I *wish* to do so is an entirely separate
+issue), and as long as I'm expected to continue my job competently, there's 
+NO WAY I'm going to give up that right.
+
+--Greg
+-- 
+UUCP: {hplabs, seismo, nbires, noao}!hao!woods
+CSNET: woods@ncar.csnet  ARPA: woods%ncar@CSNET-RELAY.ARPA
+INTERNET: woods@hao.ucar.edu
 
 -----------------------------------------------------------------
 
@@ -63,25 +180,176 @@ dyer@spdcc.COM aka {linus,wanginst,bbnccv,harvard,ima,ihnp4}!spdcc!dyer
 
 jimb@dopey.UUCP
 03/07/87
-(message was not found)
+in article <1180@midas.TEK.COM>, hankb@midas.TEK.COM (Hank Buurman) says:
+> Xref: dopey soc.motss:835 news.misc:150
+> 
+> In article <2990@ihlpg.ATT.COM> ejbjr@ihlpg.ATT.COM (Branagan) writes:
+>>
+>>Assume even private email messages might be read by anyone.
+> 
+> Administrators: Is this a common practice?
+> 
+> Regardless of the argument put forward in your article, I consider e-mail
+> to have the same privacy privilidges (sp?) as snail mail.
+
+Regardless of what you consider, it doesn't work that way. A bad address
+or mailer anywhere can result in your letter being sent to any number of
+system administrator/postmasters. That's the way it works. Just like a
+postcard that gets misaddressed will end up in the hands of a postal
+worker. And e-mail, like a postcard, has no opaque external covering to
+prevent observing the contents.
+
+The right of privacy you mention for US mail only applies to
+sealed mail. Postal departments are forbidden to open a sealed letter
+or parcel without a search warrant.
+
+e-mail cannot be considered sealed.
+
+========================================================================
+
+In addition, as regards the right of a system administrator to read
+outgoing mail if he wants:
+
+	1. US mail has certain rights of privacy guaranteed as a result
+of the laws and constitution.
+
+	2. Any similar private postal organization (UPS, MCI) is not bound
+by the same requirements, but by a different set of civil rules.
+
+	3. Any private internal mail system set up by a company for
+communication between members of the company FOR THE BENEFIT OF THE COMPANY
+are bound by neither of these. A company merely has to define 
+intra-company mail as non-private, for business use only, and at that point
+NO rules of privacy applies to that mail. Every bit of it belongs to the
+company. PERIOD.
+
+Now most companies have something called their 'corporate culture' which
+defines the way the company treates things like intra-company mail use,
+intra-company phone use, and e-mail. The company can change these definitions
+at a stroke of a pen.
+
+For instance, our corporate directives don't say a word about e-mail, probably
+because they don't know it exists. They do refer to phone usage, and
+intra-company mail usage.
+
+Therefore, currently, the rules concerning e-mail here are purely the sort
+of 'common law' the users have defined. They *expect* the mail to be private.
+They know the system administrator can read anything on the system, they
+*expect* him not to *SNOOP*.
+
+This, therefore is a somewhat binding, common law definition of their rights
+to the e-mail privacy. The company can change this policy by announcing
+and documenting a new one. PERIOD. After such an announcement, the users
+right to privacy on this company owned intra-company communication facility
+will be exactly as defined by the rules of the company.
+-- 
+Room for growth:
++==== Jim Budler ==== Advanced Micro Devices, Inc. ==== (408) 749-5806 ====+
+| Compuserve: 72415,1200; Delphi: JIMBUDLER;  Usenet: jimb@amdcad.AMD.COM  |
++=== Disclaimer: My company wouldn't let ME speak for them, would they? ===+
 
 -----------------------------------------------------------------
 
 edg@micropro.UUCP (Ed Greenberg)
 03/10/87
-(message was not found)
+>The right of privacy you mention for US mail only applies to
+>sealed mail. Postal departments are forbidden to open a sealed letter
+>or parcel without a search warrant.
+
+Sorry, the postal service opens undeliverable mail in the "dead letter
+office" in order to try and find an addressee or sender.
+-- 
+
+Ed Greenberg
+{well,dual,pyramid,ptsfa,lll-crg}!micropro!edg
 
 -----------------------------------------------------------------
 
 robert@jimi.UUCP
 03/11/87
-(message was not found)
+>In article <2990@ihlpg.ATT.COM> ejbjr@ihlpg.ATT.COM (Branagan) writes:
+>There was a bill introduced last year to make reading of private
+>mail illegal.  I don't know if it passed, but it should have.
+>Companies have no more moral right to read private mail than they
+>do to bug telephones.
+
+Has anyone done anything about implimenting encryption as put forth in the
+paper "A Method for Obtaining Digital  Signatures and Public-Key Crypto-
+Systems" by RS&A?  Seems as though this would not only make legislation
+unnecessary, but would also solve the problem of stuff getting bounced to
+sysadmins.  Isn't there a header in RFC822 for this purpose?  Of course
+one can always encrypt things by hand, but this is a nuisance, it would be
+nice if the mail agent did this automatically, and if a public-key system
+were available.
+
+As to people inadvertantly posting propriatary code to the net, a good
+dose of education would do a lot more good than reading private email,
+
+					--robert
+
+-
+CSNET:   robert%jimi.cs.unlv.edu@relay.cs.net
+UUCP:    {akgua,ihnp4,mirror,psivax,sdcrdcf}!otto!jimi!robert
+         seismo!unrvax!tahoe!jimi!robert
 
 -----------------------------------------------------------------
 
 dlc@zog.cs.cmu.edu.UUCP
 03/13/87
-(message was not found)
+>In article <2990@ihlpg.ATT.COM> ejbjr@ihlpg.ATT.COM (Branagan) writes:
+>There was a bill introduced last year to make reading of private
+>mail illegal.  I don't know if it passed, but it should have.
+>Companies have no more moral right to read private mail than they
+>do to bug telephones.
+
+    I'm really going to stick my foot in my mouth, but here goes.  I see
+no problem in doing this as long as it is not just malicious snooping i.e.
+there is reason to believe that something secret is contained in the
+mesage or mail box.  There are many cases where special searches are allowed
+whenever something of yours is at a place you do not own. Examples:
+
+    1) Stores reserve the right to inspect packages, bags, etc.  If a store
+       suspects that say some woman (not a sexist remark) put an item from
+       the store in her pocket book, they may examine it when she leaves.
+       Of course, that can't snoop too far.
+    2) In some public schools, a search warrant is not needed to search a
+       kids locker.  I think this issue has been kicked around in courts,
+       and I don't know what has come about.  Is it really absolutely
+       disallowed in all states, or state by state determinable?
+
+I do feel that it would be nice to have the same privacy, not just for mail
+but other data on a computer storage medium, as US mail, but right now it
+is not technically feasible.  Of course, if you own the machine, then it
+should be possible to maintain as much privacy as you wish.  The point is,
+whenever you have property stored in a location that you do not own, the
+same privacy rights often times do not hold that you would have otherwise.
+
+
+Another example.  Let's say that you have a secret note on your desk.  Do
+you expect that your boss be legally bound not to look at it?  How would
+you enforce it?  Where do you draw the line?  There are certain areas of
+morality that can not be legislated, even if you probably wanted to, because
+they can not be enforced.  Computer storage devices can be thought of as
+buildings with offices.  The person who owns the building should be able
+personally or by designating someone be able to get into any office to look
+for something.  If this right is abused i.e., malicious snooping, there
+should be some policy for its treatment, even if its the owner.  If someone
+breaches security e.g. breaks into your office, then of course security
+measures should be tightened.  There are many areas in life that have no
+legal status as far as moral or immoral, but we have personal implicit
+ideas of what is moral/immoral.  Sometimes there are conflicts.  Would
+you keep something that is yours and very private in your office, even if
+it were in a locked drawer?  I suspect not since you don't want to assume
+anything about everybody's sense of morality and you thus want more direct
+control over who can access/see the item.  I see this as no different on
+computers. Don't store, send, or expect anything that you consider private
+from everyone.  If you must, then make it unreadable via encryption.  If
+you want to leave interoffice memos in a place that everyone can read them,
+you may want to make encrypted copies of some and destroy the original.
+I hope this stuff doesn't seem too bogus.
+
+
+						Daryl
 
 -----------------------------------------------------------------
 

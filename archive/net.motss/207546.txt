@@ -1,7 +1,23 @@
 mod.motss
 mokhtar@ubc-vision.CDN (mokhtar)
 10/06/84
-(message was not found)
+> It is in this light that I recommend creating 'mod.motss', a newsgroup
+> essentially identical to 'net.motss', but one in which the articles 
+> are screened by a moderator, a benevolent dictator whose only role is
+> to ensure that the posted article conforms with the purpose stated in
+> the first submission to 'net.motss' (copies available on request.)
+> Sure, this is a lot of "power" given to one person, but it is bestowed
+> by consensus.  It is, in my personal view, much preferable to the
+> anarchic situation we see here right now.
+  
+   As much as I sympathize with you, I just have to disagree because I don't
+believe in 'benevolent dictators'. This newsgroup is supposed to be a
+discussion group. It's intended function is very different from that of
+(ex) net.general. I don't see any 'anarchic' situation here, just a lot of
+'noise'. Why couldn't the true contributors of net.motss ignore that noise
+and respond to the more reasonable arguments?
+						  Farzin Mokhtarian
+						  < ubc-vision!mokhtar >
 
 -----------------------------------------------------------------
 
@@ -45,7 +61,56 @@ Henry C. Mensch                 | Purdue University Computing Center
 
 sdyer@bbncca.ARPA (Steve Dyer)
 10/08/84
-(message was not found)
+	>As much as I sympathize with you, I just have to disagree because I
+	>don't believe in 'benevolent dictators'. This newsgroup is supposed
+	>to be a discussion group. It's [sic] intended function is very
+	>different from that of (ex) net.general. I don't see any 'anarchic'
+	>situation here, just a lot of 'noise'. Why couldn't the true
+	>contributors of net.motss ignore that noise and respond to the more
+	>reasonable arguments?
+
+Then you don't believe in moderated newsgroups, either.  One of the main
+functions of a moderator is to remove "noise" as well as to ensure that the
+discussion follow the groundrules for the news group.  The moderator for
+mod.movies, shall we say, is acting appropriately when a discussion about a
+sci-fi movie becomes a discussion of Heinlein, and redirects the postings
+to net.sf-lovers.  The moderator for mod.movies is acting appropriately
+when a question about "Casablanca" generates 50 identical responses, and
+only posts a single representative response.
+
+So, too, for the moderator of mod.motss, if the group is ever realized.  I
+am redistributing to you the reason and purpose of net.motss from its first
+posting, to remind you just how far the group has strayed lately.  The
+problem is not only Brunson and Arndt and the occasional other crazies who
+crop up now and again, but the "righteous" of us, myself included, who, by
+counterflaming, further degrade the quality of the discussion.  Nor do our
+targets ever listen.  Responses of any type merely reinforce their
+behavior, as they observe with infantile wonder their ability to stir up
+their environment.  I think it is probably futile to encourage people to
+ignore such postings, given the nature of the net.
+
+"Noise" prompts people to unsubscribe to net.motss.  "Noise" causes
+people to type 'n' before they even read an article.  This "noise"
+obscures cogent points in a discussion by pandering instead to emotion
+and invective.
+
+Reasonable arguments?  Show me one, and I'll respond to it.  I haven't
+see one yet.  Rather, we have Brunson (and fellows) who should
+be written off by everyone else as a fool, and we have Arndt who
+has no arguments at all, but rather a diffuse antipathy towards gay
+people and an anti-social manner, veering between stark-raving
+madness (witness his last response to Gerber) and parodies of
+sociological citation.
+
+Regardless of the fate of {net,mod}.motss, which I'll discuss in a
+later message, I invite those of you who can discern cogency in
+any of this "sludge" (to recapitulate a phrase of Ron Rizzo's)
+to do these people one better, and restate what you think was
+important therein in a manner more suitable for public discussion.
+-- 
+/Steve Dyer
+{decvax,linus,ima,ihnp4}!bbncca!sdyer
+sdyer@bbncca.ARPA
 
 -----------------------------------------------------------------
 
@@ -157,7 +222,24 @@ we can decide where to continue discussion)?
 
 sdyer@bbnccv.UUCP (Steve Dyer)
 06/30/85
-(message was not found)
+> After reading Arndt's last message, I wonder why we aren't using
+> mod.motss.  I must have been off the net when mod.motss came around.
+> Can anyone give more information about this (post to everyone so
+> we can decide where to continue discussion)?
+> 
+> 				Will Doherty
+Will,
+
+Mod.motss is still around, although like most moderated groups, it hasn't 
+proved very popular (save for Mike Simpson's summaries.)  Around the
+same time of its creation, the level of discussion in net.motss improved
+a whole lot, reducing the motivation to turn whole-heartedly to a
+moderated forum.  Still, I am more than willing to receive more postings--
+the address is, as always, {decvax,ihnp4,ima,linus,bbnccv}!bbncca!motss.
+-- 
+/Steve Dyer
+{decvax,linus,ima,ihnp4}!bbncca!sdyer
+sdyer@bbnccv.ARPA
 
 -----------------------------------------------------------------
 

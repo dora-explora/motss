@@ -1,7 +1,94 @@
 CALL FOR VOTES: proposed newsgroup soc.couples
 jwalsh@bbn.com (Jamie Walsh)
 01/13/89
-(message was not found)
+This is a formal CALL FOR VOTES for the creation of newsgroup soc.couples
+(the other proposed name, soc.passlq, went over like a lead balloon.)
+
+I have included below text from two articles that I posted during the
+discussion period in news.groups, these should be sufficient to describe
+the newsgroup.
+
+A few people suggested that soc.couples should have a charter.  Any
+assistance with the definition of a newsgroup charter and how one is
+created would be very welcome.
+
+Please send votes to jwalsh@cc6.bbn.com or harvard!bbn!jwalsh
+
+---------------------------------------------------
+From: jwalsh@bbn.com (Jamie Walsh)
+Newsgroups: soc.singles,soc.motss,soc.men,soc.women,alt.sex,news.groups
+Subject: soc.couples or soc.passlq proposal for discussion
+Date: 13 Dec 88 00:34:10 GMT
+
+Please post followups to news.groups only.  
+
+I would like to open discussion for a newsgroup for the purpose of
+discussing issues and problems related to long term relationships,
+especially issues of interest to couples living together, including but not
+limited to married couples, and including heterosexual, gay, and lesbian
+long term relationships.
+
+A few sample topics:
+       stages that long term relationships go through
+       adjusting to living with your partner
+       sorting out house issues from relationship issues
+       rekindling the flame when relationships get bogged down 
+
+sample names: soc.couples, soc.passlq (person of appropriate sex
+    sharing living quarters, adapted from POSSLQ)
+
+Frequently discussions that would belong in the proposed group go on in
+soc.singles (which is not particularly appropriate for a singles group, in
+my opinion).
+
+If the discussion then gets far enough to collect votes, I volunteer to
+collect them.
+
+------------------------------------
+From: jwalsh@bbn.com (Jamie Walsh)
+Newsgroups: news.groups
+Subject: Re: soc.couples or soc.passlq proposal for discussion
+Date: 13 Dec 88 22:55:10 GMT
+
+In article <45581@yale-celray.yale.UUCP> shefter-bret@CS.YALE.EDU (Bret A. Shefter) writes:
+>In article <3382@mit-amt> henry@garp.mit.edu (Henry Mensch) writes:
+>>seriously, though, how will these discussions be significantly
+>>different than what goes on in soc.singles?
+>
+>    Without implying an opinion either for or against the proposed group, I
+>point out that the original poster expressed an intent to get the things re-
+>lating to couples out of soc.singles, where they allegedly don't make sense
+>(on the theory that singles=1 and couples=2).
+
+from the List of Active Groups:
+soc.singles		Newsgroup for single people, their activities, etc.
+
+If I was unclear, let me rephrase that I propose soc.couples or soc.passlq
+for issues of interest to people committed to a serious relationship, that
+is to say, emotionally married, regardless of legal marital standing.
+People involved as such don't generally consider themselves singles or
+behave as singles, thus soc.singles is inappropriate by its own definition,
+and current articles relating to couples are only there by default for a
+lack of newsgroup.
+
+People who would read soc.couples/passlq probably would not be interested
+in the soc.singles discussions on how and where to meet people, being
+alone, dating behavior and strategies, whether or not boys/girls at [insert
+college here] are too [insert gross generalization here], and other
+soc.single discussions aimed at single people.
+
+I didn't propose soc.married, because I know couples who are not legally
+married, some by choice and some because marriage is not available for same
+sex couples, who are just as emotionally joined as a couple who is legally
+married, and I see no reason to exclude them from the group's definition or
+from discussions in the proposed group.
+-----------------------------------
+
+-- jamie (jwalsh@cc6.bbn.com
+         !harvard!bbn!jwalsh)
+"There's a seeker born every minute."
+
+A waste is a terrible thing to mind.  -- The Treatment
 
 -----------------------------------------------------------------
 

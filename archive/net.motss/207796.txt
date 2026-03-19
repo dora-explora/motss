@@ -1,7 +1,68 @@
 Brunson on "learned value orientation"
 rlr@pyuxd.UUCP (Rich Rosen)
 11/28/84
-(message was not found)
+> At some point in the entertainment it dawned on me that
+> some people actually believe that "tolerance" is valid as a universal
+> principle -- a sort of supreme, irrefutable dogma suitable as a basis
+> for public policy positions.  The discussion then changed so as to 
+> explore this concept more fully.  Unfortunately we have had to proceed
+> at the level of the slower students (after all, these people are actually
+> allowed to vote!) at the expense of those who raise valid points (I am
+> thinking of Steve Bellovin and, very occasionally, Rich Rosen).  If the
+> slower students can admit that they are guided by learned value orientation
+> and not Reason or Logic, then we can proceed to more interesting questions,
+> such as, what values are appropriate for public policy decisions?  [BRUNSON]
+
+(Again, this was copied, not from Brunson's original article, but from the
+extract in Andy Banta's article.  If someone would please mail a copy of the
+original article to this poor soul who lives where UNIX system support is an
+oxymoron and UUCP connections are a low priority... [flame off, for now])
+
+Ah, this is what Brunson has meant by his oft-repeated phrase "Lou-Grant-isms".
+Us "slower students" are guided by "learned value orientation", as learned in
+bastions of liberal thought like the Lou Grant show!!
+
+I take it Mr. Brunson believes that HIS line of thought (and I use the word in
+its loosest sense :-) is free from such "learned value orientation".  Why?
+Because he learned it in the BIBLE, the bastion of absolute truth.  Why, it's
+not "learned value orientation" if you say it's straight from the mouth of
+god, is it?  And it clearly really *is* straight from the mouth of god just
+because you've been trained (through "learned value orientation", perhaps?)
+to believe that that's the way it is!!!  Right?  So much for another Brunson
+non-argument.
+
+Why should tolerance be a universal guiding principle, from a purely logical
+perspective?  (DuBois and other Bible readers have "come out of the closet" to
+admit that they really don't think the Bible has anything to say about
+tolerance!)  Since Brunson has stated that I have actually impressed him with
+what he has called "valid points" (I wish I could say that the reverse were
+true), I'll reiterate some of them.  If the purpose of society is to take care
+of its individuals (not necessarily "care" for them, but accommodate their
+needs as human beings while agreeing to a commitment to the maintenance of the
+society on the part of each individual), then can a society arbitrarily say
+which people can and cannot receive the benefits of that society?  Societies
+*can* do this and *have* done this!  But what comes of denigrating/belittling/
+abusing classes of people for the benefit of others?  It foments rebellion,
+it damages the society as a whole (why SHOULD the abused people work to
+benefit a society that they gain nothing from?), it creates an unmanageable
+society.  (All this aside from the perhaps arbitrary moral argument that it's
+wrong to abuse other people.)
+
+Now, by avowing as a society to ensure the rights of all, those who have been
+the abusers lose "rights" (if abuse-related privileges can be called "rights").
+This gets into a separate but very important issue which we've all skirted: 
+how does one RATIONALLY change morality from an irrational, possibly "evil"
+morality (e.g., fundamentalist Judaeo-Christian doctrine) to a perhaps more
+rational and less abusive (of people) type of morality, in an orderly fashion
+(i.e, without causing the reactionary tide that has apparently swept this
+country once some people realize that granting rights to others means taking
+"rights" (abuses) away from them)?  Brunson has skirted the issue by just
+assuming "well, such a change would affect me negatively, causing me to
+have to re-evaluate my thinking in order to live in a society, therefore let's
+not do it!"  While others among us have simply ignored the issue.
+-- 
+"Come with me now to that secret place where
+ the eyes of man have never set foot."		Rich Rosen    pyuxd!rlr
 
 -----------------------------------------------------------------
 

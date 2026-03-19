@@ -1,7 +1,43 @@
 AIDS Receptor on White Cells
 werner@aecom.UUCP (Craig Werner)
 01/02/85
-(message was not found)
+> <<>>
+>                                                  Dr. Robert Gallo, an
+> AIDS expert at the National Cancer Institute in Bethesda, MD, said 
+> identifying the "receptor" protein for the virus was significant.
+> ...  for whatever it's worth.
+> ------------------------------------------------------------------
+> Henry C. Mensch |  User Confuser | Purdue University User Services
+
+	The actual protein involved is called CD4, and it occurs on so-called
+T4 cells.
+	Now for some immunology:
+	Blood Cells are divided into Red and White Cells.
+	White Cells are divided into B-Cells which make antibodies and
+T-cells, which are for cellular immunity (and also are the things that
+cause graft rejection.)
+	T-cells are divided into several classes (1 - 8 so far) of which
+T4 are one of the most important kind.
+	T4 cells are helper cells - they make the rest of the immune system
+work better.
+
+	Note: in the absence of T4 cells, the AIDS virus, which is HTLV-3
+(also called LAV) cannot grow. Immunosuppressed people shouldn't be able to
+get AIDS. Experimentally, immunosuppressed cats don't get FAIDS (Feline AIDS)
+One of the reasons, therefore that Gays, Drug Users, etc., are more suseptible
+to AIDS (Besides the fact that they are exposed to the virus more often) is
+that they tend to get other infections more often which activate the immune
+system and make more T4 cells for the AIDS virus to grow on. (Talk about
+Molecular Catch-22s)
+
+	I'm a MD/PhD candidate in Immunology and recently heard Robert Gallo
+give a very well-organized seminar, so I'll followup with another posting
+on the history of AIDS.
+
+-- 
+				Craig Werner
+				!philabs!aecom!werner
+		What do you expect?  Watermelons are out of season!
 
 -----------------------------------------------------------------
 

@@ -1,31 +1,192 @@
 Something from GayNet re:HIV vaccine.
 mwfolsom%hydra.unm.edu@ariel.unm.edu (Mike Folsom)
 02/08/91
-(message was not found)
+I saw this on GayNet and wondered if anyone knew anything about this 
+vaccine or the company that's producing it.
+
+Mike 
+
+********************************************************************************
+Forwarded message:
+> 
+> ----------------------------Original message----------------------------
+> 
+> Date:         Wed, 06 Feb 91 10:44:13 HNE
+> Subject:      HIV vaccin...
+> From: An Anonymous Sender
+> 
+> * * * PLEASE POST ANONYMOUSLY * * *
+> I'm posting this anonymously, since I want to avoid a tide of questions.
+> (I'm not allow to reveal results, And the researchers
+> don't know I'm posting this.)
+> 
+> HIV vaccin (VAXSYN) is also under trial here in Montreal. Phase I study
+> was started last may. A Phase II study (placebo) started a few weeks ago.
+> Subjects are HIV+ with CD4 count > 500.
+> In phase I two groups of 10 patients received 4 doses
+> over a 4 months period.
+> In overall,
+> after 6 months, 16 (out of 20) subjects show increase in CD4 count,
+> decrease in CD8, higher mitogen response and increase in anti-HIV
+> specific antibodies. In overall results appear very positive.
+> The results should be submit for publication this month.
+> So, all this should be public soon.
+> * * * PLEASE POST ANONYMOUSLY * * *
+> 
+> ----------------------------------------------------------
+*******************************************************************************
+                                                     
+--
+Michael W. Folsom          (mwfolsom@unmvm) -or- (mwfolsom@unmvm.unm.edu)     
+Dept. of Biology // UNM               (mwfolsom@hydra.unm.edu)       
+Albuquerque, NM 87131        505-277-3859 office -or- 505-277-3505 lab
+*******************************************************************************
 
 -----------------------------------------------------------------
 
 dgreen@uunet.UU.NET
 02/11/91
-(message was not found)
+mwfolsom%hydra.unm.edu@ariel.unm.edu (Mike Folsom) writes:
+
+|> I saw this on GayNet and wondered if anyone knew anything about this 
+|> vaccine or the company that's producing it.
+
+Anonymous said:
+
+|> > HIV vaccin (VAXSYN) is also under trial in Montreal. Phase I study
+|> > was started last may. A Phase II study (placebo) started a few weeks ago.
+|> > Subjects are HIV+ with CD4 count > 500.
+|> > In phase I two groups of 10 patients received 4 doses
+|> > over a 4 months period.
+|> > In overall,
+|> > after 6 months, 16 (out of 20) subjects show increase in CD4 count,
+|> > decrease in CD8, higher mitogen response and increase in anti-HIV
+|> > specific antibodies. In overall results appear very positive.
+|> > The results should be submit for publication this month.
+|> > So, all this should be public soon.
+
+I believe VAXSYN is produced by MicroGeneSys.  It is a synthetic gp160
+protein (gp160 appears on the HIV coat).  I was part of a group of
+HIV- guinea pigs for it.  No adverse effects, except for the typical
+vaccine thing: a sore arm.  Oh yeah, and a minor sociological
+adverse effect: I produce misleadingly positive HIV antibody tests now.
+Of course, this is not a problem for HIV infected individuals.
+
+It's quite exciting to hear this good news about the effects of VAXSYN
+on HIV+ individuals!  (Weird twist on the role of a vaccine, eh?)
+Thanks, anonymous, for keeping us up to date!
+
+You can always find out more about this stuff by calling the NIH
+AIDS Trial number:  1-800-TRIALSA.  I believe the USA is running its
+own set of HIV+ VAXSYN trials.
+
+Regards,
+____
+\  /Dan Greening	IBM T.J.Watson Research Center	 NY (914) 784-7861
+ \/ dgreen@ibm.com	Yorktown Heights, NY 10598-0704	 CA (213) 825-2266
 
 -----------------------------------------------------------------
 
 sys0002@dircon.co.uk (Julian Hayward)
 02/12/91
-(message was not found)
+bywater!arnor!dgreen@uunet.UU.NET replies to:
+
+>|> > HIV vaccin (VAXSYN) is also under trial in Montreal. Phase I study
+>|> > was started last may. A Phase II study (placebo) started a few weeks ago.
+>... I was part of a group of
+>HIV- guinea pigs for it.  No adverse effects, except for the typical
+>vaccine thing: a sore arm.  Oh yeah, and a minor sociological
+>adverse effect: I produce misleadingly positive HIV antibody tests now.
+>Of course, this is not a problem for HIV infected individuals.
+
+>Regards,
+>____
+>\  /Dan Greening	IBM T.J.Watson Research Center	 NY (914) 784-7861
+> \/ dgreen@ibm.com	Yorktown Heights, NY 10598-0704	 CA (213) 825-2266
+
+Dan, 
+Out of interest, how can they tell if the treatment is successful when
+it causes HIV- individuals like yourself to show HIV+? Is there a further
+test which can identify the difference from real HIV infected cells?
+ 
+I'd imagine you'd have a difficult time explaining this to an insurance
+company, perhaps they are more intelligent in the US/Canada.
+ 
+Julian
+-- 
+-----------------------------------------------------------------
+()_()   JULES                          |  sys0002@dircon.co.uk
+ (_)    a.k.a. Julian Hayward          |  
+-----------------------------------------------------------------
+-- 
+-----------------------------------------------------------------
+()_()   JULES                          |  sys0002@dircon.co.uk
+ (_)    a.k.a. Julian Hayward          |  
+-----------------------------------------------------------------
 
 -----------------------------------------------------------------
 
 rpetsche@mrg.PHYS.CWRU.Edu (rolfe g petschek)
 02/13/91
-(message was not found)
+In article <1991Feb12.142731.29249@cs.ucla.edu> sys0002@dircon.co.uk (Julian Hayward) writes:
+>bywater!arnor!dgreen@uunet.UU.NET replies to:
+>
+>
+>Out of interest, how can they tell if the treatment is successful when
+>it causes HIV- individuals like yourself to show HIV+? Is there a further
+>test which can identify the difference from real HIV infected cells?
+
+There are such tests but they are harder than the usual anti-body
+test for HIV.  Probably the most accurate (though it is not without
+dispute) is the polymerase chain reaction which will test if there is
+RNA with the pattern of [part of] the genetic code of the virus.  This
+is how the presence of HIV in a British sailor who died in the 1950's
+was detected.  The possible difficulty with this is that it does not
+demonstrate infection with the virus - only the presence of the virus
+and there is some dispute therefore that it correctly indicates the time
+in which a person can have an active HIV infection but not be
+sero-positive for HIV antibodies.
+--
+Rolfe G. Petschek			Petschek@cwru.bitnet
+Associate Professor of Physics		rgp@po.cwru.edu
+Case Western Reserve University		(216)368-4035 
+Cleveland Oh 44106-2623
 
 -----------------------------------------------------------------
 
 dgreen@uunet.UU.NET
 02/14/91
-(message was not found)
+sys0002@dircon.co.uk (Julian Hayward) writes:
+|> bywater!arnor!dgreen@uunet.UU.NET replies to:
+|> 
+|> >|> > HIV vaccin (VAXSYN) is also under trial in Montreal.  ...
+|> >... I was part of a group of
+|> >HIV- guinea pigs for it.  No adverse effects, except for the typical
+|> >vaccine thing: a sore arm.  Oh yeah, and a minor sociological
+|> >adverse effect: I produce misleadingly positive HIV antibody tests now.
+|> >Of course, this is not a problem for HIV infected individuals.
+
+|> Out of interest, how can they tell if the treatment is successful when
+|> it causes HIV- individuals like yourself to show HIV+? Is there a further
+|> test which can identify the difference from real HIV infected cells?
+|> I'd imagine you'd have a difficult time explaining this to an insurance
+|> company, perhaps they are more intelligent in the US/Canada.
+
+An experienced Western Blot interpreter can tell the difference between
+an infected an uninfected HIV antibody+ result (there are several 
+antibody bands missing on uninfected individuals).  However, the three
+bands that show up on my Western Blot are pretty strong and I show a
+strongly positive Elisa, so who knows what happens if an idiotic 
+interpreter comes across it?
+
+As for insurance, I haven't been in a situation to test this problem
+(until recently HIV Ab tests were illegal for insurance purposes--they
+may still be, but I think I remember hearing about some contrary
+judicial decision in California.)
+
+____
+\  /Dan Greening	IBM T.J.Watson Research Center	 NY (914) 784-7861
+ \/ dgreen@ibm.com	Yorktown Heights, NY 10598-0704	 CA (213) 825-2266
 
 -----------------------------------------------------------------
 

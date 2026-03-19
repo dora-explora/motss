@@ -1,7 +1,28 @@
 leaving the net
 msimpson@bbncca.ARPA (Mike Simpson)
 06/29/85
-(message was not found)
+	I will be leaving BBN at the end of today (Friday, June
+28, 1985), and will be driving out to Los Angeles.  (My lover got
+a promotion which requires the relocation.)  As a result, I will
+not be able to continue summarizing 'net.motss', unless/until I
+join a firm that gets it.  
+
+	It's been enjoyable seeing what you all think, and I am
+honored to have been able to provide biweekly summaries.  I hope
+to be able to do so in the future.
+
+	Should anyone wish to contact me in the future (anyone
+in LA want to hire someone with lots of experience and interest
+in C and UNIX?), Steve Dyer (bbncca!sdyer, sdyer@bbncca.arpa)
+knows how to get in touch with me.
+
+	Au revoir, and thanks for the memories.
+-- 
+   >> don't shoot me, I'm just trying to be helpful ... <<
+   Mike Simpson, BBN
+   msimpson@bbn-spca  (Arpanet/Internet/CSNet)
+   {decvax,ihnp4,ima,linus,masscomp,sunybcs,wjh12}!bbncca!msimpson (Usenet)
+   617-497-8196 (Ma Bell)
 
 -----------------------------------------------------------------
 

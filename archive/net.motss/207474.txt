@@ -1,7 +1,44 @@
 French books and Cavafy's poetry
 joe@emacs.uucp (Joe Chapman)
 07/12/85
-(message was not found)
+<>
+
+> ... a form of poetry which cannot possibly hurt anybody,
+> even if translated into French.
+>				-- Oscar Wilde
+
+> What other French lesbian-and-gay oriented novels/short stories/poems
+> would you recommend?
+>				-- oscar!wild
+
+I'm not terribly well-read in this area, but I'd have to recommend A
+Lover's Discourse (Fragments d'un Discours Amoureux) by Roland Barthes.
+The author was a professor at the Sorbonne who died a few years ago;
+most of his books are collections of essays and thick with Semiotic
+theory.  The Lover's Discourse isn't gay/lesbian per se---although
+Barthes was gay and The Other appears in the book as he/him.  It's a sad
+book; I leaf through my copy whenever a dazzling affair, full of promise
+and delight, suddenly becomes as one with Nineveh and Tyre.
+
+> Which set of Cavafy poems would you recommend?  What nationality is
+> Cavafy?  And in which language did he originally write them?
+
+Constantine P. Cavafy (fl. beginning of 1900s) was Greek, and wrote in
+Greek.  The best edition I've seen in English is translated by Rae
+Dalven, with an introduction by W. H. Auden.  Cavafy's principal themes,
+according to Auden, are ``love, art, and politics in the original Greek
+sense.''  His affairs are characterized by casual brevity, and are
+recorded in the poems in a flat, unadorned style.  The original is
+fairly difficult because Cavafy wrote in an unusual blend of colloquial
+and formal Greek; Dalven made no attempt to mimic that aspect of the
+style in her translation, but provides some notes at the end of the book
+for the curious.
+
+-- 
+-- Joseph Chapman                  decvax!cca!emacs!joe
+   CCA Uniworks, Inc.              emacs!joe@cca-unix.ARPA
+   20 William St.
+   Wellesley, MA  02181            (617) 235-2600
 
 -----------------------------------------------------------------
 

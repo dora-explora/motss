@@ -1,31 +1,180 @@
 AIDS and Drugs
 dgreen@squid.cs.ucla.edu (Dan R. Greening)
 04/13/90
-(message was not found)
+dyer@ursa-major.spdcc.COM (Steve Dyer) writes:
+>mel@iies.ecn.purdue.edu (Meloney D Cregor) writes:
+
+>>Any person on allergy drugs would have a greater chance of contracting
+>>AIDS if they were exposed to the HIV virus.
+>
+>Oh, yeah?  Cite your references.  Balderdash.
+
+Sorry Steve.  Circumstantial evidence suggests it is true.  Many allergy 
+medications do down your T-cell response.  Beconase, for example, is supremely
+effective at this, which is why you are supposed to stop taking it if you
+get a cold.  It is great stuff, but I've also noticed that I'm more
+susceptible to infections when I'm on it.
+
+I have been told on occasion to stop taking ANY allergy medications
+except Nasalcrom before getting blood-work at NIH.  Why?  Because
+anti-histamines and steroids knock down the T-cell response to gp160,
+one of the proteins on the HIV-coat.  Why do I know this?  Because it 
+happened to me.  I don't think this material is published, though.
+I can ask.  Do you really want a reference?
+
+Nasalcrom seems to be OK because it only inhibits mast cell production.
+
+Dan Greening       | NY 914-784-7861 | 12 Foster Court
+dgreen@cs.ucla.edu | CA 213-825-2266 | Croton-on-Hudson, NY 10520
 
 -----------------------------------------------------------------
 
 dyer@spdcc.com (Steve Dyer)
 04/14/90
-(message was not found)
+In article <34172@shemp.CS.UCLA.EDU> dgreen@squid () writes:
+>Sorry Steve.  Circumstantial evidence suggests it is true.  Many allergy
+>medications do down your T-cell response.  Beconase, for example, is supremely
+>effective at this, which is why you are supposed to stop taking it if you
+>get a cold.  It is great stuff, but I've also noticed that I'm more
+>susceptible to infections when I'm on it.
+
+Beconase is a corticosteroid, not an antihistamine.  I am not challenging
+its effects on the immune system.
+
+>I have been told on occasion to stop taking ANY allergy medications
+>except Nasalcrom before getting blood-work at NIH.  Why?  Because
+>anti-histamines and steroids knock down the T-cell response to gp160,
+>one of the proteins on the HIV-coat.  Why do I know this?  Because it
+>happened to me.  I don't think this material is published, though.
+>I can ask.  Do you really want a reference?
+
+There is a difference between attempting to control a population in a research
+group on antibody development to HIV proteins and making a claim that
+antihistamines increase your susceptibility to the AIDS virus.
+I would appreciate a reference if you can get one.
+
+>Nasalcrom seems to be OK because it only inhibits mast cell production.
+
+Well, that's not quite what it does.  It inhibits the antigen-mediated
+release of autacoids such as histamine from mast cells.
+
+--
+Steve Dyer
+dyer@ursa-major.spdcc.com aka {ima,harvard,rayssd,linus,m2c}!spdcc!dyer
+dyer@arktouros.mit.edu, dyer@hstbme.mit.edu
 
 -----------------------------------------------------------------
 
 dgreen@cs.ucla.edu (Dan R. Greening)
 04/14/90
-(message was not found)
+Steve Dyer writes:
+>Dan Greening writes:
+
+>>Many allergy medications do down your T-cell response.  Beconase, for 
+>>example, is supremely effective at this.
+
+>Beconase is a corticosteroid, not an antihistamine.  I am not challenging
+>its effects on the immune system.
+
+Beconase is also an allergy medication, which was the original topic that
+you challenged.  If you were referring solely to antihistamines, you should
+have said so.
+
+>There is a difference between attempting to control a population in a research
+>group on antibody development to HIV proteins and making a claim that
+>antihistamines increase your susceptibility to the AIDS virus.
+>I would appreciate a reference if you can get one.
+
+OK, the reference will take work and time to get.  Someone is investigating.
+(You now owe me one.)  Here is the jist from a conversation with an NIH 
+research staff member, who is likely to know.
+
+There is no evidence that antihistamines down the immune system's response
+to the HIV virus.  However, there is evidence that antihistamines alter
+immune system function.  Specifically, some T cells have antihistamine
+receptors.  
+
+Based on that, and a drop in my T-cell response to gp160, I was asked to
+stop taking both corticosteroids and antihistamines.
+
+I expect to get the reference(s) on Tuesday, and they will be posted then.
+Hope that helps.
+
+-- 
+
+Dan Greening       | NY 914-784-7861 | 12 Foster Court
+dgreen@cs.ucla.edu | CA 213-825-2266 | Croton-on-Hudson, NY 10520
 
 -----------------------------------------------------------------
 
 dyer@spdcc.com (Steve Dyer)
 04/14/90
-(message was not found)
+In article <34196@shemp.CS.UCLA.EDU> dgreen@cs.ucla.edu (Dan R. Greening) writes:
+>>Beconase is a corticosteroid, not an antihistamine.  I am not challenging
+>>its effects on the immune system.
+>Beconase is also an allergy medication, which was the original topic that
+>you challenged.  If you were referring solely to antihistamines, you should
+>have said so.
+
+Well, you now understand my intent--I'm referring to the claim about
+antihistamines.  In this case, it was a matter of ignoring the obvious,
+but it could have been clearer.
+
+>Here is the jist from a conversation with an NIH 
+>research staff member, who is likely to know.
+>
+>There is no evidence that antihistamines down the immune system's response
+>to the HIV virus.  However, there is evidence that antihistamines alter
+>immune system function.  Specifically, some T cells have antihistamine
+>receptors.  
+
+I am sure that he meant "histamine receptors".  That's no surprise at all.
+(It would be surprising if there weren't.)  However, let me reemphasize
+the point lest someone come away from this misinformed;
+
+It is important to exclude undue external influences on experimental
+subjects which might affect the results of a HIV vaccine research
+program, which is what Dan is participating in.  This decision on the
+investigators' part does not address at all the clinical implications
+of any effects of antihistamines on immune system function (cell
+mediated immunity, excluding acute histamine-mediated reactions such as
+are seen in allergies.) If there are, it would almost certainly be a
+secondary phenomenon, since there have been billions of doses of
+antihistamines dispensed over the past 45 years.  To echo the NIH
+researcher: there is no evidence that antihistamines have any effect
+whatsoever on the body's immune response to the HIV virus.  Which is not
+to say that there might not be some effect uncovered in the future.
+But to claim so now is unfounded and simple fearmongering.
+
+-- 
+Steve Dyer
+dyer@ursa-major.spdcc.com aka {ima,harvard,rayssd,linus,m2c}!spdcc!dyer
+dyer@arktouros.mit.edu, dyer@hstbme.mit.edu
 
 -----------------------------------------------------------------
 
 dyer@spdcc.com (Steve Dyer)
 04/14/90
-(message was not found)
+In article <34196@shemp.CS.UCLA.EDU> dgreen@cs.ucla.edu (Dan R. Greening) writes:
+>>Beconase is a corticosteroid, not an antihistamine.  I am not challenging
+>>its effects on the immune system.
+>Beconase is also an allergy medication, which was the original topic that
+>you challenged.  If you were referring solely to antihistamines, you should
+>have said so.
+
+I thought I'd give an analogy for why I didn't elaborate on my objection.
+
+If someone said "corticosteroids and jello increase one's susceptibility
+to AIDS", it would not be too incomprehensible that someone knowledgable
+might say "That's nonsense" without going into the details.  S/he would
+have realized that corticosteroids are well known to affect the immune system
+and that jello is not quite so notorious.  This might not be so clear
+to a layperson.
+
+-- 
+Steve Dyer
+dyer@ursa-major.spdcc.com aka {ima,harvard,rayssd,linus,m2c}!spdcc!dyer
+dyer@arktouros.mit.edu, dyer@hstbme.mit.edu
 
 -----------------------------------------------------------------
 

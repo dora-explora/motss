@@ -1,7 +1,91 @@
 Changes to AIDS posting since last month
 werner@aecom.UUCP (Craig Werner)
 11/07/86
-(message was not found)
+<>
+2a3
+> 
+4,5c5,7
+< 16,458 persons (16,227 adults and 231 children), with 8,361 (51% of the adults
+< and 59% of the children) deaths as of Jan 13, 1986. 71% of the patients 
+---
+> 26,566 persons with 14,977 deaths as of Oct. 20, 1986. Similar figures as
+> of Jan 13, 1986 were 16,458 persons (16,227 adults and 231 children), with 
+> 8,361 (51% of the adults and 59% of the children). 71% of the patients 
+7,10c9,15
+< 	In the first 37 weeks (Jan 1 - Sept. 17, 1986) of this year, 8,781 new
+< cases were reported (compared to 5,432 in the similar period last year).
+< 	In perspective, there were 612,692 (622,293) reported cases of
+< Gonnorhea, 18,283 (18,832) cases of Syphillis, and 15,394 (15,036) cases
+---
+> 	A revised definition of AIDS recently proposed would increase the
+> number of cases to over 30,000 by reclassifying some patients currently
+> diagnosed as having AIDS-related complex (ARC).
+> 	In the first 42 weeks (Jan 1 - Oct. 18, 1986) of this year, 10,474 new
+> cases were reported (compared to 6,433 in the similar period last year).
+> 	In perspective, there were 713,742 (716,749) reported cases of
+> Gonnorhea, 21,253 (21,740) cases of Syphillis, and 15,394 (15,036) cases
+24a30,35
+> 	The recently published Surgeon General's report is available
+> 	free from the Public Health Service by writing:
+> 		AIDS
+> 		Box 14252
+> 		Washington DC 20044
+> 		
+39a51,57
+> 	The actual diagnosis of AIDS is made according to a very strict
+> case definition set up by the Centers for Disease Control (CDC). Evidence
+> of infection and illness not meeting the strict case definition is called
+> AIDS-related complex (ARC). Assymptomatic infection is also possible.
+> It is not clear at this time what percentage of each group will progess,
+> however, once the diagnosis of full-blown AIDS is made, the mortality
+> approaches 100% by 5 years after diagnosis.
+45a64,67
+> 	It is also known that virtually all AIDS patients, if they live
+> long enough will develop changes in mental status. In most cases, these
+> are due to opportunistic infections of the nervous system. However, in 
+> some cases it is due to a direct CNS infection by the virus itself. 
+59d80
+< [See accompanying article: 'Focus: AIDS and Africa', Oct. 86 only]
+93a115,120
+> 	Numbers may not add up to 100% due to incomplete reporting.
+> 	Blacks and Hispanics accounted for 23% and 14% of the male cases,
+> respectively, but 51% and 21% of the female cases.  The relative risk
+> for Black and Hispanic women is 13.3 and 11.1 times higher than for
+> white women.  The cumulative incidence among Blacks and Hispanics is
+> 3 times as much as their proportional population. 
+99,102c126,130
+< parenteral (*) transmission, celibacy and avoidance of IV drug use will
+< efectively reduce one's chance of contracting AIDS to near Zero,
+< especially since blood products are now screened for contamination.
+< Given the general unpopularity of complete celibacy, the use of
+---
+> parenteral (Blood and body fluid, includes IV drug use) transmission, 
+> celibacy and avoidance of IV drug use will efectively reduce one's 
+> chance of contracting AIDS to near Zero, especially since blood 
+> products are now screened for contamination.
+> 	Given the general unpopularity of complete celibacy, the use of
+112,124c140,141
+< sex with a male homosexual/bisexual since 1977, contact your local 
+< Red Cross to become a blood donor.
+< 
+< (*) parenteral: defined as 'not by mouth', i.e., related to blood and
+< other body fluids. Example: Intravenous drugs.
+< It has nothing to do with parentage (that's 'parental')
+< 
+< 
+< [I am grateful for comments from Barry Hayes, Steve Dyer, Mike Lipsie,
+< hokey@plus5, Alan J. Rosenthal, James Van Artsdalen, Joseph Yao, 
+< Peter Rubin, bam@bigbang, tim@uw-nsr, and Henry Mensch.]
+< [Also Andrew Klossner, Gary Cottrell, Matt Crawford, Stephen Hutchison,
+< and Jerry Natowitz for suggestions and corrections.] 
+---
+> sex with a male homosexual/bisexual since 1977, and have not engaged in
+> prostitution, contact your local Red Cross to become a blood donor.
+-- 
+			      Craig Werner (MD/PhD '91)
+				!philabs!aecom!werner
+              (1935-14E Eastchester Rd., Bronx NY 10461, 212-931-2517)
+            "When I was your age, I always did it for half an hour a day."
 
 -----------------------------------------------------------------
 

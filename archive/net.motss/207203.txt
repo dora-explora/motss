@@ -1,7 +1,24 @@
 the Biology of Killer Apples
 andrews@ubc-cs.UUCP (Jamie Andrews)
 02/18/86
-(message was not found)
+In article <1401@ames.UUCP> eugene@ames.UUCP writes:
+>...what I heard from what was "a reliable source...." was that Turing
+>refined the poison, coated an apple, and took a bite.
+
+     This is the theory of Andrew Hodges, the author of Turing's biography,
+_Alan Turing:  The Enigma_.  If I remember correctly, Hodges believed
+himself to be the first person to put forward this theory.  We know that
+there was a half-eaten apple beside Turing's bed, and that he died of
+poisoning, but no one bothered to test the apple for poison.
+
+     There is still some question of whether Turing committed suicide, but
+finding poison on the apple would seem to confirm this.  The connection
+between eating apples and the sexual "sins" for which Turing was vilified is
+just too strong to be coincidental.
+
+--Jamie.
+...!ihnp4!alberta!ubc-vision!ubc-cs!andrews
+"Dr. Parkinson declared 'I'm not surprised to see you here'"
 
 -----------------------------------------------------------------
 

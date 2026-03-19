@@ -1,7 +1,146 @@
 keep this OUT of soc.motss
 harryu@warpten.Central.Sun.COM (Harry Ugol)
 12/14/89
-(message was not found)
+First of all, please note this article is *not* about homosexuality.
+It is about the usenet group soc.motss.  The article to which this is
+a followup deals with the morality of homosexuality; this article does
+not.  Please keep m.o.h. discussions out of this particular subject
+thread.
+
+Second, please note I have directed followups to news.groups and
+soc.motss.  This is to emphasize that the topic I wish to discuss is
+the structure and organization of Usenet groups, not homosexuality
+*per se*.
+
+
+In article <1989Dec13.220631.23749@cs.uoregon.edu> jdrew@dogmatix.cs.uoregon.edu (James Robert Drew) writes:
+>Cross-post Alert!
+>
+
+Damn straight :-(.  Mr. Drew, I assume you cross-posted this article to
+soc.motss out of well-meant ignorance, and that you are not a
+regular reader of the group.  Nonetheless, your article is going to
+bring the same old tiresome no-win flamewars down on our heads once
+again, and I for one am heartily sick of them.
+
+To just give a few instances of the inflammatory passages which I
+expect to see quoted far too many times over the next few weeks:
+
+>In article <18041@netnews.upenn.edu> duggan@eniac.seas.upenn.edu.UUCP (Paul C. Duggan) writes:
+>>In article <8912130736.AA21140@ucbvax.Berkeley.EDU> DPARMENTER@HAMPVMS.BITNET (Parmenator X) writes:
+>>>
+>>>As for whether it's a matter of choice, PLEASE explain to me why someone
+>>>would CHOOSE a lifestyle that would guarantee them a life of being unfairly
+>>>judged, ridiculed, prevented from working where they want to, prevented from
+>>>living where they want to WITH who they want to, and be forced for their
+>>>WHOLE LIFE being told that their lifestyle is a "hindrance to life"
+[...]
+>
+>>I'm told to "respect alternate lifestles"  and not
+>>to knock it just because it doesn't turn me on, but then out of the other
+>>side of their mouth they tell me that it's just the way they are.
+[...]
+>
+>>If that's what it is then I'll pity them like I'd pity a drug addict,
+>>who can't help it.  Otherwise, I respectfully submit that they have
+>>made a choice that is wrong.  Homosexuals CAN change, it's just very
+>>difficult.
+>
+
+Over the two or so years in which I've been a devotee of soc.motss,
+periodic and painful flamewars have erupted over the following topics:
+
+1) Whether homosexuality is moral.
+
+2) Whether homosexuality is something a person chooses or whether it
+is an innate part of their nature.
+
+3) Whether homosexuality is "natural" (which usually translates to
+whether homosexuality occurs elsewhere in the animal kingdom.  No
+definition of "natural" is ever given.  One of these days I'm going to
+start a discussion on the morality of "natural" :-)/2 ).
+
+4) How much of a right gay people have to self-respect and
+self-expression at the expense of people who do not approve of
+homosexuality.
+
+These flamewars have all started by some incendiary article appearing,
+usually as a cross-post from some unrelated group, taking a homophobic
+view of one or more of the above issues.  Some righteously indignant
+motss politico or other rises to the bait - usually a whole cadre of
+them - and the war is rolling right along within a day or two (and
+please note that I do not intend to demean the motss people who
+participate in these discussions, I'm just pissed at the results).
+Things flicker out in a couple of weeks, and that's that, until the
+next, inevitable, occurrance.
+
+The soc.motss charter says the group is not for the discussion of the
+morality of homosexuality, i.e. topic #1 above is not to take place.
+I would like to propose the charter be amended to include topics #2
+and #3 above as well.  My reasons are as follows:
+
+1) I believe one of the major reasons morality-of-homosexuality
+discussions were prohibited is that, no matter how many discussions
+are held on the topic, people never change the views they held when
+the discussion began.  I have also seen this behavior for topics #2
+and #3 above.  As such, these topics seem to me far better suited to a
+"talk" group than a "soc" group (I believe the "talk" hierarchy was
+first set up to house "discussions" which do not result in people's
+views changing - talk.abortion is a representative example).
+
+2) As I see it, the charter's proscription of
+morality-of-homosexuality discussions is based in the implicit
+assumption that homosexuality is moral.  If so, it must be "natural" -
+so much for issue #3 (assuming, of course, that "unnatural" ==
+immoral).  Issue #2 does not depend on the morality of homosexuality
+*per se*, but it is only brought up by those who think homosexuality
+is immoral and that gay people can choose not to be homosexual.  As
+such, I think issue #2 should be banned as well.
+
+Note that I do not advocate banning discussions of topic #4 (the
+rights of gay people to infringe on the space of people who do not
+approve of homosexuality).  Quite frankly, I don't know what to do
+with this topic.  On the one hand, the political struggle for gay
+rights is an important and perennial discussion topic on soc.motss,
+and is very important to the people there.  On the other hand, with
+few exceptions the only people who are going to argue that gay people
+have no right to infringe on their opponents' space are those selfsame
+opponents.
+
+I do not know what the official procedure is for amending a Usenet
+group's charter - Usenet being what it is, I suspect there isn't one
+:-\.  But I think it is highly necessary and long past time in this
+case.
+
+I also wish to propose the creation of a newsgroup devoted solely to
+those fruitless discussions of topics #1-3 above, i.e. to discussions
+of the morality of homosexuality and related issues, and that this
+group be placed in the "talk" hierarchy.  This is because such
+discussions will inevitably occur - human nature, y'know - and my
+animus towards them does not extend to wishing their complete
+extermination; I just want my sanctuary to be left in peace and quiet.
+I do not intend to subscribe to such a group, but judging from the
+various incidents on motss for the past year or two, there will be
+plenty of traffic from others :-(.  I know this will not eliminate
+flamewars cross-posted to soc.motss ("Ugol's (personal) rule #2: Never
+attribute to malice that which can be explained as stupidity or
+laziness"), but I hope that in time there will be far fewer of them in
+soc.motss once they have some other well-known appropriate place to
+go.
+
+
+PS - as for the current budding flamewar - could all my
+brother-and-sister motssketeers please, just this once, direct
+followups in *all* your followups to someplace else?  Please please
+pretty please?  I'd suggest rec.arts.comics or alt.flame myself.  This
+stuff *really* does not belong in soc.motss (IMNSHO, of course).
+
+
+Harry Ugol
+UUCP:  {backbone}!sun!warpten!harryu
+ARPA:  harryu@Ebay.sun.com
+
+"Rivendell household rule #4:  Nothing exceeds like excess."
 
 -----------------------------------------------------------------
 
@@ -45,25 +184,127 @@ Daniel Dern / PO Box 114 Belmont MA 02178 / (617) 926-8743
 
 hm0f+@andrew.cmu.edu (Hugh Moore)
 12/14/89
-(message was not found)
+>just this once, direct followups in *all* your followups 
+>to someplace else?  Please please pretty please?  
+>I'd suggest rec.arts.comics or alt.flame myself.
+
+What did WE do to deseve this?
+
+
+OK, lots of people have tried to make this next point, but it hasn't
+worked yet, and I think I know why.
+Here goes. . .
+
+Let's have a complete stop of all flames.
+Why has this suggestion not worked?  Because of the delay time messages
+get going to the bboard.  It never fails that four posts later we have a
+power-flame.  This breaks the calm and everyone is up in arms again.  If
+EVERYONE just decides to igone the next one days flames after this, then
+the problem will be gone.  Just like that.
+
+Mad Uncle
 
 -----------------------------------------------------------------
 
 dyer@spdcc.COM (Steve Dyer)
 12/14/89
-(message was not found)
+In article <1004@male.EBay.Sun.COM> harryu@warpten.Central.Sun.COM (Harry Ugol) writes:
+>I do not know what the official procedure is for amending a Usenet
+>group's charter - Usenet being what it is, I suspect there isn't one
+>:-\.  But I think it is highly necessary and long past time in this case.
+
+A plea to a newsgroup's "charter" is a rhetorical device.  No newsgroup
+has a "charter" except insofaras it might be observed in the breach.
+Readers of soc.motss make the groundrules insofaras the people who decide to
+post have any authority through their ability to persuade others.  That's all.
+If you want to "amend the charter", such as it is, discuss it in soc.motss.
+Readers of news.groups don't have any say, nor do I think they much care.
+
+>I also wish to propose the creation of a newsgroup devoted solely to
+>those fruitless discussions of topics #1-3 above, i.e. to discussions
+>of the morality of homosexuality and related issues, and that this
+>group be placed in the "talk" hierarchy.  This is because such
+>discussions will inevitably occur - human nature, y'know - and my
+>animus towards them does not extend to wishing their complete
+>extermination; I just want my sanctuary to be left in peace and quiet.
+
+I've already made my opinion known in soc.motss that I think this is
+a very BAD idea.  Nice of someone to create an alt group for it simply
+on the basis of Harry's article.  Feh.  And what the hell difference do
+you think it will make?  Nothing at all, except it carves out a place
+for phobes to rant and rave as they will.  It institutionalizes intolerance.
+It will not stop the very infrequent intrusions in soc.motss from people
+who wish to discuss issues of "morality" or religion, which quite frankly,
+have been handled very smoothly over the past seven years or so.  To think
+that creating a ghetto for anti-gay ranting and raving somehow constitutes
+an "improvement" of affairs is like saying that creating soc.feminist.bashing
+solves the problem of women having to deal with sexism here on the net.
+
+-- 
+Steve Dyer
+dyer@ursa-major.spdcc.com aka {ima,harvard,rayssd,linus,m2c}!spdcc!dyer
+dyer@arktouros.mit.edu, dyer@hstbme.mit.edu
 
 -----------------------------------------------------------------
 
 aru@mentor.cc.purdue.edu (Sriram Ramkrishna)
 12/14/89
-(message was not found)
+In article <sZVn0fK00XoI4dGkVw@andrew.cmu.edu> hm0f+@andrew.cmu.edu (Hugh Moore) writes:
+>
+>What did WE do to deseve this?
+>
+
+I guess we started it. :)
+
+>EVERYONE just decides to igone the next one days flames after this, then
+>the problem will be gone.  Just like that.
+
+Just like that?  When cows fly my friend.  Nothing is that simple.  But lets
+get back to comics shall we.
+
+OBJ comic post...so that it is not a total waste of bandwidth, eh?
+
+Has anybody currently read the Predator comics?  I thought it was quite good,
+but I would like to hear other comments from other people about it.
+
+	Sri
 
 -----------------------------------------------------------------
 
 toto@tank.uchicago.edu (Sandra Jessica Smyth)
 12/14/89
-(message was not found)
+In a long posting, Harry Ugol (harryu@Ebay.sun.com) proposed to ammend
+the charter of soc.motss to exclude discussions of whether
+homosexuality is something one chooses and whether it is "natural."
+To justify this charter change he notes that flame wars regularly
+break out in soc.motss.
+
+>These flamewars have all started by some incendiary article appearing,
+>usually as a cross-post from some unrelated group, taking a homophobic
+>view of one or more of the above issues.  Some righteously indignant
+>motss politico or other rises to the bait - usually a whole cadre of
+>them - and the war is rolling right along within a day or two...
+
+It seems to me that what we have here is not a problem with the
+charter, but a problem with the people who fan the flames, as it were.
+An "incendiary article," in and of itself, should not mean flames.
+Posters have to follow-up, flaming the original poster.
+
+Note that Mr. Ugol is not suggesting to do away with flame wars, per
+se, but rather to do away with two subjects of discussion. I would
+assume that members of soc.motss are able to discuss these matters
+without strum und drang, and might, in fact resent Mr. Ugol's reining
+in their liberties.
+
+If you don't want flame wars, don't respond to "incendiary articles,"
+and encourage your colleagues likewise.  But don't start on that 
+slippery slide of outlawing legitimate topics of discussion.
+
+ 
+ 
+-- 
+Sandra Jessica Smyth                    Believer in lost causes
+toto@tank.uchicago.edu
 
 -----------------------------------------------------------------
 

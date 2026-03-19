@@ -1,19 +1,404 @@
 USENET site admin responsibilities
 edhew@xenitec.uucp (Ed Hew)
 09/03/89
-(message was not found)
+I am tempted to reply by saying something like:
+	"It seems that you consider the right of one person to post
+	 sniveling idiotic comments under other names to be paramount
+	 over the rights and obligations of a system administrator to
+	 preserve the availability of USENET news for 1/4 the population
+ 	 of the country."
+but instead, I will explain my reasoning:
+
+In article <3988@buengc.BU.EDU> bph@buengc.bu.edu (Blair P. Houghton) writes:
+
+>	An open letter to all usenet administrators:
+
+Ah, good; we've targeted the appropriate group.
+
+>>From article <3659@uwovax.uwo.ca>, by reggers@uwovax.uwo.ca (Reg Quinton):
+>>& It  seems that everyone in North  America, if  not the entire free speaking
+>>& world  has seen the inappropriate  postings  by a  student by  the  name of
+>>& Alexander Pruss  who goes  by  the handle  satan.   Many have  been rightly
+>>& offended and have notified me (as news manager)  as well as our postmaster.
+>>& In   fact  the  Computing  Centre  Director  has  received  telephone calls
+>>& complaining about this fellow!
+>>& 
+>>& This is  to  advise   everyone that the   problem has been  brought  to our
+>>& attention and is/will  be dealt with.  Rest assured we do not  believe that
+>>& this kind of behaviour is acceptable and it will not be tolerated.
+>>& 
+>>& Your patience would be appreciated.
+>>& 
+>>& I am,
+>>& 
+>>& 	News Manager <usenet@uwovax.uwo.ca>
+
+Ummm, you have deleted the portion of Mr. Quinton's posting which dealt
+with the fact that he is running news unofficially, and thereby implying
+that if some fool goes out of his way to make waves for the people charged
+with getting the funds for keeping this project alive, then it just might
+get zapped.
+
+Further, you neglect the fact that in Ontario this comes on the heals of
+a debate amoungst those who allocate University Computing facility budgets
+determining whether USENET access should be condoned and financially 
+supported by the Canadian taxpayer at all.
+
+It was rumoured to be a close decision last time.  Would you prefer to
+have backbone after backbone drop off the 'NET?  What would that do to
+the "rights of the user", whom you purport to defend?  What would that
+do to "Free Speach"?
+
+You tend to suggest that the right of this one individual (Mr. Pruss) to
+post in his questionable fashion is much more important than the opportunity
+of millions of potential 'NET readers to access USENET as it precariously
+exists today.  If Mr. Pruss's actions zapped *your* 'NET access, would
+you still speak as you did?
+
+>Well, to quote one of our greater statesmen, "who the hell do you
+>think YOU are."  (Okay, so I quote only the Chirelles.)
+
+I am not he, but I speculate that he may be one instructed that he
+may run USENET news as long as there is no adverse publicity.
+
+>Content of messages on usenet is a priori not a concern.  Delivery
+>of them and the nuisance of abuse of the net, however, is.
+
+Especially when the bill-payers get miffed.
+
+>The fact that Mr. Pruss wants to make satanic statements is irrelevant
+>to his access.  The meager "offense" that some have felt at his
+>opinions, and expressed to you, is nothing when compared to the great
+>disservice to free speech and unfettered communication that you commit
+>by censoring Mr. Pruss.  If he committed some offense directed to harm
+>a particular person, or for the purpose of overloading or misusing
+>internet resources, then you have call to perform administrative
+>policing of his activity.  However, he didn't; therefore, you don't.
+
+Mr. Pruss apparantly (my information is based on the UWO newsadmin's
+posting) has performed actions which jeapordize the normal access to
+facilities that many currently enjoy.  I fully appreciate why action
+to mitigate this damage has been taken. 
+
+also...
+
+Mr. Pruss has no more right to access that particular machine without
+explicit permission than I have to remove your car from your driveway
+and demolish it without *your* explicit permission.  The difference is
+that I don't claim to have a right to do so.  Please investigate the
+concept of property rights as generally accepted by most non-communists.
+
+>I must insist that you restore his access and let the thinking people
+>who populate this medium decide whether to accept his writings or not.
+
+Since when is the University of Western Ontario a free public access
+site?  Perhaps if you feel this strongly you might want to buy him
+a box, some software, and pay his phone bill to uunet.
+
+>I ask that all who agree insist as well, in writing.
+
+I respectfully suggest that you are way out of line.
+
+I won't tell you what to do with your property, and perhaps you
+may wish to reconsider your demand that others deal with *theirs* as
+*you* "insist".
+
+>				--Blair
+
+Please note:  followup to news.misc
+
+  Ed. A. Hew       Authorized Technical Trainer        Xeni/Con Corporation
+  work:  edhew@xenicon.uucp	 -or-	 ..!{uunet!}utai!lsuc!xenicon!edhew
+->home:	 edhew@xenitec.uucp	 -or-	   ..!{uunet!}watmath!xenitec!edhew
+  # This posting has absolutely nothing to do with what I do for a living.
 
 -----------------------------------------------------------------
 
 bph@buengc.BU.EDU (Blair P. Houghton)
 09/04/89
-(message was not found)
+Preface:  Since my posting of the "open letter", I have been informed
+by persons in the decision-making element concerned with this at
+Mr. Pruss' site that they in fact did not eliminate his access, but
+rather discussed the ramifications of his writings with him, and let
+him decide which way to go.  It is apparent to them and me that
+it is Mr. Pruss who has kept himself quiet since this first became
+a topic of derision.
+
+They have, innately, done the thing I suggested, and long before I
+suggested it.  They have my admiration, and my apology if I caused them
+any concern.
+
+The discussion that has evolved, however, is not affected by these
+facts, as it is a general discussion of the philosophy of freedom,
+free speech in particular.
+
+In article <1989Sep3.043558.9447@xenitec.uucp> edhew@xenitec.UUCP
+(Ed Hew) writes:
+>I am tempted to reply by saying something like:
+>	"It seems that you consider the right of one person to post
+>	 sniveling idiotic comments under other names to be paramount
+>	 over the rights and obligations of a system administrator to
+>	 preserve the availability of USENET news for 1/4 the population
+> 	 of the country."
+
+(You overestimate the importance to the average North American and
+distribution of Usenet, but that's impertinent.)
+
+I consider free speech to take precedence over privileged communication.
+
+A person who is barred from the net for his opinions is no different
+from a person who is barred from the newspapers for his opinions.
+
+The government could bomb your house for your opinions, creating
+imaginary emergency situations and seizing it under eminent domain in
+order to do so; would you consider it right that they do so?  What if
+they said your opinion was described by your neighbors as "offensive" but
+could not be shown to be physically damaging?
+
+>In article <3988@buengc.BU.EDU> bph@buengc.bu.edu (Blair P. Houghton) writes:
+>
+>>	An open letter to all usenet administrators:
+>
+>Ah, good; we've targeted the appropriate group.
+
+It is they who execute these decisions.  It is they who need to know.
+It is the rest of the net and those who saw the genesis of the problem
+who need to know it's been said.  No group is unconcerned.
+(I.e., I do know when and when not to alter the newsgroups line, thank you.)
+
+>>>From article <3659@uwovax.uwo.ca>, by reggers@uwovax.uwo.ca (Reg Quinton):
+>>>& It  seems that everyone in North  America, if  not the entire free speaking
+>>>& world  has seen the inappropriate  postings  by a  student by  the  name of
+>>>& Alexander Pruss  who goes  by  the handle  satan.   Many have  been rightly
+>>>& offended and have notified me (as news manager)  as well as our postmaster.
+>>>& In   fact  the  Computing  Centre  Director  has  received  telephone calls
+>>>& complaining about this fellow!
+>>>& 
+>>>& This is  to  advise   everyone that the   problem has been  brought  to our
+>>>& attention and is/will  be dealt with.  Rest assured we do not  believe that
+>>>& this kind of behaviour is acceptable and it will not be tolerated.
+>>>& 
+>>>& Your patience would be appreciated.
+>>>& 
+>>>& I am,
+>>>& 
+>>>& 	News Manager <usenet@uwovax.uwo.ca>
+>
+>Ummm, you have deleted the portion of Mr. Quinton's posting which dealt
+>with the fact that he is running news unofficially,
+
+Everyone is.  Usenet news is ad hoc, unofficial; it's a parasite on the
+internet, which is funded to provide for communication between research
+interests.  It is therefore very tenuous, very fragile, and likely to
+go poof at any second.  So what?  You'd stigmatize a poster and all the
+rest of the posters only to keep your game going?
+
+( I can hear you saying "well, if that's how you feel, then quit
+reading it."  I might.  But not until I've spoken freely. )
+
+>and thereby implying
+>that if some fool goes out of his way to make waves for the people charged
+>with getting the funds for keeping this project alive, then it just might
+>get zapped.
+
+A situation I find distasteful at least.  I do not encourage
+flatulent posting, nor do I ask that usenet administrators
+encourage it.  I ask only that they consider their duty to
+provide this forum for all opinions, free of the fear of
+institutionalized castigation of those opinions.
+
+You can go make mud-pies with your talk of privilege; once a medium is
+controlled, even by those who own it, it is no longer a place for free
+speech.  Cf. the case of Boston's WEEI radio, where the station's news
+editor and another employee resigned because the owner insisted on
+coloring the news and on being given a special reporter to do certain
+stories which the owner would assign and which the news department
+would not be allowed to edit.  Obviously they were forced to resign
+because of the question of ownership of the resource.  Your lawyers may
+win this argument, but freedom and the integrity of free speech will
+lose, big.
+
+>Further, you neglect the fact that in Ontario this comes on the heals of
+>a debate amoungst those who allocate University Computing facility budgets
+>determining whether USENET access should be condoned and financially 
+>supported by the Canadian taxpayer at all.
+>
+>It was rumoured to be a close decision last time.  Would you prefer to
+>have backbone after backbone drop off the 'NET?  What would that do to
+>the "rights of the user", whom you purport to defend?  What would that
+>do to "Free Speach"?
+
+Eliding the medium will not eliminate the freedom.  I can't be the
+first ever to say that when one person is refused free opinions, the
+freedoms of the rest are worth nothing.  The people left will have nil
+other than their petty self-interest and the sham of freedoms that only
+serve as a carrot on a stick in the hands of the manipulative powers of
+the administration.  The news would be better served by being completely
+dismantled than by being so tyrranized.  All or none.
+
+>You tend to suggest that the right of this one individual (Mr. Pruss) to
+>post in his questionable fashion is much more important than the opportunity
+>of millions of potential 'NET readers to access USENET as it precariously
+>exists today.
+
+Mr. Pruss, and others like him, can be dealt with sufficiently by the
+scorn of the rest of the posters on the net.  He is not the first
+person to make inane remarks in an offending tone, and he certainly
+will not be the last.  Public censure would serve not only to punish
+but also to warn, and persons whose ideas are quite sound and possibly
+valuable may fail to make them known simply because they lack the
+self-confidence to introduce them into a discussion where a group
+of people _might_ find them offensive.
+
+If Mr. Pruss' comments had in fact made the rest of the net, and
+possibly the world, decide that satanism and homophobia were the
+correct course of human existence, would you then expect to see this
+discussion?  No.  You would hail him as if he were a messiah.  Yet you
+insist on forcing his silence only because he spoke his mind, or some
+perverted subset of it.
+
+You then cause fear among current and future speakers, and the freedom
+of speech is beaten to death.
+
+And, you do so only in order to protect your own freedom of speech.
+
+Such widespread hypocrisy is disheartening.  I may yet quit this
+network of fools.
+
+>If Mr. Pruss's actions zapped *your* 'NET access, would
+>you still speak as you did?
+
+I think I make it clear that I would.  I think I made it clear long ago
+that I'm willing to take bullets to speak as I did.  My net access is
+valueless without his.  My speaking is meaningless without his.
+
+(If I were you, I'd consider not making fun of the "I may not agree
+with what you say but I'd die to protect your right to say it," cliche,
+since some of us actually mean it, and have backed that up with
+military service.)
+
+>>Well, to quote one of our greater statesmen, "who the hell do you
+>>think YOU are."  (Okay, so I quote only the Chirelles.)
+>
+>I am not he, but I speculate that he may be one instructed that he
+>may run USENET news as long as there is no adverse publicity.
+
+I love it.  Qualifications on speaking freely.  What crap!
+
+>>Content of messages on usenet is a priori not a concern.  Delivery
+>>of them and the nuisance of abuse of the net, however, is.
+>
+>Especially when the bill-payers get miffed.
+
+Oh.  Miffed.  Now there's a reason to abridge freedom.  They got
+_miffed_.  Or did they?  I'm finding here a definite thread of
+misinterpretation of the value of this situation by those who would
+encourage censure.
+
+>>The fact that Mr. Pruss wants to make satanic statements is irrelevant
+>>to his access.  The meager "offense" that some have felt at his
+>>opinions, and expressed to you, is nothing when compared to the great
+>>disservice to free speech and unfettered communication that you commit
+>>by censoring Mr. Pruss.  If he committed some offense directed to harm
+>>a particular person, or for the purpose of overloading or misusing
+>>internet resources, then you have call to perform administrative
+>>policing of his activity.  However, he didn't; therefore, you don't.
+>
+>Mr. Pruss apparantly (my information is based on the UWO newsadmin's
+>posting) has performed actions which jeapordize the normal access to
+>facilities that many currently enjoy.  I fully appreciate why action
+>to mitigate this damage has been taken. 
+
+"mitigate"..."damage"...like saying that amputating one's head
+mitigates the damage caused by a nosebleed.  I assure you that
+UWO's _image_ has suffered more from the adverse publicity
+surrounding their (alleged) restrictions on Mr. Pruss than it
+ever could by allowing him to post infantile nonsense.
+
+Again, the value of this situation is that it is showing what
+freedom is worth.
+
+(You'll note that the UWO admin was ambiguous as to what he did.  This,
+and Mr. Pruss sudden silence, have caused the impression that an
+account was locked.  It is not the case, as I said above, and the
+misinterpretation thus fostered is not favorable to the image of UWO.
+This is the reason for my apology.  I am, however, not the only person
+to make this mistake.)
+
+>also...
+>
+>Mr. Pruss has no more right to access that particular machine without
+>explicit permission than I have to remove your car from your driveway
+>and demolish it without *your* explicit permission.
+
+You obfuscate.  Real damage must be repaired.  The fact that several
+readers find Mr. Pruss offensive does not make it utterly damaging.
+See above re the damage due to the cure.
+
+>The difference is that I don't claim to have a right to do so.  Please
+>investigate the concept of property rights as generally accepted by
+>most non-communists.
+
+Ad hominem and bunk.  Politics is irrelevant.  The law is derived
+from the principles, it doesn't define them.
+
+>>I must insist that you restore his access and let the thinking people
+>>who populate this medium decide whether to accept his writings or not.
+>
+>Since when is the University of Western Ontario a free public access
+>site?  Perhaps if you feel this strongly you might want to buy him
+>a box, some software, and pay his phone bill to uunet.
+
+I suppose you would have him dragged kicking and screaming from the
+quad simply because he criticised the university administration
+and called the Provost a coprophilic pederast, and would do so
+before determining whether it was true or not, simply because the
+image of a coprophilic pederast is counter to your contented life.
+
+As for purchasing access, he did so by, as I presume he does annually,
+sending them the check for his tuition money.  Again, your lawyers
+may win this one, but the lawyers don't deal in freedom, only the
+letters in the law books that they choose to invoke.
+
+>>I ask that all who agree insist as well, in writing.
+>
+>I respectfully suggest that you are way out of line.
+
+Your opinion is noted as inobservant and misguided.
+
+>I won't tell you what to do with your property, and perhaps you
+>may wish to reconsider your demand that others deal with *theirs* as
+>*you* "insist".
+
+Bought a slave lately?
+
+I don't have the power to insist, except rhetorically.  I only point
+out the facts so that freedom shall not perish from this earth.
+
+				--Blair
+				  "It's always nice to be given
+				   an opportunity to paraphrase
+				   Lincoln."
 
 -----------------------------------------------------------------
 
 " Maynard)
 09/04/89
-(message was not found)
+In article <4030@buengc.BU.EDU> bph@buengc.bu.edu (Blair P. Houghton) writes:
+264 lines of argument based on an invalid assumption: that there is such
+a thing as freedom of speech on the net.
+
+Sorry, Blair, but it doesn't work that way in the real world. Them that
+has the gold makes the rules. There is no more freedom of speech on any
+site than those who own the system allow. If you think that there should
+be freedom of speech on my site, send me $5000, and I'll sell you the
+computer; otherwise, stop trying to tell me how to run it.
+
+-- 
+Jay Maynard, EMT-P, K5ZC, PP-ASEL   | Never ascribe to malice that which can
+jay@splut.conmicro.com       (eieio)| adequately be explained by stupidity.
+{attctc,bellcore}!texbell!splut!jay +----------------------------------------
+"The unkindest thing you can do for a hungry man is to give him food." - RAH
 
 -----------------------------------------------------------------
 
@@ -44,49 +429,316 @@ I write for myself and not any organizations I am associated with.
 
 bph@buengc.BU.EDU (Blair P. Houghton)
 09/04/89
-(message was not found)
+In article <2860@splut.conmicro.com> jay@splut.conmicro.com (Jay "you ignorant splut!" Maynard) writes:
+>In article <4030@buengc.BU.EDU> bph@buengc.bu.edu (Blair P. Houghton) writes:
+>264 lines of argument based on an invalid assumption: that there is such
+>a thing as freedom of speech on the net.
+
+Read on and see where you are very, very much mistaken.
+
+>Sorry, Blair, but it doesn't work that way in the real world. Them that
+>has the gold makes the rules. There is no more freedom of speech on any
+>site than those who own the system allow. If you think that there should
+>be freedom of speech on my site, send me $5000, and I'll sell you the
+>computer; otherwise, stop trying to tell me how to run it.
+
+I don't tell you how to run it.  You may remove as many users as you
+wish simply because you may do so.  The buengc administrators may yank
+my account simply by saying, "we own this box," and I am powerless and
+have no controverting argument.
+
+However, if they lock me out and say "we disagree with your opinions,"
+or "we don't let blacks use Usenet," then they are wrong.
+
+				--Blair
+				  "And not just because I'm not black."
 
 -----------------------------------------------------------------
 
 bill@twwells.com (T. William Wells)
 09/04/89
-(message was not found)
+In article <2860@splut.conmicro.com> jay@splut.conmicro.com (Jay "you ignorant splut!" Maynard) writes:
+: In article <4030@buengc.BU.EDU> bph@buengc.bu.edu (Blair P. Houghton) writes:
+: 264 lines of argument based on an invalid assumption: that there is such
+: a thing as freedom of speech on the net.
+:
+: Sorry, Blair, but it doesn't work that way in the real world. Them that
+: has the gold makes the rules. There is no more freedom of speech on any
+: site than those who own the system allow. If you think that there should
+: be freedom of speech on my site, send me $5000, and I'll sell you the
+: computer; otherwise, stop trying to tell me how to run it.
+
+Agreed. But the going price for my system is $10,000. And you have to
+house it yourself.
+
+Why mention price? To point out that the whole thing hinges on the
+fact that the net exists by the grace of those property owners who
+have decided to contribute their hardware, time, and money to the net.
+And who, therefore, have the right to determine how that hardware,
+time, and money will be used. Or to withdraw their contribution from
+the net.
+
+If it were ever to occur that, solely because I'm on the net, I could
+be made to propagate things that I would choose not to, I would drop
+out of the net. Instantly.
+
+This is *my* computer. Paid for by *my* effort. You try to *tell* me
+how I may use it and I'll tell you where to go. You try to *make* me
+use it as you will and I'll treat you like the thug you are.
+
+Followups have been directed to alt.flame.
+
+---
+Bill                    { uunet | novavax | ankh | sunvice } !twwells!bill
+bill@twwells.com
 
 -----------------------------------------------------------------
 
 gmadison@pnet02.gryphon.com (George Madison)
 09/04/89
-(message was not found)
+bph@buengc.BU.EDU (Blair P. Houghton) writes:
+>
+>I consider free speech to take precedence over privileged communication.
+>
+>A person who is barred from the net for his opinions is no different
+>from a person who is barred from the newspapers for his opinions.
+>
+
+Intriguing you should bring this up, since it really savages your so-called
+"logic".  A newspaper is under no obligation to print ANYTHING sent to them;
+good newspapers try to stimulate rational debated, and do their best to show
+all facets of an issue.  That DOESN'T mean that they have to print the nitwit
+ramblings of anyone with access to a typewriter or word processor.  If someone
+can't get their message across in the existing papers, they are perfectly FREE
+to start their own.  The First Amendment talks about SPEECH -- NOT the medium.
+It is just as much an infringement of basic rights to demand access to someone
+ELSE'S property for you to transmit your speech as you claim was committed
+against Mr. Pruss.  Or perhaps you'd like someone to come drive you off your
+terminal to spout bigoted crap onto the Net while you're trying to meet a
+thesis (or other) deadline??  If you object, you're a hypocrite, since that's
+the exact sort of scenario you'Re advocating.
+
+
+|George Madison, a/k/a George The Bear Cub, a/k/a Furr     ** BEAR POWER **|
+|gmadison@pnet02.gryphon.com    8-{)>    ames!elroy!gryphon!pnet02!gmadison|
+|GEnie: GEORGE.M     Arctophiles & Barbophiles Unite!     PLink: BEARDLOVER|
+
+  "When I'm with you I don't know whether I should study neurosurgery or
+   go to see the Care Bears Movie..."  -- _You Make Me_, "Weird Al"
 
 -----------------------------------------------------------------
 
 bph@buengc.BU.EDU (Blair P. Houghton)
 09/05/89
-(message was not found)
+In article <188@temvax.UUCP> stephen@temvax.UUCP (Stephen C. Arnold) writes:
+>
+>I have some problems with Blair's concept of freedom of speech.  I believe
+>Pruss was acting outside that freedom.  Here is how I see him acting outside
+>that freedom.
+
+You need glasses.
+
+>The first is anonymity.  Pruss posted without saying who he was.
+>Freedom of speech does not protect a person from having their identity
+>associated with their writing.
+
+Wrong in the extreme.  Freedom of speech includes making up names for
+yourself to protect yourself from the violence of your opponents.
+
+>Second is harrassment.  Pruss harrassed all of us by saying all of us
+>are going to get AIDS, die and go to hell.  Freedom of speech was never
+>intended to protect the ability to harrass.
+
+Many of us are going to get AIDS, all of us are going to die, and hell
+is moot.  Not even when all three are wished on the same person do they
+add up to a reason to limit the speaker's freedom.  Your offense at those
+things is not even relevant to the freedom with which he should speak
+them.
+
+You are harrassing me by telling me what I may say.  Should you be
+censored?
+
+>A person should not be resticted about what he or she says when he or
+>she addresses their listeners with the respect do a peer.  Pruss was
+>not acting in this way.
+
+Utter garbage.  Feudalism is the reason we don't do feudalism anymore.
+
+Contempt for the thoughts and deeds of others is the thing protected
+by freedom to speak in disagreement.  The manner in which the speech
+is made is likewise not important.  If you are offended, you may seek
+punitive remuneration from Mr. Pruss, but you do not have the right
+to silence him.
+
+Further, do you consider yourself Mr. Pruss' peer?  I do not consider
+you his peer.  He may be an idiot and a pervert, but he knows how to
+exercise basic human rights, and you do not.  This perverse idiot is
+miles above you.
+
+				--Blair
+				  "No pain, no gain."
 
 -----------------------------------------------------------------
 
 bph@buengc.BU.EDU (Blair P. Houghton)
 09/05/89
-(message was not found)
+In article <19438@gryphon.COM> gmadison@pnet02.gryphon.com (George Madison) writes:
+>bph@buengc.BU.EDU (Blair P. Houghton) writes:
+>>
+>>I consider free speech to take precedence over privileged communication.
+>>
+>>A person who is barred from the net for his opinions is no different
+>>from a person who is barred from the newspapers for his opinions.
+>
+>Intriguing you should bring this up, since it really savages your so-called
+>"logic".  A newspaper is under no obligation to print ANYTHING sent to them;
+>good newspapers try to stimulate rational debated, and do their best to show
+>all facets of an issue.
+
+The news itself is not opinion.  I speak of columnists.  They are hired
+to speak opinion.  Are they fired when they do?  Are you impressed with
+the management of the paper when that happens?
+
+>That DOESN'T mean that they have to print the nitwit ramblings of
+>anyone with access to a typewriter or word processor.  If someone can't
+>get their message across in the existing papers, they are perfectly
+>FREE to start their own.
+
+He did.  He wrote and posted to the net.
+
+On the net, everyone is his own editor.  If a person is a little loose,
+I am sure that the rest of us can inform him his editorial style is not
+appreciated.
+
+Imagine what the editor of the Boston Herald would say if you said
+that.  Imagine asking the Mayor to prevent him from using the streets
+of Boston to drive his delivery trucks.  Imagine Ray Flynn actually
+listening to you.  Imagine the enourmously successful lawsuit the
+Herald would bring.
+
+>The First Amendment talks about SPEECH -- NOT the medium.
+
+Then the medium is irrelevant, and granting him the excess capacity of
+yours and then denying him that acces simply because you disagree with
+him is a violation of his freedom to speak.
+
+>It is just as much an infringement of basic rights to demand access to
+>someone ELSE'S property for you to transmit your speech as you claim
+>was committed against Mr. Pruss.
+
+Which is not what was done.  What was done was to punish the person
+for using previously granted access because of his speaking.
+
+>Or perhaps you'd like someone to come drive you off your terminal to
+>spout bigoted crap onto the Net while you're trying to meet a thesis
+>(or other) deadline??
+
+If this terminal were that important and dear to me, then I would allow
+not one byte of network news to cross its interfaces.  Neither the
+(alleged) "bigoted crap" nor the fluid eloquence of a cogent argument
+nor the intermittent hilarity of rec.humor.funny.
+
+Otherwise, as long as I don't need the keyboard, you can post that you
+think my terminal is a portal to hell, that I am satan himself, and
+that my family, my friends, my coworkers, and my university are the
+monkeys that brought the AIDS virus from the laboratories in Africa
+where we perfected it.  I would calmly watch you do it (whilst
+finishing my lunch), then I would prove you wrong.  I would not kick
+you out of the chair, unless I needed the terminal to continue my
+work.  If I determined that your posting took up an otherwise necessary
+portion of my disk, I would wipe it clean, even if it claimed that I
+was twice the man Winston Churchill or Carl Yastrzemski ever were.
+
+It's my computer, I may manage it as a computer.  I am not right to
+exploit it's network connectivity as a psychological tool to coerce
+your agreement with me.
+
+>If you object, you're a hypocrite, since that's
+>the exact sort of scenario you're advocating.
+
+If I do not object, I am doomed to enslavement of my mind by the
+tyrants who accept that they may tell me what not to say.  Go reread my
+response to your last comment; which of us is the hypocrite?
+
+				--Blair
+				  "'I'm losing, and it's my ball, so
+				   you're a cheater, so you can't play
+				   with any of us any more...'
+				   Six-year-olds understand this sort
+				   of thing.  Why can't you?"
 
 -----------------------------------------------------------------
 
 leonard@qiclab.UUCP (Leonard Erickson)
 09/05/89
-(message was not found)
+In article <4030@buengc.BU.EDU> bph@buengc.bu.edu (Blair P. Houghton) writes:
+<A person who is barred from the net for his opinions is no different
+<from a person who is barred from the newspapers for his opinions.
+
+Guess what, people are barred from *a* newspaper for their opinions all
+the time. It's known as "freedom of the press". Nobody but the publisher
+can tell an editor what to print.
+
+There are so many papers that barring someone from "the newspapers" is
+a totally nonsensical idea. Likewise barring someone from "the net" is
+not possible. You can *always* find a site that is willing to let you
+post. Examples of this abound (MES comes to mind...)
+
+You have no more right to tell a site adminstrator how to run his site
+than you do to tell an editor how to run his paper. He can exclude any
+views he wishes to. (the fairness doctrine on the broadcast media was
+an aberration). Freedom of the press means you can publish *your* views
+no matter how biased. But you may have to do it on your own "press".
+
+-- 
+Leonard Erickson		...!tektronix!reed!percival!bucket!leonard
+CIS: [70465,203]
+"I'm all in favor of keeping dangerous weapons out of the hands of fools.
+Let's start with typewriters." -- Solomon Short
 
 -----------------------------------------------------------------
 
 spl@mcnc.org (Steve Lamont)
 09/05/89
-(message was not found)
+In article <2592@qiclab.UUCP> leonard@qiclab.UUCP (Leonard Erickson) writes:
+>views he wishes to. (the fairness doctrine on the broadcast media was
+>an aberration). ...
+
+... and one sorely missed, I'm afraid.
+
+>"I'm all in favor of keeping dangerous weapons out of the hands of fools.
+>Let's start with typewriters." -- Solomon Short
+
+Or the net?
+
+							spl
+-- 
+Steve Lamont, sciViGuy			EMail:	spl@ncsc.org
+NCSC, Box 12732, Research Triangle Park, NC 27709
+"Surrealism only comes later when it seems 'reality' becomes difficult
+to achieve." - E. Miya, NASA Ames Research Center
 
 -----------------------------------------------------------------
 
 gmadison@pnet02.gryphon.com (George Madison)
 09/06/89
-(message was not found)
+spl@mcnc.org (Steve Lamont) writes:
+>In article <2592@qiclab.UUCP> leonard@qiclab.UUCP (Leonard Erickson) writes:
+>>views he wishes to. (the fairness doctrine on the broadcast media was
+>>an aberration). ...
+>
+>... and one sorely missed, I'm afraid.
+
+Indeed.  I can buy myself a cheap photocopier and run off flyers saying pretty
+much anything I want.  Acquiring a radio or TV station is just a tad harder.
+
+
+|George Madison, a/k/a George The Bear Cub, a/k/a Furr     ** BEAR POWER **|
+|gmadison@pnet02.gryphon.com    8-{)>    ames!elroy!gryphon!pnet02!gmadison|
+|GEnie: GEORGE.M     Arctophiles & Barbophiles Unite!     PLink: BEARDLOVER|
+
+  "When I'm with you I don't know whether I should study neurosurgery or
+   go to see the Care Bears Movie..."  -- _You Make Me_, "Weird Al"
 
 -----------------------------------------------------------------
 
@@ -139,37 +791,397 @@ H.
 
 foo@titan.rice.edu (Mark Hall)
 09/07/89
-(message was not found)
+  RUMOR AT THE BOTTOM
+
+  Hershel Browne sez: 
+>What really pisses me off in this discussion is the introduction of
+>"property rights" considerations....So and so may have a right to say
+>anything he likes, but the university of such and such doesn't have
+>a duty to subsidize it; now THAT is crap. A university really DOES
+>have a duty to make possible unfettered communication. 
+
+   Where did you get this idea? 
+   Yes, Pruss can say what he wants.
+   No, he does not have the "right" to have his ideas send around the 
+world at others' expense AGAINST THEIR WISHES. 
+
+   If you don't believe this, let's turn the tables: 
+   I want to send a postcard espousing my views to every household in 
+the US. I want YOU to pay for it. OK? Surely you don't want to infringe
+on my right to express myself. It is your DUTY to subsidize me. 
+   Did you buy that? It is your argument.
+
+>Perhaps a
+>for-profit corporation doesn't, but I wish they would all go away
+>anyway. I don't mean away from this network, I mean away from the
+>face of the earth.
+     
+  Yes, Let's go back to the stone age. 
+ 
+>The point these property-rights folks make is that the owner of the
+>property (in this case, the computing equipment that makes net-access
+>possible) have a right to determine what use their property is put
+>to. Well, in a legalistic sense, they do. It's unfortunate, but
+>they do.
+
+   Yeah, property rights are such a pain for people who want everything 
+given to them without having to work for it.    
+
+> That doesn't vitiate the free-speech aspect of the
+>situation, it merely underscores the fact that ownership (in this
+>case of the means of communication, but means of production is
+>still an apt phrase) may be used to thwart the substantive exercise
+>of the freedoms to which these folks presumably pay lip-service.
+>What they're really paying their homage to is power, not freedom.
+>If the university of such-and-such has the POWER to deprive
+>someone of the opportunity to communicate freely, then they have
+>the (moral) right to do so. Enough to make a guy like me puke.
+
+>The university of thus-and-such surely has the power to silence
+>"satan's" voice. 
+
+   Of course, they didn't. But admitting that would take away your 
+reason for whining on the net, wouldn't it? 
+
+   They do NOT have the power to silence satans voice. They can 
+only control their own facilities. So all your self-flaggelation 
+about how the powerful are evilly silencing Pruss is meaningless. 
+
+>That doesn't make it right for it to so, and the
+>power thus exercised does NOT make the free-speech issue go away.
+>It would merely demonstrate, as if further demonstration were
+>necessary, that our culture values property over every other value.
+>Surely universities, of all our institutions, should rise above
+>THAT. Right?
+
+   Wrong. I am sure you have property which you want to control. 
+(If not, please ship it all to me. I want to use it for a 
+"Socialist Bonfire" and wienie roast next week.) 
+Either you like property rights, or you don't. If you don't, 
+please give up all claims to property. Put up or shut up. 
+
+> Whenever someone is silenced because of the content
+>of what he's saying, we should all take notice, because the content
+>of what WE'RE saying might be the next thing to be found distasteful
+>to the people with the power to silence us.
+> H.
+
+ (1)  Again, he was not silenced. 
+ (2)  No one has the power to silence Pruss. 
+ (3)  Hypocritical views on property rights merely make the 
+      holder the target of ridicule. 
+
+
+   Now, could we get all this crap off the network? (or at least 
+ out of talk.rumors? )
+
+
+
+    RUMOR: 
+
+       Jim Bakker was found to be sane when his first words upon 
+    entering the psychiatric ward for testing last week were: 
+
+         "How did I do? Do you think they bought it?"
 
 -----------------------------------------------------------------
 
 swarren@eugene.uucp (Steve Warren)
 09/07/89
-(message was not found)
+In article <89250.001226HERSCHEL@AUVM> HERSCHEL@AUVM.BITNET (Herschel Browne) writes:
+                         [...]
+>a duty to subsidize it; now THAT is crap. A university really DOES
+>have a duty to make possible unfettered communication. Perhaps a
+>for-profit corporation doesn't, but I wish they would all go away
+>anyway. I don't mean away from this network, I mean away from the
+>face of the earth.
+                         [...]
+Give me a break.  The only nations where for-profit corporations have
+been abolished are no longer able to even feed their own populations.
+In order to survive they are forced to once again recognize private
+property and the right to profit from one's own possessions.  Human
+nature is such that people refuse to spend their lives working when
+there is no direct tangible benefit to themselves as a result of their
+labor.
+
+Your wish to remove profit oriented corporations from the earth reveals
+the bankrupt motive for your argument.  It also reveals a foolish lack
+of understanding of basic human nature, as well as a frightening refusal
+to learn anything from the history of the nations that now exist.
+
+As for net censorship, I expect that behavior that is damaging to the
+organization that is funding the net connection will generate a response
+of some kind from them.  Every organization, for-profit or not, tends
+to fight for its own reputation and ultimately for its survival.  Those
+organizations that are not responsive cease to exist.  This is not a
+moral question, merely a fact of reality.
+
+
+Obviously these are my opinions and not those of my employers.
+--Steve
+-------------------------------------------------------------------------
+	  {uunet,sun}!convex!swarren; swarren@convex.COM
 
 -----------------------------------------------------------------
 
 HERSCHEL@AUVM.BITNET (Herschel Browne)
 09/08/89
-(message was not found)
+In article <1682@convex.UUCP>, swarren@eugene.uucp (Steve Warren) says:
+>
+>Human
+>nature is such that people refuse to spend their lives working when
+>there is no direct tangible benefit to themselves as a result of their
+>labor.
+>
+>Your wish to remove profit oriented corporations from the earth reveals
+>the bankrupt motive for your argument.  It also reveals a foolish lack
+>of understanding of basic human nature, as well as a frightening refusal
+>to learn anything from the history of the nations that now exist.
+>
+Well, maybe "work" isn't all it's cracked up to be anyway. Perhaps
+we should look at the other species and see what they do. Do otters,
+or brown bears, or dolphins make some distinction between "work" and
+"play"? Obviously not. Yet they get along, up to the point where their
+interests conflict with ours. But sigh, there goes someone else
+calling me names. I don't know why this seems necessary to so many
+people. "Foolish lack of understanding", "frightening refusal to
+learn", etc....why must we speak in such terms?
+
+As it happens, I've spent the greater part of my life as a grown-up
+studying history. As a sophisticate in that particular discipline,
+I know that history offers no simple lessons, and that the people
+who make pronouncements like "refusal to learn anything from the
+history of the nations that now exist", in presupposing that
+"history" somehow validates their beliefs, simply don't understand
+how history works, or willfully falsify the things that history
+actually can teach us. I also have learned that appeals to
+"human nature" are generally thinly disguised justifications
+of the status quo. The study of history has taught ME that
+"human nature" is a social product; that is to say, it is
+a historical artifact. What people believe to be "human nature"
+has a history; it is not immutable. And of course, it is
+generally ideologically tainted. You say that human nature is
+such-and-such because you believe that the things thus
+explained and/or excused are okay. Well, history shows me
+that people have always made such appeals, but that the
+"human nature" to which they have appealed wasn't always
+the same--it undergoes metamorphoses as the ground of argument
+shifts.
+
+History is the mother's milk of my mind; please don't
+tell me I refuse to learn its lessons because you think
+it OFFERS lessons to support your point of view, and offers
+none to support mine. It really doesn't work that way.
+If you have labored in history's vineyards as I have,
+you will know what I'm talking about.
+
+H.
 
 -----------------------------------------------------------------
 
 bph@buengc.BU.EDU (Blair P. Houghton)
 09/08/89
-(message was not found)
+In article <1682@convex.UUCP> swarren@eugene.UUCP (Steve Warren) writes:
+>In article <89250.001226HERSCHEL@AUVM> HERSCHEL@AUVM.BITNET (Herschel Browne) writes:
+>Give me a break.  The only nations where for-profit corporations have
+>been abolished are no longer able to even feed their own populations.
+
+Neither are most of the rest.
+
+You confuse many things with for-profit-economy efficacy.  Take a course
+or two in Development Economics, then we can discuss this as an argument
+of opinion, rather than forcing my pedantry into the open.
+
+Meanwhile, economics isn't the issue.  It's completely irrelevant, except
+as a lame rationalization of the corporate desire to silence sedition.
+
+It doesn't justify censorship of a free person.  None of us is owned,
+whether employed or not.  A corporate entity does not have the right
+to force its employees to speak or not to speak.
+
+(I know.  You're going to come back with trite whining of "well, you
+don't have to work there, you know."  I wish it were so for most
+people.  They don't even earn the moral dignity that comes from losing
+a job for a cause, they just get laid off.  You don't have to work
+anywhere, except maybe the first place that guarantees your family
+its food.  The coercion implicit in that tenuous situation at most
+jobs is enough to keep the workers blind, deaf, and dumb.)
+
+>In order to survive they are forced to once again recognize private
+>property and the right to profit from one's own possessions.  Human
+>nature is such that people refuse to spend their lives working when
+>there is no direct tangible benefit to themselves as a result of their
+>labor.
+
+And this, of course, is sufficient cause to eliminate freedom.
+
+Human nature is such that when large entities begin to take away our
+power to control our own destinies we band together by the force of our
+voices and revolt against those tyrants.  We are about fifty years
+overdue for a revolution, and it's attitudes like yours that will make
+us want to have one.  Keep it up.
+
+>Your wish to remove profit oriented corporations from the earth reveals
+>the bankrupt motive for your argument.  It also reveals a foolish lack
+>of understanding of basic human nature, as well as a frightening refusal
+>to learn anything from the history of the nations that now exist.
+
+And this, of course, is sufficient cause to eliminate freedom.
+
+(Irrelevant note:  it also sounds a lot like the "reasons we hate the
+Jews" speeches Hitler gave.  Lots of prejudice based on incomplete
+historical analyses.  It ain't quite the same level of hysteria, but
+it's the same basic shade of yellow.)
+
+>As for net censorship, I expect that behavior that is damaging to the
+>organization that is funding the net connection will generate a response
+>of some kind from them.  Every organization, for-profit or not, tends
+>to fight for its own reputation and ultimately for its survival.  Those
+>organizations that are not responsive cease to exist.  This is not a
+>moral question, merely a fact of reality.
+
+And this, of course, is sufficient cause to eliminate freedom.
+
+You are saying that capitalism -- free economy -- is anathema to free
+speech and thereby to free thought.  Someone ought to tell Thomas
+Jefferson he got it backwards.
+
+[Disclaimer??]
+>Obviously these are my opinions and not those of my employers.
+
+MY ASS!  You're saying exactly the sort of thing that they would dearly
+pay a public relations staff to devise.  Obviously, you don't have
+a very sure awareness of your opinions.
+
+				--Blair
+				  "I would hope that BU would
+				   be proud to see one of its
+				   own arguing against its
+				   corporacy."
 
 -----------------------------------------------------------------
 
 leonard@qiclab.UUCP (Leonard Erickson)
 09/09/89
-(message was not found)
+In article <19531@gryphon.COM> gmadison@pnet02.gryphon.com (George Madison) writes:
+<spl@mcnc.org (Steve Lamont) writes:
+<>In article <2592@qiclab.UUCP> leonard@qiclab.UUCP (Leonard Erickson) writes:
+<>>views he wishes to. (the fairness doctrine on the broadcast media was
+<>>an aberration). ...
+<>
+<>... and one sorely missed, I'm afraid.
+<
+<Indeed.  I can buy myself a cheap photocopier and run off flyers saying pretty
+<much anything I want.  Acquiring a radio or TV station is just a tad harder.
+
+Actually, you can get a "carrier current" radio station license fairly easily.
+And the equipment is in the same price range as a 286 clone. It broadcasts
+over the *power lines* and the rules limiting it result in ranges of a few 
+miles. All the listens know is that it comes in better on the radio plugged
+into the wall, than on the walkman. 
+
+You *can* run a neighhorhood radio station!
+-- 
+Leonard Erickson		...!tektronix!reed!percival!bucket!leonard
+CIS: [70465,203]
+"I'm all in favor of keeping dangerous weapons out of the hands of fools.
+Let's start with typewriters." -- Solomon Short
 
 -----------------------------------------------------------------
 
 root@simasd.UUCP (Jay Curtis)
 09/10/89
-(message was not found)
+In article <4030@buengc.BU.EDU> bph@buengc.bu.edu (Blair P. Houghton) writes:
+>The discussion that has evolved, however, is not affected by these
+>facts, as it is a general discussion of the philosophy of freedom,
+>free speech in particular.
+>
+>I consider free speech to take precedence over privileged communication.
+>
+>A person who is barred from the net for his opinions is no different
+>from a person who is barred from the newspapers for his opinions.
+>
+
+Fist, losing an account
+on ONE machine does not equate to being "barred from the net".  There is
+no net-wide edict saying that this person is not allowed to have an
+account or to post.  That person would just have to make arrangements to
+use an account on another machine.  There isn't a system on the net that
+scans the contents of all the postings and refuses to forward them because
+of their contents or authors.  (Okay, at least none that *I* know of. 8) )
+
+>You can go make mud-pies with your talk of privilege; once a medium is
+>controlled, even by those who own it, it is no longer a place for free
+>speech. 
+
+You are right, as far as you go.  Yes free speech is a right.  However,
+No-one is going to tell me that I have to propogate YOUR ideas at my
+expense.  If I own a publishing company, I don't have to print and
+distribute your ideas.  I have the right to say find another publisher.
+I am providing a service.  Other people also provide this service. 
+
+
+>(If I were you, I'd consider not making fun of the "I may not agree
+>with what you say but I'd die to protect your right to say it," cliche,
+>since some of us actually mean it, and have backed that up with
+>military service.)
+>
+
+A lot of people have served in the U.S. Military.  I am one of them.  I am
+also a Sys. Admin on a machine running Usenet news.   As such, I understand
+the problems of the administration at this site.  I am allowed to run
+Usenet news on this system only so long as I can keep it out of the
+limelight. This means that I have to be very sensitive to the responses to
+articles posted from my site.  It is real easy to sit back and say "I may
+not agree...say it".  Damned hard when the burden of responsibility is on
+you!  Just having been in the service doesn't give you the right to
+criticize other peoples efforts in this area.  There are way to many
+hypocrits hiding behind this line of reasoning as it is!
+
+>
+>>Since when is the University of Western Ontario a free public access
+>>site?  Perhaps if you feel this strongly you might want to buy him
+>>a box, some software, and pay his phone bill to uunet.
+>
+>As for purchasing access, he did so by, as I presume he does annually,
+>sending them the check for his tuition money.  Again, your lawyers
+>may win this one, but the lawyers don't deal in freedom, only the
+>letters in the law books that they choose to invoke.
+>
+My understanding from the colleges in California is that you are purchasing
+computer time for School related work.  Usenet news does not in most cases
+qualify.  It is a benefit, an added bonus that could very well go away if
+the management were made to believe that it was more of a liability than
+not.  Colleges have a hell of a time getting sufficient funding to provide
+the services that they do.  In this time of constant budget cuts, Usenet
+news cannot afford any adverse publicity at most installations.
+
+>>I won't tell you what to do with your property, and perhaps you
+>>may wish to reconsider your demand that others deal with *theirs* as
+>>*you* "insist".
+>
+>Bought a slave lately?
+>
+I am disappointed.  This is a common tactic used by people who really have
+no arguement to offer.  If you can't find a comeback related to the
+current arguement, bring up a highly inflamitory, offensive subject and try
+to link it to the opposition!  Really, Blair, I had expected better from
+you.
+
+
+>I don't have the power to insist, except rhetorically.  I only point
+>out the facts so that freedom shall not perish from this earth.
+>
+Freedom has not perished.  Anyone who loses their account on a particular
+machine is "free" to either purchase his own machine or make arrangements
+for an account on someone else's machine.  Evidence of this is the infamous
+Clay Bond of soc.motss, alt.sex fame.  When his account was removed, he
+aquired an account on another machine and is still active on Usenet.
+
+>				--Blair
+>				  "It's always nice to be given
+>				   an opportunity to paraphrase
+>				   Lincoln."
 
 -----------------------------------------------------------------
 

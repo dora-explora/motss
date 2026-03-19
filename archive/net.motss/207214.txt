@@ -1,7 +1,74 @@
 AIDS virus in prison evaporates bas
 midkiff@uiucdcsb.CS.UIUC.EDU
 02/11/86
-(message was not found)
+/* Written  4:44 pm  Jan 30, 1986 by rrizzo@bbncca.ARPA in uiucdcsb:net.motss */
+/* ---------- "AIDS virus in prison evaporates bas" ---------- */
+>In case anyone doubts how little basic rights are respected concerning
+>AIDS, NPR's "All Things Considered" tonight told of an inmate in a
+>Kansas City prison who's being kept in isolation merely because he
+>tested positive to HTLV-III!  The prisoner is in effect serving a
+>sentence he wasn't given, ie, one of solitary confinement.  The rationale
+>is, even if the prisoner never develops AIDS (he doesn't even show signs
+>of ARC), he might still be capable of transmitting the virus to another
+>who could subsequently come down with full-blown AIDS.  The warden added
+>an even lamer excuse: he was protecting said prisoner against the violent
+>reactions of other prisoners who fear AIDS.
+
+Why is quarantining someone with the ability to transmit a fatal disease
+the ability of someone being able to transmit a fatal disease a lame
+excuse?  I keep reading things that say, in effect "why do anything about
+people infected with the virus since the they may not develop aids?"  The
+point that is missed with this idiocy is that most people are not opposed to
+individuals walking around with fatal conditions, but rather to individuals
+walking around who can give them a fatal condition.  I know of no one who
+thinks heart patients, emphysema patients, etc. should be quarantined, even
+though the may drop dead at any moment, because their afflictions cannot harm
+others.  Nevertheless, many states restrict people with active tuberculosis
+from holding certain jobs, and restrict people with untreated epilepsy from
+perfroming certain task, because their afflictions can harm other people.
+If AIDS was not contagious, or if people with full blown AIDS were not
+contagious, society would probably be a lot less concerned about people
+with AIDS walking about.  But the odds are that anyone who tests positive
+to HTLVIII is infectious, and possibly more infectious than individuals
+who are symptomatic.  Therefore whether an infected individual ever actually
+comes down with AIDS or ARC is beside the point to society at large. 
+
+Studies in some prisons have shown that much less than half of the inmates
+have been exposed to the virus.  Although it may be unfair to make someone
+who sells heroin spend a few years (or maybe months, giving sentencing in this
+country) alone because he has been infected, it doesn't seem as unfair as
+sentencing another inmate to death when he is gang raped by one or more
+infected individuals.  When you commit crimes one of the chances you take is
+that you will be deprived of some basic freedoms - one of those freedoms being
+the ability to murder by infecting other people with your fatal diseases.
+
+/* Written  6:05 pm  Feb  7, 1986 by mgdlin@violet.berkeley.edu in uiucdcsb:net.motss */
+>over the winter, I heard (also on NPR) about the Denver jail
+>using color coded uniforms to distinguish Gay prisoners from
+>others.  The same lame argument about protection was made, but
+>it sure sounds like Pink Triangles to me.
+>
+>(Pink triangles were the badge used by the Nazis to designate
+>Gay prisoners in the concentration camps, is case you haven't
+>read about it.  An excellent book is The Men With the Pink 
+>Triangles.)
+
+Gary Lindsay
+/* End of text from uiucdcsb:net.motss */
+
+Although some people might claim that all homosexuals, whether criminal or
+not, are equal, I am astonished to see someone purporting to be pro-homosexual
+make this claim.  The Nazis used pink triangles specifically to sort out
+people for death and slave labor.  Admittedly the ACLU and their ilk would
+like the rest of us to believe that we are either on the verge of, or
+have slipped into, the horrors of fascism in this country, but we are 
+thankfully a long way from it.   It is an insult to those who died under
+the Nazis to equate their ordeals with the inability of convicted criminals
+to dress as they want.
+
+Sam Midkiff
+
+{ihnp4 | pur-ee}!uiucdcs!midkiff
 
 -----------------------------------------------------------------
 
@@ -29,7 +96,69 @@ or reason clearly.  Unfortunately, he can't.
 
 blueskye@sun.uucp (Tim Ryan)
 02/13/86
-(message was not found)
+In article 2492, posted 11 Feb 86 19:14:00 GMT, midkiff@uiucdcsb.CS.UIUC.EDU writes
+> 
+> 
+> /* Written  4:44 pm  Jan 30, 1986 by rrizzo@bbncca.ARPA in uiucdcsb:net.motss */
+> /* ---------- "AIDS virus in prison evaporates bas" ---------- */
+> >In case anyone doubts how little basic rights are respected concerning
+> >AIDS, NPR's "All Things Considered" tonight told of an inmate in a
+> >Kansas City prison who's being kept in isolation merely because he
+> >tested positive to HTLV-III!  
+> 
+> Why is quarantining someone with the ability to transmit a fatal disease
+> the ability of someone being able to transmit a fatal disease a lame
+> excuse?  
+
+It's an extremely lame excuse.  It is a breach of someone's fundamental civil
+rights without due process, and without supporting scientific evidence.
+Period.
+>
+> But the odds are that anyone who tests positive
+> to HTLVIII is infectious, and possibly more infectious than individuals
+> who are symptomatic.  Therefore whether an infected individual ever actually
+> comes down with AIDS or ARC is beside the point to society at large. 
+> 
+Garbage.  There is *no* proof or evidence to show that anyone who tests HTLV3
+positive is infectious.  There is evidence to suggest that those who test HTLV3
+postive have between a 10 and 15% chance of being diagnosed with one or more
+of the opportunistic infections associated with AIDS within 5 years after
+testing HTLV3 positive.  Pretty low odds!  This *fact* is not beside the
+point.  It has further been shown that HTLV3 is *very* difficult to transmit,
+and that it probably requires multiple exposure to get the retrovirus.
+>
+> When you commit crimes one of the chances you take is
+> that you will be deprived of some basic freedoms - one of those freedoms being
+> the ability to murder by infecting other people with your fatal diseases.
+> 
+What crime has someone who is infected with HTLV3 committed?  If you mean to 
+imply that all HTLV3 exposed people are homosexual, and that homosexuality
+is a crime, you are wrong.  Not all HTLV3-positive people are homosexual
+men.  Fact.  And consensual acts between adults are not illegal in many states,
+and for that matter, a lot of what goes on between heteros is statute illegal.
+That you think that anyone who has committed a crime is to be deprived of the
+basic right to life, you are one sick puppy.
+> 
+> The Nazis used pink triangles specifically to sort out
+> people for death and slave labor.  
+>
+Wrong.  The Nazis used pink triangles specifically to single out homosexuals
+in concentration camps, just as they used stars of david to identify Jews and
+cirles to identify "intellectuals."  Everyone was at risk for death in the
+concentration camps. 
+>
+> It is an insult to those who died under
+> the Nazis to equate their ordeals with the inability of convicted criminals
+> to dress as they want.
+> 
+We're not talking about the right of people to dress in their Calvin's in
+prison.  We're talking about the singling out people for the soul reason
+that they may be infectious, they may be homosexual, they may be diagnosed
+with AIDS/ARC.  There is nothing to support any of those contentions in
+being diagnosed HTLV3 positive.  There is no relationship between HTLV3
+and one's sexuality, gender, race, color, creed, religion, eye color,
+national origin, IQ, or food preferences.  NONE.  Viruses don't discriminate,
+people do.
 
 -----------------------------------------------------------------
 

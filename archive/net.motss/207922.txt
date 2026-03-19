@@ -1,7 +1,28 @@
 Scientific Attitudes
 esk@wucs.UUCP (Eric Kaylor)
 09/28/84
-(message was not found)
+[]
+
+Please pardon the choice of newsgroups; this is a followup.
+
+> From mrh@cybvax0.UUCP (Mike Huybensz):
+> The scientific attitude towards schizophrenia should be descriptive, rather
+> than prescriptive.  It may not be right to inflict a cure on what could be 
+> an adaptive survival strategy, just as it may not be right to sterilize 
+> people who don't fit some other societally determined standards.
+
+The analogy to sterilization is dubious; does it serve any purpose other than
+guilt by association?  Anyway, the attitude of science toward schizophrenia
+has every right to be prescriptive.  And "adaptivity" has nothing to do with
+it.  Schizophrenia is supposed to be a condition involving failure of 
+rationality and loss of contact with reality.  A "prescription" is entirely
+called for in such a case.  The old stricture against normative judgement in
+science, as well as the supposed "descriptive/prescriptive" dichotomy, is
+pure dogma.  (Followups to net.philosophy, please.)
+
+				--The aspiring iconoclast,
+				Paul V Torek, ihnp4!wucs!wucec1!pvt1047
+Please send any mail directly to this address, not the sender's.  Thanks.
 
 -----------------------------------------------------------------
 

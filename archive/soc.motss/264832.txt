@@ -1,7 +1,81 @@
 AIDS - changes to posting from last month
 werner@aecom.UUCP (Craig Werner)
 10/09/86
-(message was not found)
+<<>>
+
+1a2
+> 
+5a7,11
+> 	In the first 37 weeks (Jan 1 - Sept. 17, 1986) of this year, 8,781 new
+> cases were reported (compared to 5,432 in the similar period last year).
+> 	In perspective, there were 612,692 (622,293) reported cases of
+> Gonnorhea, 18,283 (18,832) cases of Syphillis, and 15,394 (15,036) cases
+> of Tuberculosis.
+24c30
+< What is it?
+---
+> *** What is it? ***
+38c44,45
+< has not been elucidated.
+---
+> has not been elucidated. It appears, however, to be a much more complex
+> process than the popular "cellular burnout" scenario.
+40c47
+< How is it spread?
+---
+> *** How is it spread? ***
+49a57,59
+> 	In short, it appears to have the same pattern as transmission as
+> Hepatitis B virus, but is much less virulent.  
+> [See accompanying article: 'Focus: AIDS and Africa', Oct. 86 only]
+51c61
+< Can it be cured?
+---
+> *** Can it be cured? ***
+56a67,71
+> 	Recent clinical trials with 5-Azidothymidine (AZT) appear to slow 
+> the progression of the disease and improve quality of life in a defined 
+> subset of patients, although the drug is not without side-effects.  A 
+> special AZT hotline has been set up  by the National Institutes of Health
+> at (800)-843-9388.
+58c73
+< Who is at risk?
+---
+> *** Who is at risk? ***
+76c91
+< 	Among children, 19% are while, 60% black, 20% Hispanic. 55% are male.
+---
+> 	Among children, 19% are white, 60% black, 20% Hispanic. 55% are male.
+80c95
+< have occurred in just 4:New York, Florida, New Jersey, and California.
+---
+> have occurred in just 4: New York, Florida, New Jersey, and California.
+82c97
+< How to avoid AIDS?
+---
+> *** How to avoid AIDS? ***
+84c99
+< parenteral (*) transmission, avoidance of IV drug use and celibacy will
+---
+> parenteral (*) transmission, celibacy and avoidance of IV drug use will
+87c102
+< Given the social unacceptability of complete celibacy, the use of
+---
+> Given the general unpopularity of complete celibacy, the use of
+101c116,117
+< other body fluids. It has nothing to do with parentage (that's 'parental')
+---
+> other body fluids. Example: Intravenous drugs.
+> It has nothing to do with parentage (that's 'parental')
+106a123,125
+> [Also Andrew Klossner, Gary Cottrell, Matt Crawford, Stephen Hutchison,
+> and Jerry Natowitz for suggestions and corrections.] 
+> 
+-- 
+			      Craig Werner (MD/PhD '91)
+				!philabs!aecom!werner
+              (1935-14E Eastchester Rd., Bronx NY 10461, 212-931-2517)
+                          "I just won't sleep, that's all."
 
 -----------------------------------------------------------------
 

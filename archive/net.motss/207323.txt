@@ -1,13 +1,89 @@
 Shift in AIDS risk groups
 daly@nybcb.UUCP (daly)
 11/18/85
-(message was not found)
+>From cmcl2!harvard!bbnccv!bbncca!rrizzo Thu Nov 14 13:05:13 1985
+>Subject: Shift in ADIS risk groups?
+>Newsgroups: net.motss,net.med
+>
+>BTW, here's something a friend in New York recently told me: among
+>NEW CASES of AIDS in NYC, gay and bisexual cases account for just
+>over 50%, while the rest are heterosexual (mainly intravenous drug
+>users and their spouses/lovers/offspring).  If true (& my friend's
+>well-informed), this would represent a nearly 20% drop in gay and
+>bisexual cases, among NEW case, that is.  For years the proportion
+>of gay/bisexual cases has maintained a steady 70-71%.
+>
+						>Ron Rizzo
+Working in the New York Blood Center, I read net.med & net.motss because
+I'm curious as to what people are saying about AIDS. The above article
+implies that there is a shift in the AIDS risk group. I just thought I'd
+share the something with the folks in this group.  
+
+The Vice-President Of The Greater New York Blood Program gave a lecture
+on AIDS about a month ago & passed out some literature the Blood Program 
+put together & this is how the stats on risk groups go:
+
+     As of 9/9/85 there have been 13,074 cases of AIDS reported.
+       Homosexuel/Bisexuel                     9482       (73%)
+       Intravenous Drug Users                  2189       (16%)
+       Hemophiliacs                              98       ( 1%)
+       Heterosexual Contracts of Above Groups   130       ( 1%)
+       Child with parents with AIDS
+         or at risk for AIDS                    117       ( 1%)
+       Transfusion with Blood Products          225       ( 2%)
+       None of the Above                        883       ( 6%)
+
+883 is a large number to be "None of the above", but what can I say, I 
+didn't prepare the stats. I just figured folks out there might be interested.
 
 -----------------------------------------------------------------
 
 kbb@faron.UUCP (Kenneth B. Bass)
 11/19/85
-(message was not found)
+In article <197@nybcb.UUCP> daly@nybcb.UUCP (daly) writes:
+>>From cmcl2!harvard!bbnccv!bbncca!rrizzo Thu Nov 14 13:05:13 1985
+>>Subject: Shift in ADIS risk groups?
+>>Newsgroups: net.motss,net.med
+>>
+>>BTW, here's something a friend in New York recently told me: among
+>>NEW CASES of AIDS in NYC, gay and bisexual cases account for just
+>>over 50%, while the rest are heterosexual (mainly intravenous drug
+>>users and their spouses/lovers/offspring).  If true (& my friend's
+>>well-informed), this would represent a nearly 20% drop in gay and
+>>bisexual cases, among NEW case, that is.  For years the proportion
+>>of gay/bisexual cases has maintained a steady 70-71%.
+>>
+>						>Ron Rizzo
+>Working in the New York Blood Center, I read net.med & net.motss because
+>I'm curious as to what people are saying about AIDS. The above article
+>implies that there is a shift in the AIDS risk group. I just thought I'd
+>share the something with the folks in this group.  
+>
+>The Vice-President Of The Greater New York Blood Program gave a lecture
+>on AIDS about a month ago & passed out some literature the Blood Program 
+>put together & this is how the stats on risk groups go:
+>
+>     As of 9/9/85 there have been 13,074 cases of AIDS reported.
+>       Homosexuel/Bisexuel                     9482       (73%)
+>       Intravenous Drug Users                  2189       (16%)
+>       Hemophiliacs                              98       ( 1%)
+>       Heterosexual Contracts of Above Groups   130       ( 1%)
+>       Child with parents with AIDS
+>         or at risk for AIDS                    117       ( 1%)
+>       Transfusion with Blood Products          225       ( 2%)
+>       None of the Above                        883       ( 6%)
+>
+>883 is a large number to be "None of the above", but what can I say, I 
+>didn't prepare the stats. I just figured folks out there might be interested.
+
+I wonder how many of those "None of the above"'s are actually "One of the
+above"'s but just won't admit it (for their own personal reasons :-)).
+
+Just proves that statistics don't always prove everything.
+
+			"It ain't necessarily so"
+			ken bass
+			linus!faron!kbb
 
 -----------------------------------------------------------------
 

@@ -1,13 +1,137 @@
 Steve Dyer's suggestion re: appalling flames
 sdyer@bbncca.ARPA (Steve Dyer)
 08/01/84
-(message was not found)
+	>All I can figure is that you must not read net.abortion
+	>or net.music or net.religion (and n.r.jewish) very much.
+	>You wanna keep it private, start your own mailing list.
+	>There's about as much baiting here as in any other
+	>newsgroup where personal choice is a central concern.
+
+Before I make any comments on your article, let me allow you to re-read the
+first submission to net.motss in which its aim and groundrules are clearly
+stated:
+
+"Net.motss is a forum for the discussion of gay-related issues of interest
+to all members of USENET.  It is designed to foster discussion on a wide
+variety of topics, such as health problems, parenting, relationships,
+clearances, job security and many others.  Gay members of USENET will find
+this a supportive environment for the discussion of issues which have
+immediate impact on their everyday lives.  Those who aren't gay have an
+opportunity to be informed by the discussion, and are encouraged to read
+the news items and contribute their own questions and opinions.
+
+"Net.motss is emphatically NOT a newsgroup for the discussion of whether
+homosexuality is good or bad, natural or unnatural.  Not is it a place
+where conduct unsuitable for the net will be allowed or condoned.
+Rather, like every USENET news group, it is an opportunity for people
+all across the world to express their opinions, exchange ideas, and
+come to appreciate the diversity within the USENET membership."
+
+You may find the flames and counter-flames which you read in
+net.{abortion,religion[.jewish]} interesting, I find a majority of them
+a waste of time.  Net.abortion was specifically created to isolate
+the net at large from a perennial discussion which generates acrimony
+but little mutual understanding.  I *REFUSE* to let net.motss become
+another net.abortion, with little substantive being argued.  I am not
+interested in reading apologies for or attacks against homosexual
+behavior--there is very, very little there which can be discusssed
+rationally and intelligently.
+
+Let me turn your question around: if you want to participate in a discussion
+of whether gay people really want to be of the other sex, or whether they
+should be allowed basic civil rights, or whether they really "contribute"
+to society as much as heterosexuals do, then by all means, start your own
+mailing list.  Or better yet, move it to some more appropriate place:
+maybe net.{sci,politics,misc,flame}.  Or maybe net.singles--it seems to be a
+convenient dumping ground for unfocused discussions lately.
+
+	>But as for cleansing the newsgroup of all but the faithful,
+	>good luck....
+
+The "faithful", of course, aren't composed only of gay people, nor would
+they all hold the same opinion on topics discussed here.  And, of course,
+no one can "cleanse" a newsgroup.  If I wish to see the discussion in
+net.motss change its direction, all I have to work with are my words and
+my power to persuade.  It's up to those who read them to decide.  They may
+think I'm all wet, and if so, more power to them.  But it is ABSOLUTELY
+APPROPRIATE for people participating in this group to speak up when they feel
+the discussions move away from its original purpose.
+-- 
+/Steve Dyer
+{decvax,linus,ima}!bbncca!sdyer
+sdyer@bbncca.ARPA
 
 -----------------------------------------------------------------
 
 rrizzo@bbncca.ARPA (Ron Rizzo)
 08/01/84
-(message was not found)
+Gregory,
+
+> All I can figure is that you must not read net.abortion or net.music or
+> net.religion (and n.r.jewish) very much. 
+
+I read these other newsgroups.  While bad taste and low standards of argu-
+ment are widespread on the net, the volume, stupidity, & offensiveness
+of bigoted mail is currently greater on net.motss, whether the messages 
+are uncouth (arndtographic) or genteel (asking questions, ignoring answers).
+
+> You wanna keep it private....
+
+Wha??  The issue is (ahem!) "netiquette", honored always in the breach,
+it seems.  Usenet exists at the sufferance & through the cooperation of
+its subscribers.  Although no gov't agency or other "authority" polices 
+it or restricts what can be said, standards of appropriate behavior apply.
+I once favored an uncensored net; but not after the dreck of the last few
+months.  I think people should CENSOR THEMSELVES and not bestow their
+grosser thoughts or impulses on the rest of us.
+
+> ...start your own mailing list.
+
+We did.  And the "charter", or original statement of goals for the list
+specified it wasn't meant to be a dumping ground for "justification of
+homosexuality" arguments, etc.
+
+> There's about as much baiting here as there is in any other newsgroup
+> where personal choice is a central concern.
+
+"Personal choice" ??  I'm not sure what this phrase refers to; I'll take
+a guess: it means "homosexuality is voluntary" ?  Now we're being defined
+(& on that basis criticized as a newsgroup) by one of the most tedious &
+empty of cherished beliefs of many homophobes.  Don't you think that's a 
+bit twisted, Gregory?
+
+> You might also want to ask yourself at some time in the future
+> whether or not as the newsgroup continues you'll find yourself giving
+> either the same old replies or the same old flames, or continuing to
+> answer stuff honestly.
+
+> Besides there's an interesting thing that happens when people swap
+> flames.  Once in a while the smoke parts and you get to see a slightly
+> more complex sub-dialog going on underneath the sound and the fury...
+
+I dread to think how Gregory Taylor defines "honesty", if he can find
+cogency in, eg., Ardnt's sludge.  I personally am not thrilled by a
+view that believes "truth" can only be uncovered in the muck of per-
+sonal fuckup, when, encased in filth, hoarse with howling, & exhausted
+by our mutual mauling of each other, we gaze ecstatically at the miserable
+little wisp of swamp gas that rises over us.  (It's also easy to hold
+and promote this view when you don't belong to the group being reviled.)
+
+The "same old replies or the same old flames" of this newsgroup have for
+the most part been substantive & civil replies to critics who rarely
+offer the same in return.  It makes me wonder whether you actually read
+net.motss (by the way, did you ever finish Boswell?).
+
+I've sent & received flames myself.  They never add anything to the argu-
+ment at hand, certainly not "complexity".  At best, they sanction offen-
+ders for grossness above-&-beyond-the-call-of-duty.  Bigotry is simply
+malice; it's sterile, uncreative.
+
+
+"Don't mud-wrestle a pig.  You both get dirty, but the pig loves it."
+
+						Cheers,
+						Ron Rizzo
 
 -----------------------------------------------------------------
 

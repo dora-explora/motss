@@ -1,13 +1,101 @@
 Fun with Household Ammonia
 dpw@rayssd.UUCP (Darryl P. Wagoner)
 09/24/86
-(message was not found)
+> 
+> > >>Having made some nitrogen tri-iodide in MY younger, more impetuous days,
+> >                    ^^^^^^^^^^^^^^^^^^^
+> > >I also made lots of nitrogen tri-iodide in my younger days, and I used
+> >                      ^^^^^^^^^^^^^^^^^^^
+> > 
+> > that's funny. i used to make ammonium tri-iodide, didn't know about
+> > nitrogen tri-iodide...wonder which is better? i had some pretty tremendous
+> > explosions with mine...
+> If you're talking about the stuff you get reacting 28% Ammonia (really
+> Ammonium Hydroxide) with Iodine cystals I think NI3 is closer to the
+> truth.  The truth being that the inorganic chemistry of ammonia/ammonium
+> is rather screwy and complexes are more the rule than simple compounds.
+> 
+> *WARNING*  The above reaction is exothermic (heat producing) and has
+> blow up while still wet.
+> -- 
+If there is any heat produce it is very little.  It is NI3 (nitrogen 
+tri-iodide).  It does not blow up wet.  If you get too much it's own weight
+will set it off.  I have never seen anything that was so much as burnt from
+NI3.  It does however stain, that may or may not evaporate.  It is one of
+the better gags.
+-- 
+	Darryl Wagoner
+	Raytheon Co.; Portsmouth RI; (401)-847-8000 x4089
+
+best path             {allegra|gatech|mirror|raybed2}  ---------\
+next best             {linus|ihnp4|pyrbos} ---------------------->!rayssd!dpw
+if all else fails     {brunix|cci632} -------------------------/
 
 -----------------------------------------------------------------
 
 b-davis@utah-cs.UUCP (Brad Davis)
 09/26/86
-(message was not found)
+In article <166@rayssd.UUCP> dpw@rayssd.UUCP (Darryl P. Wagoner) writes:
+>> > that's funny. i used to make ammonium tri-iodide, didn't know about
+>> > nitrogen tri-iodide...wonder which is better? i had some pretty tremendous
+>> > explosions with mine...
+>> If you're talking about the stuff you get reacting 28% Ammonia (really
+>> Ammonium Hydroxide) with Iodine cystals I think NI3 is closer to the
+>> truth.  The truth being that the inorganic chemistry of ammonia/ammonium
+>> is rather screwy and complexes are more the rule than simple compounds.
+>> 
+>> *WARNING*  The above reaction is exothermic (heat producing) and has
+>> blow up while still wet.
+>> -- 
+>If there is any heat produce it is very little.  It is NI3 (nitrogen 
+>tri-iodide).  It does not blow up wet.  If you get too much it's own weight
+>will set it off.  I have never seen anything that was so much as burnt from
+>NI3.  It does however stain, that may or may not evaporate.  It is one of
+>the better gags.
+>-- 
+A little chemistry for all of you computer jocks out there.  The name is
+more properly ammmonium tri-iodide not nitrogen tri-iodide.  I could tell
+you why it isn't NI3 but that isn't as important to the discussion.
+
+Ammonia is NH3.  Iodine is I2.  The ammonia is bound to the iodine with
+a property call hydrogen bonding. Hydrogen bonding comes about because
+the hydrogen atom (a single proton) sits out in space with only a little
+of the electron cloud surrounding it. This gives that part of the
+molecule a net positive charge.  This will attract any other molecule
+that has a net negative charge at any point of its surface.  Since
+iodine is a two atom balanced molecule the outside surfaces of the
+molecule are charged slightly negatively.  This gives the following for
+ammonium tri-iodide, where the solid lines are real bonds and the dotted
+lines are hydrogen bonds.  The hydrogen bonds are very unstable.  When
+they break then you have some free iodine molecules that do the
+staining.  Because the bonds are very weak the reaction is not very
+exothermic.  Water is a polar molecule by build and is much better at
+hydrogen bonding than ammonia is. This is why water boils at a much
+higher temperature than ethanol which has a heavier molecule (C2H6 to
+H2O).  If you add water to the mixture then the hydrogen bonds are
+strenghtened and the mixture becomes somewhat stable.  When the water
+evaporates then the weak H-I bonds start to break on their own.
+
+                O                .               .
+              /   \              .               .
+            H       H       ..   H   .. I-I ..   H   ..
+                                 |               |
+                        I-I .. H-N-H .. I-I .. H-N-H ..   weak
+
+
+                                 .               .
+                                 .               .
+                            ..   H   .. I-I ..   H   ..
+                                 |               |
+                        I-I .. H-N-H .. I-I .. H-N-H ..   stronger
+                                 |               |
+                                 O               O
+                                 |               |
+                                 H   .. I-I ..   H
+-- 
+Brad Davis	{ihnp4, decvax, seismo}!utah-cs!b-davis	
+		b-davis@utah-cs.ARPA
+One drunk driver can ruin your whole day.
 
 -----------------------------------------------------------------
 

@@ -1,7 +1,41 @@
 Pesticides
 nazgul@apollo.uucp (Kee Hinckley)
 09/30/86
-(message was not found)
+In article <1572@mtx5a.UUCP> mat@mtx5a.UUCP (m.terribile) writes:
+> My understanding is that, except in cases where *no substitute at all exists*,
+> all pesticides must degrade rapidly in the environment, and that no new
+> pesticide would be approved unless it met this critera.  Is this incorrect?
+
+I believe that is the intention.  The problem lies in the defintion of
+'no substitute' (eg. no one has bothered to try developing one), in 
+occasional extensions or exceptions, and in the use of old pesticides 
+which would not pass if they were tested under the new rules.
+
+I'm really not qualified to go in to any detail.  My main experience has been
+with the stuff they use on blueberries (Guthion) (to kill fruit flies of all
+things, not that you would ever notice them in a blueberry) and the herbicides
+used on weeds in the blueberry crops.  (Carefully applied by a bunch of 
+teenagers who enjoy getting in squirt fights with herbicide.)  I know that
+there is a big fight in Maine now over the sprays they use on Apple trees.
+It turns out that the chemicals arn't safe and do linger, but the Apple growers
+are trying to invoke the 'no substitute' clause.
+
+Anyway.  I tend to distrust the regulations of pesticides, particularly
+those with grandfather clauses.  For more facts we'd better post to net.bio
+or some such (and knock motss and singles out of the header).
+
+Nuff said.
+
+                                                        -kee
+--
+
+            ...{mit-eddie,yale,uw-beaver,decvax!wanginst}!apollo!nazgul
+               Apollo Computer, Chelmsford MA.  (617) 256-6600 x7587
+                   or 499B Boston Rd, Groton MA. (617) 448-2863
+
+I'm not sure which upsets me more; that people are so unwilling to accept
+responsibility for their own actions, or that they are so eager to regulate
+everyone else's.
 
 -----------------------------------------------------------------
 

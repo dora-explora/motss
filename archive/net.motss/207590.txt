@@ -1,7 +1,52 @@
 Anti-AIDS drugs promising.
 werner@aecom.UUCP (Craig Werner)
 05/29/85
-(message was not found)
+><><
+From American Medical News, May 3, 1985, published by the AMA
+page 1, 35.
+
+	Anti-AIDS drugs promising.
+
+	Intensive research over the past year has produced at least six
+drugs that show early promise in treating acquired immune deficiency
+syndrome (AIDS).
+	These drugs are significant because they attack the virus itself,
+rather than merely treating the infections and malignancies associated with
+the disease.  Five drugs are now being tested in AIDS patients, the sixth is
+undergoing in-vitro study.
+	Each of the agents acts by interfering with the replication of the
+AIDS-associated virus, HTLV-III/LAV.
+[]
+	The most promising drugs are:
+1. Suramin. Commonly used to treat sleeping sickness. It is thought to block the
+cytopathic effect of the virus.  Although it can produce severe toxicity in
+Africans with parasitic disease, it appears well tolerated in US AIDS patients.
+2. HPA-23.  This drug also is an inhibitor of the reverse transcriptase enzyme.
+Tested at the Pastuer Institute in France, two of four AIDS patients show no
+sign of virus one month after receiving the drug.
+3. Phosponoformate.  MGH researchers have shown this drug has persistent
+anti-viral action ... Two Swedish patients now are receiving the drug.
+4. Ribavirin. This decade old drug, believed to act as a nucleotide analog,
+appears to inhibit HTLV-III replication in cultured cells. It's exact 
+mechanism action remains unknown.
+5. Alpha Interferon.  This has previously been shown to be effective against
+Herpes Zoster, CMV, and influenza.  It is furthest along in clinical testing.
+Stage 2 and 3 trials are planned in Boston, Seattle, and New York.
+6. Amsanycin. In CDC in-vitro trials, this drug reduces infective virus by
+90%. It is the least studied of the anti-AIDS drugs, and its mechanism remains
+unclear.
+
+No single "magic bullet" drug stands out as the answer to the AIDS epidemic.
+Because they act on different sites, it may be best to use them simultaneously
+or in sequence. There could be an additive, even synergistic, effect.
+
+[Editor's Comment: The above, while edited, contains none of my own prose.
+Therefore, I'd appreciate no flames, thank you.]
+
+-- 
+				Craig Werner
+				!philabs!aecom!werner
+		"The world is just a straight man for you sometimes"
 
 -----------------------------------------------------------------
 

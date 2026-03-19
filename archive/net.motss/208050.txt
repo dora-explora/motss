@@ -1,31 +1,291 @@
 Notes on Last Few Submissions
 keith@seismo.UUCP (Keith Bostic)
 06/22/84
-(message was not found)
+[Chomp, chomp CHOMP!!!]
+
+>	Sorry, Jeff, but that view isn't supported by psychology and psychiatry
+> at large.  The American Psychiatric Association voted in 1974 that homosexual-
+> ity is *not* mental illness.  (There was dissent, but it didn't take.)
+
+The APA voting on something does not make it so.  We know so little about the
+workings of the human mind that there just isn't any way at all anyone could
+conclusively make that statement.  The fact that they voted on it; hell, is
+anyone voting on the wavelength of light these days?  You don't vote on 
+"science", you're either right, wrong, or you just don't know.  For support,
+I suggest that the gentle reader compare a few of the current views on 
+psychology that are floating around.  Don't even go to rolfing or some of the
+more offbeat ones.  The mainstream is so clogged with viewpoints (viewpoints
+that differ to the extreme) it isn't funny.  At this point, psychology isn't
+science, it's fuzzy like a rug.
+
+> It seems
+> to me that the same sociological evidence that would give intrinsic
+> rights to homosexuals would also give them to those who claim to have
+> been born with pedophilic tendancies.
+
+Bingo.  That's absolutely correct.  And there is nothing "wrong" with that.
+And to those born with tendencies to eat small animals alive.  (Oysters?)
+Each society determines a code of behavior; each society condemns the other
+societies' behavior as "wrong".  Currently, the definition of "wrong" in our
+society is changing with respect to homosexuality, or at least appears to
+be changing.  I have no problem with that; I have a large problem with those
+people who wish to say that gay rights are inherently "right"; that women's
+liberation is inherently "right"; that black rights are "inherently" right.
+
+> genetically determined condition) then kids will learn that "anything goes"
+> as far as sex is concerned long before they have the capacity to deal
+> with, or even assess, the consequences of their decisions.
+
+Not disagreeing here, possible thought that until very recently "children"
+had kids by 13 and were dead by 25.  Think that your feeling that "anything
+goes" is wrong colors this thought.
+
+		Now where *did* I put that hamster?
+		Keith 
+			ARPA: keith@seismo 
+			UUCP: seismo!keith
 
 -----------------------------------------------------------------
 
 sdyer@bbncca.ARPA (Steve Dyer)
 06/24/84
-(message was not found)
+>>	 Sorry, Jeff, but that view isn't supported by psychology and psychiatry
+>> at large.  The American Psychiatric Association voted in 1974 that homosexual-
+>> ity is *not* mental illness.  (There was dissent, but it didn't take.)
+
+>The APA voting on something does not make it so.  We know so little about the
+>workings of the human mind that there just isn't any way at all anyone could
+>conclusively make that statement.  The fact that they voted on it; hell, is
+>anyone voting on the wavelength of light these days?  You don't vote on 
+>"science", you're either right, wrong, or you just don't know.  For support,
+>I suggest that the gentle reader compare a few of the current views on 
+>psychology that are floating around.  Don't even go to rolfing or some of the
+>more offbeat ones.  The mainstream is so clogged with viewpoints (viewpoints
+>that differ to the extreme) it isn't funny.  At this point, psychology isn't
+>science, it's fuzzy like a rug.
+
+But, you see, psychology will NEVER be science, and "mental illness" isn't
+quantifiable the way the wavelength of light is.  It is not a "thing", it
+is simply a classification of behavior, here the most broad category that
+one could imagine, one that separates behavior into "good" and "bad".  
+The APA wasn't operating in a vacuum when it voted to strike homosexuality
+from this classification.  It was forming an opinion based on the emerging
+mainstream view of sexual orientation and what constitutes mental illness.  
+It is valid to ask the question: "If an individual is well-adjusted,
+emotionally mature, behaves properly, is well-integrated into his/her
+environment, and this person happens to be gay, is it USEFUL to describe
+that person as "mentally ill?"  You can see how the APA answered this
+question.  
+-- 
+/Steve Dyer
+{decvax,linus,ima}!bbncca!sdyer
+sdyer@bbncca.ARPA
 
 -----------------------------------------------------------------
 
 keith@seismo.UUCP (Keith Bostic)
 06/26/84
-(message was not found)
+> But, you see, psychology will NEVER be science, and "mental illness" isn't
+> quantifiable the way the wavelength of light is.  It is not a "thing", it
+> is simply a classification of behavior, here the most broad category that
+> one could imagine, one that separates behavior into "good" and "bad".  
+
+First, throw out the word psychology; Webst. 7th, defines psychology as "the
+science of mind and behavior."  Let's stick with mental illness.  It's unclear
+that mental illness can never be quantified.  Epilepsy has made steady
+progress from being a mis-understood, demonically orchestrated bizarreness
+to being a medically treatable illness.  It seems reasonable to assume that
+medical progress will continue.  
+
+> The APA wasn't operating in a vacuum when it voted to strike homosexuality
+> from this classification.  It was forming an opinion based on the emerging
+> mainstream view of sexual orientation and what constitutes mental illness.  
+
+I'll agree that the APA was not operating in a vacuum and may very well be the
+most qualified organization to make such a determination, I think the evidence
+on either side is very poor.  We know very little about how the mind works, let 
+alone how it interacts with society.  Whether it's mainstream is certainly
+arguable, especially as the country rides this back to the basics wavefront.
+
+> It is valid to ask the question: "If an individual is well-adjusted,
+> emotionally mature, behaves properly, is well-integrated into his/her
+> environment, and this person happens to be gay, is it USEFUL to describe
+> that person as "mentally ill?"  You can see how the APA answered this
+> question.  
+
+I'm not sure that's okay.  I'm also not sure it's not.  If you want to reject
+all absolutes that's fine.  It's like that line about being judged by a jury
+of your "peers".  Where are they gonna find 12 people for Chuckles Manson?
+You're saying that my mental health is solely dependent on what society I 
+am currently hanging out in.  And, I have to figure that someone who is gay now
+passed through a *serious* period of mental illness a few years back.  I don't
+like soft answers.  The only real advantage I can see to that argument is that
+the stop-capital-punishment people really lose... no one is ever insane, just
+not in step with society.
+
+		Countin' flowers on the wall, that don't bother me at all,
+		Keith 
+			ARPA: keith@seismo 
+			UUCP: seismo!keith
+
+p.s.	Just out of curiosity, though, who *is* going to define "emotionally
+	mature" etc. etc.?
+
+p.p.s.	This whole issue reminds me of some of the UNIX tools around.
+	You know, a great idea (i.e. mental illness and treatment) that got
+	special-cased to death.  Damn, but if every day ain't a holiday,
+	and every meal a banquet!
 
 -----------------------------------------------------------------
 
 dyer@dec-vaxuum.UUCP
 06/27/84
-(message was not found)
+Re: Notes on Last Few Submissions______________________________________________
+
+Mental Illness
+~~~~~~~~~~~~~~
+>> The American Psychiatric Association voted in 1974 that homosexuality is
+>> *not* mental illness.  (There was dissent, but it didn't take.)
+
+> The APA voting on something does not make it so.  We know so little about the
+> workings of the human mind that there just isn't any way at all anyone could
+> conclusively make that statement.
+
+	I agree; but I have to ask what one should consider "conclusive."  Jeff
+Sargent stated that homosexuality is a mental illness; I posted a response to
+inform him and others that his statement is not supported by the science that
+defines mental illness.  But, you say, it isn't a science:
+
+> The mainstream is so clogged with viewpoints (viewpoints that differ to the
+> extreme) it isn't funny.  At this point, psychology isn't science, it's fuzzy
+> like a rug.
+
+	Psychology *is* a science; a young science that hasn't found a paradigm
+yet.  The lack of a paradigm doesn't make it *not* a science because modern
+psychology generally uses the scientific method.  If you're going to call some-
+thing a non-science because it lacks a fully-operational paradigm, you might as
+well consider physics a non-science.
+	[For a good understanding of what I'm talking about with science and
+paradigms, check out Thomas Kuhn's _The_Structure_of_Scientific_Revolutions_.]
+	Rather than quibbling about whether or not psychology _per_se_ is valid
+or not, perhaps we should be debating the specific evidence that would indicate
+that homosexuality is not mental illness.  Start with the Kinsey report.
+
+Intrinsically Pedophilic
+~~~~~~~~~~~~~~~~~~~~~~~~
+>> It seems to me that the same sociological evidence that would give intrinsic
+>> rights to homosexuals would also give them to those who claim to have been
+>> born with pedophilic tendancies (sic).
+
+> Bingo.  That's absolutely correct.
+
+	It is?  Just what kind of sociological evidence are you two referring
+to?  References, please.
+	I've noticed a tendency to lump homosexuality together with sex with
+animals and children.  Note that there's one fundamental difference being over-
+looked:  homosexuality _per_se_ involves mature, consenting adults.  There's a
+definite difference between sex that involves a fellow adult and sex that in-
+volves an easy-to-manipulate object.
+
+Inherent Rights
+~~~~~~~~~~~~~~~
+> I have a large problem with those people who wish to say that gay rights are
+> inherently "right"; that women's liberation is inherently "right"; that black
+> rights are "inherently" right.
+
+	Yes, you do seem to have a problem.  Homosexuals, like women and black
+people, are humans and as such are bestowed with the same equal and inalienable
+rights as any human.  If you wish to challenge their rights, then you should
+also challenge the rights of all humans - a challenge that would probably be-
+long in net.philosophy or net.politics.
+		<_Jym_>
+
+Jym Dyer
+dyer%vaxuum.DEC@DECWRL.ARPA
+...{allegra|decvax|ihnp4|ucbvax}!decwrl!dec-rhea!dec-vaxuum!dyer
+Statements are my own, and not necessarily those of |d|i|g|i|t|a|l|.
 
 -----------------------------------------------------------------
 
 keith@seismo.UUCP (Keith Bostic)
 07/02/84
-(message was not found)
+>>> It seems to me that the same sociological evidence that would give intrinsic
+>>> rights to homosexuals would also give them to those who claim to have been
+>>> born with pedophilic tendancies (sic).
+
+>> Bingo.  That's absolutely correct.
+
+> It is?  Just what kind of sociological evidence are you two referring
+> to?  References, please.
+> I've noticed a tendency to lump homosexuality together with sex with
+> animals and children.  Note that there's one fundamental difference being 
+> overlooked:  homosexuality _per_se_ involves mature, consenting adults. 
+> There's a definite difference between sex that involves a fellow adult and 
+> sex that involves an easy-to-manipulate object.
+
+Until recently, homosexuality was *correctly* lumped together with sex with
+animals; the word was perversion, I believe.  What we're saying is that 
+sociological evidence *as a class* of evidence has nothing to do with the
+discussion; example time: if I construct a society made up of the
+chaps that are into child sex the exact same logic can be used to justify
+it as *is* being used to justify homosexuality, i.e. well, everyone agrees
+that it's okay, the people that are doing it are well-adjusted (by our
+standards) etc. etc.  Again, I'm *not* attacking homosexuality; just the
+logic that was used to defend it.  (Detect a note of paranoia?  There was a
+joke going around a long time ago:
+	Q: How many women's libbers does it take to screw in a lightbulb?
+	A: THAT'S NOT FUNNY!!!
+The winner, and new champeeeeen!!!!!
+Not that the libbers' sense of humor about themselves has improved,
+but the gay groups are edging right in there...  guess it's tough to be
+amused by what you really believe to be *wrong*.  On the other hand, there's
+a real thin line between that and taking yourself a little too seriously. 
+And, as we all just noticed, that's my own little prejudice; enough of this
+bull, back to the *real* issues, heh, heh)
+
+>> I have a large problem with those people who wish to say that gay rights are
+>> inherently "right"; that women's liberation is inherently "right"; that black
+>> rights are inherently "right".
+
+> Yes, you do seem to have a problem.  Homosexuals, like women and black 
+> people, are humans and as such are bestowed with the same equal and 
+> inalienable rights as any human.  If you wish to challenge their rights, 
+> then you should also challenge the rights of all humans - a challenge that 
+> would probably belong in net.philosophy or net.politics.
+
+In this culture, suicide is illegal and immoral, punishable by jail, but
+	war is perfectly OK.
+In this culture, I can kill animals for the sheer giggles of it all, not
+	to mention (leg-hold) trapping, but I cannot "have sex" with them.
+In this culture, I cannot have sex with an under 18 year-old, unless I marry
+	her, in which case she can be pretty much any age at all.
+In this culture, I can (at the right restaurants) consume live animals.
+	(And we're not talking oysters here.)
+Slavery was implicity written into the original constitution; the musical
+	1776 had a wonderful (fictional) rendering of this.
+
+Let's talk about the word "inherent".  Jim, the inalienable rights that you 
+speak of so glibly are evolving on a daily basis.  It makes a lot of sense
+for the gay population to point out that discrimination on the basis of sexual
+preference is pretty stupid.  The statment "I have an inherent right to be
+homosexual" makes no sense at all.  Let's also talk about the word "right".
+As you say, the original comment might better have been posted elsewhere
+on the net.  It was an another attack on the reasoning process, however, not 
+homosexual rights.  I am *so* tired of this amazing ability some people
+have that allows them to blithely inform me that something is (gulp, gosh)
+"right".  Time to tune in the real world, folks.  I don't care who you are,
+what you do, what your sign is, or what you mix avocado dip with after midnight.
+You don't know what the hell you're doing.  (Imagine that said in an even
+monotone, campers.  Honest, I practiced...)  There aren't twenty people in the
+world that you could get to agree on *anything* let alone something important.
+And, based on this masterpiece of judgement, I automatically, without a second
+thought, reject any argument that even delicately hints of an inherent
+rightness.
+
+		Yeaaaah... enough, of my drivel, thanks for listening,
+		Keith 
+			ARPA: keith@seismo 
+			UUCP: seismo!keith
 
 -----------------------------------------------------------------
 
@@ -94,7 +354,64 @@ gtaylor
 
 rrizzo@bbncca.ARPA (Ron Rizzo)
 07/13/84
-(message was not found)
+Here's another piece of garbage from me: G. Taylor's pathname is so long
+I despair of reaching him by personal mail.  Excuse me, folks, while I
+tediously flame....
+
+dear G,
+
+>> "...a terrific resentment of anyoneholding a moral claim over you."
+
+> Yow, what a wierd charge to level at one's opponents after opening
+> your posting with the old "SHUT UP" laid-to-rest-once-and-for-all.
+
+My "charge" wasn't a shutup ploy; it may have been an ad hominem attack
+(or "personal attack" in Usenet parlance) but it didn't try to masque-
+rade as a bit of rational argument.  It was whatever it was, blatantly.
+Even as an ad hominem remark, it didn't occur in the middle of an argu-
+ment to make the argument "work", but was presented as my own impression
+of what psychologically lies behind the appeal of "individual rights" for
+a lot of people.  Of course it shows my own political bias and it's an
+unsupported opinion.  There's been no lack of that on the net from ALL
+of us; it only becomes a problem when mere opinion is stated as fact or
+"attacks" or "shutups" disguise themselves as arguments.  Maybe it's not
+nice to personally criticize others; so, I'm not nice....
+
+If anything, my message tried to get some discussion of the "individual
+rights" movement started.
+
+Pardonnez-moi, but I find your reaction curious:  your two messages
+messages on Boswell (thank you for the compliments) weren't distin-
+guished by serious discussion of his book (I find it hard to believe
+you even skimmed it), but were littered with arbitrary opinions and
+facile arguments attributed to Boswell:
+
+>....come to think of it the whole Gnostic thing happened right in
+>in the middle of the collapse of the Roman Empire.  I bet it was
+>only a reaction to that.
+
+The second message culminates in the ridiculous ad hominem charge,
+baldly stated with no attempt to support it*, that
+
+>[Boswell's] chucked out everything in the documents of the early
+>church that doesn't implicitly or explicitly support practicing
+>homosexuality as the remnant of a crusty batch of old Judaic poops
+>cluttering up the cosmopolitan early church.
+
+If this is serious criticism, give me Jerry Falwell's rant any day:
+at least his "praise" isn't back-handed.
+
+Maybe you should start taking some of your own advice, G.
+
+
+	      "Don't fire 'til you see the whites of their eyes!"
+
+        					Ron Rizzo
+
+
+*Unless you consider a quickie quiz administered to relig profs on
+a cross-campus trot sufficient rebuttal to 10 years of research in 
+a half-dozen languages in archives in Europe & the Middle East.
 
 -----------------------------------------------------------------
 

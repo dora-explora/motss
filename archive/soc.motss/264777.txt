@@ -1,25 +1,111 @@
 Elimination of AIDS from a patient.
 JONESRA%AMBER.decnet@silver.ucs.indiana.edu (REX A. JONES 857-9563)
 12/20/89
-(message was not found)
+I know that this is really recent news, but does anyone have any 
+information on the case that was announced about the elimination of AIDS 
+in a patient through a bone marrow transplant? While this is not going to 
+be a practical treatment for all sufferers, it does offer some more hope 
+that AIDS can be beaten.
+
+(yes, I do know that the patient did die of the cancer that he contracted 
+from his case of AIDS)
+
+Thanks.
+--------------
+"Violence is the last refuge of the incompetent."
+                         --Salvor Hardin
+--------------
+jonesra@silver.bacs.indiana.edu            |One of these sigs should work.
+JONESRA%AQUA.decnet@silver.bacs.indiana.edu|This is not an official IU 
+jonesra@iuqua.bitnet                       |document. This posting does 
+jonesra@aqua.bacs.indiana.edu              |not reflect the views of IU    
+                                           |unless by coincidence.
 
 -----------------------------------------------------------------
 
 bob@ozdaltx.UUCP (bob)
 12/21/89
-(message was not found)
+In article <30142@shemp.CS.UCLA.EDU>, JONESRA%AMBER.decnet@silver.ucs.indiana.edu (REX A. > I know that this is really recent news, but does anyone have any 
+> I know that this is really recent news, but does anyone have any 
+> information on the case that was announced about the elimination of AIDS 
+> in a patient through a bone marrow transplant? While this is not going to 
+> be a practical treatment for all sufferers, it does offer some more hope 
+> that AIDS can be beaten.
+
+I read that the patient had lymphoma (cancer of lymph glands) and
+that as part of the treatment they killed off his bone marrow (where
+the new immune system cells come from) with chemotherapy and/or radiation.
+Then using max doses of AZT to keep HIV replication in check for those
+cells that might have escaped the bone marrow he was then given the
+transplant.  Yes you read correctly that the patient ended up dying
+of cancer (I think 40 days later) but that extensive autopsy test
+results found no HIV in the tissues of brain, bone marrow, etc.
+
+The problem is that bone marrow destruction and transplant is risky
+for non-AIDS patients, and I think it said something like a 25% 
+survival rate.  Obviously not the treatament for early diagnoses.
+
+That's about all I remember from the newspaper.
+                                                                    
+Yes, there is hope (even small) in this just like the vaccine for SIV
+in monkeys.  But it still looks like a long battle.  So much gets
+reported so hopefully, then no more news.  For example, 2 years ago
+the AIDS Treatment News reported promising results from a Paris study of
+DHEA.  Nothing since then.  It seems to always be like this.
+                                                                   
+I try to stay hopeful (with or without news) and just take it 
+all a day at a time, looking for the best in each day. I know
+that may sound trite, but it is the only way I can avoid getting
+down when I think about how long this might last.
+   
+    Bob Culmer
+    Dallas, TX
 
 -----------------------------------------------------------------
 
 malloy@crash.cts.com (Sean Malloy)
 12/21/89
-(message was not found)
+In article <30142@shemp.CS.UCLA.EDU> JONESRA%AMBER.decnet@silver.ucs.indiana.edu (REX A. JONES 857-9563) writes:
+>I know that this is really recent news, but does anyone have any 
+>information on the case that was announced about the elimination of AIDS 
+>in a patient through a bone marrow transplant? While this is not going to 
+>be a practical treatment for all sufferers, it does offer some more hope 
+>that AIDS can be beaten.
+
+It was not just a bone marrow transplant; it was the full leukemia
+treatment: a heavy regimen of chemotherapy and radiation treatments to kill
+all of the patient's own bone marrow, followed by a marrow transplant, and
+treatment with AZafterward.
+
+The patient had no signs of HIV-1 in his blood or organs 30 days after the
+treatment; he died shortly thereafter from cancer.
+
+The full procedure in and of itself has about a 25% mortality rate; this is
+making researchers reluctant to solicit volunteers from AIDS-infected
+people who are still healthy.
+
+	Sean Malloy {hplabs!hp-sdd, akgua, ucsd, nosc}!crash!malloy
+		ARPA: crash!malloy@nosc
+	Navy Personnel Research and Development Center
+	San Diego, CA 92152-6800
+		UUCP: {hplabs!hp-sdd, akgua, ucsd}!nprdc!malloy
+		ARPA: malloy@nprdc.navy.mil
 
 -----------------------------------------------------------------
 
 hughM@crdgw1.ge.com (Hugh M Moore)
 12/24/89
-(message was not found)
+In article <30182@shemp.CS.UCLA.EDU> malloy@crash.cts.com (Sean Malloy) writes:
+| The patient had no signs of HIV-1 in his blood or organs 30 days after the
+| treatment; he died shortly thereafter from cancer.
+
+Did the patient have cancer as well as AIDS or did the treatment cause
+cancer? I suspect that your odds of beating cancer are better than
+beating AIDS right now.
+-- 
+Hugh Moore ...!uunet!crdgw1!sixhub!hughM [ PhD in '93 ]
+
+"A joke isn't funny unless it offends SOMEONE"
 
 -----------------------------------------------------------------
 

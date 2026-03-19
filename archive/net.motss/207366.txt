@@ -1,7 +1,24 @@
 AIDS transmission
 werner@aecom.UUCP (Craig Werner)
 08/03/85
-(message was not found)
+> Some week's ago, someone asked me, on the analogy that a mosquito is sort of
+> like a hypodermic needle, whether mosquitoes could transmit AIDS to people
+> not in the usual risk groups.
+
+	My response was "Well, you can't rule it our, but it's not something
+I worry about."  Perhaps the following can be much more reassuring:
+	A mosquito is not so much like a hypodermic syringe injection as it is
+like a needle-stick.  In the last four years, over 500 nurses, doctors, and
+med students have accidentally stuck themselves with needles while drawing
+blood from patient's with AIDS.  All are being followed by the CDC.  Not one
+of them has even turned Antibody-positive (which neccessarily precedes the
+disease, but which is not necessarily an obligate precursor of it.)
+	I hope the above, which translates to "It ain't happened yet" is
+more reassuring than my first article.
+-- 
+				Craig Werner
+				!philabs!aecom!werner
+		"The world is just a straight man for you sometimes"
 
 -----------------------------------------------------------------
 
@@ -19,13 +36,79 @@ Robert DeBenedictis
 
 rob@ptsfa.UUCP (Rob Bernardo)
 08/08/85
-(message was not found)
+In article <321@faron.UUCP> rjd@faron.UUCP (Robert DeBenedictis) writes:
+>
+>I was just wondering.  Do you think that snorting coke through the
+>same rolled bill as the other guy is a wise idea?  Talk about mucous
+>membranes.  What do you think?  If I find myself in that situation, I
+>think I'd use my own rolled bill.  Am I being paranoid?
+
+I am replying just in case this is NOT a joke.
+
+No, you are not paranoid, just uninformed.
+
+Disclaimer: the following is not medical advice, I am not trained
+in medicine or health care. The following is merely my observation
+and opinion.
+
+I have been following very carefully the medical news as reported in
+the responsible gay press (mainly the New York Native). 
+
+My hypothesis: you can only catch the AIDS virus if it gets
+DIRECTLY into your bloodstream.
+
+The evidence:
+1. The virus has been found in the following
+bodily fluids: blood, semen, saliva, and perhaps others.
+
+2. Anal intercourse is highly correlated with AIDS because
+during anal intercourse, the anal passage lining incurs microcuts
+into the blood-vessel rich tissue and the AIDS virus in the semen
+deposited there can get directly into the blood stream.
+
+3. Sharing of needles is highly correlated with AIDS because
+remnants of the blood of one person is being injected into another.
+
+4. Penile-vaginal intercourse is less correlated with ADIS than anal intercourse
+because the vaginal tissues are less fragile than the anal passage tissues.
+
+5. Deep kissing seems to be relatively unrisky (but not completely so) because
+the "tainted" saliva of one of the kissers will not get directly into
+the blood stream of the other unless the latter has a cut or wound in
+her/his mouth.
+
+6. There is no evidence that the disease can be caught from airborne viruses.
+-- 
+
+
++--------------+-------------------------------+
+| Rob Bernardo | Pacific Bell                  |
++--------------+ 2600 Camino Ramon, Room 4E700 |
+| 415-823-2417 | San Ramon, California 94583   |
++--------------+-------------------------------+---------+
+| ihnp4!ptsfa!rob                                        |
+| {nsc,ucbvax,decwrl,amd,fortune,zehntel}!dual!ptsfa!rob |
++--------------------------------------------------------+
 
 -----------------------------------------------------------------
 
 abc@brl-tgr.ARPA (Brint Cooper )
 08/10/85
-(message was not found)
+In article <321@faron.UUCP> rjd@faron.UUCP (Robert DeBenedictis) writes:
+>
+>I was just wondering.  Do you think that snorting coke through the
+>same rolled bill as the other guy is a wise idea?  Talk about mucous
+>membranes.  What do you think?  If I find myself in that situation, I
+>think I'd use my own rolled bill.  Am I being paranoid?
+>
+>'S not there yet,
+>Robert DeBenedictis
+
+Paranoid?  No, just stupid.  Why don't you just forget about the coke.
+Whom are you trying to impress, anyway.  I, for one, don't think you're
+cute.
+
+Brint
 
 -----------------------------------------------------------------
 
@@ -85,25 +168,83 @@ rumors and supposed truths!
 
 rjw@ptsfc.UUCP (Rod Williams)
 10/03/85
-(message was not found)
+In article <1767@orca.UUCP> andrew@orca.UUCP (Andrew Klossner) writes:
+>
+>One of the medical workers who poked him/herself with a needle used to
+>draw blood from an AIDS patient has come down with AIDS.
+>
+
+ This is NOT true! AIDS antibodies have been found in two health-care
+ workers who accidentally stuck themselves as described above. Neither
+ of these people belongs to any of the "high-risk" groups for AIDS. This
+ does NOT mean that they have AIDS - it means they have been exposed to
+ the virus. It is estimated that only about 10 percent of those exposed
+ to the virus will actually "come down" with AIDS.
+-- 
+
+ rod williams | {ihnp4,dual}!ptsfa!ptsfc!rjw
+ -------------------------------------------
+ pacific bell |  san ramon  |  california
 
 -----------------------------------------------------------------
 
 john@ur-tut.UUCP (John Gurian)
 10/03/85
-(message was not found)
+>    ***  There are absolutely no, repeat NO, AIDs case among any of
+> the healthworkers involved with AIDs who were not themselves
+> in high risk groups.
+
+Sorry to confuse things even more, but there has been ONE documented case
+of a "health care professional" (to use the standard buzzword) who contracted
+AIDS by sticking him/herself with a needle used to draw blood from the patient.
+Actually, there have been rumors of a second such occurance in Britain, but
+nothing I'd stake my reputation on.  Still, 1 out of 13,000 cases isn't a very
+high incidence (if anyone wants a reference to the incidence in question, mail
+to me and I'll go look it up).
+
+Incidentally, my mother is a social worker who regularly sees AIDS patients
+without bothering to gown up or wear masks or any of that other rubbish.
+
+John Gurian (rochester!ur-tut!john)
+University of Rochester School of Medicine
 
 -----------------------------------------------------------------
 
 roy@phri.UUCP (Roy Smith)
 10/04/85
-(message was not found)
+> Sorry to confuse things even more, but there has been ONE documented case
+> of a "health care professional" (to use the standard buzzword) who
+> contracted AIDS by sticking him/herself with a needle used to draw blood
+> 
+> John Gurian (rochester!ur-tut!john)
+
+	That's a nice solid reference if I've ever heard one.  Care to clue
+the rest of in on where you read that?  You have to document it, not just
+say it's documented.
+-- 
+Roy Smith <allegra!phri!roy>
+System Administrator, Public Health Research Institute
+455 First Avenue, New York, NY 10016
 
 -----------------------------------------------------------------
 
 steph@graffiti.UUCP (stephanie da silva)
 10/09/85
-(message was not found)
+> > Sorry to confuse things even more, but there has been ONE documented case
+> > of a "health care professional" (to use the standard buzzword) who
+> > contracted AIDS by sticking him/herself with a needle used to draw blood
+> > 
+> 
+> 	That's a nice solid reference if I've ever heard one.  Care to clue
+> the rest of in on where you read that?  You have to document it, not just
+> say it's documented.
+> -- 
+
+I read that in an issue of Time magazine a few weeks ago. If I remember
+right, it was a nurse in England who accidentally pricked herself with
+a contaminated needle.
+
+*** REPLACE THIS LINE WITH YOUR MESSAGE ***
 
 -----------------------------------------------------------------
 
@@ -188,7 +329,20 @@ the virus' relative non-infectability.
 
 john@ur-tut.UUCP (John Gurian)
 10/10/85
-(message was not found)
+> 	That's a nice solid reference if I've ever heard one.  Care to clue
+> the rest of in on where you read that?  You have to document it, not just
+> say it's documented.
+
+	Alright already.  Try looking in the March 24, 1984 issue of The
+Lancet, page 676 (Vol 1 No. 8378), for a letter entitled "AIDS in a hospital
+worker".  Further references to CDC Morbidity and Mortality Weekly Reports
+(MMWR) concerning the evaluation of reported cases of AIDS in health care
+professionals are cited following the letter.
+
+Hoping you a happy and fruitful search through you local hospital library,
+
+John Gurian (seismo!rochester!ur-tut!john)
+University of Rochester School of Medicine
 
 -----------------------------------------------------------------
 
@@ -264,13 +418,47 @@ bad case of AIDS anxiety.
 
 ron@brl-sem.ARPA (Ron Natalie <ron>)
 10/17/85
-(message was not found)
+> Okay now.  It appears quite definite from all these postings here that that
+> case with that nurse resulted not from a 'needle-stick' but from an
+> accidental injection of a SUBSTANTIAL amount of ARTERIAL blood, being that
+> no one has said anything which directly contradicts this.  Would someone
+> care to either find a reference which denies this, or finally admit that
+> simple needle-sticks are not sufficient to transmit aids.
+
+I have no idea on how to apply this to the AIDS situation, but I wouldn't
+downplay the problems with needle sticks.  Getting stuck with a used needle
+can cause serious problems.  One of my coworkers got a severe infection
+after accidentally poking herself with a needle from a cardiac arrest case.
+Health care professionals here insist on treatment after sticks from used
+needles.
+
+-Ron
 
 -----------------------------------------------------------------
 
 beth@sphinx.UChicago.UUCP (JB)
 10/19/85
-(message was not found)
+[G'head, eat me, I Love it]
+
+From: werner@aecom.UUCP (Craig Werner), Message-ID: <1937@aecom.UUCP>:
+>The heterosexual transmission of the disease seems to be much more facile
+>from men to women than from women to men.  I swear I saw a reference that
+>said that only 2 cases in NY are definitely ascribed to female-to-male
+>heterosexual contact. However I can't find it now, but I remember being
+>incredulous at the time.
+
+No need to be incredulous.  Most fellows couldn't inspire bodily fluids
+from a woman if their whatevers depended on it.
+
+...oh yeah, netiquette, almost forgot:   :-)
+
+-- 
+
+--JB        (Beth Christy, U. of Chicago, ..!ihnp4!gargoyle!sphinx!beth)
+
+"What if the after-effect of the terrible bomb is unusual beyond belief?
+ Wouldn't you rather the whole population had listened to somebody like
+    the old Indian chief?"   (The Roches)
 
 -----------------------------------------------------------------
 

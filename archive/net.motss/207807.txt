@@ -1,19 +1,106 @@
 Multiple Languages on Usenet
 consult@uwmacc.UUCP (MACC Consultants)
 11/21/84
-(message was not found)
+Summary: 
+Expires: 
+References: <41@mit-athena.ARPA>
+Sender: 
+Reply-To: consult@maccunix.UUCP (MACC Consultants)
+Followup-To: 
+Distribution: 
+Organization: U Wisconsin-Madison Academic Computing Ctr
+Keywords: 
+>Nicht Panikmache, sondern die neuesten, alarmierenden Zahlen aus dem
+>Bundesgesundheitsamt:  Mit 20 000 Aids-Kranken und 10 000 Aids-Toten in
+>der Bundesrepublik ist bis zum Ende dieses Jahrzehnts zu rechnen.  Weit
+>ueber 100 000 Westdeutsche, so die Schaetzung, tragen schon jetzt das
+>gefaehrliche Virus in sich, das zur toedlichen Abwehrschwaeche fuehrt.
+>,,Beaengstigend'' nennt Professor Meinrad Koch, Chef der Virologie am
+>BGA, im wickelten Reihen-Bluttest zutage trat: 35 Prozent der promisken
+>Homosexuellen sind bereits mit der Seuche infiziert, gegen die es auf
+>absehbare Zeit kein Heilmittel und keinen Impfstoff gibt.  Noch staerker
+>ist die Durchseuchung bei den Bluterkranden, kaum geringer bei den
+>Fixern.  Auch weibliche Drogenabhaengige sind betroffen:  
+>
+>	* Aids bricht aus dem Getto der Homosexuellen-Szene aus.
+>	* NRW-Gesundsheitsminister Farthmann erwaegt Meldenpflicht fuer
+>	* Aids-Kranke.
+
+
+This looks interesting. I wish that I could read more than one word
+in ten! Would someone like to post a translation?  If more people
+are going to be posting in languages other than English, maybe we should
+have volunteers who will automatically translate articles. (unless someone
+has some software sitting around which will do the job :-)
+We could limit the distribution to North america, if needed.
+
+
+Comments, please?
+
+                                        Sue Brunkow
+                                    U Wisconsin - MACC
+                   {allegra,seismo,ihnp4}!uwvax!uwmacc!consult
+        (please put my name on any mail, I share this login)
+
+" A person who speaks three languages is called tri-lingual.
+  A person who speaks two languages is called bi-lingual.  What do
+you call someone who only speaks one language?"
+
+   " An American."
 
 -----------------------------------------------------------------
 
 jon@boulder.UUCP (Jon Corbet)
 11/22/84
-(message was not found)
+>                                                   If more people
+>are going to be posting in languages other than English, maybe we should
+>have volunteers who will automatically translate articles.
+> ...
+>We could limit the distribution to North america, if needed.
+>
+>Comments, please?
+
+How about mod.english.translations? :-)
 
 -----------------------------------------------------------------
 
 jdb@qubix.UUCP (Jeff Bulf)
 11/25/84
-(message was not found)
+>                                                   If more people
+>are going to be posting in languages other than English, maybe we should
+>have volunteers who will automatically translate articles.
+> ...
+>We could limit the distribution to North america, if needed.
+>
+>Comments, please?
+
+    Many different kinds of postings happen on our slightly improbable net.
+Occaisional light banter in Danish is fun, if only for the absurdity of doing
+such a thing. There is no real information anyway, so no harm is done.
+
+    On t'other hand, any time I intend to convey information, I will
+do it in a language my recipients understand. To do otherwise would be
+self-defeating.
+
+    This process is actually self-enforcing. Anybody who wants to be
+listened to will discover sooner or later that it helps if your recipient
+can understand what you say. If somebody is not interested in helping
+you understand him/her even that much, you probably have little to lose
+by ignoring her/him.
+
+re: article that raised the issue:
+    The first Spiegel article was interesting enough [to me] to read,
+but not to translate. (sorry! The gist was that AIDS is alive and
+well in the German Fed. Republic, affecting both men and women. I
+don't remember whether they also broke it down by sexual preference.)
+I skipped the second article because I get eyestrain from variable spacing
+between words. (Was that for anybody who made it past the language barrier:-?)
+
+
+Ruotsalaisen politikkun poikka!
+-- 
+	Dr Memory
+	...{amd,cbosgd,ihnp4}!qubix!jdb
 
 -----------------------------------------------------------------
 

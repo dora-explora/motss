@@ -1,7 +1,49 @@
 The cost of moderating satellite News
 kay@flame.UUCP (Kay Dekker)
 01/07/85
-(message was not found)
+[[][]]
+
+>.........  You may write about anything you  please,
+>but you know that any article that might conceivably
+>be libellous or illegal will be scanned by a human
+>moderator.  Your artcile will be screened by a
+>computer program to determine whether moderation
+>is necessary.  For the sake of this discussion
+>I assume that a moderator never edits your text,
+>but simply determines whether it is legally safe to
+>broadcast it.  
+
+Excuse me, but I think there may be a problem here.  Both obscenity and
+libellousness are rather difficult to screen for.
+1) According to English law, 'obscene' is defined as 'having a tendency to
+deprave and corrupt'.  This is extremely knotty: the 'Lady Chatterley' and
+'OZ' cases illustrate this.
+2) There are cases where seemingly-libellous material may in fact not be so.
+For example, of the publication is 'in the public interest', or is 'fair
+comment'.
+
+I cannot see software (or even moderators) being able to screen articles for
+'obscenity' or 'libellousness': it has taken juries many days to argue over
+these points.
+
+Furthermore, I gather that the laws which govern permissible public utterances
+vary wildly between countries.  The screening rules must then have knowledge
+of the different regulations that apply over the various countries into which
+net-contents enter.  For example, in England, we have a law which makes illegal
+'Blasphemous Libel'.  Prosecutions for this offence are extremely rare:  it was
+last trundled out in 197[67] by our protector of public propriety, Mrs. Mary
+Whitehouse.  She was offended by a poem by James Kirkup, "The love that dares 
+to speak its name", which appeared in the British gay newspaper, "Gay News".
+The prosecution was successful, and the editor and the paper were fined heavily
+and the editor given a suspended prison sentence.
+
+How many other archaic laws and regulations would this screening software have
+to know about?
+
+							Kay.
+-- 
+"But what we need to know is, do people want nasally-insertable computers?"
+			... mcvax!ukc!flame!kay
 
 -----------------------------------------------------------------
 

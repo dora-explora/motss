@@ -1,13 +1,48 @@
 Distribution
 anderson@uwmacc.UUCP (Jess Anderson)
 10/07/86
-(message was not found)
+[L-E Food]
+
+Well, we have noticed a dramatic decline in the number of
+motss postings here too. I put soc.motss into my .newsrc as
+soon as the reorganization was announced, so theoretically
+I would have seen everything that reached our site. We have
+received 74 messages, as of this morning, in net.motss. I
+had been wondering if there were distribution problems all
+around the net, since so few postings were arriving, compared
+to pre-reorganization days. Glad to note that Steve Dyer is
+leaping into the breach--that guy can apparently do just about
+anything--way to go, Steve! Things may be brightening up. We 
+need it around here, as we've had six *solid* weeks of rain and
+heavily overcast skies. Today, however, the sun is shining
+very brightly, and it *sure* is better! Have a good one, wherever
+you are ...
+-- 
+==ARPA:====================anderson@unix.macc.wisc.edu===Jess Anderson======
+|      (Please use ARPA if you can.)                     MACC              |
+| UUCP: {harvard,seismo,topaz,                           1210 W. Dayton    | 
+|    akgua,allegra,ihnp4,usbvax}!uwvax!uwmacc!anderson   Madison, WI 53706 |
+| BITNET:                            anderson@wiscmacc   608/263-6988      |
+==The sage acts without choosing.=========(Chuang Tsu)======================
 
 -----------------------------------------------------------------
 
 anderson@uwmacc.UUCP (Jess Anderson)
 10/07/86
-(message was not found)
+> [L-E Food]
+> 
+I said:
+> I would have seen everything that reached our site. We have
+> received 74 messages, as of this morning, in net.motss. I
+                                               ^^^^^^^^^
+That's soc.motss (carelessness of the ordinary kind)!
+-- 
+==ARPA:====================anderson@unix.macc.wisc.edu===Jess Anderson======
+|      (Please use ARPA if you can.)                     MACC              |
+| UUCP: {harvard,seismo,topaz,                           1210 W. Dayton    | 
+|    akgua,allegra,ihnp4,usbvax}!uwvax!uwmacc!anderson   Madison, WI 53706 |
+| BITNET:                            anderson@wiscmacc   608/263-6988      |
+==The sage acts without choosing.=========(Chuang Tsu)======================
 
 -----------------------------------------------------------------
 

@@ -1,31 +1,185 @@
 Nomenclature - Gay/Homosexual/Lesbian
 dyer@vaxuum.DEC (This did not happen to/Pablo Picasso)
 08/06/85
-(message was not found)
+Nomenclature - Gay/Homosexual/Lesbian___________________________________________
+
+> By the way, don't call me "homosexual."  I'm Gay.  It's impolite to call a
+> Black person a "Negro," it's just as impolite to call us "homosexual."
+
+	This gets really complicated.  Just as some people object to using the
+word "man" to mean "person," there are those who object to using the word "gay"
+to mean "homosexual person."  "Gay" is usually taken to mean "homosexual male"
+and "Lesbian," of course, means "homosexual female."  Thus there are those who
+consider it sexist to use "Gay" to refer to both.
+	On the other hand, "Gay" is much more ambiguous than "man," since it's
+not intrinsically male, but just used that way sometimes.  There are some homo-
+sexual women who don't want to be called "Lesbian" because they feel it means
+being a subset of "Gay."
+	To get into further shades of grey, there are those who differentiate
+between "Gay" and "Lesbian" as verbs, but use "Gay" as an adjective for both!
+And there are those who don't mind "homosexual" as an adjective, but despise
+it as a noun.
+	Chaos.  What will humankind do about it?
+		<_Jym_>
+
+:::::::::::::::: Jym Dyer
+::::'  ::  `:::: Dracut, Massachusetts
+::'    ::    `::
+::     ::     :: DYER%VAXUUM.DEC@DECWRL.ARPA
+::   .::::.   :: {allegra|decvax|ihnp4|ucbvax}!decwrl!dec-rhea!dec-vaxuum!dyer
+::..:' :: `:..::
+::::.  ::  .:::: Statements made in this article are my own; they might not
+:::::::::::::::: reflect the views of |d|i|g|i|t|a|l| Equipment Corporation.
 
 -----------------------------------------------------------------
 
 sdyer@bbncc5.UUCP (Steve Dyer)
 08/15/85
-(message was not found)
+> 
+> Correct me if I'm wrong, but I think the term, "Negro", is considered
+> to be insulting because its actual meaning is "slave".
+> 
+> If that's the case, I see nothing wrong with "homosexual" as an adjective;
+> I don't mind being referred to as a heterosexual man, and if I were gay,
+> I don't think I'd mind being called a homosexual man.  After all,
+> "homosexual" means, in my own terms, "sexually prefers persons of the
+> same gender," right?
+> 
+
+Both are disliked by certain people, but not because of their dictionary
+meaning.  "Negro", after all, is a simple cognate via Spanish of the Latin,
+"black", but its relative disuse these days comes from its association with
+its earlier use by non-blacks in an overwhelmingly racist society.  In the
+same way, the word "homosexual", aside from its offensiveness to linguists,
+being an unwieldly juxtaposition of Greek and Latin stems, is a relic of
+late 19th century attitudes about human sexuality.  It has a rather stodgy,
+dusty clinicalness about it which is inappropriate for everyday use.  You might
+not mind being called "heterosexual" when the occasion calls for it (as in
+the rare case to identify someone as NOT-"homosexual"), but gay people end
+up living with the term all day long.
+
+There seems nothing wrong with calling people the way they wish being
+called.  "Black" has replaced "negro" in most American English, and
+"gay" for "homosexual" is making inroads.
+-- 
+/Steve Dyer
+{decvax,linus,ima,ihnp4}!bbncca!sdyer
+sdyer@bbnccv.ARPA
 
 -----------------------------------------------------------------
 
 joe@emacs.uucp (Joe Chapman)
 08/17/85
-(message was not found)
+> Correct me if I'm wrong, but I think the term, "Negro", is considered
+> to be insulting because its actual meaning is "slave".
+
+From Latin nigrum, niger (black), through Spanish or Portuguese,
+according to the OED.  
+
+> I see nothing wrong with "homosexual" as an adjective; 
+> I don't mind being referred to as a heterosexual man, and if I were gay, ...
+
+There's some linguistic defense for the adjective when it's applied to
+sexual acts, in which case it means ``acts involving/between members of
+the same sex''.  But what does it mean to refer to a same-sex person?
+Or a different-sex person?  (Other than my mad friend Frank, of course,
+who tries to be of a different sex each day :-)).
+
+Of course there are worse ways to refer to gay people.  My mother always
+tells me to watch out at the laundromat for those ``intellectual fags.''
+I assure her that I do...
+
+-- 
+-- Joseph Chapman                  decvax!cca!emacs!joe
+   CCA Uniworks, Inc.              emacs!joe@cca-unix.ARPA
+   20 William St.
+   Wellesley, MA  02181            (617) 235-2600
 
 -----------------------------------------------------------------
 
 dyer@vaxuum.DEC (This did not happen to/Pablo Picasso)
 08/20/85
-(message was not found)
+Re: Nomenclature - Gay/Homosexual/Lesbian_______________________________________
+
+> There seems nothing wrong with calling people the way they wish being called.
+> "Black" has replaced "negro" in most American English, and "gay" for "homosex-
+> ual" is making inroads.
+
+	If only it were that simple.  One main point of my original article was
+that there really is no consensus at this point, so it's very difficult to call
+people what they wish to be called.
+	An older black woman once told me that it was an insult to be called
+"black" back in the fifties.  "Negro" was the preferred term, since it was judg-
+ed to be better than "colored."  "Colored" was, when it came into vogue, prefer-
+red to "nigger."  (Back in Pittsburgh's North Side, working class white folk are
+still a bit behind, debating between "nigger" and "colored."  But I digress.)
+	I remember the first episode of _Room_222_, where the new white teacher
+asked the new black teacher if he preferred to be called "negro" or "black."  He
+said, "just call me Mr. Whatsisname" (I forget his name).
+	That's my approach.  When I meet somebody, I just call them "a person"
+(or similar terms) until I find out what they like to be called.  Then I call
+them that (unless they like to be called something like "Shah of Shahs, Ruler of
+the Heavens, Light of the Universe" (-:)).
+
+	The other main point of my article was that whatever nomenclature we
+choose, it should be nonsexist.  This point seems to have been lost in the
+shuffle, so I'm adding net.women to the discussion (Hi gang!).
+	I strongly feel that the generic term should not be the same as the
+masculine term.  For example, we have "man" for the males and "woman" for the
+females.  Purportedly, "man" can be used as a generic, referring to either
+sex.  I find this sexist and refuse to use it; I use "person" instead.
+	The nomenclature is less clear for people attracted to motss, but it
+goes something like this:  "Gay" means men and "lesbian" means women.  Again,
+it is suggested by some that the masculine term be used as the generic; that
+is, the word "gay" is applied to both sexes.
+	Alas, there appear to be as many arrangements as there are people.
+Some women prefer "gay" to "lesbian" because they see "gay" as a generic term,
+thus making the word "lesbian" seem demeaning.  Others see "gay" as a mascu-
+line term, and decline to have it applied to them.
+	I've met more of the latter group than the former - and I have encoun-
+tered more "Gay and Lesbian" groups than "Gay" groups, so I tend to use "gay"
+for men, "lesbian" for women, and "homosexual" for the generic term.
+	That's my solution, at least for now.  Perhaps somebody will come up
+with a different solution, and it will "make inroads."  But if it turns out to
+be YASLC (Yet Another Sexist Language Construct), I will not use it.
+		<_Jym_>
+P.S.:  Some of you may have noticed that I listed "man" before "woman" and
+"gay" before "lesbian" in the above.  I did not do this on basis of sex, I
+did this because I use alphabetical order.
+
+:::::::::::::::: Jym Dyer
+::::'  ::  `:::: Dracut, Massachusetts
+::'    ::    `::
+::     ::     :: DYER%VAXUUM.DEC@DECWRL.ARPA
+::   .::::.   :: {allegra|decvax|ihnp4|ucbvax}!decwrl!dec-rhea!dec-vaxuum!dyer
+::..:' :: `:..::
+::::.  ::  .:::: Statements made in this article are my own; they might not
+:::::::::::::::: reflect the views of |d|i|g|i|t|a|l| Equipment Corporation.
 
 -----------------------------------------------------------------
 
 dyer@vaxuum.DEC (This did not happen to/Pablo Picasso)
 08/24/85
-(message was not found)
+Re: Nomenclature - Gay/Homosexual/Lesbian_______________________________________
+
+> . . . the word ''homosexual'', which we quite correctly tag as the mark of the
+> oppressor, . . .
+
+	Quite incorrectly.  Again, the jury is still out on this.
+	"Homophile" sounds like it has possibilities, though!
+		<_Jym_>
+P.S.:  Morrissey, the singer for The Smiths, refers to himself as a celibate
+homosexual.  He's just this side of suicidal, and sings the most depressing
+music I know of.  I have extreme difficulty calling him "gay."
+
+:::::::::::::::: Jym Dyer
+::::'  ::  `:::: Dracut, Massachusetts
+::'    ::    `::
+::     ::     :: DYER%VAXUUM.DEC@DECWRL.ARPA
+::   .::::.   :: {allegra|decvax|ihnp4|ucbvax}!decwrl!dec-rhea!dec-vaxuum!dyer
+::..:' :: `:..::
+::::.  ::  .:::: Statements made in this article are my own; they might not
+:::::::::::::::: reflect the views of |d|i|g|i|t|a|l| Equipment Corporation.
 
 -----------------------------------------------------------------
 

@@ -1,7 +1,27 @@
 corporate policy
 peterson@vaxwrk.DEC (Bob Peterson)
 08/18/85
-(message was not found)
+> One last point: working in a homophobic environment poses a real
+> problem for many potential posters.  True, they can post anonymously
+> through another Usenetter, & many large corporations like DEC and
+> AT&T (I believe) have anti-discrimination clauses; but there's still
+> some risk: upper management may be tolerant, but not one's coworkers
+> and supervisors.  And even if the objective risks are slight, over-
+> coming the psychological barrier of the occupational closet is not
+> easy, especially when it involves one's daily bread.
+>  
+>  
+> 					Regards,
+> 					Ron Rizzo
+
+Sadly DIGITAL does not have a non-discrimination clause.  Cases of favorable
+treatment as well as unfavorable treatment are heard of.  How things are 
+handled, it seems in my view, to depend on the people in local power.
+
+\bob
+
+(The above opinions and statements are strictly my own and not of DIGITAL
+ EQUIPMENT CORPORATION)
 
 -----------------------------------------------------------------
 

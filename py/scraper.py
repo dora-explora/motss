@@ -1,3 +1,5 @@
+# scrapes usenet.trashworldnews.com for the specified group and archives every thread in archive/[group]/[thread-id].txt file
+
 import os
 import requests
 from bs4 import BeautifulSoup as bs, Tag
@@ -33,8 +35,11 @@ def process_message(p: Tag, pre: Tag):
     sender = b.string
     sender = "(sender was not found)" if sender is None else sender
     date = p.getText().split("(")[-1][:-1] # what have i become
-    message = pre.string
-    message = "(message was not found)" if message is None else message
+    message = pre.getText()
+    if message is None:
+        print("message is invalid")
+        # print(pre)
+        message = "(message was not found)"
     return sender + "\n" + date + "\n" + message
 
 def sanitize_html(string: str):
@@ -53,6 +58,6 @@ for link in links[2:]:
     if href is not None:
         id = str(href)[9:]
         if os.path.isfile(f"{path}/{id}.txt"):
-            print(f"skipping thread {id}")
+            # print(f"skipping thread {id}")
             continue
         process_thread(id)

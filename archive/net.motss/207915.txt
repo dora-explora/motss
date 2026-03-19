@@ -1,7 +1,97 @@
 on the direction of net.motss
 sdyer@bbncca.ARPA (Steve Dyer)
 09/28/84
-(message was not found)
+I received this letter today, and I think it gives voice to a lot of issues which
+have probably been floating around the motss readership lately.  In any event,
+on this eve of the first anniversary of net.motss (has it been a year already?!)
+it is worthwhile to look at where the last month or so of discussions has brought
+us, and whether we want it to continue in this way.  I send you my response to
+the writer, too.
+
+	>Subject: motss grumble
+	>
+	>Steve,
+	>
+	>	Granting that there are two schools of thought ("ignore them" vs.
+	>"refute them") on how to deal with people like Arndt and Brunson, I really
+	>must confess that I'm tiring of watching you beat your head against what
+	>I perceive as a brick wall.
+	>
+	>	I fear that too many readers of net.motss are like me: disaffected,
+	>and disappointed that the group has been unable to live up to its original
+	>charter (msg. #1). I was interested, and would still be interested, in a
+	>forum for discussing issues pertinent to us. I am not interested in the
+	>sort of s**t that has flooded the group lately -- I can go find a street-
+	>corner Christian and get the same "friendly persuasion". Nor do I need to
+	>be told that discrimination is a pertinent issue -- I *know* that; I'd
+	>like to be able to discuss it without having to fend off the twits at the
+	>same time.
+	>
+	>	I would be inclined to suggest that the people who would like to
+	>resurrect motss as it was meant to be either:
+	>
+	>	* establish a mailing list (recently suggested)
+	>	* establish net.motss.only (oh, I'm sure this would be
+	>	  a howling success)
+	>	* give up and participate in forums on national BBS's
+	>	  instead (one I call frequently recently had a discussion,
+	>	  in fact, on the "pointless debate" in net.motss)
+	>
+	>	On the other hand, I doubt I'd be interested in being the motive
+	>force behind such a change ("AHA!" he shouted. "Apathy, yes, that's what
+	>killed the group!") ... nor am I suggesting that you should be. You are,
+	>however, one of the more visible elements and I was wondering if you have
+	>heard from anyone else (solicited or not) who feels this way.
+	>
+	>	Pardon my random grumblings, it's been a long day.
+
+My own feeling is that the Brunsons and Arndts only surface when there
+is a shortage of real topics to discuss (or to reverse this, when the 
+members of net.motss do not provide any such topics.)
+
+I begged off regarding Arndt, etc. a few months ago, but am guilty of
+reentering the fray recently.  This was mainly because I had never encountered
+someone quite like Brunson; he holds a simultaneous revulsion and
+fascination for me.  At the very least, I am not yet bored by the interchange,
+though many may well be.  I do try to see something positive out of even the
+most recent interchanges, for I think that the general consensus of the
+contributors, most of whom are not gay, is that Brunson, etc. are fools.
+This alone can be important to realize for the many people who read net.motss
+but who do not feel comfortable coming out in public.  That is, the
+sentiments of such people are distasteful, but their presentation in this
+forum tends to vitiate them, and render them ludicrous.  At least for a while.
+
+Anyway, I think much of this would go away if there were something more
+worthwhile on the docket.  Some bring up interesting (at least to me)
+topics, but more often than not, they go out onto the net and fall with
+a dull thud.  Not that they aren't worth discussing, but simply because there
+are so few people out there willing to put themselves out and actually
+contribute towards continuing a discussion.  What we see more frequently
+is an interesting topic getting one or two responses, mainly from the
+"hard core" contributors.  Naturally, once they've said their peace,
+the conversation ends.  Articles like Arndt's and Brunson's have a whole
+lot more impact when they appear in a relative vacuum.
+
+The direction of net.motss is the responsibility of its readers, and that
+is effected by people willing to put themselves out on the line and speak
+their mind.  If the only ones willing to do so are the Arndts, Dubois(es?)
+and Brunsons of the net, then that is surely what "net.motss" will become,
+sorry as it sounds.  It need not be, but it will require more than only the
+fortune and bbncca contingent contributing (sorry to omit any individuals
+here.)
+
+I do not think that 'net.motss.only' is a good idea, simply on principle.
+Such exclusion is impossible to enforce and is downright distasteful.  I
+feel the same about replacing net.motss with a private mailing list, for
+one important aspect of net.motss is that it reaches a very wide audience,
+not all of whom are gay, and not all of whom would ever care enough to
+subscribe to such a list.  I do allow that it may serve a need that
+net.motss cannot fill.  I welcome anyone who wants to set such a list up in
+parallel with net.motss.
+-- 
+/Steve Dyer
+{decvax,linus,ima}!bbncca!sdyer
+sdyer@bbncca.ARPA
 
 -----------------------------------------------------------------
 
