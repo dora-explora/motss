@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup as bs, Tag
 
 group = "soc.motss"
-path = f"./archive/{group}"
+path = "./archive/threads/"
 if not os.path.isdir(path):
     os.mkdir(path)
 
