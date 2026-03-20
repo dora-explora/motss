@@ -9,6 +9,7 @@ import (
 
 const (
 	Bold = "\033[1m"
+	Dim = "\033[2m"
 	Underline = "\033[4m"
 	Green = "\033[32m"
 	Yellow = "\033[33m"
@@ -71,6 +72,7 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
            	case "space", "enter", "l":
             if m.open != true {
             	m.open = true
+             	m.openscroll = 0
             	return m, loadThread(m.threads[m.cursor].id)
             }
 
@@ -118,9 +120,26 @@ func (m model) View() tea.View {
     	}
     } else {
     	lines := strings.Split(m.thread, "\n")
+     	lastbreak := -1
      	for i, line := range lines {
+         	color := Green
+          	if line == "-----------------------------------------------------------------" {
+             	color = White
+           		lastbreak = i
+           	}
       		if i < m.openscroll { continue }
-        	s += line + "\n"
+        	if i == 0 {
+         		s += Bold
+         	} else if i - lastbreak == 2 {
+          		color = Cyan
+         	} else if i - lastbreak == 3 {
+          		color = Yellow
+          	} else if unpadded := strings.ReplaceAll(line, " ", ""); unpadded != ""  {
+           		if unpadded[0] == '>' {
+           			color += Dim
+            	}
+           	}
+        	s += color + line + "\n" + Reset
       	}
     }
 
