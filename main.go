@@ -7,7 +7,7 @@ import (
 	tea "charm.land/bubbletea/v2"
 )
 
-func main() {
+func notmain() {
     program := tea.NewProgram(initialModel())
     _, err := program.Run();
     if err != nil {
