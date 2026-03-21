@@ -59,6 +59,3 @@ place in the classroom after all.
 Prentiss Riddle
 {ihnp4,seismo,ctvax}!ut-sally!riddle
 riddle@ut-sally.UUCP
-
------------------------------------------------------------------
-

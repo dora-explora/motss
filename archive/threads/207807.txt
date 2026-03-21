@@ -101,6 +101,3 @@ Ruotsalaisen politikkun poikka!
 -- 
 	Dr Memory
 	...{amd,cbosgd,ihnp4}!qubix!jdb
-
------------------------------------------------------------------
-

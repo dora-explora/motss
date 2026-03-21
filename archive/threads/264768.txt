@@ -42,6 +42,3 @@ JONESRA%AQUA.decnet@silver.ucs.indiana.edu|This is not an official IU
 jonesra@iuqua.bitnet                      |document. This posting does 
 jonesra@aqua.ucs.indiana.edu              |not reflect the views of IU    
                                           |unless by coincidence.
-
------------------------------------------------------------------
-

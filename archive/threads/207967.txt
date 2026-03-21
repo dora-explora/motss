@@ -22,6 +22,3 @@ least half mine.
                             Andrew Gerber
 			    gerber@mit-charon.ARPA
                             decvax!athena!gerber
-
------------------------------------------------------------------
-

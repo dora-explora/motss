@@ -16,6 +16,3 @@ rather than based upon irrelevant criteria.
 as ever,
 
 j.r.             {allegra,seismo}!rochester!ritcv!jrc
-
------------------------------------------------------------------
-

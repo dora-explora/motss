@@ -65,6 +65,3 @@ functioning member of society (there's a term I shudder to use).
 Scott Oaks
 Brown University
 {decvax, inhp4, allegra}!brunix!sdo
-
------------------------------------------------------------------
-

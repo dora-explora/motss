@@ -1012,6 +1012,3 @@ likes you.
 -- 
 Richard Mateosian
 {cbosgd,decwrl,fortune,hplabs,ihnp4,seismo}!nsc!srm    nsc!srm@decwrl.ARPA
-
------------------------------------------------------------------
-

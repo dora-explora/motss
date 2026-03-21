@@ -20,6 +20,3 @@ stickers:
 
 --- Prentiss Riddle ("Aprendiz de todo, maestro de nada.")
 --- {ihnp4,harvard,seismo,gatech,ctvax}!ut-sally!riddle
-
------------------------------------------------------------------
-

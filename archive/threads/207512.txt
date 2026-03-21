@@ -44,6 +44,3 @@ and many others.  And at the rental price of $1.25/day it can't be beat.
 /Steve Dyer
 {decvax,linus,ima,ihnp4}!bbncca!sdyer
 sdyer@bbnccv.ARPA
-
------------------------------------------------------------------
-

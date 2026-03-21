@@ -69,6 +69,3 @@ ARPA: mason%pneuma.DEC@decwrl.ARPA
 jcp@osiris.UUCP (Jody Patilla)
 09/14/85
 (message was not found)
-
------------------------------------------------------------------
-

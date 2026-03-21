@@ -72,6 +72,3 @@ kgdykes@watbun.UUCP
            Software Development Group, U. of Waterloo
            Waterloo, Ontario, Canada.  N2L 3G1
            {clyde,utzoo}!watmath!water!watbun!kgdykes
-
------------------------------------------------------------------
-

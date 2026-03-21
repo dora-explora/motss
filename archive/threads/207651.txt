@@ -47,6 +47,3 @@ were not as liberal as compared to today.
 as ever,
 
 j.r.      {allegra,seismo}!rochester!ritcv!jrc
-
------------------------------------------------------------------
-

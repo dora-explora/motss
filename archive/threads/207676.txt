@@ -17,6 +17,3 @@ Who said that I couldn't generate poetry?
 (UUCP: ...!cbosgd!osu-eddie!beslove)
 (CSNet: beslove@ohio-state)
 (ARPA: beslove%ohio-state.csnet@CSNET-RELAY)
-
------------------------------------------------------------------
-

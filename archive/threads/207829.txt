@@ -33,6 +33,3 @@ going to jump on someone, jump on him for the right reasons (and in both
 cases, there are plenty!).
 
 -- David Smallberg, das@ucla-cs.ARPA, {ihnp4,ucbvax}!ucla-cs!das
-
------------------------------------------------------------------
-

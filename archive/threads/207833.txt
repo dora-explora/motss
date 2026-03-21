@@ -94,6 +94,3 @@ Bret Marquis
 (sdcsvax, ihnp4)!bang!bam
 -- 
 Bang World Communication Center - San Diego.
-
------------------------------------------------------------------
-

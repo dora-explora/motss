@@ -19,6 +19,3 @@ libraries even outside of Texas) within the past year or so.
 --- Prentiss Riddle ("Aprendiz de todo, maestro de nada.")
 --- {ihnp4,harvard,seismo,gatech,ctvax}!ut-sally!riddle
 --- riddle@ut-sally.UUCP, riddle@ut-sally.ARPA, riddle@zotz.ARPA
-
------------------------------------------------------------------
-

@@ -100,6 +100,3 @@ phone calls, and conversations can do a lot.
 			   msimpson@bbn-unix (ARPA)
 			   {decvax,linus,wjh12}!bbncca!msimpson (Usenet)
 			   617-497-2819 (Ma Bell)
-
------------------------------------------------------------------
-

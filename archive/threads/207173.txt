@@ -15,6 +15,3 @@ be forwarded on and that replies on the net can be disambiguated.
 Steve Dyer
 dyer@harvard.HARVARD.EDU
 {bbncca,bbnccv,harvard}!spdcc!dyer
-
------------------------------------------------------------------
-

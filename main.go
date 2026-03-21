@@ -3,6 +3,7 @@ package main
 import (
 	"context"
 	"errors"
+	"fmt"
 	"net"
 	"os"
 	"os/signal"
@@ -18,11 +19,31 @@ import (
 )
 
 const (
-	host = "0.0.0.0"
+	host = "localhost"
 	port = "1234"
 )
 
 func main() {
+	if argc := len(os.Args); argc == 1 {
+		tuimain();
+	} else if argc == 2 && os.Args[1] == "ssh" {
+		sshmain();
+	} else {
+		fmt.Println("Incorrect usage: go run . [ssh]")
+		os.Exit(1)
+	}
+}
+
+func tuimain() {
+	program := tea.NewProgram(initialModel())
+	_, err := program.Run();
+	if err != nil {
+		fmt.Printf("An error occured: %v", err)
+		os.Exit(1)
+	}
+}
+
+func sshmain() { // thank you Wish example code
 	s, err := wish.NewServer(
 		wish.WithAddress(net.JoinHostPort(host, port)),
 		wish.WithHostKeyPath(".ssh/id_ed25519"),

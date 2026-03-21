@@ -30,6 +30,3 @@ contingent here, but I'm telling it to you "straight", as it were.)
 /Steve Dyer
 {harvard,seismo}!bbncc5!sdyer
 sdyer@bbncc5.ARPA
-
------------------------------------------------------------------
-

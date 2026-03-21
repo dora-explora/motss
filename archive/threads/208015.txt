@@ -17,6 +17,3 @@ Sam
 
 uucp:  {ut-sally,ut-ngp,noao,charm}!utastro!pso
 arpa:  pso@ut-ngp or pso@ut-sally
-
------------------------------------------------------------------
-

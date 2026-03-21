@@ -29,6 +29,3 @@ with connectivity.  That doesn't mean sending 'this is a test message'.
 Steve Dyer
 dyer@harvard.HARVARD.EDU
 {linus,wanginst,bbnccv,harvard,ima,ihnp4}!spdcc!dyer
-
------------------------------------------------------------------
-

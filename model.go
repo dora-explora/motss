@@ -26,6 +26,7 @@ type model struct {
 	thread string
 	width int
 	height int
+	intro string
 }
 
 func initialModel() model {
@@ -38,16 +39,16 @@ func initialModel() model {
 		thread: "",
 		width: 150,
 		height: 50,
+		intro: "",
 	}
 }
 
-func loadDirectory() tea.Msg {
-	path := "./archive/directory.txt"
-	contents, error := os.ReadFile(path)
-	if error != nil {
-		panic(error)
-	}
-	return dirMsg(string(contents))
+func loadInit() tea.Msg {
+	directory, error := os.ReadFile("./archive/directory.txt")
+	if error != nil { panic(error) }
+	intro, error := os.ReadFile("./intro.txt")
+	if error != nil { panic(error) }
+	return initMsg([]string{string(directory), string(intro)})
 }
 
 func processDirectory(str string) []thread {
@@ -70,7 +71,7 @@ func processDirectory(str string) []thread {
 	return threads
 }
 
-type dirMsg string
+type initMsg []string
 
 func loadThread(id int) tea.Cmd {
 	return func() tea.Msg {

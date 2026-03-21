@@ -64,6 +64,3 @@ eyes open to the possible problems and ethical dilemmas.
 /Steve Dyer
 {harvard,seismo}!bbnccv!bbncc5!sdyer
 sdyer@bbncc5.ARPA
-
------------------------------------------------------------------
-

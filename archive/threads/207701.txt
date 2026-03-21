@@ -19,6 +19,3 @@ in Texas, Colorado, and Arizona).
 
 Rob Bernardo, Pacific Bell, San Francisco, California
 {ihnp4,ucbvax,cbosgd,decwrl,amd70,fortune,zehntel}!dual!ptsfa!rob
-
------------------------------------------------------------------
-

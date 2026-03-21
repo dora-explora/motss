@@ -55,6 +55,3 @@ I would also prefer this battlefield moved out of net.motss to another group.
 
 Rob Bernardo, Pacific Bell, San Francisco, California
 {ihnp4,ucbvax,cbosgd,decwrl,amd70,fortune,zehntel}!dual!ptsfa!pbauae!rob
-
------------------------------------------------------------------
-

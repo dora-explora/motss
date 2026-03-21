@@ -41,6 +41,3 @@ but I dont remember when.
             Software Development Group, U. of Waterloo
             Waterloo, Ontario, Canada.  N2L 3G1  (+1 519) 885 1211
             {ihnp4,decvax,allegra,utzoo}!watmath!watbun!kgdykes
-
------------------------------------------------------------------
-

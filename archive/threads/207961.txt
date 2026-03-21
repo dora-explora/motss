@@ -66,6 +66,3 @@ hostile straights".
 
 JSol@Bbncca (Internet)
 {decvax, wjh12, linus}!bbncca!jsol
-
------------------------------------------------------------------
-

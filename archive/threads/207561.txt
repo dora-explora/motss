@@ -17,6 +17,3 @@ put it down until later in the evening.
 /Steve Dyer
 {decvax,linus,ima,ihnp4}!bbncca!sdyer
 sdyer@bbnccv.ARPA
-
------------------------------------------------------------------
-

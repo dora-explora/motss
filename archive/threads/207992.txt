@@ -60,6 +60,3 @@ as anything.
 David Schwab
 Indiana University
 ...ihnp4!inuxc!iuvax!schwab
-
------------------------------------------------------------------
-

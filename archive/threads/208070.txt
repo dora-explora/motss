@@ -218,6 +218,3 @@ Good luck,
 /Steve Dyer
 {decvax,linus,ima}!bbncca!sdyer
 sdyer@bbncca.ARPA
-
------------------------------------------------------------------
-

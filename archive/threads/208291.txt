@@ -88,6 +88,3 @@ a movie more than 50 years old.
 /Steve Dyer
 decvax!bbncca!sdyer
 sdyer@bbncca
-
------------------------------------------------------------------
-

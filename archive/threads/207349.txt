@@ -242,6 +242,3 @@ mce@ucsfcgl.UUCP (Mark McEntee%CGL)
 >organizations.  If you can lessen dependence on a S.O. for
 
 What is an S.O?
-
------------------------------------------------------------------
-

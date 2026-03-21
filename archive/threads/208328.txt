@@ -29,6 +29,3 @@ in the concrete.
 Prentiss Riddle
 {ihnp4,seismo,ctvax}!ut-sally!riddle
 riddle@ut-sally.UUCP
-
------------------------------------------------------------------
-

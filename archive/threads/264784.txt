@@ -10,6 +10,3 @@ was unread and lost in the crash.
 Steve Dyer
 dyer@ursa-major.spdcc.com aka {ima,harvard,rayssd,linus,m2c}!spdcc!dyer
 dyer@arktouros.mit.edu, dyer@hstbme.mit.edu
-
------------------------------------------------------------------
-

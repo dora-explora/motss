@@ -11,6 +11,3 @@ Jim Haungs -- {decvax,linus}!wivax!haungs  -- Wang Institute
               Wang Laboratories, Mailstop 1379
               1 Industrial Avenue
               Lowell, MA  01851               (617) 967-6430
-
------------------------------------------------------------------
-

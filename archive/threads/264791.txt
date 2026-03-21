@@ -51,6 +51,3 @@ hellerst@husc4.HARVARD.EDU (Joe Hellerstein)
 strausd@romana.cs.orst.edu (Douglas E. Strauss)
 12/20/88
 (message was not found)
-
------------------------------------------------------------------
-

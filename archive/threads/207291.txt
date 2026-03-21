@@ -293,6 +293,3 @@ on@hpda.UUCP (Owen Rowley)
 flaps@utcs.uucp (Alan J Rosenthal)
 12/20/85
 (message was not found)
-
------------------------------------------------------------------
-

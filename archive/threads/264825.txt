@@ -13,6 +13,3 @@ keep trying).
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Henry Mensch     |   XXXXXXXXX XXXXXX  | XXX/XXXXXXX XXXXXX
 henry@athena.mit.edu          ..!mit-eddie!mit-athena!henry
-
------------------------------------------------------------------
-

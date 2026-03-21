@@ -33,6 +33,3 @@ of 18 December 1983:
 					Morris M. Keesan
 					{decvax,linus,wjh12}!bbncca!keesan
 					keesan @ BBN-UNIX.ARPA
-
------------------------------------------------------------------
-

@@ -17,6 +17,3 @@ ROLL:CONRAN
 {decvax, ucbvax, allegra}!decwrl!dec-rhea!dec-roll!Conran
 Conran%roll.DEC@decwrl.ARPA
 Conran%roll.DEC@Purdue-Merlin.ARPA
-
------------------------------------------------------------------
-

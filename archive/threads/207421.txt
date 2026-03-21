@@ -34,6 +34,3 @@ do I make any money off of it. ]
    CCA Uniworks, Inc.              emacs!joe@cca-unix.ARPA
    20 William St.
    Wellesley, MA  02181            (617) 235-2600
-
------------------------------------------------------------------
-

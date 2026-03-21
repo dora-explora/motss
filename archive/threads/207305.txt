@@ -158,6 +158,3 @@ on@hpda.UUCP (Owen Rowley)
 sdyer@bbncc5.UUCP (Steve Dyer)
 12/02/85
 (message was not found)
-
------------------------------------------------------------------
-

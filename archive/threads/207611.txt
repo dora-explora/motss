@@ -35,6 +35,3 @@ j.r.         {allegra,seismo}!rochester!ritcv!jrc
 p.s.  Isn't it really a shame that with all of the advances that we have made
 in the last few years, my initial reaction to the announcement is, "Oh boy,
 isn't that just great!"
-
------------------------------------------------------------------
-

@@ -28,6 +28,3 @@ killed.
 				UUCP:	ihnp4!mtgzy!ecl
 				ARPA:	mtgzy!ecl@topaz.rutgers.edu
 Two men look out through the same bars; one sees mud, and one the stars.--Wilde
-
------------------------------------------------------------------
-

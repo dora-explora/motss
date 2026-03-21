@@ -11,6 +11,3 @@ WHAT IS YOUR NAME?			Rich Rosen
 WHAT IS YOUR *OLD* NET ADDRESS?		{ihnp4,harpo,allegra}!pyuxn!rlr
 WHAT IS YOUR *NEW* NET ADDRESS?		{ihnp4,harpo,allegra}!pyuxd!rlr
 ALL RIGHT, OFF YOU GO!                     (AS OF 10/14/84)   -----
-
------------------------------------------------------------------
-

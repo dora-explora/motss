@@ -65,6 +65,3 @@ larry kolodney (The Devil's Advocate)
 UUCP: ...{ihnp4, decvax!genrad}!mit-eddie!lkk
 
 ARPA: lkk@mit-mc
-
------------------------------------------------------------------
-

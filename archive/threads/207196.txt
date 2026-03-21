@@ -13,6 +13,3 @@ kdavis@well.UUCP (Ken Davis)
 Ken Davis  584 Castro Street  San Francisco, CA 94114 (W6RFN)
 (kdavis@well.UUCP)      (kdavis@optis-pent.ARPA)
 Conferences: net.unix, net.unix-wizards, net.news, net.motss
-
------------------------------------------------------------------
-

@@ -6,6 +6,3 @@ A sigh of relief...
 Steve Dyer
 dyer@harvard.harvard.edu
 dyer@spdcc.COM aka {ihnp4,harvard,husc6,linus,ima,bbn,m2c}!spdcc!dyer
-
------------------------------------------------------------------
-

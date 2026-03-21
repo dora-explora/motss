@@ -10,6 +10,3 @@ trust-busters won, and Parker Brothers sued its creator.
 		<_Jym_>
 
 | Jym Dyer | Nashua, NH | ...{allegra,decvax,ucbvax}!decwrl!rhea!vaxuum!dyer |
-
------------------------------------------------------------------
-

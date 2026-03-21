@@ -117,6 +117,3 @@ passionate discussion about essentials.
 /Steve Dyer
 {decvax,linus,ima}!bbncca!sdyer
 sdyer@bbncca.ARPA
-
------------------------------------------------------------------
-

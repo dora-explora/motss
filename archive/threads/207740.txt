@@ -18,6 +18,3 @@ what we are doing!
                 Software Development Group, U. of Waterloo
                 Waterloo, Ontario, Canada.  N2L 3G1
                 {clyde,utzoo}!watmum!watmath!water!watbun!kgdykes
-
------------------------------------------------------------------
-

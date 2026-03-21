@@ -355,6 +355,3 @@ Mark Shoemaker					/dev/shoe
 
 The way to do is to be.
 	-- Lao Tzu
-
------------------------------------------------------------------
-

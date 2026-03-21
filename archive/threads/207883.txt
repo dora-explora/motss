@@ -81,6 +81,3 @@ rrizzo@bbncca.ARPA (Ron Rizzo)
 albrecht@bsdgvax.UUCP (Tom Albrecht)
 10/11/84
 (message was not found)
-
------------------------------------------------------------------
-

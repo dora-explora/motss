@@ -41,6 +41,3 @@ context:
 JSol@Usc-Eclc/JSol@Bbncca (Arpa)
 JSol@Usc-Eclb/JSol@Bnl (Milnet)
 {decvax, wjh12, linus}!bbncca!jsol
-
------------------------------------------------------------------
-

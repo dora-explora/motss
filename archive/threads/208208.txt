@@ -74,6 +74,3 @@ either of these books, or on the subject in general.
 
 	{allegra,seismo}!rochester!ur-msbvax!gst
 	gst@rochester.arpa
-
------------------------------------------------------------------
-

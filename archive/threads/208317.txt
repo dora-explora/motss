@@ -62,6 +62,3 @@ however, is something which should most vigorously be condemned; in my opinion,
 they should not be possible.
 
 --Jim Bray	UUCP decvax!bbncca!jbray, Arpa jbray@bbncca
-
------------------------------------------------------------------
-

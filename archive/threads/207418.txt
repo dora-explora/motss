@@ -217,6 +217,3 @@ better.
 -- 
 Sophie Quigley
 {allegra|decvax|ihnp4|linus|watmath}!utzoo!mnetor!sophie
-
------------------------------------------------------------------
-

@@ -159,6 +159,3 @@ authors' names:  Armando Villadores, Herman Padilla, Reinaldo Arena.
 		"The people united shall never be defeated."
 
 		Ron Rizzo
-
------------------------------------------------------------------
-

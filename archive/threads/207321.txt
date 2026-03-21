@@ -24,6 +24,3 @@ I receive.
 	--Per Bothner
 ARPA: Bothner@su-score	UUCP: ...!{decwrl,ucbvax}!glacier!pescadero!bothner
 Bothner, Computer Science Dept, Stanford University, Stanford CA 94305
-
------------------------------------------------------------------
-

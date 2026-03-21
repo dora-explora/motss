@@ -44,6 +44,3 @@ party is open to all different kinds of people and philosophies."
 			   msimpson@bbn-unix (ARPA)
 			   {decvax,ima,linus,wjh12}!bbncca!msimpson (Usenet)
 			   617-497-2819 (Ma Bell)
-
------------------------------------------------------------------
-

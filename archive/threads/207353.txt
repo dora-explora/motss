@@ -36,6 +36,3 @@ hearing.
 
 \bob	usenet: decwrl!dec-rhea!dec-vaxwrk!peterson
 /\	arpa:	peterson%vaxwrk.DEC@decwrl.ARPA
-
------------------------------------------------------------------
-

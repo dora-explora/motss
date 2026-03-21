@@ -23,6 +23,3 @@ edgement around the middle of the voting period.
 David Goldfarb   goldfarb@ocf.berkeley.edu  !ucbvax!ocf!goldfarb
 Disclaimer: the above opinions are my own. The University of California
 is not responsible for them.
-
------------------------------------------------------------------
-

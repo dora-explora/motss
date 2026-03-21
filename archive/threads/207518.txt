@@ -40,6 +40,3 @@ true?
 				Gerry Fisher
  
 ...decvax!decwrl!dec-rhea!dec-smiley!fisher
-
------------------------------------------------------------------
-

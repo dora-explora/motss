@@ -21,6 +21,3 @@ this type enacted so that they can be immediately judged unconstitutional.
 /Steve Dyer
 {decvax,linus,ima,ihnp4}!bbncca!sdyer
 sdyer@bbncca.ARPA
-
------------------------------------------------------------------
-

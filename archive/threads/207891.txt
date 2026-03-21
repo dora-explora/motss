@@ -21,6 +21,3 @@ Henry C. Mensch                 | Purdue University Computing Center
             " . . You'd better smile when they watch you,
                   smile like you're in control. . ."
                                  -- *Smile*, Was (Not Was)
-
------------------------------------------------------------------
-

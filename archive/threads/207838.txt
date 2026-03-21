@@ -525,6 +525,3 @@ Further exposition would require more knowledge of the particulars than I
 have.
 
 				Jeff Hull
-
------------------------------------------------------------------
-

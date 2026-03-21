@@ -34,6 +34,3 @@ Still, one should realize that privacy in UUCP mail is, at best, illusory.
 
 /Steve Dyer
 decvax!wivax!dyer
-
------------------------------------------------------------------
-

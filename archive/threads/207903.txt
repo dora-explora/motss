@@ -87,6 +87,3 @@ and simply do such transference across group boundaries -- he needs
 a "transfer" command to use as he reads net.motss, which will simply
 take the just-read existing posting, replace the "Newsgroups:" contents
 with "mod.motss", and copy it to his host's "mod.motss" directory.)
-
------------------------------------------------------------------
-

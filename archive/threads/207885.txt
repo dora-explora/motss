@@ -25,6 +25,3 @@ percent of the gay male population in San Francisco.
  Phil Ngai (408) 982-6554
  UUCPnet: {ucbvax,decwrl,ihnp4,allegra,intelca}!amd!phil
  ARPAnet: amd!phil@decwrl.ARPA
-
------------------------------------------------------------------
-

@@ -133,6 +133,3 @@ Stephen Perelgut
 	    Computer Systems Research Institute    University of Toronto
 	    Usenet:	{linus, ihnp4, allegra, decvax, floyd}!utcsrgv!perelgut
 	    CSNET:	perelgut@Toronto
-
------------------------------------------------------------------
-

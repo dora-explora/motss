@@ -37,6 +37,3 @@ post it there.
 Maurice
 
 {decvax,sdcrdcf,hplabs,ucbvax}!trwrb!suhre
-
------------------------------------------------------------------
-

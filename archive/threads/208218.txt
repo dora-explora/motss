@@ -21,6 +21,3 @@ without supporting evidence from other sources.
 Robert Wahl
 Aurora, Colorado
 {hao,nbires,allegra}!denelcor!rob
-
------------------------------------------------------------------
-

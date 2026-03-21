@@ -39,6 +39,3 @@ Russian composers.
             - Ken Dykes
               Software Development Group, University of Waterloo
               Waterloo, Ontario, Ca<>
-
------------------------------------------------------------------
-

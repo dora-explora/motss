@@ -54,6 +54,3 @@ Epstein says.                                                    --J. Silberner
 Morris M. Keesan
 keesan@bbn-unix.ARPA
 {decvax,ihnp4,etc.}!bbncca!keesan
-
------------------------------------------------------------------
-

@@ -104,6 +104,3 @@ meaningful--or meaningless--the results really are.
 		-Ed Hall
 		decvax!randvax!edhall
 		edhall@rand-unix.ARPA
-
------------------------------------------------------------------
-

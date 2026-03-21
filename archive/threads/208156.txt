@@ -73,6 +73,3 @@ Transcribed from Clothed with the Sun by:
 Steve Nahm
 sxnahm@bbn-unix.arpa (ARPA)
 {decvax,ima,linus,wjh12}!bbncca!sxnahm (Usenet)
-
------------------------------------------------------------------
-

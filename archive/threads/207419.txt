@@ -224,6 +224,3 @@ methods of avoiding exposure to the virus.
 /Steve Dyer
 {harvard,seismo}!bbnccv!bbncc5!sdyer
 sdyer@bbncc5.ARPA
-
------------------------------------------------------------------
-

@@ -24,6 +24,3 @@ some hope of separating the wheat from the chaff.
 Dave Thompson		     uucp:   {ihnp4|hplabs|psivax}!csun!dlt
 CSUN Computer Center         phone:  (818) 885-2790
 18111 Nordhoff Street, Northridge, CA 91330
-
------------------------------------------------------------------
-

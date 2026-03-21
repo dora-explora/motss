@@ -58,6 +58,3 @@ Betsy Perry
 UUCP: {decvax|linus|cornell}!dartvax!betsy
 CSNET: betsy@dartmouth
 ARPA:  betsy%dartmouth@csnet-relay
-
------------------------------------------------------------------
-

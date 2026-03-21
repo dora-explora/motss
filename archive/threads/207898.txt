@@ -15,6 +15,3 @@ I wouldn't have it any other way.
 /Steve Dyer
 {decvax,linus,ima,ihnp4}!bbncca!sdyer
 sdyer@bbncca.ARPA
-
------------------------------------------------------------------
-

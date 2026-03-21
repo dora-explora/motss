@@ -51,6 +51,3 @@ are inherently gender specific. Here again, usage seems to vary.
 
 	--Per Bothner
 ARPA: Bothner@su-score	UUCP: ..{decwrl,ucbvax}!shasta!bothner
-
------------------------------------------------------------------
-

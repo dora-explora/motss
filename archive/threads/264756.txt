@@ -20,6 +20,3 @@ or orstcs!nomad, tks)
 home: castle!nomad or nomad@castle.org      - Lee "nomad" Damon -      \
 alt: nomad@cs.orst.edu or orstcs!nomad                                  \
                                                                        / \
-
------------------------------------------------------------------
-

@@ -234,6 +234,3 @@ Gordon A. Moffett			...!{ihnp4,hplabs,amd,nsc}!amdahl!gam
 [ The opinons expressed in this article are completely fictious.  Any
   similarity between these opinions and the opinions of any persons
   living or dead is entirely coincidental. ]
-
------------------------------------------------------------------
-

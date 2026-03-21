@@ -292,6 +292,3 @@ ka@hou3c.UUCP (Kenneth Almquist)
    relationships can be very damaging.
 
 					Kenneth Almquist
-
------------------------------------------------------------------
-

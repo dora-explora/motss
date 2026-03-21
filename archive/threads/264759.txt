@@ -23,6 +23,3 @@ Also, not much "sci.bio" in this, so followups to soc.motss]
  ( Alan Filipski, GTX Corp, 8836 N. 23rd Avenue, Phoenix, Arizona 85021, USA )
  ( {decvax,hplabs,uunet!amdahl,nsc}!sun!sunburn!gtx!al         (602)870-1696 )
   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
------------------------------------------------------------------
-

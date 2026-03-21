@@ -35,6 +35,3 @@ or more information please feel free to contact Neil S. Wiffen at
 Steve Ryder, Independent Studies, University of Waterloo
              Waterloo, Ontario, CANADA, N2L 3G1. (519) 885-1211 Ext. 2352       {allegra,decvax,inhp4,utzoo}!watmath!watdcsu!ryders          RYDERS@WATDCSU.UUCP
 "Knowledge is proud that he has learn'd so much;                                 Widsom is humble that he knows no more."         -William Cowper             
-
------------------------------------------------------------------
-

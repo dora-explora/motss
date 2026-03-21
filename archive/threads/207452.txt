@@ -26,6 +26,3 @@ separatism...
 
 	--Per Bothner
 Bothner@su-score.ARPA	UUCP: ...!{decwrl,ucbvax}!glacier!navajo!bothner
-
------------------------------------------------------------------
-

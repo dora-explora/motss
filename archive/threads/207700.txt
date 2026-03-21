@@ -18,6 +18,3 @@ to just affiliate ourselves with the state-wide association.
 
 Rob Bernardo, Pacific Bell, San Francisco, California
 {ihnp4,ucbvax,cbosgd,decwrl,amd70,fortune,zehntel}!dual!ptsfa!rob
-
------------------------------------------------------------------
-

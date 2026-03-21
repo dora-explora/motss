@@ -16,6 +16,3 @@ root) to the English word "faggot" meaning bundle, or bundle of sticks.
 					Morris M. Keesan
 					{decvax,linus,wjh12,ima}!bbncca!keesan
 					keesan @ BBN-UNIX.ARPA
-
------------------------------------------------------------------
-

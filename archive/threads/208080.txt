@@ -72,6 +72,3 @@ Paul Dubuc 		{cbosgd, ihnp4} !cbscc!pmd
 sdyer@bbncca.ARPA (Steve Dyer)
 06/30/84
 (message was not found)
-
------------------------------------------------------------------
-

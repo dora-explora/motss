@@ -37,6 +37,3 @@ against as glacial and stodgy an organization as Harvard.
 /Steve Dyer
 {harvard,seismo}!bbnccv!bbncc5!sdyer
 sdyer@bbncc5.ARPA
-
------------------------------------------------------------------
-

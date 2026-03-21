@@ -182,6 +182,3 @@ child. I'm not sure I believe that, but at least it provides food for thought.
 -- 
 {ucbvax!hplabs | allegra!nbires | decvax!kpno | harpo!seismo | ihnp4!kpno}
        		        !hao!woods
-
------------------------------------------------------------------
-

@@ -25,6 +25,3 @@ CSDF@MIT-VAX
 "Ordinary F___ing people -- I hate 'em. Ordinary people spend their
 	lives avoiding tense situations; repo man spends his life
 	getting into tense situations."
-
------------------------------------------------------------------
-

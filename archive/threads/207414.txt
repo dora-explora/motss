@@ -53,6 +53,3 @@ distinct from the Church hierarchy.
 /Steve Dyer
 {harvard,seismo}!bbnccv!bbncc5!sdyer
 sdyer@bbncc5.ARPA
-
------------------------------------------------------------------
-

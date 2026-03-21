@@ -118,6 +118,3 @@ Flame off...simmer....
 
 UUCP: decwrl!dec-rhea!dec-pneuma!mason
 ARPA: mason%pneuma.DEC@decwrl.ARPA
-
------------------------------------------------------------------
-

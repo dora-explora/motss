@@ -236,6 +236,3 @@ it starts in the cities and only later is accepted in general.
 /Steve Dyer
 {decvax,linus,ima}!bbncca!sdyer
 sdyer@bbncca.ARPA
-
------------------------------------------------------------------
-

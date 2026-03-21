@@ -88,6 +88,3 @@ are completely intolerant to this.
 /Steve Dyer
 {decvax,linus,ima}!bbncca!sdyer
 sdyer@bbncca.ARPA
-
------------------------------------------------------------------
-

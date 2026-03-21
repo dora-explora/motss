@@ -37,6 +37,3 @@ At least that's not what I fought for.
 -- 
 John Quarterman, CS Dept., University of Texas, Austin, Texas
 {ihnp4,seismo,kpno,ctvax}!ut-sally!jsq, jsq@ut-sally.{ARPA,UUCP}
-
------------------------------------------------------------------
-

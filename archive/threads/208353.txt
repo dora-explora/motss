@@ -12,6 +12,3 @@ Boston, MA 02217
 				   decvax!bbncca!msimpson (UUCP)
 				   msimpson@bbn-unix (ARPA)
 				   617-462-9847 (Ma Bell)
-
------------------------------------------------------------------
-

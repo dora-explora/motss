@@ -22,6 +22,3 @@ jrc@ritcv.UUCP (James R. Carbin)
 My thanks to all,
 
 j.r.       {allegra,seismo}!rochester!ritcv!jrc
-
------------------------------------------------------------------
-

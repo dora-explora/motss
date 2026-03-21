@@ -69,6 +69,3 @@ up547413042@ucdavis.UUCP (0048)
 joe@emacs.UUCP (Joe Chapman)
 11/19/85
 (message was not found)
-
------------------------------------------------------------------
-

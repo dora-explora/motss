@@ -82,6 +82,3 @@ Of course, this is at the level of Antropology Today, and shouldn't
 be taken too seriously.
 	--Per Bothner
 ARPA: Bothner@su-score		UUCP: ...!{decwrl,ucbvax}!shasta!bothner
-
------------------------------------------------------------------
-

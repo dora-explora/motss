@@ -17,6 +17,3 @@ joe
 -- 
 Joe Givens, Calif State Univ Northridge, School of Engineering and Comp Sci
 uucp: {sdcrdcf, ihnp4, hplabs, ttidca, psivax, csustan}!csun!afcscjoe
-
------------------------------------------------------------------
-

@@ -10,6 +10,3 @@ Cool out guys....or take it to /dev/null, huh???
 
 
 Ross M. Greenberg  @ NYU   ---->  allegra!cmcl2!acf4!greenber  <----
-
------------------------------------------------------------------
-

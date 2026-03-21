@@ -31,6 +31,3 @@ through contributing my time as a volunteer.
 /Steve Dyer
 {decvax,linus,ima,ihnp4}!bbncca!sdyer
 sdyer@bbnccv.ARPA
-
------------------------------------------------------------------
-

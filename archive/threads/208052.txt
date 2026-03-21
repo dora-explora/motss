@@ -34,6 +34,3 @@ ARPA:	eirikur@dec-marlboro.arpa
 
 
 Thu 12-Jul-1984 16:21 Marlborough uncorrected time.
-
------------------------------------------------------------------
-

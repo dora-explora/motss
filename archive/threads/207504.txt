@@ -31,6 +31,3 @@ Pax vobiscum.
 rlr@pyuxd.UUCP (Rich Rosen)
 07/29/85
 (message was not found)
-
------------------------------------------------------------------
-

@@ -60,6 +60,3 @@ dgreen@lanai.cs.ucla.edu (Dan R. Greening)
 bob@ozdaltx.UUCP (Bob Culmer)
 02/24/91
 (message was not found)
-
------------------------------------------------------------------
-

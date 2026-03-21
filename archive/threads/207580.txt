@@ -31,6 +31,3 @@ that matter a Y).
 /Steve Dyer
 {decvax,linus,ima,ihnp4}!bbncca!sdyer
 sdyer@bbnccv.ARPA
-
------------------------------------------------------------------
-

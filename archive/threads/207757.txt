@@ -25,6 +25,3 @@ mailbox at Athena.
 
 					decvax!athena!gerber
 					gerber%charon@MIT-MC.ARPA
-
------------------------------------------------------------------
-

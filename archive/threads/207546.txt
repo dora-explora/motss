@@ -240,6 +240,3 @@ the address is, as always, {decvax,ihnp4,ima,linus,bbnccv}!bbncca!motss.
 /Steve Dyer
 {decvax,linus,ima,ihnp4}!bbncca!sdyer
 sdyer@bbnccv.ARPA
-
------------------------------------------------------------------
-

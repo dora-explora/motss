@@ -607,6 +607,3 @@ dbrown@watarts.UUCP (Dave Brown)
 to the net.misc section?
 
 References: <1299@bbncca.ARPA>
-
------------------------------------------------------------------
-

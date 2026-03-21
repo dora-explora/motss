@@ -65,6 +65,3 @@ components (as do most behaviours), I have little or no patience with
 studies that attempt to find causes. Why not attempt to correlate 
 hormone response with socioeconomic status, political views, or favourite
 programming language?  I have my own theories about Cobol programming.
-
------------------------------------------------------------------
-

@@ -11,6 +11,3 @@ problem ASAP.
 /Steve Dyer
 {harvard,seismo}!bbncc5!sdyer
 sdyer@bbncc5.ARPA
-
------------------------------------------------------------------
-

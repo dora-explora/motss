@@ -75,6 +75,3 @@ USFail:    DEC, MR03-1/K20, 2 Iron Way, Marlborough, MA  01752
 colonel@gloria.UUCP (George Sicherman)
 07/27/84
 (message was not found)
-
------------------------------------------------------------------
-

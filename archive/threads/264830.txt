@@ -17,6 +17,3 @@ Contact:			Will Doherty
 				415-961-1013
 				UUCP: ...sun!oscar!wild
 				ARPA: "oscar!wild"@sun.com
-
------------------------------------------------------------------
-

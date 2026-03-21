@@ -30,6 +30,3 @@ Ken Arndt
 rlr@pyuxd.UUCP (Rich Rosen)
 12/10/84
 (message was not found)
-
------------------------------------------------------------------
-

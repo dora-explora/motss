@@ -12,6 +12,3 @@ Democratic Convention.  Show them folks that we really are here!
 
 Richard Brower		Fortune Systems
 {ihnp4,ucbvax!amd70,sri-unix,hpda,harpo}!fortune!brower
-
------------------------------------------------------------------
-

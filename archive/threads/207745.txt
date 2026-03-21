@@ -17,6 +17,3 @@ satisfy my curiosity by telling me what "motss" stands for.
    CIMS, New York University
    New York, NY 10012
    ...allegra!cmcl2!acf4!rjl7498
-
------------------------------------------------------------------
-

@@ -46,6 +46,3 @@ END OF POSTED ARTICLE
 /Steve Dyer
 {decvax,linus,ima}!bbncca!sdyer
 sdyer@bbncca.ARPA
-
------------------------------------------------------------------
-

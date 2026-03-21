@@ -30,6 +30,3 @@ Finally, how would Brunson know if he were selling his house to
 /Steve Dyer
 {decvax,linus,ima}!bbncca!sdyer
 sdyer@bbncca.ARPA
-
------------------------------------------------------------------
-

@@ -30,6 +30,3 @@ month or two, so talk to your sysadmin if you have problems.  Thanks.
 
  _D_a_n_ _G_r_e_e_n_i_n_g   _I_n_t_e_r_n_e_t  dgreen@CS.UCLA.EDU
                 _U_U_C_P     ..!{sdcrdcf,ihnp4,trwspp,ucbvax}!ucla-cs!dgreen
-
------------------------------------------------------------------
-

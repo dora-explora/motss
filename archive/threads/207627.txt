@@ -93,6 +93,3 @@ spoken up yet? (or do you all come in "jumbo", "super-jumbo" and
 -- 
 Sophie Quigley
 {allegra|decvax|ihnp4|linus|watmath}!utzoo!mnetor!sophie
-
------------------------------------------------------------------
-

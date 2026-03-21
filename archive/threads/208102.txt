@@ -220,6 +220,3 @@ Chris Minson
 aeq@pucc-h (Jeff Sargent)
 06/22/84
 (message was not found)
-
------------------------------------------------------------------
-

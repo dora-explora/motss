@@ -48,6 +48,3 @@ dis2@houxm.UUCP
      As an example of the adaptability and popularity of the lambda,
      one person insisted that the original pillory at the Mineshaft
      was lambda shaped!!
-
------------------------------------------------------------------
-

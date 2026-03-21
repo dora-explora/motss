@@ -182,6 +182,3 @@ tan@ihlpg.UUCP (Bill Tanenbaum)
 ems@amdahl.UUCP (ems)
 10/03/85
 (message was not found)
-
------------------------------------------------------------------
-

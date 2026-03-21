@@ -18,6 +18,3 @@ who are not LP members will also vote for Bergland.
 	{lbl-csam, purdue, cmcl2, ihnp4}!lanl!unmvax!cliff
 	{csu-cs, pur-ee, convex, gatech, ucbvax}!unmvax!cliff
 	4744 Trumbull S.E. - Albuquerque  NM  87108 - (505) 265-9143
-
------------------------------------------------------------------
-

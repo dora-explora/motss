@@ -33,6 +33,3 @@ BRIAN: "No, you've got it all wrong!  You don't have to follow me!  You don't
         have to follow ANYONE!  You've got to think for yourselves! You are
 	all individuals!"
 CROWD: "YES, WE ARE ALL INDIVIDUALS!"			Rich Rosen    pyuxd!rlr
-
------------------------------------------------------------------
-

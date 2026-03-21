@@ -94,6 +94,3 @@ the necessary information.
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Henry Mensch     |   Technical Writer  | MIT/Project Athena
 henry@athena.mit.edu          ..!mit-eddie!mit-athena!henry
-
------------------------------------------------------------------
-

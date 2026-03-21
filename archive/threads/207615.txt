@@ -47,6 +47,3 @@ UUCP:  philabs!exquisit!{brian,root}
 maa@ssc-bee.UUCP (Mark A Allyn)
 05/01/85
 (message was not found)
-
------------------------------------------------------------------
-

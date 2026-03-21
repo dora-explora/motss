@@ -58,6 +58,3 @@ magazines.
 
 --- Prentiss Riddle ("Aprendiz de todo, maestro de nada.")
 --- {ihnp4,seismo,gatech,ctvax}!ut-sally!riddle
-
------------------------------------------------------------------
-

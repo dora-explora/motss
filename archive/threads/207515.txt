@@ -16,6 +16,3 @@ kgdykes@watbun.UUCP
                 Waterloo, Ontario, Canada.  N2L 3G1
                 {clyde,utzoo}!watmath!watbun!kgdykes
                 kgdykes%watbun%waterloo.csnet@csnet-relay.arpa
-
------------------------------------------------------------------
-

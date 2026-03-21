@@ -12,6 +12,3 @@ Bev
 
 ==>  Beverly Schwartz                       BBN Corporation                 <==
 ==>  e-mail: bschwart@bbn.com               Cambridge, Massachusetts 02138  <==
-
------------------------------------------------------------------
-

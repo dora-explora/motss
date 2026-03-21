@@ -24,6 +24,3 @@ notes group) but how he says it.
 -David Schwab
 ...ihpn4!inuxc!iuvax!schwab
 Indiana University
-
------------------------------------------------------------------
-

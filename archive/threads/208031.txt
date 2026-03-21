@@ -464,6 +464,3 @@ Paul DuBois		{allegra,ihnp4,seismo}!uwvax!uwmacc!dubois
 
 And he is before all things, and by him all things consist...
 						Colossians 1:17
-
------------------------------------------------------------------
-

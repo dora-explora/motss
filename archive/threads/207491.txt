@@ -48,6 +48,3 @@ error in copying facts from news articles.)
 | ihnp4!ptsfa!rob                                        |
 | {nsc,ucbvax,decwrl,amd,fortune,zehntel}!dual!ptsfa!rob |
 +--------------------------------------------------------+
-
------------------------------------------------------------------
-

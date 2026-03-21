@@ -45,6 +45,3 @@ read.  If you can find it read it.
 \bob	usenet: decwrl!dec-rhea!dec-vaxwrk!peterson
 /\	arpa:	peterson%vaxwrk.DEC@decwrl.ARPA
 	arpa: 	@decwrl.ARPA:peterson@vaxwrk.DEC
-
------------------------------------------------------------------
-

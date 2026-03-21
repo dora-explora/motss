@@ -27,6 +27,3 @@ at the University of Illinois at Urbana-Champaign)
 Arpa: mcdaniel@uicsrd.csrd.uiuc.edu
 Csnet: mcdaniel%uicsrd@uiuc.csnet
 Usenet: ...{cmcl2|seismo|pur-ee|ihnp4|convex}!uiucdcs!uicsrd!mcdaniel
-
------------------------------------------------------------------
-

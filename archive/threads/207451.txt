@@ -245,6 +245,3 @@ implicit contempt for Qs of various hues."
 | ihnp4!ptsfa!rob                                        |
 | {nsc,ucbvax,decwrl,amd,fortune,zehntel}!dual!ptsfa!rob |
 +--------------------------------------------------------+
-
------------------------------------------------------------------
-

@@ -22,6 +22,3 @@ of the U.S.  Can anyone enlighten me?
 					Morris M. Keesan
 					{decvax,linus,wjh12,ima}!bbncca!keesan
 					keesan @ BBN-UNIX.ARPA
-
------------------------------------------------------------------
-

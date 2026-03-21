@@ -17,6 +17,3 @@ early spring, and it is wonderful to see new people and new issues appearing.
 /Steve Dyer
 {decvax,linus,ima}!bbncca!sdyer
 sdyer@bbncca.ARPA
-
------------------------------------------------------------------
-

@@ -78,6 +78,3 @@ rewarding.
 
 {allegra, cbosgd, decvax, ihnp4} !linus!hlh				{UUCP}
 linus!hlh@mitre-bedford							{MIL}
-
------------------------------------------------------------------
-

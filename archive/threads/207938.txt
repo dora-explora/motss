@@ -10,6 +10,3 @@ Henry C. Mensch                 | Purdue University Computing Center
 {decvax|ucbvax|sequent|icalqa|inuxc|uiucdcs|ihnp4}!pur-ee!pucc-i!ag5
 --------------------------------------------------------------------
         "Ignorance is bliss, but it's revelation is not."
-
------------------------------------------------------------------
-

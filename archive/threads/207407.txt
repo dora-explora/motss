@@ -26,6 +26,3 @@ mail. (By default, I will remove names and addresses.)
 
 	--Per Bothner
 Bothner@su-score.arpa	...!{decwrl,ucbvax}!glacier!pescadero!bothner
-
------------------------------------------------------------------
-

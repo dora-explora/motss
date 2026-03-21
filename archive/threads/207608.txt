@@ -125,6 +125,3 @@ eric
 sdo@brunix.UUCP (Scott Oaks)
 05/06/85
 (message was not found)
-
------------------------------------------------------------------
-

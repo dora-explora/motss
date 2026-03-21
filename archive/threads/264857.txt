@@ -123,6 +123,3 @@ uucp: {...![arpa/uucp gateway (eg. ucbvax)]}!cycy@cmu-ri-isl1
 purely personal conduct is that, when it does interfere, the odds are that it
 interferes wrongly and in the wrong place."
 				-- John Stuart Mill in "On Liberty", 1859
-
------------------------------------------------------------------
-

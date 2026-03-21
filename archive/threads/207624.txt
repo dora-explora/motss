@@ -46,6 +46,3 @@ any more attention to them.
    MIT, or The Tech, MIT's only decent student newspaper.  Knowing the bugs
                in our readnews, they may not even be my own. 
                           **Caveat Emptor**
-
------------------------------------------------------------------
-

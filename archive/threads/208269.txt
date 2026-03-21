@@ -33,6 +33,3 @@ washrooms.
 /Steve Dyer
 decvax!bbncca!sdyer
 sdyer@bbncca
-
------------------------------------------------------------------
-

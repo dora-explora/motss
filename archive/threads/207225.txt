@@ -149,6 +149,3 @@ nature.
 Steve Stricklen
 AT&T Bell Laboratories
 ihnp4!ihlpa!strickln
-
------------------------------------------------------------------
-

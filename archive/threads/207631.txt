@@ -38,6 +38,3 @@ I think this is still a relatively uncharted area.
 					Brian Day
 
 UUCP:  philabs!exquisit!{brian, root}
-
------------------------------------------------------------------
-

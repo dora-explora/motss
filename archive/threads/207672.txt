@@ -26,6 +26,3 @@ Thank you.
                              UUCP:  {decvax allegra ihnp4 vax135 ...}!cornell!mf
                              ARPA:  mf@cornell-gvax
                              Bitnet: CRNLCS%MF
-
------------------------------------------------------------------
-

@@ -53,6 +53,3 @@ rap@oliven.UUCP (Robert A. Pease)
 
 					Robert A. Pease
     {hplabs|zehntel|fortune|ios|tolerant|allegra|tymix}!oliveb!oliven!rap
-
------------------------------------------------------------------
-

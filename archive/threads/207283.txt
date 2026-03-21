@@ -55,6 +55,3 @@ If they told you in the review who done it, why buy the book?
 
 		{ucbvax,decvax,decwrl,ihnp4}!sun!{,texsun!}tj
 		{ut-sally,convex,smu}!texsun!tj
-
------------------------------------------------------------------
-

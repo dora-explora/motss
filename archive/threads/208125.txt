@@ -181,6 +181,3 @@ only in passing.
 
 --johnc
      [ astrovax, linus, decvax, cornell ] ! dartvax ! johnc
-
------------------------------------------------------------------
-

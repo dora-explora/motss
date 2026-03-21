@@ -16,6 +16,3 @@ below.  Thank you.
 voice phone: +1 415 328 7425
 internet:    jim@llustig.palo-alto.ca.us
 uucp:        ...!{decwrl,mips,sgi}!llustig!jim
-
------------------------------------------------------------------
-

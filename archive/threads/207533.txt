@@ -95,6 +95,3 @@ Apple Computer, Inc.
 rlr@pyuxd.UUCP (Rich Rosen)
 07/10/85
 (message was not found)
-
------------------------------------------------------------------
-

@@ -22,6 +22,3 @@ Bye For Now.
 
 --johnc
      [ astrovax, linus, decvax, cornell ] !dartvax!johnc
-
------------------------------------------------------------------
-

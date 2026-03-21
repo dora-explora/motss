@@ -145,6 +145,3 @@ Ken Arndt
 gerber@mit-amt.MIT.EDU (Andrew S. Gerber)
 11/15/85
 (message was not found)
-
------------------------------------------------------------------
-

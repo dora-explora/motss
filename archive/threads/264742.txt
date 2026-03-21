@@ -17,6 +17,3 @@ Ciaran McHale      "I have some faults, but modesty isn't one of them."  ----
 Department of Computer Science, Trinity College, Dublin 2, Ireland.      \  /
 Telephone: +353-1-772941 ext 1538       FAX: +353-1-772204                \/
 Telex: 93782 TCD EI                     email: cjmchale@cs.tcd.ie
-
------------------------------------------------------------------
-

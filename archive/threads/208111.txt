@@ -53,6 +53,3 @@ alternatives are to awful to consider.
 
 Richard Brower		Fortune Systems
 {ihnp4,ucbvax!amd70,hpda,sri-unix,harpo}!fortune!brower
-
------------------------------------------------------------------
-

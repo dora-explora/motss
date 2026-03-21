@@ -63,6 +63,3 @@ jsq@ut-sally.ARPA, jsq@ut-sally.UUCP, {ihnp4,seismo,ctvax}!ut-sally!jsq
 rap@oliven.UUCP (Robert A. Pease)
 10/12/84
 (message was not found)
-
------------------------------------------------------------------
-

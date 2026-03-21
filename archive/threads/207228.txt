@@ -12,6 +12,3 @@ Name:   Richard Snell
 Mail:   Dept. Zoology, Univ. Toronto
         Toronto, Ontario, Canada    M5S 1A1
 UUCP:   {allegra,ihnp4,linus,decvax}!utzoo!snell
-
------------------------------------------------------------------
-

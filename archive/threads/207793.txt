@@ -185,6 +185,3 @@ Rick Keir -- MicroComputer Information Center, MACC
 1210 West Dayton St/U Wisconsin Madison/Mad WI 53706
 
 {allegra, ihnp4, seismo}!uwvax!uwmacc!rick
-
------------------------------------------------------------------
-

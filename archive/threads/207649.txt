@@ -48,6 +48,3 @@ ARPA:  mason%pneuma.DEC@decwrl.ARPA
 DISCLAIMER:  GLSB has nothing to do with my employer; my employer          
              probably feels the same way about GLSB     ;-}
 ************************************************************************* 
-
------------------------------------------------------------------
-

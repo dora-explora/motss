@@ -26,6 +26,3 @@ Anyone wanna confess? deny? blush?
 Stephen Perelgut    Computer Systems Research Group    University of Toronto
 	    Usenet:	{linus, ihnp4, allegra, decvax, floyd}!utcsrgv!perelgut
 	    ARPA:	utcsrgv!perelgut@UW-BEAVER
-
------------------------------------------------------------------
-

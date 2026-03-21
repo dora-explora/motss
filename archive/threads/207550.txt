@@ -110,6 +110,3 @@ a long drive to Mecca...
 
 	--Per Bothner
 ARPA: bothner@su-score.ARPA UUCP: {decwrl,ucbvax}!shasta!bothner
-
------------------------------------------------------------------
-

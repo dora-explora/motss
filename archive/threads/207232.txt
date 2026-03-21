@@ -259,6 +259,3 @@ Donn Seeley    University of Utah CS Dept    donn@utah-cs.arpa
 mhirsch@brahms.BERKELEY.EDU (Michael Hirsch)
 02/01/86
 (message was not found)
-
------------------------------------------------------------------
-

@@ -37,6 +37,3 @@ discussion about it could be warrented.
 |  gerber@mit-athena.MIT.EDU, gerber@mit-amt.MIT.EDU, gerber@mit-mc.MIT.EDU   |
 |  {decvax, mit-eddie}!mit-amt!gerber   {decvax, mit-eddie}!mit-athena!gerber |
 +-----------------------------------------------------------------------------+
-
------------------------------------------------------------------
-

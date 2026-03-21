@@ -94,6 +94,3 @@ discussion, offer to move it to a more appropriate newsgroup.
 /Steve Dyer
 {decvax,linus,ima,ihnp4}!bbncca!sdyer
 sdyer@bbncca.ARPA
-
------------------------------------------------------------------
-

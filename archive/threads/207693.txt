@@ -53,6 +53,3 @@ ho3@stat-l (Timothy Hall)
 						Department of Statistics
 						Purdue University
 						...inuxc!pur-ee!stat-l:ho3
-
------------------------------------------------------------------
-

@@ -32,6 +32,3 @@ environment?
 			   decvax!genrad!wjh12!bbncca!msimpson (UUCP)
 			   msimpson.bbn-unix@udel-relay (CSNET)
 			   617-497-2819 (Ma Bell)
-
------------------------------------------------------------------
-

@@ -41,6 +41,3 @@ snivelers, however 'thought-provoking' you might find them.
 -- 
 Steve Hartwell, Computer Science Lab, Stanford University
     {ucbvax,decvax}!decwrl!csl-vax!hartwell, hartwell@SU-Shasta.ARPA
-
------------------------------------------------------------------
-

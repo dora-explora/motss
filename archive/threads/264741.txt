@@ -17,6 +17,3 @@ Valerie Polichar
      {world}!ucsd!net1!valerie     	     valerie@net1.ucsd.edu
 
 			    UNIX guru-wannabe
-
------------------------------------------------------------------
-

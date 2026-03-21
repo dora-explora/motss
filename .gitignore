@@ -1,5 +1,6 @@
 .wakatime-project
 .ssh/
+build/
 
 # go-specific
 *.test

@@ -438,6 +438,3 @@ us can continue this off-line with whatever enthusiasm we can muster.
 /Steve Dyer
 {decvax,linus,ima}!bbncca!sdyer
 sdyer@bbncca.ARPA
-
------------------------------------------------------------------
-

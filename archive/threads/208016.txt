@@ -6,6 +6,3 @@ a .name in the root directory with Phil Karn's name in it.  That is why
 his name appeared on the note from "Lance" (which was really sent by
 /etc/cron of course).  I happen to know for certain than Phil is not
 "Lance".  Thank you.
-
------------------------------------------------------------------
-

@@ -72,6 +72,3 @@ das@ucla-cs.UUCP
 strick@gatech.CSNET (henry strickland)
 10/29/85
 (message was not found)
-
------------------------------------------------------------------
-

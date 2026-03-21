@@ -105,6 +105,3 @@ Keith
 -- 
 Keith Allan Shillington   telesoft!keith@SDCSVAX.ARPA   619/457-2700x388.ATT
 			  {ucbvax!sdcsvax,celerity,bang}!telesoft!keith.UUCP
-
------------------------------------------------------------------
-

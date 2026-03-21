@@ -81,6 +81,3 @@ Bill Cattey
 wdc%mit-eddie@mit-mc
 wcattey@bbnf
 ...decvax!genrad!mit-eddie!wdc
-
------------------------------------------------------------------
-

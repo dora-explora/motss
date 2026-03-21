@@ -16,6 +16,3 @@ enough.  Any such articles should be directed to /dev/null.
 
 --johnc
 ... ( cornell, linus, decvax ) ! dartvax ! johnc
-
------------------------------------------------------------------
-

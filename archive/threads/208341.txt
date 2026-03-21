@@ -32,6 +32,3 @@ board on the system; here's how to access it:
 
 
 					rich braun (RKB@MIT-MC)
-
------------------------------------------------------------------
-

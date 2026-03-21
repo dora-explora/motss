@@ -135,6 +135,3 @@ flame.
 stephen@dcl-cs.UUCP (Stephen J. Muir)
 11/26/85
 (message was not found)
-
------------------------------------------------------------------
-

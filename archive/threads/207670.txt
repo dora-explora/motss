@@ -30,6 +30,3 @@ But seriously,
                 Software Development Group, U. of Waterloo
                 Waterloo, Ontario, Canada.  N2L 3G1
                 {clyde,utzoo}!watnot!watmath!water!watbun!kgdykes
-
------------------------------------------------------------------
-

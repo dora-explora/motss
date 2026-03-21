@@ -107,6 +107,3 @@ an age to assume them.
 /Steve Dyer
 decvax!bbncca!sdyer
 sdyer@bbncca
-
------------------------------------------------------------------
-

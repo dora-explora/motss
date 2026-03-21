@@ -54,6 +54,3 @@ net.religion, or net.social, or net.flame.  There, I can turn them off!
 as ever,
 
 j.r.
-
------------------------------------------------------------------
-

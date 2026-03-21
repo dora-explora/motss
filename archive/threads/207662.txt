@@ -80,6 +80,3 @@ tim@cmu-cs-k.ARPA (Tim Maroney)
 roy@phri.UUCP (Roy Smith)
 04/01/85
 (message was not found)
-
------------------------------------------------------------------
-

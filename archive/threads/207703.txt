@@ -489,6 +489,3 @@ Fuck off Christian!
 -- 
 Richard A. Brower		Fortune Systems
 {ihnp4,ucbvax!amd,hpda,sri-unix,harpo}!fortune!brower
-
------------------------------------------------------------------
-

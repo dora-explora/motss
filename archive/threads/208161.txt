@@ -32,6 +32,3 @@ Paul says check it out.
 
 	-paul asente
 	    (decvax,ihnp4,ucbvax,...)!decwrl!asente
-
------------------------------------------------------------------
-

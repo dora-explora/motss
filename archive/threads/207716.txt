@@ -28,6 +28,3 @@ uucp:  ..mit-eddie!cybvax0!cci-bdc!larry
 arpa:  henrik@mit-mc.ARPA
 
 This mind intentionally left blank.
-
------------------------------------------------------------------
-

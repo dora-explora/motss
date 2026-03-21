@@ -139,6 +139,3 @@ about our history and our community.
 
 UUCP: decwrl!dec-rhea!dec-pneuma!mason
 ARPA: mason%pneuma.DEC@decwrl.ARPA
-
------------------------------------------------------------------
-

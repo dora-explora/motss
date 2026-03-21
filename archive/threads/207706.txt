@@ -31,6 +31,3 @@ control.
 				Rob Kolstad
 				Notesfile Director one hop up the line
 					from SMU
-
------------------------------------------------------------------
-

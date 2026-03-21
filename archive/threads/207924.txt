@@ -26,6 +26,3 @@ Paul DuBois		{allegra,ihnp4,seismo}!uwvax!uwmacc!dubois
 "Make me to go in the path of thy commandments; for therein
 do I delight."
 				Psalm 119:35
-
------------------------------------------------------------------
-

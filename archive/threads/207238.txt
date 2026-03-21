@@ -11,6 +11,3 @@ properly, as you would like to be addressed.
 
 Alan J Rosenthal
 {linus|decvax}!utzoo!utcs!flaps, {ihnp4|allegra}!cbosgd!utcs!flaps
-
------------------------------------------------------------------
-

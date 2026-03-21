@@ -37,6 +37,3 @@ rhb@usl.edu    and         rhb@pa.usl.edu          and      rhb@vm.usl.edu
 201 ERROR:
 File name ".signature" not found
 An error has occurred, please correct and re-compile.
-
------------------------------------------------------------------
-

@@ -39,6 +39,3 @@ unaware of a killed-virus trial going on at this time, however.)
 Rick Rutledge        {hoptoad|ucsfcca|claris}!wet!rick            rick@wet.UUCP
 "Who needs `rational` when your toes curl up?"
                                -Dr. Beverly Crusher, _Star Trek_
-
------------------------------------------------------------------
-

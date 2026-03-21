@@ -191,6 +191,3 @@ pucc-i.ag5@purdue.ARPA          |    pucc-i.ag5@purdue-mordred.CSNET
 jfw@mit-eddie.UUCP (John Woods)
 09/14/84
 (message was not found)
-
------------------------------------------------------------------
-

@@ -20,6 +20,3 @@ ARPA:
 jans@mako.UUCP (Jan Steinman)
 11/03/84
 (message was not found)
-
------------------------------------------------------------------
-

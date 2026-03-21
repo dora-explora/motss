@@ -104,6 +104,3 @@ ___
 /Steve Dyer
 {decvax,ihnp4,ima,wjh12,linus}!bbncca!sdyer
 sdyer@bbncca.ARPA
-
------------------------------------------------------------------
-

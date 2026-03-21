@@ -54,6 +54,3 @@ who are such assholes.
 
 Richard Brower		Fortune Systems
 {ihnp4,ucbvax!amd,hpda,sri-unix,harpo}!fortune!brower
-
------------------------------------------------------------------
-

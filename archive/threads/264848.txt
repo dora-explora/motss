@@ -104,6 +104,3 @@ pesticide would be approved unless it met this critera.  Is this incorrect?
 						mat, or to mtx5a!mtx5b!mat)
 					(mtx5b!mole-end!mat will also reach me)
     ,..      .,,       ,,,   ..,***_*.
-
------------------------------------------------------------------
-

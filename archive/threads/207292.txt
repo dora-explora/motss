@@ -42,6 +42,3 @@ subscription info! Your libraries should have us too!
       - Ken Dykes
         Software Development Group, U. of Waterloo, Ontario, Canada
         {ihnp4,decvax,allegra,utzoo}!watmath!watbun!kgdykes
-
------------------------------------------------------------------
-

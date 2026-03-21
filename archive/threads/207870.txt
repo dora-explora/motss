@@ -48,6 +48,3 @@ messages.
 
 Follow-up only in net.news.group, please.  -- David Booth
 {sdcrdcf,ihnp4,trwspp,ucbvax}!ucla-cs!booth    booth@ucla-locus.ARPA
-
------------------------------------------------------------------
-

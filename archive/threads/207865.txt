@@ -55,6 +55,3 @@ Gordon A. Moffett			...!{ihnp4,hplabs,amd,nsc}!amdahl!gam
 saquigley@watmath.UUCP (Sophie Quigley)
 10/23/84
 (message was not found)
-
------------------------------------------------------------------
-

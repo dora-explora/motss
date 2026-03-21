@@ -40,6 +40,3 @@ Network: decvax!cca!heiser
  
 USPS: Bill Heiser, Kendall Sq. PO, Box 891, Cambridge, MA   02142
  
-
------------------------------------------------------------------
-

@@ -112,6 +112,3 @@ Karen Pickens			Institute for Cognitive Science
 ARPA: <pickens@nprdc.ARPA>	La Jolla, CA  92093  U.S.A.
 UUCP: {ucbvax,sdcrdcf,decvax,ihnp4}!sdcsvax!sdcsla!pickens 
 		OR ulysses!sdcsla!pickens
-
------------------------------------------------------------------
-

@@ -21,13 +21,14 @@ const (
 )
 
 func (m model) Init() tea.Cmd {
-	return loadDirectory
+	return loadInit
 }
 
 func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
     switch msg := msg.(type) {
-    	case dirMsg:
-    	m.threads = processDirectory(string(msg))
+    	case initMsg:
+    	m.threads = processDirectory(msg[0])
+     	m.intro = msg[1]
 
      	case threadMsg:
       	m.thread = string(msg)
@@ -37,47 +38,51 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
         m.height = msg.Height
 
     	case tea.KeyPressMsg:
-        switch msg.String() {
-        	case "ctrl+c", "q":
-         	return m, tea.Quit
+     	if m.intro != "" {
+      		m.intro = ""
+      	} else {
+       		switch msg.String() {
+        		case "q", "esc", "ctrl+c":
+         		return m, tea.Quit
 
-           	case "up", "k":
-            if m.open {
-            	if m.openscroll > 0 {
-             		m.openscroll--
-             	}
-            } else {
-           		if m.cursor > 0 {
-               		m.cursor--
-                 	if m.cursor == m.closedscroll - 1 {
-                  		m.closedscroll--
-                  	}
-           		}
-            }
+           		case "up", "k", "w":
+            	if m.open {
+            		if m.openscroll > 0 {
+             			m.openscroll--
+             		}
+            	} else {
+           			if m.cursor > 0 {
+               			m.cursor--
+                 		if m.cursor == m.closedscroll - 1 {
+                  			m.closedscroll--
+                  		}
+           			}
+            	}
 
-           	case "down", "j":
-            if m.open {
-            	if m.openscroll < len(strings.Split(m.thread, "\n")) - m.height {
-             		m.openscroll++
-             	}
-            } else {
-           		if m.cursor < len(m.threads) - 1 {
-          			m.cursor++
-             		if m.cursor == m.closedscroll + m.height {
-               			m.closedscroll++
-               		}
-           		}
-        	}
+           		case "down", "j", "S":
+            	if m.open {
+            		if m.openscroll < len(strings.Split(m.thread, "\n")) - m.height {
+             			m.openscroll++
+             		}
+            	} else {
+           			if m.cursor < len(m.threads) - 1 {
+          				m.cursor++
+             			if m.cursor == m.closedscroll + m.height {
+               				m.closedscroll++
+               			}
+           			}
+        		}
 
-           	case "space", "enter", "l":
-            if m.open != true {
-            	m.open = true
-             	m.openscroll = 0
-            	return m, loadThread(m.threads[m.cursor].id)
-            }
+           		case "right", "l", "d":
+            	if m.open != true {
+            		m.open = true
+             		m.openscroll = 0
+            		return m, loadThread(m.threads[m.cursor].id)
+            	}
 
-            case "esc", "backspace", "h":
-            m.open = false
+            	case "left", "h", "a":
+            	m.open = false
+         	}
         }
     }
 
@@ -87,7 +92,18 @@ func (m model) Update(msg tea.Msg) (tea.Model, tea.Cmd) {
 func (m model) View() tea.View {
     s := ""
 
-    if !m.open {
+    if m.intro != "" {
+    	lines := strings.Split(m.intro, "\n")
+     	for i, line := range lines {
+      		color := Reset + Green
+        	if i == 9 {
+         		color = Yellow + Bold
+         	} else if i > 18 {
+          		color = Cyan
+          	}
+        	s += color + line + "\n"
+      	}
+    } else if !m.open {
     	for i, thread := range m.threads {
      		if i < m.closedscroll { continue }
        		if i > m.closedscroll + m.height - 1 { continue }

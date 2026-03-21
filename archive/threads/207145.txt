@@ -226,6 +226,3 @@ encyclopedia.  Both involve processes, not simply facts and opinions.
 						mat, or to mtx5a!mtx5b!mat)
 					(mtx5b!mole-end!mat will also reach me)
     ,..      .,,       ,,,   ..,***_*.
-
------------------------------------------------------------------
-

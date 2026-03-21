@@ -45,6 +45,3 @@ rational response.  Try starting out by not assuming that gayness is bad.
 Don Sharp.
 ...{ucbvax,decvax}!decwrl!dec-rhea!dec-farmer!sharp
 ...sharp%farmer.DEC@decwrl.ARPA
-
------------------------------------------------------------------
-

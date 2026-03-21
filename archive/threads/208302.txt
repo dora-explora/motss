@@ -162,6 +162,3 @@ ps.  as always, questions/comments/criticisms are welcome (most of the time).
 -- 
 Barry Evans   {decvax,linus}!wivax!evans
               Wang Institute (617) 649-9731 x383
-
------------------------------------------------------------------
-

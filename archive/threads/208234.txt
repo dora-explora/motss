@@ -44,6 +44,3 @@ but certainly impractical!
 -- 
 {ucbvax!hplabs | allegra!nbires | decvax!kpno | harpo!seismo | ihnp4!kpno}
        		        !hao!woods
-
------------------------------------------------------------------
-

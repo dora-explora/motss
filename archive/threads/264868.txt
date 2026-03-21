@@ -42,6 +42,3 @@ extent not comprehensible by a mere human mind.
 -- 
 Keith Allan Shillington   telesoft!keith@UCSD.ARPA      619/457-2700x388.ATT
 			  {ucbvax!sdcsvax,celerity,bang}!telesoft!keith.UUCP
-
------------------------------------------------------------------
-

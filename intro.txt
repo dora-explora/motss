@@ -1,0 +1,25 @@
+███╗   ███╗ ██████╗ ████████╗███████╗███████╗   An SSH app and archive
+████╗ ████║██╔═══██╗╚══██╔══╝██╔════╝██╔════╝   of the net.motss and  
+██╔████╔██║██║   ██║   ██║   ███████╗███████╗   soc.motss newsgroups! 
+██║╚██╔╝██║██║   ██║   ██║   ╚════██║╚════██║                         
+██║ ╚═╝ ██║╚██████╔╝   ██║   ███████║███████║   Press any key to read.
+╚═╝     ╚═╝ ╚═════╝    ╚═╝   ╚══════╝╚══════╝                         
+                                                                      
+                          Welcome to MOTSS!                           
+           This is an archive of two old USENET newsgroups:           
+                        net.motss & soc.motss                         
+          where "motss" stands for members of the same sex.           
+                                                                      
+   These groups were an awesome piece of early nerdy queer history!   
+   Unfortunately, the archives aren't as easy to access today, and    
+   there's almost none that are simple text files and not webpages.   
+   So, I made this app to act as an archive of 1366 of the threads    
+       in these groups from 1983 - 1991, all for you to enjoy!        
+                              Have fun!!                              
+                                                                      
+                              Controls:                               
+           Up and Down for selecting or scrolling threads.            
+             Right to open a thread and Left to close it.             
+                 (These work for WASD and HJKL too.)                  
+         `q`, Escape, or Ctrl+C at any time to exit the app.          
+                   Press any key to start reading.                    

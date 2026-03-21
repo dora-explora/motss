@@ -38,6 +38,3 @@ of) sin?
 -- 
 Anything's possible, but only a few things actually happen.
 					Rich Rosen    pyuxd!rlr
-
------------------------------------------------------------------
-

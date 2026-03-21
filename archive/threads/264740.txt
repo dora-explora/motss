@@ -496,6 +496,3 @@ Colin
   Manchester Computing Centre     | ARPA:  dente@els.ee.man.ac.uk
   University of Manchester, UK    | UUCP:  ...!mcsun!ukc!manchester!dente
                  ... I am the one you warned me of ...
-
------------------------------------------------------------------
-

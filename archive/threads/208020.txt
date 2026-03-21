@@ -216,6 +216,3 @@ comment on it?  Mail responses, or post them.
    msimpson@bbn-unix (ARPA)
    {decvax,ihnp4,ima,linus,wjh12}!bbncca!msimpson (Usenet)
    617-497-2819 (Ma Bell)
-
------------------------------------------------------------------
-

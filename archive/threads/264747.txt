@@ -60,6 +60,3 @@ Vote Mechanics:	In accordance with the usenet guidelines, voting
 
 	There is an autoreply demon setup for this mailbox, so, if you
 	do not get an ack, try again or watch for the weekly mass acks.
-
------------------------------------------------------------------
-

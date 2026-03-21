@@ -37,6 +37,3 @@ the closet.
 as ever,
 
 j.r.              {allegra,seismo}!rochester!ritcv!jrc
-
------------------------------------------------------------------
-

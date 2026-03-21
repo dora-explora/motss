@@ -67,6 +67,3 @@ inaccurate. Their logical is frequently circular, and normally the ommission
 of facts is what makes their case.
 
 					-- Chris.
-
------------------------------------------------------------------
-

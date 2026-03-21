@@ -82,6 +82,3 @@ CSNET:  richard%apple@CSNET-RELAY
 ARPA:   richard@apple.ARPA
 
 You begin to see the value of your freedom.
-
------------------------------------------------------------------
-

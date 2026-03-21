@@ -30,6 +30,3 @@ housing or real estate transactions, education, and other opportunities.
 Don Sharp
 ARPA:	SHARP%FARMER.DEC@DECWRL.ARPA
 Usenet:	{allegra|decvax|ihnp4|ucbvax}!decwrl!dec-rhea!dec-farmer!sharp
-
------------------------------------------------------------------
-

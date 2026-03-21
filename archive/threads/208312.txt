@@ -256,6 +256,3 @@ like this.  How much more forgiving he must be then.
 					- Speaker-To-Stuffed-Animals
 					speaker@umcp-cs
 					speaker.umcp-cs@CSnet-Relay
-
------------------------------------------------------------------
-

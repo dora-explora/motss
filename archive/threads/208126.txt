@@ -89,6 +89,3 @@ and heterosexuality is assumed to be the only normal mode of behavior.
 /Steve Dyer
 {decvax,linus,ima}!bbncca!sdyer
 sdyer@bbncca.ARPA
-
------------------------------------------------------------------
-

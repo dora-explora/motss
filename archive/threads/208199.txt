@@ -29,6 +29,3 @@ sent to the following address:
 
 --- Prentiss Riddle ("Aprendiz de todo, maestro de nada.")
 --- {ihnp4,seismo,ctvax}!ut-sally!riddle
-
------------------------------------------------------------------
-

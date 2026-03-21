@@ -20,6 +20,3 @@ fudge factors till the data fits.
 (ARPA)		conran%roll.DEC@decwrl.ARPA
 		conran%roll.DEC@Purdue-Merlin.ARPA
 			
-
------------------------------------------------------------------
-

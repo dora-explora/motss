@@ -70,6 +70,3 @@ hplabs!hpda!on
 none of this reflects anything official from Hewlett Packard and I reserve the
 right to change my own mind as I choose.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
------------------------------------------------------------------
-

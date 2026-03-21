@@ -50,6 +50,3 @@ interested parties.
 |  gerber@mit-amt.MIT.EDU, gerber@mit-mc.lcs.mit.edu, gerber@athena.mit.edu   |
 |  UUCP: decvax!mit-eddie!mit-amt!gerber   decvax!mit-eddie!mit-athena!gerber |
 +-----------------------------------------------------------------------------+
-
------------------------------------------------------------------
-

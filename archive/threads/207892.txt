@@ -62,6 +62,3 @@ is immoral and a waste of resources, human and otherwise.
 /Steve Dyer
 {decvax,linus,ima,ihnp4}!bbncca!sdyer
 sdyer@bbncca.ARPA
-
------------------------------------------------------------------
-

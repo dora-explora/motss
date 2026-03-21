@@ -24,6 +24,3 @@ dxm@lanl.UUCP
 ....!ihnp4!lanl!dxm
 US Mail 
 Los Alamos National Laboratory,  P.O.B 1663 MS J960,  Los Alamos, NM 87545
-
------------------------------------------------------------------
-

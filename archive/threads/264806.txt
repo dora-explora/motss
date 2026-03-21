@@ -9,6 +9,3 @@ this will stop trying for the attention.
 
 
 Mikki Barry
-
------------------------------------------------------------------
-

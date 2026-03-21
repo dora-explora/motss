@@ -90,6 +90,3 @@ USENET:		{cmcl2,decvax,ihnp4}!cornell!lasspvax!gtaylor
 ARPANET:	gtaylor@lasspvax.arpa
 BITNET:		gtaylor@crnlthry.bitnet
 ________________________________________________________________________________
-
------------------------------------------------------------------
-

@@ -75,6 +75,3 @@ I would be interested in talking to specific people about the event.
 -- 
 					Jeff Baron
 					{allegra,genrad,ucbvax}!harvard!baron
-
------------------------------------------------------------------
-

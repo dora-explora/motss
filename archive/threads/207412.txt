@@ -30,6 +30,3 @@ not post AIDS-related messages to that group in future.
 -- 
 Oded Feingold     MIT AI Lab.   545 Tech Square    Cambridge, Mass. 02139
 OAF%OZ@MIT-MC.ARPA   {harvard, ihnp4!mit-eddie}!mitvax!oaf   617-253-8598
-
------------------------------------------------------------------
-

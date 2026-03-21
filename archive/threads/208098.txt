@@ -14,6 +14,3 @@ he is bordering on insult.
 Gordon A. Moffett
 
 { hplabs!nsc, decvax!sun!amd, ihnp4!dual } !proper!gam
-
------------------------------------------------------------------
-

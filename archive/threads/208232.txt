@@ -50,6 +50,3 @@ through open discussion, so let's go to it.
 			   msimpson@bbn-unix (ARPA)
 			   {decvax,linus,wjh12}!bbncca!msimpson (Usenet)
 			   617-497-2819 (Ma Bell)
-
------------------------------------------------------------------
-

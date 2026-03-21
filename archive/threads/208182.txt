@@ -56,6 +56,3 @@ and damaging "solutions".
 
 Richard Brower		Fortune Systems
 {ihnp4,ucbvax!amd70,hpda,sri-unix,harpo}!fortune!brower
-
------------------------------------------------------------------
-
