@@ -18,16 +18,21 @@ import (
 	"github.com/charmbracelet/ssh"
 )
 
-const (
-	host = "localhost"
-	port = "1234"
-)
+const host = "localhost"
 
 func main() {
-	if argc := len(os.Args); argc == 1 {
+	argc := len(os.Args)
+	if argc == 1 {
 		tuimain();
-	} else if argc == 2 && os.Args[1] == "ssh" {
-		sshmain();
+	} else if os.Args[1] == "ssh" {
+		if argc == 2 {
+			sshmain("8000")
+		} else if argc == 3 {
+			sshmain(os.Args[2])
+		} else {
+			fmt.Println("Incorrect usage: go run . ssh [port]")
+			os.Exit(1);
+		}
 	} else {
 		fmt.Println("Incorrect usage: go run . [ssh]")
 		os.Exit(1)
@@ -43,7 +48,7 @@ func tuimain() {
 	}
 }
 
-func sshmain() { // thank you Wish example code
+func sshmain(port string) { // thank you Wish example code
 	s, err := wish.NewServer(
 		wish.WithAddress(net.JoinHostPort(host, port)),
 		wish.WithHostKeyPath(".ssh/id_ed25519"),
