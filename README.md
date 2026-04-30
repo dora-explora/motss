@@ -8,7 +8,7 @@ An authentic way to experience early nerdy queer history!
 
 ## Installation and Usage
 
-On any operating system, you can use the SSH app by opening a terminal and entering `ssh -p 25697 2.tcp.us-cal-1.ngrok.io`. Then type `yes`, press enter, and you're in!
+On any operating system, you can use the SSH app by opening a terminal and entering `ssh -J motss@ssh-j.com pizero2w -p 8000`. Then type `yes`, press enter, and you're in!
 
 If you want less lag or a local version of the archive, you can run the app locally. For Windows and Linux, there are downloadable versions in the Release page. Otherwise, you can clone the repo, install Go, and run `go run .` in the repository.
 
